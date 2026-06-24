@@ -80,10 +80,10 @@ const window_news_data = [
     "categoria": "Legislación"
   },
   {
-    "titulo": "Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral - NR | Periodismo alternativo",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5\" target=\"_blank\">Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NR | Periodismo alternativo</font>",
-    "fecha": "2026-06-20T05:00:08Z",
+    "titulo": "Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales - Forbes España",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5\" target=\"_blank\">Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
+    "fecha": "2026-06-18T11:09:23Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación"
   },
@@ -92,14 +92,6 @@ const window_news_data = [
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5\" target=\"_blank\">Los bomberos forestales se manifestarán frente al Ministerio de Trabajo para exigir responsabilidades \"antes de que haya que lamentar otra tragedia\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Servicios Emergencia</font>",
     "fecha": "2026-06-24T10:38:00Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación"
-  },
-  {
-    "titulo": "Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales - Forbes España",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5\" target=\"_blank\">Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
-    "fecha": "2026-06-18T11:09:23Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación"
   },
@@ -120,6 +112,14 @@ const window_news_data = [
     "categoria": "Legislación"
   },
   {
+    "titulo": "PORTUGAL. Tras dos huelgas generales, el Parlamento dijo no a la reforma laboral propuesta por el Gobierno - insurgente.org",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0hDMzFiR2pSTk5ybTFDRW8zaEY2VVlpT1hQQnZ2QmQwZzVDMXMxQUlLbldPUmpWZWJIRWU1NkJ5alJWVjBPbC1manR2MnljSXZWWkxMUlRUT3FMcE9Bd2hNUldrR1J6cmU4cnF6QWZ0WThtZ0Nrb3dKNEIzRXpnY3dyNnI2MlM3dzFaNUhsWnV6ODVrMU1HSWJMTXBRdGJDSlhlMU5iWGotN3htbHRVQS1BSXZObnBsbHRrSllmbzluNDdVZHBV?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0hDMzFiR2pSTk5ybTFDRW8zaEY2VVlpT1hQQnZ2QmQwZzVDMXMxQUlLbldPUmpWZWJIRWU1NkJ5alJWVjBPbC1manR2MnljSXZWWkxMUlRUT3FMcE9Bd2hNUldrR1J6cmU4cnF6QWZ0WThtZ0Nrb3dKNEIzRXpnY3dyNnI2MlM3dzFaNUhsWnV6ODVrMU1HSWJMTXBRdGJDSlhlMU5iWGotN3htbHRVQS1BSXZObnBsbHRrSllmbzluNDdVZHBV?oc=5\" target=\"_blank\">PORTUGAL. Tras dos huelgas generales, el Parlamento dijo no a la reforma laboral propuesta por el Gobierno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insurgente.org</font>",
+    "fecha": "2026-06-23T12:10:48Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación"
+  },
+  {
     "titulo": "Finaliza el programa 'Jóvenes Gestores de Recursos Humanos' del que han formado parte quince personas realizando prácticas profesionales durante un año en el consistorio - ayto-aljaraque.es",
     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPS01fcUNUaFpQa2dUSHNCX3h4Y09uT3F0aVF1LUtHVUhfeUVDREhLbXpxZ3psNlJqalZpOXUyNVZSSF9KWjJRaEg0bUc1LThLMGtfMkZHUlhFT041X3FmeVNhYzhaNGxyamR5eF9FNG9zZEhpeUpWdm90TmpIdEVsc1pzT2x5bWd2SFdrbkY0YWttOTJGMjBSSExNaFlzazlXdkJ1V1dPcG9sRzY3dmtmNFJ3MV81TDh5bzJObzItb0RQNks4QkRQVDJnc3pyTUYyanJ4UnRDOUw2S3dmd3ZhLUZfU2hLaFRjTVB0NGRVNUZmTkFpN003Q09CM0w1a0tyVGVqOWFqSHpKRFRWN2xkYVNLWnlTc0o3MFY3Mk1uQmVXYXYxS2pZR3RVdGpBbkVoYTZ4Q285M1dhNW1JVDdIVndvMzdFUnhZeXNwR1h6ekFOVzZUb1J0YmhvQ0hBdG8xNTg1alFCZw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPS01fcUNUaFpQa2dUSHNCX3h4Y09uT3F0aVF1LUtHVUhfeUVDREhLbXpxZ3psNlJqalZpOXUyNVZSSF9KWjJRaEg0bUc1LThLMGtfMkZHUlhFT041X3FmeVNhYzhaNGxyamR5eF9FNG9zZEhpeUpWdm90TmpIdEVsc1pzT2x5bWd2SFdrbkY0YWttOTJGMjBSSExNaFlzazlXdkJ1V1dPcG9sRzY3dmtmNFJ3MV81TDh5bzJObzItb0RQNks4QkRQVDJnc3pyTUYyanJ4UnRDOUw2S3dmd3ZhLUZfU2hLaFRjTVB0NGRVNUZmTkFpN003Q09CM0w1a0tyVGVqOWFqSHpKRFRWN2xkYVNLWnlTc0o3MFY3Mk1uQmVXYXYxS2pZR3RVdGpBbkVoYTZ4Q285M1dhNW1JVDdIVndvMzdFUnhZeXNwR1h6ekFOVzZUb1J0YmhvQ0hBdG8xNTg1alFCZw?oc=5\" target=\"_blank\">Finaliza el programa 'Jóvenes Gestores de Recursos Humanos' del que han formado parte quince personas realizando prácticas profesionales durante un año en el consistorio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ayto-aljaraque.es</font>",
@@ -132,14 +132,6 @@ const window_news_data = [
     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaVpnWjh2RE9VemdMVXVGTmhxOXkyTG4tbzRYSXNRVndmMGZWWllmcFlqeS1VM19BOFNrekJjUnd3R2I5TV81Nkw1U0xkek0wT1BwaVZaV3ZEamNBUWVpZUtxeEMwU2tvaC1VQXpOQ212NlpYUDNnSURYMUNmS29kX1hPVWpDZkl6M3F2Z2tOZGxPZVFHN2U5MTVuVlFXazBEREV5S2ZHRUg4N1JTUEJ4N2h3dEc1Vm9EaGExcGJFQ0lCS3Y4MDlLb2x2NzR5amU0NC1FNGJ3TXhjZDItbnNaZUMxZkNDZk1iU2JUZFdjRlM0blBnWnlnV3dCeWJjd0RaOTRHQ00wSWdnakUtUTQ2ZGtpOEZYQQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPaVpnWjh2RE9VemdMVXVGTmhxOXkyTG4tbzRYSXNRVndmMGZWWllmcFlqeS1VM19BOFNrekJjUnd3R2I5TV81Nkw1U0xkek0wT1BwaVZaV3ZEamNBUWVpZUtxeEMwU2tvaC1VQXpOQ212NlpYUDNnSURYMUNmS29kX1hPVWpDZkl6M3F2Z2tOZGxPZVFHN2U5MTVuVlFXazBEREV5S2ZHRUg4N1JTUEJ4N2h3dEc1Vm9EaGExcGJFQ0lCS3Y4MDlLb2x2NzR5amU0NC1FNGJ3TXhjZDItbnNaZUMxZkNDZk1iU2JUZFdjRlM0blBnWnlnV3dCeWJjd0RaOTRHQ00wSWdnakUtUTQ2ZGtpOEZYQQ?oc=5\" target=\"_blank\">XVI Conferencia Científica de Investigación en Psicología de Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uv.es</font>",
     "fecha": "2026-06-23T12:28:43Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado"
-  },
-  {
-    "titulo": "Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas - Huelva Buenas Noticias",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5\" target=\"_blank\">Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huelva Buenas Noticias</font>",
-    "fecha": "2026-06-18T12:23:06Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
@@ -200,18 +192,18 @@ const window_news_data = [
     "categoria": "Mercado"
   },
   {
-    "titulo": "Iberdrola sustituye a su jefe de Recursos Humanos en plena huelga por el convenio - CapitalMadrid",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RfRXNOd0NxX3NIRldBUGdfN1lSMzlwNXZmdGdHNWR2M0N2WUtCV0VrekVPeV9Xcnh1dzFKWGhURTc4VmFnbzUyNy1DODVnWklqXzczTEZtem51dEVnTUVOV3lZampxRi1QZ2F0dUg5Zjl2RzJ0VkdJVGVMaUdqd2xLV296Rlo5TzZ5eFY4R2RKaDBkUF9RUjRrdXhFTkZWOHlKQmdxSkkzVktxYW15S3dpaWhzWDFQaVFFNThxZHFTcjVuU3pRM3R0MnM?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RfRXNOd0NxX3NIRldBUGdfN1lSMzlwNXZmdGdHNWR2M0N2WUtCV0VrekVPeV9Xcnh1dzFKWGhURTc4VmFnbzUyNy1DODVnWklqXzczTEZtem51dEVnTUVOV3lZampxRi1QZ2F0dUg5Zjl2RzJ0VkdJVGVMaUdqd2xLV296Rlo5TzZ5eFY4R2RKaDBkUF9RUjRrdXhFTkZWOHlKQmdxSkkzVktxYW15S3dpaWhzWDFQaVFFNThxZHFTcjVuU3pRM3R0MnM?oc=5\" target=\"_blank\">Iberdrola sustituye a su jefe de Recursos Humanos en plena huelga por el convenio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CapitalMadrid</font>",
-    "fecha": "2026-06-19T18:06:33Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado"
-  },
-  {
     "titulo": "ASPE mantendrá una agenda activa con Sanidad sobre recursos humanos y reclama soluciones alejadas de la ideología - Infosalus",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVBOai1aOHZ2OEJlSVd5Z2JhN21KU3NEa250eDN6dXZGSF9OQ3pmSEJXUXZlaHE0ZXg3VnlJWk1aQXV2VVpCTHRVVHRkV2VfaE92dUtiNUN6OGtSUmR3ZjktV3RYQ3U2WXU0V1ZfWHRIdmVrdGlFM0pGbm1IZmFVb1BNN2lPNmJJazhyZjhvT2F6eG9kMGJEaE1FMG5VVUZoMEY2V0RnYUZxRjh0ZXFWclotZFBkRGxuX2p5TG9IYXNUYUMwNXJJSmw1amU4akJKbkh5M1pMeW1kZFNVUVk5VF95SlhibUhZOW1XTQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVBOai1aOHZ2OEJlSVd5Z2JhN21KU3NEa250eDN6dXZGSF9OQ3pmSEJXUXZlaHE0ZXg3VnlJWk1aQXV2VVpCTHRVVHRkV2VfaE92dUtiNUN6OGtSUmR3ZjktV3RYQ3U2WXU0V1ZfWHRIdmVrdGlFM0pGbm1IZmFVb1BNN2lPNmJJazhyZjhvT2F6eG9kMGJEaE1FMG5VVUZoMEY2V0RnYUZxRjh0ZXFWclotZFBkRGxuX2p5TG9IYXNUYUMwNXJJSmw1amU4akJKbkh5M1pMeW1kZFNVUVk5VF95SlhibUhZOW1XTQ?oc=5\" target=\"_blank\">ASPE mantendrá una agenda activa con Sanidad sobre recursos humanos y reclama soluciones alejadas de la ideología</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infosalus</font>",
     "fecha": "2026-06-23T10:35:36Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado"
+  },
+  {
+    "titulo": "Iberdrola sustituye a su jefe de Recursos Humanos en plena huelga por el convenio - CapitalMadrid",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RfRXNOd0NxX3NIRldBUGdfN1lSMzlwNXZmdGdHNWR2M0N2WUtCV0VrekVPeV9Xcnh1dzFKWGhURTc4VmFnbzUyNy1DODVnWklqXzczTEZtem51dEVnTUVOV3lZampxRi1QZ2F0dUg5Zjl2RzJ0VkdJVGVMaUdqd2xLV296Rlo5TzZ5eFY4R2RKaDBkUF9RUjRrdXhFTkZWOHlKQmdxSkkzVktxYW15S3dpaWhzWDFQaVFFNThxZHFTcjVuU3pRM3R0MnM?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RfRXNOd0NxX3NIRldBUGdfN1lSMzlwNXZmdGdHNWR2M0N2WUtCV0VrekVPeV9Xcnh1dzFKWGhURTc4VmFnbzUyNy1DODVnWklqXzczTEZtem51dEVnTUVOV3lZampxRi1QZ2F0dUg5Zjl2RzJ0VkdJVGVMaUdqd2xLV296Rlo5TzZ5eFY4R2RKaDBkUF9RUjRrdXhFTkZWOHlKQmdxSkkzVktxYW15S3dpaWhzWDFQaVFFNThxZHFTcjVuU3pRM3R0MnM?oc=5\" target=\"_blank\">Iberdrola sustituye a su jefe de Recursos Humanos en plena huelga por el convenio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CapitalMadrid</font>",
+    "fecha": "2026-06-19T18:06:33Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
@@ -236,6 +228,14 @@ const window_news_data = [
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5\" target=\"_blank\">Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
     "fecha": "2026-06-22T14:20:26Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado"
+  },
+  {
+    "titulo": "2 de julio: IA, cultura y longevidad en el programa del Encuentro Foro Recursos Humanos Málaga - Foro Recursos Humanos",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcnVEU1AwSkdSYmhQV1hGYm9saS1lcmp6aG8xWVBUTGZDdU14ZVFYU09tbWlKNnE5TF9TUkRvWUpqOEh4MlZTb0JyeXlFRXd2YWVxTm92VS13LVBLZERiS3ZoSUZzNGtINU5EZ0FZdkNOV3I3bUE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcnVEU1AwSkdSYmhQV1hGYm9saS1lcmp6aG8xWVBUTGZDdU14ZVFYU09tbWlKNnE5TF9TUkRvWUpqOEh4MlZTb0JyeXlFRXd2YWVxTm92VS13LVBLZERiS3ZoSUZzNGtINU5EZ0FZdkNOV3I3bUE?oc=5\" target=\"_blank\">2 de julio: IA, cultura y longevidad en el programa del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
+    "fecha": "2026-06-19T12:58:15Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
