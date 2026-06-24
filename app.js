@@ -135,6 +135,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 hoverGlow = "hover:border-google-green/50 hover:shadow-google-green/10";
             }
 
+            let cardNlpTags = '';
+            if (item.empresa && item.empresa !== 'Desconocida') {
+                cardNlpTags += `<span class="inline-flex items-center px-2 py-1 rounded-md text-[10px] md:text-xs font-bold uppercase tracking-widest bg-slate-50 text-slate-500 border border-slate-200 mr-2 mb-2">🏢 ${item.empresa}</span>`;
+            }
+            if (item.ubicacion && item.ubicacion !== 'Nacional') {
+                cardNlpTags += `<span class="inline-flex items-center px-2 py-1 rounded-md text-[10px] md:text-xs font-bold uppercase tracking-widest bg-slate-50 text-slate-500 border border-slate-200 mr-2 mb-2">📍 ${item.ubicacion}</span>`;
+            }
+            let tagsHtml = cardNlpTags ? `<div class="flex flex-wrap mb-3 mt-[-4px] relative z-20 pointer-events-none">${cardNlpTags}</div>` : '';
+
             const card = document.createElement('article');
             card.className = `relative bg-white/80 backdrop-blur-md rounded-[2rem] p-6 md:p-8 border border-slate-200 transition-all duration-500 flex flex-col group overflow-hidden shadow-sm hover:shadow-xl ${hoverGlow}`;
             card.style.animation = `fadeInScale 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards ${index * 0.05}s`;
@@ -155,10 +164,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     
                     <h2 class="text-xl md:text-2xl font-bold text-slate-900 mb-4 leading-snug group-hover:text-google-blue transition-colors duration-300">
                         <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="focus:outline-none">
-                            <span class="absolute inset-0" aria-hidden="true"></span>
+                            <span class="absolute inset-0 z-10" aria-hidden="true"></span>
                             ${item.titulo}
                         </a>
                     </h2>
+                    
+                    ${tagsHtml}
                     
                     <p class="text-sm md:text-base text-slate-600 leading-relaxed mb-8 font-light">${cleanSummary}</p>
                     
