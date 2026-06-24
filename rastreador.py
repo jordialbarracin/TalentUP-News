@@ -16,37 +16,44 @@ q1 = urllib.parse.quote('intitle:"legislacion laboral" OR "reforma laboral" OR "
 q2 = urllib.parse.quote('"recursos humanos" OR "seleccion de personal" OR "captacion de talento" when:7d')
 q3 = urllib.parse.quote('"empresas de trabajo temporal" OR "ETT" OR Adecco OR Randstad OR Manpower OR Eurofirms when:7d')
 
-q4 = urllib.parse.quote('("abre nueva sede" OR "nuevo centro logístico" OR "nueva fábrica" OR "plan de expansión") AND ("empleo" OR "contratar" OR "plantilla") AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
-q5 = urllib.parse.quote('("ronda de financiación" OR "levantado capital" OR "ronda de inversión") AND (startup OR empresa) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
+# Consultas OSINT B2B (Señales HR Core)
+q_contratacion = urllib.parse.quote('("aumenta plantilla" OR "creará puestos de trabajo" OR "plan de contratación" OR "busca talento") AND (empresa OR compañía) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
+q_aperturas = urllib.parse.quote('("nuevo centro logístico" OR "nueva fábrica" OR "abre hotel" OR "inaugura centro") AND (personal OR plantilla OR empleo) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
+q_reestructuracion = urllib.parse.quote('("plantea un ERE" OR "despido colectivo" OR "reestructuración de plantilla") AND (empresa OR multinacional) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
 
 FUENTES = [
     {
         "nombre": "Novedades Legales (España)",
-        "url": f"https://news.google.com/rss/search?q={q1}&hl=es&gl=ES&ceid=ES:es",
+        "url": f"https://news.google.com/rss/search?q={q1}&hl=es-ES&gl=ES&ceid=ES:es",
         "categoria": "Legislación"
     },
     {
         "nombre": "Panorama Nacional RRHH",
-        "url": f"https://news.google.com/rss/search?q={q2}&hl=es&gl=ES&ceid=ES:es",
+        "url": f"https://news.google.com/rss/search?q={q2}&hl=es-ES&gl=ES&ceid=ES:es",
         "categoria": "Mercado"
     },
     {
         "nombre": "Actualidad ETTs",
-        "url": f"https://news.google.com/rss/search?q={q3}&hl=es&gl=ES&ceid=ES:es",
+        "url": f"https://news.google.com/rss/search?q={q3}&hl=es-ES&gl=ES&ceid=ES:es",
         "categoria": "ETTs"
     }
 ]
 
 FUENTES_LEADS = [
     {
-        "nombre": "Aperturas y Expansión",
-        "url": f"https://news.google.com/rss/search?q={q4}&hl=es&gl=ES&ceid=ES:es",
-        "categoria": "Expansión"
+        "nombre": "Contratación Directa",
+        "url": f"https://news.google.com/rss/search?q={q_contratacion}&hl=es-ES&gl=ES&ceid=ES:es",
+        "categoria": "Contratación"
     },
     {
-        "nombre": "Inyecciones de Capital",
-        "url": f"https://news.google.com/rss/search?q={q5}&hl=es&gl=ES&ceid=ES:es",
-        "categoria": "Inversión"
+        "nombre": "Nuevas Aperturas",
+        "url": f"https://news.google.com/rss/search?q={q_aperturas}&hl=es-ES&gl=ES&ceid=ES:es",
+        "categoria": "Aperturas"
+    },
+    {
+        "nombre": "Alertas de Reestructuración",
+        "url": f"https://news.google.com/rss/search?q={q_reestructuracion}&hl=es-ES&gl=ES&ceid=ES:es",
+        "categoria": "Reestructuración"
     }
 ]
 

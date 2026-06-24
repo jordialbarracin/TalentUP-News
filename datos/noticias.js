@@ -30,16 +30,6 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Chega deja tirado a Luís Montenegro, que ve fracasar su ambiciosa reforma laboral - La Voz de Galicia",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTduWEV5NW1ubUdJZEczZE9OMzViZ2szaXc1TExNQzI5aFNIV1pJdmRYU3RDLUN0dUhWS2p1WWF1cEp0NzVkbk5lWElnRWlLN2NxTzVCaTRyaDlKWWlUaHBXOFpxZENNaG02M1ctYjVRNjFwQXplSWJ4NWx1RHQyQlVLTXBZN2xRNzU3Q1dxenpKVGxGLWdQTkdpZml4NlhOeWRZT3hicENpODBpRXlLMFRPaDZoX1pMYnZpVFdZdGdXWXE1QmlPcGUycGR6N0pOOWhMS21ETWs4WkdGNU9CMHU0Yw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTduWEV5NW1ubUdJZEczZE9OMzViZ2szaXc1TExNQzI5aFNIV1pJdmRYU3RDLUN0dUhWS2p1WWF1cEp0NzVkbk5lWElnRWlLN2NxTzVCaTRyaDlKWWlUaHBXOFpxZENNaG02M1ctYjVRNjFwQXplSWJ4NWx1RHQyQlVLTXBZN2xRNzU3Q1dxenpKVGxGLWdQTkdpZml4NlhOeWRZT3hicENpODBpRXlLMFRPaDZoX1pMYnZpVFdZdGdXWXE1QmlPcGUycGR6N0pOOWhMS21ETWs4WkdGNU9CMHU0Yw?oc=5\" target=\"_blank\">Chega deja tirado a Luís Montenegro, que ve fracasar su ambiciosa reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
-    "fecha": "2026-06-20T03:00:36Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "La Voz de Galicia"
-  },
-  {
     "titulo": "El inesperado rechazo de la ultraderecha tumba la reforma laboral del Gobierno portugués - EFE - Agencia de noticias",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13TEg5SHNaSUhLbXV4clFDaE9xOUNxUFJEYjg3Z0dvamhuazlIX1djWU9jR0NRQ0hXOEExYzNmM21JaVNIeXVMUHRPenJscUJfX1lKak9GZVlrN21pcDRNMnI0VlRxeGE5OG4xWW10NncyRHhUUVBkQ1paYw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE13TEg5SHNaSUhLbXV4clFDaE9xOUNxUFJEYjg3Z0dvamhuazlIX1djWU9jR0NRQ0hXOEExYzNmM21JaVNIeXVMUHRPenJscUJfX1lKak9GZVlrN21pcDRNMnI0VlRxeGE5OG4xWW10NncyRHhUUVBkQ1paYw?oc=5\" target=\"_blank\">El inesperado rechazo de la ultraderecha tumba la reforma laboral del Gobierno portugués</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EFE - Agencia de noticias</font>",
@@ -48,6 +38,16 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "EFE",
     "ubicacion": "Gobierno portugués"
+  },
+  {
+    "titulo": "Chega deja tirado a Luís Montenegro, que ve fracasar su ambiciosa reforma laboral - La Voz de Galicia",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTduWEV5NW1ubUdJZEczZE9OMzViZ2szaXc1TExNQzI5aFNIV1pJdmRYU3RDLUN0dUhWS2p1WWF1cEp0NzVkbk5lWElnRWlLN2NxTzVCaTRyaDlKWWlUaHBXOFpxZENNaG02M1ctYjVRNjFwQXplSWJ4NWx1RHQyQlVLTXBZN2xRNzU3Q1dxenpKVGxGLWdQTkdpZml4NlhOeWRZT3hicENpODBpRXlLMFRPaDZoX1pMYnZpVFdZdGdXWXE1QmlPcGUycGR6N0pOOWhMS21ETWs4WkdGNU9CMHU0Yw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTduWEV5NW1ubUdJZEczZE9OMzViZ2szaXc1TExNQzI5aFNIV1pJdmRYU3RDLUN0dUhWS2p1WWF1cEp0NzVkbk5lWElnRWlLN2NxTzVCaTRyaDlKWWlUaHBXOFpxZENNaG02M1ctYjVRNjFwQXplSWJ4NWx1RHQyQlVLTXBZN2xRNzU3Q1dxenpKVGxGLWdQTkdpZml4NlhOeWRZT3hicENpODBpRXlLMFRPaDZoX1pMYnZpVFdZdGdXWXE1QmlPcGUycGR6N0pOOWhMS21ETWs4WkdGNU9CMHU0Yw?oc=5\" target=\"_blank\">Chega deja tirado a Luís Montenegro, que ve fracasar su ambiciosa reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
+    "fecha": "2026-06-20T03:00:36Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "La Voz de Galicia"
   },
   {
     "titulo": "Centenares de personas protestan en Lisboa contra el proyecto de reforma laboral propuesto por el Gobierno - ABC",
@@ -60,6 +60,16 @@ const window_news_data = [
     "ubicacion": "Lisboa"
   },
   {
+    "titulo": "Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso - Newtral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5\" target=\"_blank\">Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newtral</font>",
+    "fecha": "2026-06-18T10:14:11Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "PP",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "El Parlamento portugués tumba la reforma laboral de Luís Montenegro - Demócrata",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5\" target=\"_blank\">El Parlamento portugués tumba la reforma laboral de Luís Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demócrata</font>",
@@ -70,14 +80,14 @@ const window_news_data = [
     "ubicacion": "Parlamento"
   },
   {
-    "titulo": "Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso - Newtral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5\" target=\"_blank\">Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newtral</font>",
-    "fecha": "2026-06-18T10:14:11Z",
+    "titulo": "Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral - NR | Periodismo alternativo",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5\" target=\"_blank\">Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NR | Periodismo alternativo</font>",
+    "fecha": "2026-06-20T05:00:08Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
-    "empresa": "PP",
-    "ubicacion": "Nacional"
+    "empresa": "NR",
+    "ubicacion": "Periodismo"
   },
   {
     "titulo": "El Estatuto de los Trabajadores confirma en su artículo 38 qué sucede con los días de vacaciones no disfrutadas - Business Insider España",
@@ -90,6 +100,16 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
+    "titulo": "El Parlamento de Portugal rechaza la reforma laboral del primer ministro Luís Montenegro - Forbes España",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalFfcVBzOUVma0dGVlRBdVFQRnNvWV9JT0xGbTBNemZPMmY4TkxVSnB0X0NNS3EyVFpjVUNGb3IybmJWa0wzQmxJdUhYLWp3RzJndFA0UFBUV3JCNkV0SWlncGxmbVFVZG5JODlTeF9HbEV3RUhVZW1fcEQ3dG84UlB1WnBCbzc2OG0xQjFaVUl2anlFcVY2UVpmLVJjdnBxcUthejl4VEN3ZG8xTmJRVGpFVnFLYmg5T1NFZ1NTMnNaWnUz?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNalFfcVBzOUVma0dGVlRBdVFQRnNvWV9JT0xGbTBNemZPMmY4TkxVSnB0X0NNS3EyVFpjVUNGb3IybmJWa0wzQmxJdUhYLWp3RzJndFA0UFBUV3JCNkV0SWlncGxmbVFVZG5JODlTeF9HbEV3RUhVZW1fcEQ3dG84UlB1WnBCbzc2OG0xQjFaVUl2anlFcVY2UVpmLVJjdnBxcUthejl4VEN3ZG8xTmJRVGpFVnFLYmg5T1NFZ1NTMnNaWnUz?oc=5\" target=\"_blank\">El Parlamento de Portugal rechaza la reforma laboral del primer ministro Luís Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
+    "fecha": "2026-06-19T16:55:27Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Parlamento de Portugal"
+  },
+  {
     "titulo": "Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano - La Razón",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5\" target=\"_blank\">Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón</font>",
@@ -100,16 +120,6 @@ const window_news_data = [
     "ubicacion": "La Razón"
   },
   {
-    "titulo": "Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales - Forbes España",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5\" target=\"_blank\">Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
-    "fecha": "2026-06-18T11:09:23Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Banco de España"
-  },
-  {
     "titulo": "Los bomberos forestales se manifestarán frente al Ministerio de Trabajo para exigir responsabilidades \"antes de que haya que lamentar otra tragedia\" - Servicios Emergencia",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5\" target=\"_blank\">Los bomberos forestales se manifestarán frente al Ministerio de Trabajo para exigir responsabilidades \"antes de que haya que lamentar otra tragedia\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Servicios Emergencia</font>",
@@ -118,16 +128,6 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "Ministerio de Trabajo"
-  },
-  {
-    "titulo": "Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral - NR | Periodismo alternativo",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5\" target=\"_blank\">Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NR | Periodismo alternativo</font>",
-    "fecha": "2026-06-20T05:00:08Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "NR",
-    "ubicacion": "Periodismo"
   },
   {
     "titulo": "Confirmado por el Estatuto de los Trabajadores: si trabajas a tiempo parcial, las horas complementarias no se improvisan por Whatsapp - El Periódico de Aragón",

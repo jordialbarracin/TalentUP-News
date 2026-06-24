@@ -116,19 +116,22 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             } catch(e) {}
 
-            // Colores Neón Google I/O en modo claro
-            let badgeColor = "text-slate-600 bg-slate-100 border-slate-200";
+            let badgeColor = "text-slate-500 bg-slate-100 border-slate-200";
             let dotColor = "bg-slate-400";
-            let hoverGlow = "group-hover:border-slate-400";
+            let hoverGlow = "hover:border-slate-300 hover:shadow-slate-200/50";
             
-            if (item.categoria === "Expansión") {
+            if (item.categoria === "Contratación") {
                 badgeColor = "text-google-green bg-google-green/10 border-google-green/20";
                 dotColor = "bg-google-green";
                 hoverGlow = "hover:border-google-green/50 hover:shadow-google-green/10";
-            } else if (item.categoria === "Inversión") {
-                badgeColor = "text-google-yellow bg-google-yellow/10 border-google-yellow/20";
-                dotColor = "bg-google-yellow";
-                hoverGlow = "hover:border-google-yellow/50 hover:shadow-google-yellow/10";
+            } else if (item.categoria === "Aperturas") {
+                badgeColor = "text-google-blue bg-google-blue/10 border-google-blue/20";
+                dotColor = "bg-google-blue";
+                hoverGlow = "hover:border-google-blue/50 hover:shadow-google-blue/10";
+            } else if (item.categoria === "Reestructuración") {
+                badgeColor = "text-google-red bg-google-red/10 border-google-red/20";
+                dotColor = "bg-google-red";
+                hoverGlow = "hover:border-google-red/50 hover:shadow-google-red/10";
             }
 
             let cardNlpTags = '';
