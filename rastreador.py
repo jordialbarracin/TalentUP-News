@@ -17,9 +17,9 @@ q2 = urllib.parse.quote('"recursos humanos" OR "seleccion de personal" OR "capta
 q3 = urllib.parse.quote('"empresas de trabajo temporal" OR "ETT" OR Adecco OR Randstad OR Manpower OR Eurofirms when:7d')
 
 # Consultas OSINT B2B (Señales HR Core)
-q_contratacion = urllib.parse.quote('("aumenta plantilla" OR "creará puestos de trabajo" OR "plan de contratación" OR "busca talento") AND (empresa OR compañía) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
-q_aperturas = urllib.parse.quote('("nuevo centro logístico" OR "nueva fábrica" OR "abre hotel" OR "inaugura centro") AND (personal OR plantilla OR empleo) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
-q_reestructuracion = urllib.parse.quote('("plantea un ERE" OR "despido colectivo" OR "reestructuración de plantilla") AND (empresa OR multinacional) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
+q_contratacion = urllib.parse.quote('(contratará OR contrataciones OR "ofertas de empleo" OR "busca personal" OR "creará puestos" OR "amplía plantilla") when:14d')
+q_aperturas = urllib.parse.quote('("nuevo centro" OR "nueva fábrica" OR inaugura OR "nueva tienda" OR apertura) AND (plantilla OR trabajadores OR empleo) when:14d')
+q_reestructuracion = urllib.parse.quote('(ERE OR ERTE OR "despido colectivo" OR "recorte de plantilla") when:14d')
 
 FUENTES = [
     {

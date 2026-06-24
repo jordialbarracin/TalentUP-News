@@ -178,6 +178,7 @@
   },
   "active": "19ab9a82b9b705f8",
   "lastOpenFiles": [
+    "Historia_TalentUP/Hemeroteca/2026-06-24_22-53.md",
     "Historia_TalentUP/Hemeroteca/2026-06-24_22-49.md",
     "Historia_TalentUP/Hemeroteca/2026-06-24_22-47.md",
     "Historia_TalentUP/Hemeroteca/2026-06-24_20-37.md",
@@ -212,7 +213,6 @@
     "app.js",
     "estilos.css",
     "index.html",
-    "rastreador.py",
-    "00_Proyecto_Principal/implementation_plan.md"
+    "rastreador.py"
   ]
 }
