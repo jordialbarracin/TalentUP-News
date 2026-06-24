@@ -63,14 +63,16 @@
     </nav>
 
     <!-- Filtros Móvil -->
-    <div class="md:hidden fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50 w-[95%] max-w-md flex flex-col items-center gap-3 pointer-events-none">
-        <a href="leads.html" class="pointer-events-auto bg-google-blue text-white text-xs font-bold px-6 py-2.5 rounded-full shadow-lg flex items-center shadow-google-blue/20 active:scale-95 transition-transform">
-            🎯 Cambiar a Radar de Leads B2B
-        </a>
-        <div class="pointer-events-auto bg-white/90 backdrop-blur-xl border border-slate-200 rounded-[2rem] p-2 flex items-center space-x-2 shadow-2xl overflow-x-auto hide-scrollbar relative w-full">
-            <button class="filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100" data-categoria="Legislación">Leyes</button>
-            <button class="filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100" data-categoria="Mercado">Mercado</button>
-            <button class="filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100" data-categoria="ETTs">ETTs</button>
+    <div class="md:hidden fixed bottom-0 left-0 w-full z-50 flex flex-col pointer-events-none">
+        <div class="flex justify-center w-full mb-3">
+            <a href="leads.html" class="pointer-events-auto bg-google-blue text-white text-xs font-bold px-6 py-2.5 rounded-full shadow-lg flex items-center shadow-google-blue/20 active:scale-95 transition-transform">
+                🎯 Cambiar a Radar de Leads B2B
+            </a>
+        </div>
+        <div class="pointer-events-auto bg-white/95 backdrop-blur-xl border-t border-slate-200 p-2 flex justify-between items-center shadow-[0_-10px_30px_-15px_rgba(0,0,0,0.1)] w-full">
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-lg text-center mx-0.5" data-categoria="Legislación">Leyes</button>
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-lg text-center mx-0.5" data-categoria="Mercado">Mercado</button>
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-lg text-center mx-0.5" data-categoria="ETTs">ETTs</button>
         </div>
     </div>
 
