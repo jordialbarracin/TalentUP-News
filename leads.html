@@ -110,8 +110,42 @@
         </div>
     </main>
 
+    <!-- Modal Inmersivo -->
+    <div id="news-modal" class="fixed inset-0 z-[100] hidden flex items-center justify-center p-4 sm:p-6 opacity-0 transition-opacity duration-300">
+        <!-- Backdrop -->
+        <div id="modal-backdrop" class="absolute inset-0 bg-slate-900/40 backdrop-blur-md"></div>
+        
+        <!-- Modal Content -->
+        <div id="modal-content-box" class="relative bg-white/90 backdrop-blur-xl w-full max-w-3xl rounded-[2rem] shadow-2xl border border-white/50 overflow-hidden transform scale-95 transition-transform duration-300 flex flex-col max-h-[90vh]">
+            <!-- Header (Close button) -->
+            <div class="flex justify-end p-4 border-b border-slate-100/50">
+                <button id="close-modal" class="p-2 rounded-full bg-slate-100 text-slate-500 hover:bg-slate-200 hover:text-slate-800 transition-colors">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            </div>
+            
+            <!-- Body -->
+            <div class="p-6 md:p-10 overflow-y-auto hide-scrollbar flex-1">
+                <div class="flex justify-between items-center mb-6" id="modal-meta"></div>
+                <h2 id="modal-title" class="text-2xl md:text-3xl font-extrabold text-slate-900 mb-6 leading-tight"></h2>
+                <div id="modal-tags" class="flex flex-wrap mb-6"></div>
+                <p id="modal-summary" class="text-base md:text-lg text-slate-600 leading-relaxed font-light"></p>
+            </div>
+            
+            <!-- Footer -->
+            <div class="p-6 md:p-8 bg-slate-50/50 border-t border-slate-100 flex flex-col sm:flex-row justify-between items-center">
+                <div class="flex items-center text-slate-500 mb-4 sm:mb-0">
+                    <span id="modal-source" class="font-mono text-sm uppercase tracking-widest font-semibold"></span>
+                </div>
+                <a id="modal-link" href="#" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto text-center px-8 py-3 bg-slate-900 text-white rounded-full font-bold hover:bg-google-blue transition-colors duration-300 shadow-lg shadow-slate-900/20">
+                    Leer Fuente Original
+                </a>
+            </div>
+        </div>
+    </div>
+
     <!-- Scripts -->
-    <script src="datos/leads.js?v=3"></script>
-    <script src="leads_app.js?v=3"></script>
+    <script src="datos/leads.js?v=4"></script>
+    <script src="leads_app.js?v=4"></script>
 </body>
 </html>

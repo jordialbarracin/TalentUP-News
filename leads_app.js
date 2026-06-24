@@ -28,6 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const topNews = newsArray.slice(0, 3);
         let catText = categoryName === 'todas' ? 'el mercado general' : `el sector de ${categoryName}`;
         
+        // Texto dinámico introductorio
+        let introText = `Se han detectado ${newsArray.length} alertas críticas en ${catText} en los últimos días. Aquí tienes los ${topNews.length} hitos más relevantes:`;
+        
         let listItems = topNews.map(item => {
             let nlpTags = '';
             if (item.empresa && item.empresa !== 'Desconocida') {
@@ -68,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h3 class="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight">Resumen Diario</h3>
                     </div>
                     
-                    <p class="text-slate-500 mb-6 font-semibold tracking-widest uppercase text-xs">Puntos clave en ${catText}</p>
+                    <p class="text-slate-600 mb-6 font-medium text-sm md:text-base leading-relaxed transition-opacity duration-300">${introText}</p>
                     
                     <ul class="list-none p-0 m-0">
                         ${listItems}
@@ -144,9 +147,13 @@ document.addEventListener('DOMContentLoaded', () => {
             let tagsHtml = cardNlpTags ? `<div class="flex flex-wrap mb-3 mt-[-4px] relative z-20 pointer-events-none">${cardNlpTags}</div>` : '';
 
             const card = document.createElement('article');
-            card.className = `relative bg-white/80 backdrop-blur-md rounded-[2rem] p-6 md:p-8 border border-slate-200 transition-all duration-500 flex flex-col group overflow-hidden shadow-sm hover:shadow-xl ${hoverGlow}`;
+            card.className = `relative bg-white/80 backdrop-blur-md rounded-[2rem] p-6 md:p-8 border border-slate-200 transition-all duration-500 flex flex-col group overflow-hidden shadow-sm hover:shadow-xl ${hoverGlow} cursor-pointer`;
             card.style.animation = `fadeInScale 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards ${index * 0.05}s`;
             card.style.opacity = '0';
+            
+            card.addEventListener('click', () => {
+                openModal(item, badgeColor, dotColor, cardNlpTags, cleanSummary, formattedDate);
+            });
             
             card.innerHTML = `
                 <!-- Efecto resplandor sutil interior -->
@@ -162,15 +169,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     
                     <h2 class="text-xl md:text-2xl font-bold text-slate-900 mb-4 leading-snug group-hover:text-google-blue transition-colors duration-300">
-                        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="focus:outline-none">
-                            <span class="absolute inset-0 z-10" aria-hidden="true"></span>
-                            ${item.titulo}
-                        </a>
+                        <span class="absolute inset-0 z-10" aria-hidden="true"></span>
+                        ${item.titulo}
                     </h2>
                     
                     ${tagsHtml}
                     
-                    <p class="text-sm md:text-base text-slate-600 leading-relaxed mb-8 font-light">${cleanSummary}</p>
+                    <p class="text-sm md:text-base text-slate-600 leading-relaxed mb-8 font-light line-clamp-3">${cleanSummary}</p>
                     
                     <div class="pt-6 border-t border-slate-100 flex items-center mt-auto">
                         <div class="h-8 w-8 rounded-full bg-slate-50 flex items-center justify-center mr-3 border border-slate-200 group-hover:border-slate-300 transition-colors">
@@ -293,4 +298,64 @@ document.addEventListener('DOMContentLoaded', () => {
     if (logoMobile) {
         logoMobile.addEventListener('click', () => applyFilter('todas', 'todas'));
     }
+
+    // --- LOGICA DEL MODAL INMERSIVO ---
+    const modal = document.getElementById('news-modal');
+    const modalBox = document.getElementById('modal-content-box');
+    const closeBtn = document.getElementById('close-modal');
+    const backdrop = document.getElementById('modal-backdrop');
+
+    function openModal(item, badgeColor, dotColor, tagsHtml, cleanSummary, formattedDate) {
+        if (!modal) return;
+        
+        // Rellenar datos
+        document.getElementById('modal-meta').innerHTML = `
+            <span class="inline-flex items-center px-3 py-1.5 rounded-full text-[10px] md:text-xs font-bold uppercase tracking-widest border ${badgeColor}">
+                <span class="w-1.5 h-1.5 rounded-full mr-2 ${dotColor} shadow-[0_0_8px_currentColor]"></span>
+                ${item.categoria}
+            </span>
+            <span class="text-xs font-mono text-slate-400 tracking-wider">${formattedDate}</span>
+        `;
+        document.getElementById('modal-title').innerText = item.titulo;
+        document.getElementById('modal-tags').innerHTML = tagsHtml;
+        document.getElementById('modal-summary').innerText = cleanSummary;
+        document.getElementById('modal-source').innerText = item.fuente;
+        document.getElementById('modal-link').href = item.url;
+
+        // Mostrar con animacion
+        modal.classList.remove('hidden');
+        // Pequeño delay para la animación Tailwind
+        setTimeout(() => {
+            modal.classList.remove('opacity-0');
+            if (modalBox) {
+                modalBox.classList.remove('scale-95');
+                modalBox.classList.add('scale-100');
+            }
+        }, 10);
+        document.body.style.overflow = 'hidden'; // Evitar scroll de fondo
+    }
+
+    function closeModal() {
+        if (!modal) return;
+        modal.classList.add('opacity-0');
+        if (modalBox) {
+            modalBox.classList.remove('scale-100');
+            modalBox.classList.add('scale-95');
+        }
+        
+        setTimeout(() => {
+            modal.classList.add('hidden');
+            document.body.style.overflow = ''; // Restaurar scroll
+        }, 300); // duracion de la transicion
+    }
+
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (backdrop) backdrop.addEventListener('click', closeModal);
+    
+    // Cerrar con Escape
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+            closeModal();
+        }
+    });
 });
