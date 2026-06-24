@@ -1,0 +1,33 @@
+name: Actualizador de Noticias TalentUP
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas automáticamente
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite ejecutar el script con un botón manualmente si lo necesitas
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para sobreescribir tu archivo de noticias
+
+    steps:
+    - name: Extraer código
+      uses: actions/checkout@v4
+
+    - name: Instalar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Ejecutar Rastreador
+      run: python rastreador.py
+
+    - name: Guardar cambios en el repositorio
+      run: |
+        git config --global user.name "Robot TalentUP"
+        git config --global user.email "bot@talentup.com"
+        git add datos/noticias.js
+        git commit -m "🤖 Actualización de noticias en la nube" || echo "No hay noticias nuevas en este ciclo"
+        git push
