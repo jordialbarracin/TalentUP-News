@@ -67,6 +67,49 @@ def fetch_and_parse_rss(fuente_info):
         
     return noticias
 
+def generate_obsidian_note(noticias):
+    try:
+        ahora = datetime.now()
+        fecha_str = ahora.strftime('%Y-%m-%d_%H-%M')
+        fecha_legible = ahora.strftime('%d/%m/%Y a las %H:%M')
+        
+        # Ruta a la hemeroteca
+        hemeroteca_dir = os.path.join(os.path.dirname(__file__), 'Historia_TalentUP', 'Hemeroteca')
+        os.makedirs(hemeroteca_dir, exist_ok=True)
+        
+        filepath = os.path.join(hemeroteca_dir, f"{fecha_str}.md")
+        
+        # Agrupar noticias por categoría
+        categorias = {}
+        for n in noticias:
+            cat = n['categoria']
+            if cat not in categorias:
+                categorias[cat] = []
+            categorias[cat].append(n)
+            
+        # Redactar Markdown
+        lines = [
+            f"# 📰 Reporte de Actualidad RRHH: {fecha_legible}",
+            "",
+            f"**Total de noticias analizadas:** {len(noticias)}",
+            "**Agente Autónomo:** TalentUP Rastreador v1.0",
+            "---",
+            ""
+        ]
+        
+        for cat, lista in categorias.items():
+            lines.append(f"## 📌 {cat}")
+            for item in lista:
+                lines.append(f"- [{item['titulo']}]({item['url']})")
+            lines.append("")
+            
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write("\n".join(lines))
+            
+        print(f"- Nota de Obsidian generada en Hemeroteca: {fecha_str}.md")
+    except Exception as e:
+        print(f"Error generando nota de Obsidian: {e}")
+
 def main():
     todas_las_noticias = []
     
@@ -90,6 +133,9 @@ def main():
     with open(DB_PATH, 'w', encoding='utf-8') as f:
         # Guardamos como una variable JS para saltarnos los bloqueos de seguridad del navegador al abrir archivos locales
         f.write("const window_news_data = " + json.dumps(todas_las_noticias, ensure_ascii=False, indent=2) + ";")
+    
+    # Generar la hemeroteca en Obsidian
+    generate_obsidian_note(todas_las_noticias)
     
     print(f"Proceso completado! Se han guardado {len(todas_las_noticias)} noticias en la base de datos local.")
 

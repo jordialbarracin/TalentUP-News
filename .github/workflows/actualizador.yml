@@ -31,6 +31,6 @@ jobs:
       run: |
         git config --global user.name "Robot TalentUP"
         git config --global user.email "bot@talentup.com"
-        git add datos/noticias.js
-        git commit -m "🤖 Actualización de noticias en la nube" || echo "No hay noticias nuevas en este ciclo"
+        git add datos/noticias.js Historia_TalentUP/Hemeroteca/
+        git commit -m "🤖 Actualización de noticias en la nube y Hemeroteca" || echo "No hay noticias nuevas en este ciclo"
         git push
