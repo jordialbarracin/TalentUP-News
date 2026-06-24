@@ -5,8 +5,8 @@ Bienvenido a la documentación arquitectónica de **TalentUP**. Esta bóveda con
 ## 🗂️ Índice del Proyecto
 
 - [[01_Vision_y_Objetivos]]: El origen del proyecto y el problema que resuelve.
-- [[02_Arquitectura_y_Descartes]]: El análisis técnico entre herramientas No-Code y el desarrollo de código propio.
-- [[03_Diseño_UI_UX]]: La evolución visual, desde el concepto "Dark Mode Bento" hasta la implementación final en "Glassmorphism Google I/O".
+- [[02_Arquitectura_Serverless]]: El despliegue técnico del ecosistema autónomo y la arquitectura en la nube.
+- [[03_Diseño_UI_UX]]: La identidad corporativa y la implementación del diseño "Glassmorphism".
 - [[04_Motor_de_Rastreo_Python]]: Las entrañas técnicas del algoritmo de búsqueda.
 - [[05_Roadmap_y_Futuro]]: Fases de escalabilidad planificadas (Integración LLM, Notificaciones Push).
 
