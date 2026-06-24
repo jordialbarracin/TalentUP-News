@@ -40,18 +40,18 @@ const window_news_data = [
     "categoria": "Legislación"
   },
   {
-    "titulo": "Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral - NR | Periodismo alternativo",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5\" target=\"_blank\">Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NR | Periodismo alternativo</font>",
-    "fecha": "2026-06-20T05:00:08Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación"
-  },
-  {
     "titulo": "Centenares de personas protestan en Lisboa contra el proyecto de reforma laboral propuesto por el Gobierno - ABC",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjNpSFJPOVpwM280RTFHdVR3elIyT0R6VzIwQk1GZ01OYnFzMUszZEVMUFMzeWV0VkRDVXV4QVVjWE1IZUJhM2JoT0VjMllDamsyd19Tdmh4UGpySFdUaVhRZG1IR3V0M0Y0UWR5d0JUdnlNdzRab1ZMRlNEUzJPb1BxN25WMHhhWEc5UTFUS0xYUHFUaWxxV3JINGpGS2dPZHdmQW0xdFpWVUtpRGlF?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjNpSFJPOVpwM280RTFHdVR3elIyT0R6VzIwQk1GZ01OYnFzMUszZEVMUFMzeWV0VkRDVXV4QVVjWE1IZUJhM2JoT0VjMllDamsyd19Tdmh4UGpySFdUaVhRZG1IR3V0M0Y0UWR5d0JUdnlNdzRab1ZMRlNEUzJPb1BxN25WMHhhWEc5UTFUS0xYUHFUaWxxV3JINGpGS2dPZHdmQW0xdFpWVUtpRGlF?oc=5\" target=\"_blank\">Centenares de personas protestan en Lisboa contra el proyecto de reforma laboral propuesto por el Gobierno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
     "fecha": "2026-06-18T21:30:24Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación"
+  },
+  {
+    "titulo": "El Parlamento portugués tumba la reforma laboral de Luís Montenegro - Demócrata",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5\" target=\"_blank\">El Parlamento portugués tumba la reforma laboral de Luís Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demócrata</font>",
+    "fecha": "2026-06-19T16:58:33Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación"
   },
@@ -72,14 +72,6 @@ const window_news_data = [
     "categoria": "Legislación"
   },
   {
-    "titulo": "El Banco de España relaciona la reforma laboral con un repunte de productividad en las empresas más temporales - Demócrata",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGhvd1hRYUczVVdDY1VHUXFfUXp5TW1uV05pT04yc0pSZTdMNkpxVGpnM2xWMmdfSDlyWTR3bHFZdEpnWktzLWlQZWZPdlhrNUpSb1AtNXA4Q1RGeGhnWnZRMklpWmVodTVQY0liLW55SXN1ODJpYkVzaTFrSXY1ejBOOERYQkFYSm5nQll0dGQ5S005YXN1QmFnSi1uSm1xVFFpOFJHNXJhaWNuNnc3Qng1TFVPMlNlbGs5anpVU1RKaC1na2paVzFoM0xpbDRfYnJxNVlCa3R6TmFpeHfSAeMBQVVfeXFMUGp3dUxaa0xLc09kN3JsT08yaTFQMDVabU00cGpIVFYzTXhadnZvTHBYSHJxTHNTVXNXNG1VSm1vNHJKazFSc2dnOENQc0lpWkNQWHFnbkV0ZDhpOU1uOGVPbVZNVTg3dUZJR1JWcHM2dWFUc1hCZFBHODItTXlrbDNZQjI0dWhQTzdhYzFZRjJJYkhlRVo2cHNfVjEzQnFwX2Zab3k0dkRvc24tZkV5VWNqdnNaNEx4V3ZTcWJNaG9SckRBSlRMaTZRSnQ4UmVMUk1uSDR2b1YyWXVFRzVjMUl2YUk?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGhvd1hRYUczVVdDY1VHUXFfUXp5TW1uV05pT04yc0pSZTdMNkpxVGpnM2xWMmdfSDlyWTR3bHFZdEpnWktzLWlQZWZPdlhrNUpSb1AtNXA4Q1RGeGhnWnZRMklpWmVodTVQY0liLW55SXN1ODJpYkVzaTFrSXY1ejBOOERYQkFYSm5nQll0dGQ5S005YXN1QmFnSi1uSm1xVFFpOFJHNXJhaWNuNnc3Qng1TFVPMlNlbGs5anpVU1RKaC1na2paVzFoM0xpbDRfYnJxNVlCa3R6TmFpeHfSAeMBQVVfeXFMUGp3dUxaa0xLc09kN3JsT08yaTFQMDVabU00cGpIVFYzTXhadnZvTHBYSHJxTHNTVXNXNG1VSm1vNHJKazFSc2dnOENQc0lpWkNQWHFnbkV0ZDhpOU1uOGVPbVZNVTg3dUZJR1JWcHM2dWFUc1hCZFBHODItTXlrbDNZQjI0dWhQTzdhYzFZRjJJYkhlRVo2cHNfVjEzQnFwX2Zab3k0dkRvc24tZkV5VWNqdnNaNEx4V3ZTcWJNaG9SckRBSlRMaTZRSnQ4UmVMUk1uSDR2b1YyWXVFRzVjMUl2YUk?oc=5\" target=\"_blank\">El Banco de España relaciona la reforma laboral con un repunte de productividad en las empresas más temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demócrata</font>",
-    "fecha": "2026-06-18T11:11:23Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación"
-  },
-  {
     "titulo": "Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano - La Razón",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5\" target=\"_blank\">Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón</font>",
@@ -88,10 +80,10 @@ const window_news_data = [
     "categoria": "Legislación"
   },
   {
-    "titulo": "Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales - Forbes España",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5\" target=\"_blank\">Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
-    "fecha": "2026-06-18T11:09:23Z",
+    "titulo": "Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral - NR | Periodismo alternativo",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0lFaXlLN0tpSlJRY25fMi1pS29vQUNQX0FxRXBsbGpLVGYyaHpENlF6dFVmNGQxTkZVem40VlRDZGc0bWpNZkg0QVd5RnBfVFlwRHBNVVZnZWxwNElHelViMlBiOUlJMlRtNGNGYU9iRlladi1zOE5HNFRjTW9sajZlYkxEQ2pmdzgxUHJkckFBZGdDZXpnTUNDczBQRERrX0t1Vk9vMGpPQ2dqbHVQNTAxcmhqMUl0VUt5U211ZVBBSmRzc0E?oc=5\" target=\"_blank\">Las movilizaciones y huelgas de la clase obrera portuguesa logran la retirada de la reforma laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NR | Periodismo alternativo</font>",
+    "fecha": "2026-06-20T05:00:08Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación"
   },
@@ -100,6 +92,14 @@ const window_news_data = [
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWRzM2R2Nlhza3QxTlJjRVBxZDlnT3ZUTlFLYmtZRnlPVEdPd3Q1allsME94UHNad0hkMXpieHFBWkw5WGMwY1FMNU15Y3pqbGtmeFVIb3IxOFFyamxpbXVZLWplZURiRThzamo0S21oNjRyVjZjZUNTQmhIdVBRQ0ljSDlMWk4wX3doOWV2dlBSZ2d6QTE4d1FlYXpSSm9DRGxHNkhidFBsbkhJWkJmLWlncGYzOVJ6OHJQcF9UbXViT0dkeThzZzRjeHZhVlJjbTB1TXF5ckowYWdmNkdFOVdJMzV5Mjl6RUEwbFcyajZUdS15b3NnZnNKNlB5NkpDb25QVTBKVXFENUVXMkhDVExDamtKb1JXalNN?oc=5\" target=\"_blank\">Los bomberos forestales se manifestarán frente al Ministerio de Trabajo para exigir responsabilidades \"antes de que haya que lamentar otra tragedia\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Servicios Emergencia</font>",
     "fecha": "2026-06-24T10:38:00Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación"
+  },
+  {
+    "titulo": "Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales - Forbes España",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2Z5MTMzNW5TYWhRS3dCRlVrenFxa3NrRzFjM3hrUGM3OUdJS0ViNlNxT25hTDNVcmp6U2I0ek9Db0dZaG9uNTl5cGRoOVU3MkFldnNGbDNtc1dEQmxxMlBpRVJxUDBFd25sMVdEWXNpOFhMbERtaHdKWGY2ZjduNk9wS1BLVVZhSmxRUGgzNDgzdHpDSmxKMFZ1enZJZ2FXaGJCVkNodC02RE40LWNHZm9uX2NvNF9TR0p5bHkzZ0wyeHdhNEIzMlpGaEVBQjU1Zms0MVNLLV9obXFUcXc?oc=5\" target=\"_blank\">Banco de España vincula la reforma laboral con una mayor productividad en empresas con contratos temporales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
+    "fecha": "2026-06-18T11:09:23Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación"
   },
@@ -136,6 +136,14 @@ const window_news_data = [
     "categoria": "Mercado"
   },
   {
+    "titulo": "Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas - Huelva Buenas Noticias",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5\" target=\"_blank\">Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huelva Buenas Noticias</font>",
+    "fecha": "2026-06-18T12:23:06Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado"
+  },
+  {
     "titulo": "Entrevista a Paola Olmedo, directora del Máster de Recursos Humanos de la UE - Europea Media",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1lQekx2M0ZOTHo5cEdKWDVCTGpCZGNqRG5lZG9NM3oyRHUzNFF3amUybU1PQXZXbFlBdndWdjdIVllPTFQzR0ZwM3ZBYWk4UDJsZVlSWjJnYXZYN1BzYW81YkVFdzhQamU5NVRMYVBVV3lQWW1uR1FLWEJIY1dMcC1xYlZ6cm9nUGpmd3BmejdQOFMzY1NnU0RqX090QV91MWc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1lQekx2M0ZOTHo5cEdKWDVCTGpCZGNqRG5lZG9NM3oyRHUzNFF3amUybU1PQXZXbFlBdndWdjdIVllPTFQzR0ZwM3ZBYWk4UDJsZVlSWjJnYXZYN1BzYW81YkVFdzhQamU5NVRMYVBVV3lQWW1uR1FLWEJIY1dMcC1xYlZ6cm9nUGpmd3BmejdQOFMzY1NnU0RqX090QV91MWc?oc=5\" target=\"_blank\">Entrevista a Paola Olmedo, directora del Máster de Recursos Humanos de la UE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Europea Media</font>",
@@ -168,18 +176,18 @@ const window_news_data = [
     "categoria": "Mercado"
   },
   {
-    "titulo": "Tecnología aplicada a los Recursos Humanos (HR Tech): la digitalización del talento en las empresas modernas - El Mundo Financiero",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGZ4YTdtcjRWZEs4bXQzX2xtR0doc2M2T3RpNmFjUEpRX1hkaGxKUDl4VXppZ2xtRTdSbXU0OHNkd0V2THJRbG41ckYyX3NJNURlZm5oX1hxOXJ5ZlhtTVpSZkMxSmNSVVZiNlVIakQxR1QtVHpfY2UxM1NYQVAwQmRYQUZkdVZBS0R5dnI3SWw4bU5aRjBSR3pBNjdtVEF5c00xTVkzd3BidE9aS3Zqd3VQc0xHc1pFblJhV0h3Mnp4UlVWUXU5b0VobGFCRTBMcjZGNzdjWFVNd25BRWUwOWlkRV90ZFUyaW01cktOSGZqVzdQYTZiTVcyZGg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGZ4YTdtcjRWZEs4bXQzX2xtR0doc2M2T3RpNmFjUEpRX1hkaGxKUDl4VXppZ2xtRTdSbXU0OHNkd0V2THJRbG41ckYyX3NJNURlZm5oX1hxOXJ5ZlhtTVpSZkMxSmNSVVZiNlVIakQxR1QtVHpfY2UxM1NYQVAwQmRYQUZkdVZBS0R5dnI3SWw4bU5aRjBSR3pBNjdtVEF5c00xTVkzd3BidE9aS3Zqd3VQc0xHc1pFblJhV0h3Mnp4UlVWUXU5b0VobGFCRTBMcjZGNzdjWFVNd25BRWUwOWlkRV90ZFUyaW01cktOSGZqVzdQYTZiTVcyZGg?oc=5\" target=\"_blank\">Tecnología aplicada a los Recursos Humanos (HR Tech): la digitalización del talento en las empresas modernas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mundo Financiero</font>",
-    "fecha": "2026-06-23T08:33:53Z",
+    "titulo": "Foro Recursos Humanos concentra en la Diputación de Sevilla y en su Cóctel de Verano el mejor talento - Foro Recursos Humanos",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0xFRFhOQjNsZ1BWaTFFN3lqRHZXQnI2b0E1VVBIUW4zMnhNaDdaNWFwQ2IyemZjTEl4ZHhoTDNNMl9hMjJHdUdaZDcyd1J4YmkzQ0RqVElVTncxeU9MbGZtMW5CSkJEbTBzSFpSaVYzYnB1WGVWbXJTdGR3aUF1VDFsNC1qSGxrNHlMd19EWQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0xFRFhOQjNsZ1BWaTFFN3lqRHZXQnI2b0E1VVBIUW4zMnhNaDdaNWFwQ2IyemZjTEl4ZHhoTDNNMl9hMjJHdUdaZDcyd1J4YmkzQ0RqVElVTncxeU9MbGZtMW5CSkJEbTBzSFpSaVYzYnB1WGVWbXJTdGR3aUF1VDFsNC1qSGxrNHlMd19EWQ?oc=5\" target=\"_blank\">Foro Recursos Humanos concentra en la Diputación de Sevilla y en su Cóctel de Verano el mejor talento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
+    "fecha": "2026-06-24T12:21:31Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
   {
-    "titulo": "Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga - Foro Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5\" target=\"_blank\">Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
-    "fecha": "2026-06-22T14:20:26Z",
+    "titulo": "Tecnología aplicada a los Recursos Humanos (HR Tech): la digitalización del talento en las empresas modernas - El Mundo Financiero",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGZ4YTdtcjRWZEs4bXQzX2xtR0doc2M2T3RpNmFjUEpRX1hkaGxKUDl4VXppZ2xtRTdSbXU0OHNkd0V2THJRbG41ckYyX3NJNURlZm5oX1hxOXJ5ZlhtTVpSZkMxSmNSVVZiNlVIakQxR1QtVHpfY2UxM1NYQVAwQmRYQUZkdVZBS0R5dnI3SWw4bU5aRjBSR3pBNjdtVEF5c00xTVkzd3BidE9aS3Zqd3VQc0xHc1pFblJhV0h3Mnp4UlVWUXU5b0VobGFCRTBMcjZGNzdjWFVNd25BRWUwOWlkRV90ZFUyaW01cktOSGZqVzdQYTZiTVcyZGg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGZ4YTdtcjRWZEs4bXQzX2xtR0doc2M2T3RpNmFjUEpRX1hkaGxKUDl4VXppZ2xtRTdSbXU0OHNkd0V2THJRbG41ckYyX3NJNURlZm5oX1hxOXJ5ZlhtTVpSZkMxSmNSVVZiNlVIakQxR1QtVHpfY2UxM1NYQVAwQmRYQUZkdVZBS0R5dnI3SWw4bU5aRjBSR3pBNjdtVEF5c00xTVkzd3BidE9aS3Zqd3VQc0xHc1pFblJhV0h3Mnp4UlVWUXU5b0VobGFCRTBMcjZGNzdjWFVNd25BRWUwOWlkRV90ZFUyaW01cktOSGZqVzdQYTZiTVcyZGg?oc=5\" target=\"_blank\">Tecnología aplicada a los Recursos Humanos (HR Tech): la digitalización del talento en las empresas modernas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mundo Financiero</font>",
+    "fecha": "2026-06-23T08:33:53Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
@@ -224,18 +232,10 @@ const window_news_data = [
     "categoria": "Mercado"
   },
   {
-    "titulo": "2 de julio: IA, cultura y longevidad en el programa del Encuentro Foro Recursos Humanos Málaga - Foro Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcnVEU1AwSkdSYmhQV1hGYm9saS1lcmp6aG8xWVBUTGZDdU14ZVFYU09tbWlKNnE5TF9TUkRvWUpqOEh4MlZTb0JyeXlFRXd2YWVxTm92VS13LVBLZERiS3ZoSUZzNGtINU5EZ0FZdkNOV3I3bUE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcnVEU1AwSkdSYmhQV1hGYm9saS1lcmp6aG8xWVBUTGZDdU14ZVFYU09tbWlKNnE5TF9TUkRvWUpqOEh4MlZTb0JyeXlFRXd2YWVxTm92VS13LVBLZERiS3ZoSUZzNGtINU5EZ0FZdkNOV3I3bUE?oc=5\" target=\"_blank\">2 de julio: IA, cultura y longevidad en el programa del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
-    "fecha": "2026-06-19T12:58:15Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado"
-  },
-  {
-    "titulo": "Pilar Jericó presenta \"No Miedo\" en Foro Recursos Humanos: \"En un mundo de mucho cambio ahora lo que nos asusta en no poder decidir\" - Foro Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEdsSzViVmtSYmd2ZVAtbmVIRWU1YUhtb0VQWjN0NEY4M1hlMlRZWVFWVF9HMmJkaS1NTnNhSFFxY0JzSnFCYV9ldnNiZGZ5WTJFcUV1VWZFcE1XaTVYSC10eFl2b2U5LUxGMmlvN2dJZ0NxYldPVGFTWktjTjJFcmc1Yw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEdsSzViVmtSYmd2ZVAtbmVIRWU1YUhtb0VQWjN0NEY4M1hlMlRZWVFWVF9HMmJkaS1NTnNhSFFxY0JzSnFCYV9ldnNiZGZ5WTJFcUV1VWZFcE1XaTVYSC10eFl2b2U5LUxGMmlvN2dJZ0NxYldPVGFTWktjTjJFcmc1Yw?oc=5\" target=\"_blank\">Pilar Jericó presenta \"No Miedo\" en Foro Recursos Humanos: \"En un mundo de mucho cambio ahora lo que nos asusta en no poder decidir\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
-    "fecha": "2026-06-24T10:22:55Z",
+    "titulo": "Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga - Foro Recursos Humanos",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5\" target=\"_blank\">Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
+    "fecha": "2026-06-22T14:20:26Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado"
   },
@@ -336,18 +336,18 @@ const window_news_data = [
     "categoria": "ETTs"
   },
   {
-    "titulo": "Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición - Corresponsables",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5\" target=\"_blank\">Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corresponsables</font>",
-    "fecha": "2026-06-18T10:19:19Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs"
-  },
-  {
     "titulo": "Fundación Randstad reconoce la inclusión en la 21ª edición de sus premios - Servimedia",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0p6bUl3a3R6cGFZdjV0a3pHZEQ2TWd2ZE9iWF8ycnRoTndqclZnQTd0Nm1TaDk1TUZDZjl6c3Q2cjZfWUtXdlpWY2U5VjRjajR6YUtLYk1LLTByakpMdmgzOTNUdndsNlk5RnZlbExvUng3UU5DdzBIU3RxUkR2ZjMteE1abEpMbmVvUG1iZWk1eXlDMi0zcG9WNTJPazZsV3llRA?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0p6bUl3a3R6cGFZdjV0a3pHZEQ2TWd2ZE9iWF8ycnRoTndqclZnQTd0Nm1TaDk1TUZDZjl6c3Q2cjZfWUtXdlpWY2U5VjRjajR6YUtLYk1LLTByakpMdmgzOTNUdndsNlk5RnZlbExvUng3UU5DdzBIU3RxUkR2ZjMteE1abEpMbmVvUG1iZWk1eXlDMi0zcG9WNTJPazZsV3llRA?oc=5\" target=\"_blank\">Fundación Randstad reconoce la inclusión en la 21ª edición de sus premios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Servimedia</font>",
     "fecha": "2026-06-18T11:06:00Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs"
+  },
+  {
+    "titulo": "Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición - Corresponsables",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5\" target=\"_blank\">Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corresponsables</font>",
+    "fecha": "2026-06-18T10:19:19Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs"
   },

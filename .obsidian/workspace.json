@@ -178,6 +178,11 @@
   },
   "active": "19ab9a82b9b705f8",
   "lastOpenFiles": [
+    "Historia_TalentUP/Hemeroteca/2026-06-24_20-37.md",
+    "Historia_TalentUP/Hemeroteca",
+    "Historia_TalentUP/02_Arquitectura_Serverless.md",
+    "03_Arquitectura_Tecnica/Arquitectura.md",
+    "04_MVP_Roadmap/Roadmap.md",
     "Historia_TalentUP/Zettelkasten/GIT_Deploy_Pages.md",
     "Historia_TalentUP/Zettelkasten/GIT_Permisos_Escritura.md",
     "Historia_TalentUP/Zettelkasten/GIT_Cron_Actions.md",
@@ -208,10 +213,6 @@
     "rastreador.py",
     "00_Proyecto_Principal/implementation_plan.md",
     "00_Proyecto_Principal/00_Documento_Maestro.md",
-    "04_MVP_Roadmap/Roadmap.md",
-    "04_MVP_Roadmap",
-    "03_Arquitectura_Tecnica/Arquitectura.md",
-    "02_Fuentes_y_RSS/Fuentes.md",
-    "01_Bitacora_Sesiones/2026-06-24_Sesion_01.md"
+    "02_Fuentes_y_RSS/Fuentes.md"
   ]
 }
