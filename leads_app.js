@@ -29,14 +29,25 @@ document.addEventListener('DOMContentLoaded', () => {
         let catText = categoryName === 'todas' ? 'el mercado general' : `el sector de ${categoryName}`;
         
         let listItems = topNews.map(item => {
+            let nlpTags = '';
+            if (item.empresa && item.empresa !== 'Desconocida') {
+                nlpTags += `<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] md:text-xs font-bold uppercase tracking-widest bg-google-blue/10 text-google-blue border border-google-blue/20 mr-2 mb-1 shadow-sm">🏢 ${item.empresa}</span>`;
+            }
+            if (item.ubicacion && item.ubicacion !== 'Nacional') {
+                nlpTags += `<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] md:text-xs font-bold uppercase tracking-widest bg-google-red/10 text-google-red border border-google-red/20 mr-2 mb-1 shadow-sm">📍 ${item.ubicacion}</span>`;
+            }
+
             return `
                 <li class="flex items-start mb-5 last:mb-0">
                     <span class="flex-shrink-0 w-6 h-6 rounded-full bg-google-blue/10 text-google-blue flex items-center justify-center mr-4 mt-0.5 shadow-sm">
                         <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
                     </span>
-                    <span class="text-slate-800 font-semibold text-lg md:text-xl leading-snug">
-                        ${item.titulo}
-                    </span>
+                    <div class="flex flex-col">
+                        ${nlpTags ? `<div class="flex flex-wrap mb-1 mt-[-4px]">${nlpTags}</div>` : ''}
+                        <span class="text-slate-800 font-semibold text-lg md:text-xl leading-snug">
+                            ${item.titulo}
+                        </span>
+                    </div>
                 </li>
             `;
         }).join('');
@@ -159,27 +170,58 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    const locFilterBtns = document.querySelectorAll('.loc-filter-btn');
+    let currentCategory = 'todas';
+    let currentLocation = 'todas';
+
     // Función de filtrado centralizada
-    function applyFilter(category) {
-        // Limpiar estilos activos
+    function applyFilter(category, location) {
+        if (category !== undefined) currentCategory = category;
+        if (location !== undefined) currentLocation = location;
+
+        // Limpiar estilos activos de categoría
         filterBtns.forEach(b => {
             b.classList.remove('active');
             if (b.closest('nav')) {
                 b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100";
             } else {
-                b.className = "filter-btn text-xs font-bold px-5 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100";
+                b.className = "filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100";
             }
         });
         
-        // Aplicar estilos activos al botón correcto (si no es 'todas')
-        if (category !== 'todas') {
+        // Aplicar estilos activos a categoría
+        if (currentCategory !== 'todas') {
             filterBtns.forEach(b => {
-                if (b.getAttribute('data-categoria') === category) {
+                if (b.getAttribute('data-categoria') === currentCategory) {
                     b.classList.add('active');
                     if (b.closest('nav')) {
                         b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 bg-slate-900 text-white shadow-md border border-slate-800 active";
                     } else {
-                        b.className = "filter-btn text-xs font-bold px-5 py-3 rounded-full transition-all duration-300 bg-slate-900 text-white whitespace-nowrap active";
+                        b.className = "filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 bg-slate-900 text-white whitespace-nowrap active";
+                    }
+                }
+            });
+        }
+
+        // Limpiar estilos activos de ubicación
+        locFilterBtns.forEach(b => {
+            b.classList.remove('active');
+            if (b.closest('nav')) {
+                b.className = "loc-filter-btn text-sm font-semibold px-4 py-2 rounded-full transition-all duration-300 text-slate-500 hover:bg-google-red/10 hover:text-google-red";
+            } else {
+                b.className = "loc-filter-btn text-xs font-bold px-3 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-google-red/10 hover:text-google-red";
+            }
+        });
+
+        // Aplicar estilos activos a ubicación
+        if (currentLocation !== 'todas') {
+            locFilterBtns.forEach(b => {
+                if (b.getAttribute('data-ubicacion') === currentLocation) {
+                    b.classList.add('active');
+                    if (b.closest('nav')) {
+                        b.className = "loc-filter-btn text-sm font-semibold px-4 py-2 rounded-full transition-all duration-300 bg-google-red text-white shadow-md active";
+                    } else {
+                        b.className = "loc-filter-btn text-xs font-bold px-3 py-3 rounded-full transition-all duration-300 bg-google-red text-white whitespace-nowrap active";
                     }
                 }
             });
@@ -187,27 +229,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Título dinámico
         if (sectionTitle) {
-            if (category === 'todas') {
-                sectionTitle.innerHTML = 'Radar de <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue via-google-red to-google-yellow">Leads B2B</span>';
+            let locTitle = currentLocation !== 'todas' ? ` - ${currentLocation}` : '';
+            if (currentCategory === 'todas') {
+                sectionTitle.innerHTML = `Radar de <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue via-google-red to-google-yellow">Leads B2B</span>${locTitle}`;
             } else {
-                sectionTitle.innerHTML = `Cluster de Datos: <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue to-google-green">${category}</span>`;
+                sectionTitle.innerHTML = `Cluster de Datos: <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue to-google-green">${currentCategory}</span>${locTitle}`;
             }
         }
         
         // Renderizar noticias
-        if (category === 'todas') {
-            renderNews(allNews, 'todas');
-        } else {
-            const filtered = allNews.filter(n => n.categoria === category);
-            renderNews(filtered, category);
+        let filtered = allNews;
+        if (currentCategory !== 'todas') {
+            filtered = filtered.filter(n => n.categoria === currentCategory);
         }
+        if (currentLocation !== 'todas') {
+            // Check if location is exactly mentioned, or just a generic check
+            filtered = filtered.filter(n => (n.ubicacion && n.ubicacion.includes(currentLocation)) || (n.titulo && n.titulo.includes(currentLocation)) || (n.resumen && n.resumen.includes(currentLocation)));
+        }
+        
+        renderNews(filtered, currentCategory);
     }
 
     // Filtros de navegación (Botones)
     filterBtns.forEach(btn => {
         btn.addEventListener('click', (e) => {
             const category = e.currentTarget.getAttribute('data-categoria');
-            applyFilter(category);
+            applyFilter(category, undefined);
+        });
+    });
+
+    locFilterBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            let location = e.currentTarget.getAttribute('data-ubicacion');
+            // Toggle off if already active
+            if (currentLocation === location) {
+                location = 'todas';
+            }
+            applyFilter(undefined, location);
         });
     });
 
@@ -216,9 +274,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const logoMobile = document.getElementById('logo-mobile');
     
     if (logoDesktop) {
-        logoDesktop.addEventListener('click', () => applyFilter('todas'));
+        logoDesktop.addEventListener('click', () => applyFilter('todas', 'todas'));
     }
     if (logoMobile) {
-        logoMobile.addEventListener('click', () => applyFilter('todas'));
+        logoMobile.addEventListener('click', () => applyFilter('todas', 'todas'));
     }
 });

@@ -29,14 +29,25 @@ document.addEventListener('DOMContentLoaded', () => {
         let catText = categoryName === 'todas' ? 'el mercado general' : `el sector de ${categoryName}`;
         
         let listItems = topNews.map(item => {
+            let nlpTags = '';
+            if (item.empresa && item.empresa !== 'Desconocida') {
+                nlpTags += `<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] md:text-xs font-bold uppercase tracking-widest bg-google-blue/10 text-google-blue border border-google-blue/20 mr-2 mb-1 shadow-sm">🏢 ${item.empresa}</span>`;
+            }
+            if (item.ubicacion && item.ubicacion !== 'Nacional') {
+                nlpTags += `<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] md:text-xs font-bold uppercase tracking-widest bg-google-red/10 text-google-red border border-google-red/20 mr-2 mb-1 shadow-sm">📍 ${item.ubicacion}</span>`;
+            }
+
             return `
                 <li class="flex items-start mb-5 last:mb-0">
                     <span class="flex-shrink-0 w-6 h-6 rounded-full bg-google-blue/10 text-google-blue flex items-center justify-center mr-4 mt-0.5 shadow-sm">
                         <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
                     </span>
-                    <span class="text-slate-800 font-semibold text-lg md:text-xl leading-snug">
-                        ${item.titulo}
-                    </span>
+                    <div class="flex flex-col">
+                        ${nlpTags ? `<div class="flex flex-wrap mb-1 mt-[-4px]">${nlpTags}</div>` : ''}
+                        <span class="text-slate-800 font-semibold text-lg md:text-xl leading-snug">
+                            ${item.titulo}
+                        </span>
+                    </div>
                 </li>
             `;
         }).join('');

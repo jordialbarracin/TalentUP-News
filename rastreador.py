@@ -5,13 +5,19 @@ import os
 import urllib.parse
 from datetime import datetime
 import time
+import spacy
+
+try:
+    nlp = spacy.load("es_core_news_sm")
+except:
+    nlp = None
 
 q1 = urllib.parse.quote('intitle:"legislacion laboral" OR "reforma laboral" OR "estatuto de los trabajadores" OR "ministerio de trabajo" when:7d')
 q2 = urllib.parse.quote('"recursos humanos" OR "seleccion de personal" OR "captacion de talento" when:7d')
 q3 = urllib.parse.quote('"empresas de trabajo temporal" OR "ETT" OR Adecco OR Randstad OR Manpower OR Eurofirms when:7d')
 
-q4 = urllib.parse.quote('("abre nueva sede" OR "nuevo centro logístico" OR "nueva fábrica" OR "plan de expansión") AND ("empleo" OR "contratar" OR "plantilla") when:7d')
-q5 = urllib.parse.quote('("ronda de financiación" OR "levantado capital" OR "ronda de inversión") AND (startup OR empresa) when:7d')
+q4 = urllib.parse.quote('("abre nueva sede" OR "nuevo centro logístico" OR "nueva fábrica" OR "plan de expansión") AND ("empleo" OR "contratar" OR "plantilla") AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
+q5 = urllib.parse.quote('("ronda de financiación" OR "levantado capital" OR "ronda de inversión") AND (startup OR empresa) AND (España OR Madrid OR Barcelona OR Valencia OR Andalucía) when:7d')
 
 FUENTES = [
     {
@@ -46,6 +52,19 @@ FUENTES_LEADS = [
 
 DB_PATH = os.path.join(os.path.dirname(__file__), 'datos', 'noticias.json')
 
+def extract_entities(text):
+    if not nlp:
+        return {"empresa": "Desconocida", "ubicacion": "Nacional"}
+    
+    doc = nlp(text)
+    empresas = [ent.text for ent in doc.ents if ent.label_ == "ORG"]
+    ubicaciones = [ent.text for ent in doc.ents if ent.label_ == "LOC"]
+    
+    empresa = empresas[0] if empresas else "Desconocida"
+    ubicacion = ubicaciones[0] if ubicaciones else "Nacional"
+    
+    return {"empresa": empresa, "ubicacion": ubicacion}
+
 def fetch_and_parse_rss(fuente_info):
     noticias = []
     headers = {
@@ -69,6 +88,9 @@ def fetch_and_parse_rss(fuente_info):
                 pub_date = entry.published
             else:
                 pub_date = datetime.now().isoformat()
+            
+            # NLP: Extraer Entidades del titular
+            entidades = extract_entities(title)
                 
             noticias.append({
                 "titulo": title,
@@ -76,7 +98,9 @@ def fetch_and_parse_rss(fuente_info):
                 "resumen": description,
                 "fecha": pub_date,
                 "fuente": fuente_info["nombre"],
-                "categoria": fuente_info["categoria"]
+                "categoria": fuente_info["categoria"],
+                "empresa": entidades['empresa'],
+                "ubicacion": entidades['ubicacion']
             })
     except Exception as e:
         print(f"Error procesando XML para {fuente_info['nombre']}: {e}")
