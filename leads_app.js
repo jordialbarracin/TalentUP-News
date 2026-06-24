@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
         filterBtns.forEach(b => {
             b.classList.remove('active');
             if (b.closest('nav')) {
-                b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100";
+                b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap";
             } else {
                 b.className = "filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 text-slate-500 whitespace-nowrap hover:bg-slate-100";
             }
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (b.getAttribute('data-categoria') === currentCategory) {
                     b.classList.add('active');
                     if (b.closest('nav')) {
-                        b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 bg-slate-900 text-white shadow-md border border-slate-800 active";
+                        b.className = "filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 bg-slate-900 text-white shadow-md border border-slate-800 whitespace-nowrap active";
                     } else {
                         b.className = "filter-btn text-xs font-bold px-4 py-3 rounded-full transition-all duration-300 bg-slate-900 text-white whitespace-nowrap active";
                     }
