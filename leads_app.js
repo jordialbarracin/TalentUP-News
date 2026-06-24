@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let dotColor = "bg-slate-400";
             let hoverGlow = "hover:border-slate-300 hover:shadow-slate-200/50";
             
-            if (item.categoria === "Contratación") {
+            if (item.categoria === "Contratacion") {
                 badgeColor = "text-google-green bg-google-green/10 border-google-green/20";
                 dotColor = "bg-google-green";
                 hoverGlow = "hover:border-google-green/50 hover:shadow-google-green/10";
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 badgeColor = "text-google-blue bg-google-blue/10 border-google-blue/20";
                 dotColor = "bg-google-blue";
                 hoverGlow = "hover:border-google-blue/50 hover:shadow-google-blue/10";
-            } else if (item.categoria === "Reestructuración") {
+            } else if (item.categoria === "Reestructuracion") {
                 badgeColor = "text-google-red bg-google-red/10 border-google-red/20";
                 dotColor = "bg-google-red";
                 hoverGlow = "hover:border-google-red/50 hover:shadow-google-red/10";
