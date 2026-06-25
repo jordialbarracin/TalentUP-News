@@ -30,20 +30,14 @@ jobs:
       - name: Ejecutar Rastreador de Noticias
         run: python rastreador.py
 
-      - name: Comprobar cambios
-        id: verificar_cambios
-        run: |
-          if [[ -n $(git status -s) ]]; then
-            echo "cambios=true" >> $GITHUB_ENV
-          else
-            echo "cambios=false" >> $GITHUB_ENV
-          fi
-
-      - name: Subir cambios a GitHub
-        if: env.cambios == 'true'
+      - name: Comprobar y Subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add datos/
-          git commit -m "Automatización: Actualización diaria de noticias y leads"
-          git push
+          git add datos/ Historia_TalentUP/Hemeroteca/
+          if git diff --staged --quiet; then
+            echo "No hay cambios nuevos para subir."
+          else
+            git commit -m "Automatización: Actualización diaria de noticias y leads"
+            git push
+          fi

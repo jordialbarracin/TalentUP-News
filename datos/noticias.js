@@ -1,5 +1,15 @@
 const window_news_data = [
   {
+    "titulo": "Trabajo retrasa la publicación del balance de la reforma laboral pese a que los expertos la entregaron hace cuatro meses - EL PAÍS",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV0pWQ1d3T3dZT0pFQmxPSUtJUk1PZ1QzNURJZGFXX2JCVWxhOWNMZ3hfSkhydmY4ekx3cWdmVDhIUXJrb0VWd1NWN09uV2d5R2t0UUxpLV9GZ0FQcjd3bW1SbzduR19CemJldkp1LTYydlo3NUlXemxHcTJ5QUVGNDgtb1JYWEE0dXlfVE1paTZLS0d4TFlyb1c4MmFWd1BVVzRhQzBUeDYyZE82WGxBWmp3UXg1SzFmSGFGcVhBMWVhUEV2aTdUajdBM2VLZmVPZXFzcDg4WWJqVmtWMUJtbmQ2bXAxc0k1YzBrRDd0QnB5cXRMTWN30gGLAkFVX3lxTFBNNnVWd2JIQXZSdTZWZHM2Q1gxQnRFNXo3TDhWb0V3RkRTWS1PcnVNOWxsNEI3ZGhRX2VJNTB0SmpxSGdocDByYkVxRkEtaWcxeG40SUpUSS1jMElEdEE0RnFDQXlYa3RkcWFpcTIwTlBMZUlSVHBCNzZFX1haZ2ZTX2d5TnotYmhxZ0ZjTGYzV0VGQjkxR19mcU43WERPZDhyREZlMFQxSnhkbHFwa1B4c0ZIcVNqZHkzd1NIX3g0bzJWakIwUHZVUmQza3pHVTEyMmRhRUFLbktYQkJkVU9TcGRPSjF2MzhvRG5jcU40MVRkUlVVVEVuZmFXazZhTHhQSENZaDVyRUJ1RQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV0pWQ1d3T3dZT0pFQmxPSUtJUk1PZ1QzNURJZGFXX2JCVWxhOWNMZ3hfSkhydmY4ekx3cWdmVDhIUXJrb0VWd1NWN09uV2d5R2t0UUxpLV9GZ0FQcjd3bW1SbzduR19CemJldkp1LTYydlo3NUlXemxHcTJ5QUVGNDgtb1JYWEE0dXlfVE1paTZLS0d4TFlyb1c4MmFWd1BVVzRhQzBUeDYyZE82WGxBWmp3UXg1SzFmSGFGcVhBMWVhUEV2aTdUajdBM2VLZmVPZXFzcDg4WWJqVmtWMUJtbmQ2bXAxc0k1YzBrRDd0QnB5cXRMTWN30gGLAkFVX3lxTFBNNnVWd2JIQXZSdTZWZHM2Q1gxQnRFNXo3TDhWb0V3RkRTWS1PcnVNOWxsNEI3ZGhRX2VJNTB0SmpxSGdocDByYkVxRkEtaWcxeG40SUpUSS1jMElEdEE0RnFDQXlYa3RkcWFpcTIwTlBMZUlSVHBCNzZFX1haZ2ZTX2d5TnotYmhxZ0ZjTGYzV0VGQjkxR19mcU43WERPZDhyREZlMFQxSnhkbHFwa1B4c0ZIcVNqZHkzd1NIX3g0bzJWakIwUHZVUmQza3pHVTEyMmRhRUFLbktYQkJkVU9TcGRPSjF2MzhvRG5jcU40MVRkUlVVVEVuZmFXazZhTHhQSENZaDVyRUJ1RQ?oc=5\" target=\"_blank\">Trabajo retrasa la publicación del balance de la reforma laboral pese a que los expertos la entregaron hace cuatro meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
+    "fecha": "2026-06-25T03:45:01Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "PAÍS",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "La reforma laboral logra hundir la temporalidad, pero traslada parte de su inestabilidad a la contratación indefinida - El Mundo",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGlUOHFwcFR0UW9FQ0phN041QXpPUlZ0aElvSzRzR0I5ZWw5d2JaZHl0dFRKUTRrVDlib3lEWXVoUUp3WTM0ZGR4RlpkWHJ0akItZkJPQ3UzTWRlajJOUXRlYW1BdUo3YUNjNzZwb29xTjJ4NC1hQUs5T1BMTGd2TVo5RzZxMDJMTWNlMWpDWdIBjwFBVV95cUxNeFY0UEdya0UzUDhlN19FTG1zZjJqdDBjTWJIS01VcTdfaGVtVGtzRW9qRmJGUXFKNHdQSHdzMExtaWRoLTZ2d2xpYzU4WGU1ZGJRNDhQQ09rRFVnOUlkMTlrZ0pWX3hTM0RCQXBLSWpsNHhTQnJJUlNkMjZSYXhQeWpBY1d4OUVrNzVrbEVsdw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGlUOHFwcFR0UW9FQ0phN041QXpPUlZ0aElvSzRzR0I5ZWw5d2JaZHl0dFRKUTRrVDlib3lEWXVoUUp3WTM0ZGR4RlpkWHJ0akItZkJPQ3UzTWRlajJOUXRlYW1BdUo3YUNjNzZwb29xTjJ4NC1hQUs5T1BMTGd2TVo5RzZxMDJMTWNlMWpDWdIBjwFBVV95cUxNeFY0UEdya0UzUDhlN19FTG1zZjJqdDBjTWJIS01VcTdfaGVtVGtzRW9qRmJGUXFKNHdQSHdzMExtaWRoLTZ2d2xpYzU4WGU1ZGJRNDhQQ09rRFVnOUlkMTlrZ0pWX3hTM0RCQXBLSWpsNHhTQnJJUlNkMjZSYXhQeWpBY1d4OUVrNzVrbEVsdw?oc=5\" target=\"_blank\">La reforma laboral logra hundir la temporalidad, pero traslada parte de su inestabilidad a la contratación indefinida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mundo</font>",
@@ -60,16 +70,6 @@ const window_news_data = [
     "ubicacion": "Lisboa"
   },
   {
-    "titulo": "Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso - Newtral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPajR5OF81dG9YcWpKS0pobGk1YUlKT0djUFNObGxKQ2xGOFdROWhCeEhoYTJNSHYybXVnZDZseklXOHVhMXA4TUR0cVA4N3BSOTVqMm1vUEtEaGdKb2FQSldkYV9fMUlIdEdDaldwY0UwSkJFVVhsdmduX3czbHB4MTNhZ0pPcGViTktvMWltLUJPaktFWDlSQVZ5RmpEVGZBX2ctMdIBqgFBVV95cUxPeHlzUFUzY04yODNtWkJkTmJaRXEzMW5Sa191QUdjRHZ0VmloNlNncXduUnlzYlJjNFdYZmIxWlJSb05BY0tmc3FXYldpMU5tcEktWjZ3SWc1YnA5d0lmSUhvRDd1VnNHeUFyVTNRcDZyZ2F6bXJLajRTRm9mN2RnMGgtMnNzNW1ET3FROFVrLU9FcjBHVWxrbUlpekY1VEVSSmJPcGlLblBadw?oc=5\" target=\"_blank\">Sánchez mezcla votos en contra del PP con abstenciones, apoyos y medidas que no se votan en el Congreso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newtral</font>",
-    "fecha": "2026-06-18T10:14:11Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "PP",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "El Parlamento portugués tumba la reforma laboral de Luís Montenegro - Demócrata",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1UyTldZU2RmemNPZGlielhOOHI1Sl8wZWlNS1RPaXhSc0JzOE9mT0U2c055b0xob3UzcUwyVFBTQ0tQZ2JWVUxQWU8zM0lzVmZuZUhSUkNfRDVycWZRSGVSX052bWVxOS1pdndrVFJJemRfblUxQlROc1h5Q1JzVXNabENJT2Z6WUFEZHZMQV9fa1o0RlZ6cFRWWi1XU01KdWpmc9IBqgFBVV95cUxPVTVlSFVndVFVRjdtd3BGMF9HX05GdVMyUFR1d2VORG5xNzZqaVFvNU9qWVdPdm9yeHgyM1pJd3AtZkNIeVJfVzhWRHlZbnhzaDctWFhOZFc1b2VIY2F3cks1MFZqWjU2TV9raGh0WC01RkwteHVfYTctTTBtSmdGX2tjWnF4cFNpNUFMTnUwV3VzblhHWmQwb1BnajNBdjBmTE1TRG5DMTlpZw?oc=5\" target=\"_blank\">El Parlamento portugués tumba la reforma laboral de Luís Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demócrata</font>",
@@ -90,26 +90,6 @@ const window_news_data = [
     "ubicacion": "Periodismo"
   },
   {
-    "titulo": "El Estatuto de los Trabajadores confirma en su artículo 38 qué sucede con los días de vacaciones no disfrutadas - Business Insider España",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNXzRqV19wRHdoUWJnZEZWM1d1RmVLUjlkNkF5TkNhTVBLODNXVWdQanY4LXlFRk1FUVVGaEprOG1DX2cwTHFCdnVrWDNmMVBlVDVrYnJneXZ3WWRnazQ2a2c3bkYyLXFaYlhoR2ZRQjJmdFRySkZ4M2NBVTFfX04xUDhkeUZoWW5ZLU0yZERRNGVIeFlYYjVKTVN2Y3RUTGtiODh1VWFpdUlBb3ZFZVVwTzNxeFQzY0JjS0t5RGNhQXJPblBZX0tIMi03MmtlbUIwaU83TUJtNEY1bWRaVVREY2x6a2dKclRaeHfSAe8BQVVfeXFMUGVLdERWTENVVGt2aFRGWFBpeUp1U2ZyVkUwOE5GSnZfaDFtZ2puT2lYemFkSjBraWJNQjY1SWdiNzJtYUhhdXF4UXdrY2JNR0lwajlEUXpxS2dtNlN3NlRpWUhlWUlUVHNVTDRsUExicFhleHVNSGd4ejBoZmlmbVgzWGhMTml4WFM5dTIzVHNBNXlnaERCUEtvZWlwTkhhX2lwMF9VcjU3a3J0emZockJ3VDRzaldEbjVfZ0JZVHJKYmo0bGFVNDZpTnIyNWFLQmZPSFFueUJHTG8yTE9YY3cxc3hGa1YybnZrWnpNQU0?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNXzRqV19wRHdoUWJnZEZWM1d1RmVLUjlkNkF5TkNhTVBLODNXVWdQanY4LXlFRk1FUVVGaEprOG1DX2cwTHFCdnVrWDNmMVBlVDVrYnJneXZ3WWRnazQ2a2c3bkYyLXFaYlhoR2ZRQjJmdFRySkZ4M2NBVTFfX04xUDhkeUZoWW5ZLU0yZERRNGVIeFlYYjVKTVN2Y3RUTGtiODh1VWFpdUlBb3ZFZVVwTzNxeFQzY0JjS0t5RGNhQXJPblBZX0tIMi03MmtlbUIwaU83TUJtNEY1bWRaVVREY2x6a2dKclRaeHfSAe8BQVVfeXFMUGVLdERWTENVVGt2aFRGWFBpeUp1U2ZyVkUwOE5GSnZfaDFtZ2puT2lYemFkSjBraWJNQjY1SWdiNzJtYUhhdXF4UXdrY2JNR0lwajlEUXpxS2dtNlN3NlRpWUhlWUlUVHNVTDRsUExicFhleHVNSGd4ejBoZmlmbVgzWGhMTml4WFM5dTIzVHNBNXlnaERCUEtvZWlwTkhhX2lwMF9VcjU3a3J0emZockJ3VDRzaldEbjVfZ0JZVHJKYmo0bGFVNDZpTnIyNWFLQmZPSFFueUJHTG8yTE9YY3cxc3hGa1YybnZrWnpNQU0?oc=5\" target=\"_blank\">El Estatuto de los Trabajadores confirma en su artículo 38 qué sucede con los días de vacaciones no disfrutadas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider España</font>",
-    "fecha": "2026-06-21T10:40:00Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "El Parlamento de Portugal rechaza la reforma laboral del primer ministro Luís Montenegro - Forbes España",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalFfcVBzOUVma0dGVlRBdVFQRnNvWV9JT0xGbTBNemZPMmY4TkxVSnB0X0NNS3EyVFpjVUNGb3IybmJWa0wzQmxJdUhYLWp3RzJndFA0UFBUV3JCNkV0SWlncGxmbVFVZG5JODlTeF9HbEV3RUhVZW1fcEQ3dG84UlB1WnBCbzc2OG0xQjFaVUl2anlFcVY2UVpmLVJjdnBxcUthejl4VEN3ZG8xTmJRVGpFVnFLYmg5T1NFZ1NTMnNaWnUz?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNalFfcVBzOUVma0dGVlRBdVFQRnNvWV9JT0xGbTBNemZPMmY4TkxVSnB0X0NNS3EyVFpjVUNGb3IybmJWa0wzQmxJdUhYLWp3RzJndFA0UFBUV3JCNkV0SWlncGxmbVFVZG5JODlTeF9HbEV3RUhVZW1fcEQ3dG84UlB1WnBCbzc2OG0xQjFaVUl2anlFcVY2UVpmLVJjdnBxcUthejl4VEN3ZG8xTmJRVGpFVnFLYmg5T1NFZ1NTMnNaWnUz?oc=5\" target=\"_blank\">El Parlamento de Portugal rechaza la reforma laboral del primer ministro Luís Montenegro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
-    "fecha": "2026-06-19T16:55:27Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Parlamento de Portugal"
-  },
-  {
     "titulo": "Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano - La Razón",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXF2a1hBX1MtQy11UkFleng1TTRjaXpUU19mTkx0TzZpejJpV3Z0Z1BwM3daOTV2YWVMWFRtZUcxZk1KRmE2QTB0QnI4emx3aDdjNC1DTUpJdDM5REtPbHdkU1c3c2U2OW5pZzFJYzZfTXpzNnA3a3V1ZmhVZFVtMWNSWmlmUDZEMHRWR2I3ZFFnVVcyMXVRcDBLM2FuVE1Na0ExaHBxaVJLNlEzQjhEOThLQjhrUjdKN2lKa2RHM2pIS2xjZkJ4enVtZDdxNFBXcDlWeDk0TVRKdndRZEhMWEJlRWlRQl9jVUxQM1hYRkVnLUJORlHSAYoCQVVfeXFMTktROVkyLTBzZ2pIQ1N5Rk0xY2haVnRnMUJuZVRqeC0zejdSMTV0WFczM3E3d296akJOZjYzS2VNTVhwNWF5ei11ekZrSWdIV0lXMHo4VUdCR1ZQR09SdHA3TWVlcGxtMTg1U2V2MTVFdE5lSFVILVlBVXVtOTNWeVFMUlJ0d1N4VFdhQ2g0LWY3b29mcXhROUp0aGluSlp1alJGTXVWWlZ1V2VOYVZ3UTJUM1VjTXZPY05lNjhaYkdlUm52Y2VCb0xJQkVNanUzVVQ2RWdyaGRDdU5uR1dzRnlrZllDZEFSRFVOX2hfZ19mY3RGSEtTcXBVZmIwUThTTkRBU0hUYUZ0V1E?oc=5\" target=\"_blank\">Estos son los cuatro conceptos fundamentales del Estatuto de los Trabajadores sobre tus vacaciones para este verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón</font>",
@@ -118,6 +98,16 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "La Razón"
+  },
+  {
+    "titulo": "El Estatuto de los Trabajadores confirma en su artículo 38 qué sucede con los días de vacaciones no disfrutadas - Business Insider España",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNXzRqV19wRHdoUWJnZEZWM1d1RmVLUjlkNkF5TkNhTVBLODNXVWdQanY4LXlFRk1FUVVGaEprOG1DX2cwTHFCdnVrWDNmMVBlVDVrYnJneXZ3WWRnazQ2a2c3bkYyLXFaYlhoR2ZRQjJmdFRySkZ4M2NBVTFfX04xUDhkeUZoWW5ZLU0yZERRNGVIeFlYYjVKTVN2Y3RUTGtiODh1VWFpdUlBb3ZFZVVwTzNxeFQzY0JjS0t5RGNhQXJPblBZX0tIMi03MmtlbUIwaU83TUJtNEY1bWRaVVREY2x6a2dKclRaeHfSAe8BQVVfeXFMUGVLdERWTENVVGt2aFRGWFBpeUp1U2ZyVkUwOE5GSnZfaDFtZ2puT2lYemFkSjBraWJNQjY1SWdiNzJtYUhhdXF4UXdrY2JNR0lwajlEUXpxS2dtNlN3NlRpWUhlWUlUVHNVTDRsUExicFhleHVNSGd4ejBoZmlmbVgzWGhMTml4WFM5dTIzVHNBNXlnaERCUEtvZWlwTkhhX2lwMF9VcjU3a3J0emZockJ3VDRzaldEbjVfZ0JZVHJKYmo0bGFVNDZpTnIyNWFLQmZPSFFueUJHTG8yTE9YY3cxc3hGa1YybnZrWnpNQU0?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNXzRqV19wRHdoUWJnZEZWM1d1RmVLUjlkNkF5TkNhTVBLODNXVWdQanY4LXlFRk1FUVVGaEprOG1DX2cwTHFCdnVrWDNmMVBlVDVrYnJneXZ3WWRnazQ2a2c3bkYyLXFaYlhoR2ZRQjJmdFRySkZ4M2NBVTFfX04xUDhkeUZoWW5ZLU0yZERRNGVIeFlYYjVKTVN2Y3RUTGtiODh1VWFpdUlBb3ZFZVVwTzNxeFQzY0JjS0t5RGNhQXJPblBZX0tIMi03MmtlbUIwaU83TUJtNEY1bWRaVVREY2x6a2dKclRaeHfSAe8BQVVfeXFMUGVLdERWTENVVGt2aFRGWFBpeUp1U2ZyVkUwOE5GSnZfaDFtZ2puT2lYemFkSjBraWJNQjY1SWdiNzJtYUhhdXF4UXdrY2JNR0lwajlEUXpxS2dtNlN3NlRpWUhlWUlUVHNVTDRsUExicFhleHVNSGd4ejBoZmlmbVgzWGhMTml4WFM5dTIzVHNBNXlnaERCUEtvZWlwTkhhX2lwMF9VcjU3a3J0emZockJ3VDRzaldEbjVfZ0JZVHJKYmo0bGFVNDZpTnIyNWFLQmZPSFFueUJHTG8yTE9YY3cxc3hGa1YybnZrWnpNQU0?oc=5\" target=\"_blank\">El Estatuto de los Trabajadores confirma en su artículo 38 qué sucede con los días de vacaciones no disfrutadas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider España</font>",
+    "fecha": "2026-06-21T10:40:00Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Los bomberos forestales se manifestarán frente al Ministerio de Trabajo para exigir responsabilidades \"antes de que haya que lamentar otra tragedia\" - Servicios Emergencia",
@@ -130,16 +120,6 @@ const window_news_data = [
     "ubicacion": "Ministerio de Trabajo"
   },
   {
-    "titulo": "Confirmado por el Estatuto de los Trabajadores: si trabajas a tiempo parcial, las horas complementarias no se improvisan por Whatsapp - El Periódico de Aragón",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmkwaDZCS3FtNTFlT0pLalJ2bGZSTXFRMlpzNnlBSzZHT2lsaDdfM2J0ZFNBMEhrVlJZM1NSZjVLOVJFd2RfOWYzT0x2WEtJeGhPODVTazFGaGhXb0F6b0RJNUtCWWZvQVQ4VGFnRVQzU2xsTUd1VVMyLXF1REZEcXBYVFd1SEZNMDNBUmhYdEJBVHc0Q0c1bGpfTFBWamJaOVBiazBXZHNPRVgzVDRFVm9wb3RldmRZc3JjUFJn0gHDAUFVX3lxTE9MVHgzUlZwbzNFVjNMQkRlMjRtY0t0djVESlZHcUdGcHViREFFcWlmWG1iREc4YXN2LTdEUVI0a2htU25TTG9CMzR2ZVFzLVdrV2hyeUIyNlBqQmFJWkFaMjl5Xzd1RUFxbFctWEd3NzF1bWl3V2h5VGhDV1cxMGEzanFDZzhjMEFJQ2dkTmZRVWRZVEJZekhXbzNtZHVTZF9vbUJzNzgyRko3Qk1zT2Y3VGo2S25mZklkM3JZWEdOYzl6Zw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmkwaDZCS3FtNTFlT0pLalJ2bGZSTXFRMlpzNnlBSzZHT2lsaDdfM2J0ZFNBMEhrVlJZM1NSZjVLOVJFd2RfOWYzT0x2WEtJeGhPODVTazFGaGhXb0F6b0RJNUtCWWZvQVQ4VGFnRVQzU2xsTUd1VVMyLXF1REZEcXBYVFd1SEZNMDNBUmhYdEJBVHc0Q0c1bGpfTFBWamJaOVBiazBXZHNPRVgzVDRFVm9wb3RldmRZc3JjUFJn0gHDAUFVX3lxTE9MVHgzUlZwbzNFVjNMQkRlMjRtY0t0djVESlZHcUdGcHViREFFcWlmWG1iREc4YXN2LTdEUVI0a2htU25TTG9CMzR2ZVFzLVdrV2hyeUIyNlBqQmFJWkFaMjl5Xzd1RUFxbFctWEd3NzF1bWl3V2h5VGhDV1cxMGEzanFDZzhjMEFJQ2dkTmZRVWRZVEJZekhXbzNtZHVTZF9vbUJzNzgyRko3Qk1zT2Y3VGo2S25mZklkM3JZWEdOYzl6Zw?oc=5\" target=\"_blank\">Confirmado por el Estatuto de los Trabajadores: si trabajas a tiempo parcial, las horas complementarias no se improvisan por Whatsapp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de Aragón</font>",
-    "fecha": "2026-06-18T17:00:31Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "El Estatuto de los Trabajadores y el BOE lo hacen oficial: si trabajas este miércoles 24 junio, festivo local en 14 municipios, recibirás una gran compensación económica a cambio - La Provincia",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTd1aURkajhiV3dXbHpvZzRlb2hoSUZMQl9GZzdYdUJCQ2l3cU9pOTZPS05rejMwTWtCcE1ISUVya29KLWc3M1JKQkRjZlFGZ3FBRm1ZbldBUGV2UU1FVTliSTl6UmN1dW9pOVBmclFWTHdTRHJxNldNSVV2VjE2Q2V2aWVCZzRxdE5nTnBCNVh6LV9tWnotOGc4QlhCc1RwZDVBVjhMdm1xY2pJdzZJZnMtZi1Ga3ptRVNrNGd0NHlpOVVWQTUzUW9RRdIB0AFBVV95cUxPSlZVZUlYdjBVM3hTc193VlMydkp0cWRpYnlEbHlvdHpOU2pIcGJSRXliU3RjeERVWVJDSEI2TDJvNGMtYmlXYUMxWGlOaFBaaUlfVjh1VGRJWkI3c3NCZFVXR2gxM09MMjhyb19jNzVIcExPdUtyZ1BUbHZDeE1ONTJUdFFJTk5ZZ0VrNmYyQ1lXQ2czQkwwd3pEMURCS3BmaTZod2kzNWRVR0tqcFNKZWlQZ0luV0tJb1QtRHlwRkpPYnhqdDNqRFlvXzNKUVhS?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTd1aURkajhiV3dXbHpvZzRlb2hoSUZMQl9GZzdYdUJCQ2l3cU9pOTZPS05rejMwTWtCcE1ISUVya29KLWc3M1JKQkRjZlFGZ3FBRm1ZbldBUGV2UU1FVTliSTl6UmN1dW9pOVBmclFWTHdTRHJxNldNSVV2VjE2Q2V2aWVCZzRxdE5nTnBCNVh6LV9tWnotOGc4QlhCc1RwZDVBVjhMdm1xY2pJdzZJZnMtZi1Ga3ptRVNrNGd0NHlpOVVWQTUzUW9RRdIB0AFBVV95cUxPSlZVZUlYdjBVM3hTc193VlMydkp0cWRpYnlEbHlvdHpOU2pIcGJSRXliU3RjeERVWVJDSEI2TDJvNGMtYmlXYUMxWGlOaFBaaUlfVjh1VGRJWkI3c3NCZFVXR2gxM09MMjhyb19jNzVIcExPdUtyZ1BUbHZDeE1ONTJUdFFJTk5ZZ0VrNmYyQ1lXQ2czQkwwd3pEMURCS3BmaTZod2kzNWRVR0tqcFNKZWlQZ0luV0tJb1QtRHlwRkpPYnhqdDNqRFlvXzNKUVhS?oc=5\" target=\"_blank\">El Estatuto de los Trabajadores y el BOE lo hacen oficial: si trabajas este miércoles 24 junio, festivo local en 14 municipios, recibirás una gran compensación económica a cambio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Provincia</font>",
@@ -150,14 +130,34 @@ const window_news_data = [
     "ubicacion": "La Provincia"
   },
   {
-    "titulo": "Finaliza el programa 'Jóvenes Gestores de Recursos Humanos' del que han formado parte quince personas realizando prácticas profesionales durante un año en el consistorio - ayto-aljaraque.es",
-    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPS01fcUNUaFpQa2dUSHNCX3h4Y09uT3F0aVF1LUtHVUhfeUVDREhLbXpxZ3psNlJqalZpOXUyNVZSSF9KWjJRaEg0bUc1LThLMGtfMkZHUlhFT041X3FmeVNhYzhaNGxyamR5eF9FNG9zZEhpeUpWdm90TmpIdEVsc1pzT2x5bWd2SFdrbkY0YWttOTJGMjBSSExNaFlzazlXdkJ1V1dPcG9sRzY3dmtmNFJ3MV81TDh5bzJObzItb0RQNks4QkRQVDJnc3pyTUYyanJ4UnRDOUw2S3dmd3ZhLUZfU2hLaFRjTVB0NGRVNUZmTkFpN003Q09CM0w1a0tyVGVqOWFqSHpKRFRWN2xkYVNLWnlTc0o3MFY3Mk1uQmVXYXYxS2pZR3RVdGpBbkVoYTZ4Q285M1dhNW1JVDdIVndvMzdFUnhZeXNwR1h6ekFOVzZUb1J0YmhvQ0hBdG8xNTg1alFCZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPS01fcUNUaFpQa2dUSHNCX3h4Y09uT3F0aVF1LUtHVUhfeUVDREhLbXpxZ3psNlJqalZpOXUyNVZSSF9KWjJRaEg0bUc1LThLMGtfMkZHUlhFT041X3FmeVNhYzhaNGxyamR5eF9FNG9zZEhpeUpWdm90TmpIdEVsc1pzT2x5bWd2SFdrbkY0YWttOTJGMjBSSExNaFlzazlXdkJ1V1dPcG9sRzY3dmtmNFJ3MV81TDh5bzJObzItb0RQNks4QkRQVDJnc3pyTUYyanJ4UnRDOUw2S3dmd3ZhLUZfU2hLaFRjTVB0NGRVNUZmTkFpN003Q09CM0w1a0tyVGVqOWFqSHpKRFRWN2xkYVNLWnlTc0o3MFY3Mk1uQmVXYXYxS2pZR3RVdGpBbkVoYTZ4Q285M1dhNW1JVDdIVndvMzdFUnhZeXNwR1h6ekFOVzZUb1J0YmhvQ0hBdG8xNTg1alFCZw?oc=5\" target=\"_blank\">Finaliza el programa 'Jóvenes Gestores de Recursos Humanos' del que han formado parte quince personas realizando prácticas profesionales durante un año en el consistorio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ayto-aljaraque.es</font>",
-    "fecha": "2026-06-18T09:36:49Z",
+    "titulo": "El Estatuto de los Trabajadores lo hace oficial: cuatro días de permiso retribuido por olas de calor y episodios prolongados de altas temperaturas - Eldía",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGZXWlNucGNfY0FNRmFoekJXT05zOGpLTUN5XzI2UEVSWmdfNVlISkw3N2VTVFZYcmNDZmN6Mjc2b2lHZVUyMXZVNVY4ekQtSmhLZktjblhnbDB0bHhFRU9mZW5Jd01aMktlSU0yTzJnQ3dSd0duZGlMVmY5M1hOcnlFbkkyOUp2Smh6MVhDTndNS0M3bHJZZlBlWXlSZ9IBowFBVV95cUxPUWQ4U3lvY2JxSm81SUY4em54djhOdkVqMzJpdHB1dElkemYxdlIyeFFVOXJ4Rk9saHQxbnFlUVM4QnEyWkdObnk5UmJjX0o5RndOanJiYjRyV3FRbnItTUdlTU5oaDRmMnFNOHVQcllKMGNBcHdsanY0MllCN3kybXZzY2l1SVV2aHJZcHBmMXZqc0JTMnhCeHdaNnZ5Q3hOTENB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdGZXWlNucGNfY0FNRmFoekJXT05zOGpLTUN5XzI2UEVSWmdfNVlISkw3N2VTVFZYcmNDZmN6Mjc2b2lHZVUyMXZVNVY4ekQtSmhLZktjblhnbDB0bHhFRU9mZW5Jd01aMktlSU0yTzJnQ3dSd0duZGlMVmY5M1hOcnlFbkkyOUp2Smh6MVhDTndNS0M3bHJZZlBlWXlSZ9IBowFBVV95cUxPUWQ4U3lvY2JxSm81SUY4em54djhOdkVqMzJpdHB1dElkemYxdlIyeFFVOXJ4Rk9saHQxbnFlUVM4QnEyWkdObnk5UmJjX0o5RndOanJiYjRyV3FRbnItTUdlTU5oaDRmMnFNOHVQcllKMGNBcHdsanY0MllCN3kybXZzY2l1SVV2aHJZcHBmMXZqc0JTMnhCeHdaNnZ5Q3hOTENB?oc=5\" target=\"_blank\">El Estatuto de los Trabajadores lo hace oficial: cuatro días de permiso retribuido por olas de calor y episodios prolongados de altas temperaturas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eldía</font>",
+    "fecha": "2026-06-23T10:05:16Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "PORTUGAL. Tras dos huelgas generales, el Parlamento dijo no a la reforma laboral propuesta por el Gobierno - insurgente.org",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0hDMzFiR2pSTk5ybTFDRW8zaEY2VVlpT1hQQnZ2QmQwZzVDMXMxQUlLbldPUmpWZWJIRWU1NkJ5alJWVjBPbC1manR2MnljSXZWWkxMUlRUT3FMcE9Bd2hNUldrR1J6cmU4cnF6QWZ0WThtZ0Nrb3dKNEIzRXpnY3dyNnI2MlM3dzFaNUhsWnV6ODVrMU1HSWJMTXBRdGJDSlhlMU5iWGotN3htbHRVQS1BSXZObnBsbHRrSllmbzluNDdVZHBV?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0hDMzFiR2pSTk5ybTFDRW8zaEY2VVlpT1hQQnZ2QmQwZzVDMXMxQUlLbldPUmpWZWJIRWU1NkJ5alJWVjBPbC1manR2MnljSXZWWkxMUlRUT3FMcE9Bd2hNUldrR1J6cmU4cnF6QWZ0WThtZ0Nrb3dKNEIzRXpnY3dyNnI2MlM3dzFaNUhsWnV6ODVrMU1HSWJMTXBRdGJDSlhlMU5iWGotN3htbHRVQS1BSXZObnBsbHRrSllmbzluNDdVZHBV?oc=5\" target=\"_blank\">PORTUGAL. Tras dos huelgas generales, el Parlamento dijo no a la reforma laboral propuesta por el Gobierno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insurgente.org</font>",
+    "fecha": "2026-06-24T12:09:01Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Parlamento",
+    "ubicacion": "PORTUGAL"
+  },
+  {
+    "titulo": "La Diputación de Sevilla impulsa el debate sobre la captación del talento y la modernización del capital humano en las administraciones públicas - dipusevilla.es",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRWxkVk1uSlNWNEFhWlBYQnhubW1CVTNiYUNVd0Vkbng4ZnR0LWxDaWJnUWhsSmxVZWRDUTg2dWVrU1NNcDlKOVB3RThQWS1QWGo0elMzZ2h6V0JFTFdjSm1sd1hVYlRzcHhlTU42dW5PakdyTkpPNzkxZ1pneHhRUU1teXVmRGg1S1JXci1Lcnh1RWg5M0tFcWhub1RaOUtfZWx5LW1MQUVYZl9HRWd1VkNIUlptT3pqZTVsR2tQQzdEc3pYbXRzQzMzTjExOWY1RXh3SU9XR3h2SFBPdkdNZHhGRklRUnJsT1pPUE5JUkRDUHBqdE9tYzN3Z2ZiQUZ0SWx5RHFieXBmX19VWDMyUFJsTG9lWk5hSC12SVl1cw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPRWxkVk1uSlNWNEFhWlBYQnhubW1CVTNiYUNVd0Vkbng4ZnR0LWxDaWJnUWhsSmxVZWRDUTg2dWVrU1NNcDlKOVB3RThQWS1QWGo0elMzZ2h6V0JFTFdjSm1sd1hVYlRzcHhlTU42dW5PakdyTkpPNzkxZ1pneHhRUU1teXVmRGg1S1JXci1Lcnh1RWg5M0tFcWhub1RaOUtfZWx5LW1MQUVYZl9HRWd1VkNIUlptT3pqZTVsR2tQQzdEc3pYbXRzQzMzTjExOWY1RXh3SU9XR3h2SFBPdkdNZHhGRklRUnJsT1pPUE5JUkRDUHBqdE9tYzN3Z2ZiQUZ0SWx5RHFieXBmX19VWDMyUFJsTG9lWk5hSC12SVl1cw?oc=5\" target=\"_blank\">La Diputación de Sevilla impulsa el debate sobre la captación del talento y la modernización del capital humano en las administraciones públicas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dipusevilla.es</font>",
+    "fecha": "2026-06-25T10:54:25Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
-    "empresa": "Jóvenes Gestores de Recursos Humanos",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Diputación"
   },
   {
     "titulo": "XVI Conferencia Científica de Investigación en Psicología de Recursos Humanos - uv.es",
@@ -170,14 +170,44 @@ const window_news_data = [
     "ubicacion": "Psicología de Recursos Humanos"
   },
   {
-    "titulo": "Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas - Huelva Buenas Noticias",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGdGSVg5TTQ3Wml5X2JlYS01MDRiS1BtY3ZLMWI1d2ZyTjJyTVhFR0hDTm9HNnpPa3h5R2NtNUN1ZnFHZVBWZGZCZ2gxMUZTSDFrTDdmdU5YTEwxNVdHVXh6d2ZSbWFpNVk0VXh5UEVheHFIcktsMTRuR0ZjRDhjMVBCMnQ1bzBEbW9HSWhaczlteVh4OThkU2ExeFdpNW90LWNYeTBNUzA?oc=5\" target=\"_blank\">Quince jóvenes finalizan en Aljaraque un programa de formación en recursos humanos con prácticas remuneradas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huelva Buenas Noticias</font>",
-    "fecha": "2026-06-18T12:23:06Z",
+    "titulo": "Sagardoy. “La Directiva Europea de Transparencia Salarial y su impacto en la función de Recursos Humanos” - CEOE",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1JHUFFGWXdLaTlSYW1sdHVyTHRURkp1OW1JdnBrTmlyTVo0dVhzeTd6ejlRY2R4eHZ5cE5qcFpqYzFkMXNlVndsdjRTOWh1b3otRWVOcVBsR3BUNjV3cnJjakhBS3JRSmF0bUs5eW04Y3BJN2JPWk9GVmUyNkRLRUpBSUwtSElSbV9BU2U4U0llemVDZi1UMkhBNHBsUGFDb2tiUzZILV80Wmg5YU5Jc3lXeXhHME9aQmpLTA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1JHUFFGWXdLaTlSYW1sdHVyTHRURkp1OW1JdnBrTmlyTVo0dVhzeTd6ejlRY2R4eHZ5cE5qcFpqYzFkMXNlVndsdjRTOWh1b3otRWVOcVBsR3BUNjV3cnJjakhBS3JRSmF0bUs5eW04Y3BJN2JPWk9GVmUyNkRLRUpBSUwtSElSbV9BU2U4U0llemVDZi1UMkhBNHBsUGFDb2tiUzZILV80Wmg5YU5Jc3lXeXhHME9aQmpLTA?oc=5\" target=\"_blank\">Sagardoy. “La Directiva Europea de Transparencia Salarial y su impacto en la función de Recursos Humanos”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEOE</font>",
+    "fecha": "2026-06-25T03:14:42Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Directiva Europea de Transparencia Salarial",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "La graduación de Relacións Laborais e Recursos Humanos - La Voz de Galicia",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZDU2WGlHSElKNFEzVzcwc2hXV3RXTUE4ME1sWFdnVy0tX2xuVDRJd1M2RTZERmlXRE5BZlBZc1VFY1RGUkNrcXJtN1RDREhFQU5TOXAzRVRRbmNUeXBQUG9pQXZhTUtQcC1tejFnQmd5MFRWQjk5TmhCMnNtanRvcGJ4ekFtNkppUVpJWTk5OTlQTTl1eURQQTdBNmdnNW42ekRGNFdoNlh1VmxaazlSQWhCOHB1MVBhd3R0NUtRbmFiYVNRVnRSakJBMHZYaUstZWF1WGUzRUxZN3BFaGR4eUYxTVJiWElYLUtTWlVqZ9IB7wFBVV95cUxOZDU2WGlHSElKNFEzVzcwc2hXV3RXTUE4ME1sWFdnVy0tX2xuVDRJd1M2RTZERmlXRE5BZlBZc1VFY1RGUkNrcXJtN1RDREhFQU5TOXAzRVRRbmNUeXBQUG9pQXZhTUtQcC1tejFnQmd5MFRWQjk5TmhCMnNtanRvcGJ4ekFtNkppUVpJWTk5OTlQTTl1eURQQTdBNmdnNW42ekRGNFdoNlh1VmxaazlSQWhCOHB1MVBhd3R0NUtRbmFiYVNRVnRSakJBMHZYaUstZWF1WGUzRUxZN3BFaGR4eUYxTVJiWElYLUtTWlVqZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZDU2WGlHSElKNFEzVzcwc2hXV3RXTUE4ME1sWFdnVy0tX2xuVDRJd1M2RTZERmlXRE5BZlBZc1VFY1RGUkNrcXJtN1RDREhFQU5TOXAzRVRRbmNUeXBQUG9pQXZhTUtQcC1tejFnQmd5MFRWQjk5TmhCMnNtanRvcGJ4ekFtNkppUVpJWTk5OTlQTTl1eURQQTdBNmdnNW42ekRGNFdoNlh1VmxaazlSQWhCOHB1MVBhd3R0NUtRbmFiYVNRVnRSakJBMHZYaUstZWF1WGUzRUxZN3BFaGR4eUYxTVJiWElYLUtTWlVqZ9IB7wFBVV95cUxOZDU2WGlHSElKNFEzVzcwc2hXV3RXTUE4ME1sWFdnVy0tX2xuVDRJd1M2RTZERmlXRE5BZlBZc1VFY1RGUkNrcXJtN1RDREhFQU5TOXAzRVRRbmNUeXBQUG9pQXZhTUtQcC1tejFnQmd5MFRWQjk5TmhCMnNtanRvcGJ4ekFtNkppUVpJWTk5OTlQTTl1eURQQTdBNmdnNW42ekRGNFdoNlh1VmxaazlSQWhCOHB1MVBhd3R0NUtRbmFiYVNRVnRSakJBMHZYaUstZWF1WGUzRUxZN3BFaGR4eUYxTVJiWElYLUtTWlVqZw?oc=5\" target=\"_blank\">La graduación de Relacións Laborais e Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
+    "fecha": "2026-06-25T03:00:00Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
-    "ubicacion": "Aljaraque"
+    "ubicacion": "Recursos Humanos"
+  },
+  {
+    "titulo": "Paz Galán, nueva directora de Recursos Humanos de Gruposiete - Factor Humano",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSjFISHp4UHI1VHlHLVBoLWtxeWkwdEc1cUd0OEJoTkM1UWpnNzBaTjA2cThiQ3J2czJHZ1dpbGROZVE2dDJXd1pESF9aNW1GNVlYamVKWGxaOVF6MXozY0dySzdBZkE5bzh4WGpTLWVwYkRUNE9WOWtMTQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSjFISHp4UHI1VHlHLVBoLWtxeWkwdEc1cUd0OEJoTkM1UWpnNzBaTjA2cThiQ3J2czJHZ1dpbGROZVE2dDJXd1pESF9aNW1GNVlYamVKWGxaOVF6MXozY0dySzdBZkE5bzh4WGpTLWVwYkRUNE9WOWtMTQ?oc=5\" target=\"_blank\">Paz Galán, nueva directora de Recursos Humanos de Gruposiete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Factor Humano</font>",
+    "fecha": "2026-06-25T08:17:05Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "La IA y el futuro de los recursos humanos: cuando la tecnología también debe cuidar a las personas - Prevención Integral & ORP Conference |",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXZNcVQ0dnNsVmZKUmxydGJ4VmlyMFZFcVNoYU02S2pPZ0F3UENJUF91dml5Yk9GUDRXcG5zVmlSMkFzeXFZZHR1UjFiTFg3blUzOHFvcC1HY2tSNzVZbENieGxCSkNDV1NMZG90UHV3a21yMV95alIyaG9wOHV6NnBIS3dobk1DQjFLT1FzMDZROVpodHF5cVZmM0FJVzVVLXY0WE5YODNpWmpsSmFWM3FaVnFnRUlhWlE0cWtIMGhEdDdIY2d3bzJYd05LYnRqcnEzcTR3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXZNcVQ0dnNsVmZKUmxydGJ4VmlyMFZFcVNoYU02S2pPZ0F3UENJUF91dml5Yk9GUDRXcG5zVmlSMkFzeXFZZHR1UjFiTFg3blUzOHFvcC1HY2tSNzVZbENieGxCSkNDV1NMZG90UHV3a21yMV95alIyaG9wOHV6NnBIS3dobk1DQjFLT1FzMDZROVpodHF5cVZmM0FJVzVVLXY0WE5YODNpWmpsSmFWM3FaVnFnRUlhWlE0cWtIMGhEdDdIY2d3bzJYd05LYnRqcnEzcTR3?oc=5\" target=\"_blank\">La IA y el futuro de los recursos humanos: cuando la tecnología también debe cuidar a las personas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prevención Integral & ORP Conference |</font>",
+    "fecha": "2026-06-24T22:06:52Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Entrevista a Paola Olmedo, directora del Máster de Recursos Humanos de la UE - Europea Media",
@@ -190,16 +220,6 @@ const window_news_data = [
     "ubicacion": "Máster de Recursos Humanos de la UE"
   },
   {
-    "titulo": "Los sindicatos denuncian que \"los recursos humanos del Ayuntamiento de Jerez se caen a pedazos\" - Cadena SER",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORnJZSENaZGZOaWZhbV9nTE0wQ2h2cTBBbVFmdjNvWVNGSFNYMjBLNTFMMVNObFNadlFhRFpiNVZZQkZEYTJqNDAza3l2Nml4dXl3VHFHc3BNei1tQS03SjZjaUl3VXAtTjBJUHBOYWhmVDFSR0ltVEQtM1hvek45MkRKUkItMGt0VEJEWVRtbWc5dS0wOHVZYzliRUZaT1Z0Q0l0YThsYW11a1JZVHZkVlVvZU1ScmJyYjJFYzFKallIRGdVSG5SZnhwXzJyQTRLLU1wR0Vackpjb3FSYnVhemxBSdIB9wFBVV95cUxPSzJVVVQ0QlFwTnFydWQwUHMwR1V5VkFDQzhha0RKRm5CQlg3QzlhQzZZek93a2ZFOHNnanhMSWk4WVFhWklqXzNZZmZaNVpPaDJLeThuNVp3bjNYQWJSQ0l4Qmp2dGRGMElwYWhkVlQtaW1sbU1HZUNIM0xmNm5FaExtdjY5OC1HUjBvS3FjVWRNVjhZd3JrX3dleXAzZFNqMXlPRlI4UHFuWWZlTGU4dWR2SmdLbzNIVFVUMHFfR01nR01vVW01cnNPV0xPNENyY3FGSmZGM1hkZTVQVEtMVWJGSkFOblA1RWsxM01tWkdDWk5UYnJr?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORnJZSENaZGZOaWZhbV9nTE0wQ2h2cTBBbVFmdjNvWVNGSFNYMjBLNTFMMVNObFNadlFhRFpiNVZZQkZEYTJqNDAza3l2Nml4dXl3VHFHc3BNei1tQS03SjZjaUl3VXAtTjBJUHBOYWhmVDFSR0ltVEQtM1hvek45MkRKUkItMGt0VEJEWVRtbWc5dS0wOHVZYzliRUZaT1Z0Q0l0YThsYW11a1JZVHZkVlVvZU1ScmJyYjJFYzFKallIRGdVSG5SZnhwXzJyQTRLLU1wR0Vackpjb3FSYnVhemxBSdIB9wFBVV95cUxPSzJVVVQ0QlFwTnFydWQwUHMwR1V5VkFDQzhha0RKRm5CQlg3QzlhQzZZek93a2ZFOHNnanhMSWk4WVFhWklqXzNZZmZaNVpPaDJLeThuNVp3bjNYQWJSQ0l4Qmp2dGRGMElwYWhkVlQtaW1sbU1HZUNIM0xmNm5FaExtdjY5OC1HUjBvS3FjVWRNVjhZd3JrX3dleXAzZFNqMXlPRlI4UHFuWWZlTGU4dWR2SmdLbzNIVFVUMHFfR01nR01vVW01cnNPV0xPNENyY3FGSmZGM1hkZTVQVEtMVWJGSkFOblA1RWsxM01tWkdDWk5UYnJr?oc=5\" target=\"_blank\">Los sindicatos denuncian que \"los recursos humanos del Ayuntamiento de Jerez se caen a pedazos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
-    "fecha": "2026-06-24T04:21:33Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Cadena SER",
-    "ubicacion": "Ayuntamiento de Jerez"
-  },
-  {
     "titulo": "Diversidad, inclusión y la honestidad que necesitamos en Recursos Humanos - RRHHDigital",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjY3aTFsUHJDN3dEMFlXc2JDLUVDbzNxRlJkdHNFa1RuNG5FcEZJZlNXNXl6dGVzcHF3UHlLWGUtOUhuNUZnUHhTbHVlb1RtSC1fRlJQdTd6ZHJKSGU2eDc3NGF0bWJXbHcxX3p0U1NGQUkxRmxhSk92X1ROUmVidE5LbTdEdFV6WVpyc1IyWFpUZzl4aW5oWGgtd0RMQmIxVzU3ZEpGR3hNelIyc0E4eDhid2lnMGo4MlE?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjY3aTFsUHJDN3dEMFlXc2JDLUVDbzNxRlJkdHNFa1RuNG5FcEZJZlNXNXl6dGVzcHF3UHlLWGUtOUhuNUZnUHhTbHVlb1RtSC1fRlJQdTd6ZHJKSGU2eDc3NGF0bWJXbHcxX3p0U1NGQUkxRmxhSk92X1ROUmVidE5LbTdEdFV6WVpyc1IyWFpUZzl4aW5oWGgtd0RMQmIxVzU3ZEpGR3hNelIyc0E4eDhid2lnMGo4MlE?oc=5\" target=\"_blank\">Diversidad, inclusión y la honestidad que necesitamos en Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RRHHDigital</font>",
@@ -208,6 +228,26 @@ const window_news_data = [
     "categoria": "Mercado",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Directivos y expertos analizan en El Tormes los desafíos de la Inteligencia Artificial en la gestión de personas (Fotos) - SALAMANCArtv AL DÍA",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmxqd1ctTldIUlY5Y01lSHpPSW5WYnRGLWdmeEl5QXFwbC1kYjV6X1YtN0Y0Y0trVVZhM2ZKVEdFYTZiMDVUS0VJZ0JrLXFJQmVMZk56Y2tiTEp2bU1qcDExZ0lxNkFLSDVpVU10c1V3N1diV3dLekNIRHZhWVpxeTQ3QjNkVjVySTdjdWg0b1g5QmFHOFFpOGs3dUxDMm0wWV9TMlJISWVLR3RtUjEtM29Xa0ZKemhKRHplVjlHQUlvTFVZRUhLMmZfdkx2TFJDVWtIR0VVVnBNZmJXclpFR2FabW5zUzBnU0tQSkp3WnJDZF84b3VPYmQ4eHI0a0RNWmtZ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmxqd1ctTldIUlY5Y01lSHpPSW5WYnRGLWdmeEl5QXFwbC1kYjV6X1YtN0Y0Y0trVVZhM2ZKVEdFYTZiMDVUS0VJZ0JrLXFJQmVMZk56Y2tiTEp2bU1qcDExZ0lxNkFLSDVpVU10c1V3N1diV3dLekNIRHZhWVpxeTQ3QjNkVjVySTdjdWg0b1g5QmFHOFFpOGs3dUxDMm0wWV9TMlJISWVLR3RtUjEtM29Xa0ZKemhKRHplVjlHQUlvTFVZRUhLMmZfdkx2TFJDVWtIR0VVVnBNZmJXclpFR2FabW5zUzBnU0tQSkp3WnJDZF84b3VPYmQ4eHI0a0RNWmtZ?oc=5\" target=\"_blank\">Directivos y expertos analizan en El Tormes los desafíos de la Inteligencia Artificial en la gestión de personas (Fotos)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SALAMANCArtv AL DÍA</font>",
+    "fecha": "2026-06-24T17:30:00Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "El Tormes"
+  },
+  {
+    "titulo": "Los sindicatos denuncian que \"los recursos humanos del Ayuntamiento de Jerez se caen a pedazos\" - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORnJZSENaZGZOaWZhbV9nTE0wQ2h2cTBBbVFmdjNvWVNGSFNYMjBLNTFMMVNObFNadlFhRFpiNVZZQkZEYTJqNDAza3l2Nml4dXl3VHFHc3BNei1tQS03SjZjaUl3VXAtTjBJUHBOYWhmVDFSR0ltVEQtM1hvek45MkRKUkItMGt0VEJEWVRtbWc5dS0wOHVZYzliRUZaT1Z0Q0l0YThsYW11a1JZVHZkVlVvZU1ScmJyYjJFYzFKallIRGdVSG5SZnhwXzJyQTRLLU1wR0Vackpjb3FSYnVhemxBSdIB9wFBVV95cUxPSzJVVVQ0QlFwTnFydWQwUHMwR1V5VkFDQzhha0RKRm5CQlg3QzlhQzZZek93a2ZFOHNnanhMSWk4WVFhWklqXzNZZmZaNVpPaDJLeThuNVp3bjNYQWJSQ0l4Qmp2dGRGMElwYWhkVlQtaW1sbU1HZUNIM0xmNm5FaExtdjY5OC1HUjBvS3FjVWRNVjhZd3JrX3dleXAzZFNqMXlPRlI4UHFuWWZlTGU4dWR2SmdLbzNIVFVUMHFfR01nR01vVW01cnNPV0xPNENyY3FGSmZGM1hkZTVQVEtMVWJGSkFOblA1RWsxM01tWkdDWk5UYnJr?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORnJZSENaZGZOaWZhbV9nTE0wQ2h2cTBBbVFmdjNvWVNGSFNYMjBLNTFMMVNObFNadlFhRFpiNVZZQkZEYTJqNDAza3l2Nml4dXl3VHFHc3BNei1tQS03SjZjaUl3VXAtTjBJUHBOYWhmVDFSR0ltVEQtM1hvek45MkRKUkItMGt0VEJEWVRtbWc5dS0wOHVZYzliRUZaT1Z0Q0l0YThsYW11a1JZVHZkVlVvZU1ScmJyYjJFYzFKallIRGdVSG5SZnhwXzJyQTRLLU1wR0Vackpjb3FSYnVhemxBSdIB9wFBVV95cUxPSzJVVVQ0QlFwTnFydWQwUHMwR1V5VkFDQzhha0RKRm5CQlg3QzlhQzZZek93a2ZFOHNnanhMSWk4WVFhWklqXzNZZmZaNVpPaDJLeThuNVp3bjNYQWJSQ0l4Qmp2dGRGMElwYWhkVlQtaW1sbU1HZUNIM0xmNm5FaExtdjY5OC1HUjBvS3FjVWRNVjhZd3JrX3dleXAzZFNqMXlPRlI4UHFuWWZlTGU4dWR2SmdLbzNIVFVUMHFfR01nR01vVW01cnNPV0xPNENyY3FGSmZGM1hkZTVQVEtMVWJGSkFOblA1RWsxM01tWkdDWk5UYnJr?oc=5\" target=\"_blank\">Los sindicatos denuncian que \"los recursos humanos del Ayuntamiento de Jerez se caen a pedazos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
+    "fecha": "2026-06-24T04:21:33Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Cadena SER",
+    "ubicacion": "Ayuntamiento de Jerez"
   },
   {
     "titulo": "Renovación y selección de directores (2025) - Comunidad de Madrid |",
@@ -240,24 +280,14 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Directivos y expertos analizan en El Tormes los desafíos de la Inteligencia Artificial en la gestión de personas (Fotos) - SALAMANCArtv AL DÍA",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRDRxRUdXR21rb3hUU2FjVzBDRGQyWDVMclhUS0dlX1Etci1mYVpZaGx5X3RBcWE0Ump6eGc3S25kWm1wd2diZXg5MzR0ZE9kYjllQngxRUp3SnBaaDhLR0FyaGprNHBNYlI1cDFJVDJtYmtwdmtlNy1fUTIxd0tGUnpaVjNtNXdib2ROTmVMU1lRc2JxdHJldkVsS19MQkYySXptMzFBaHk5dDNfM3lDUWhWOHoxd1lZY29INk1RN3dTU2ZNME9RMmV5ZXFqYkdJY2phYWZQaTdHMjR5R1ZlSW9VVktCUzdUeFNLZ3lyN2hoQ2VjcFpXemRCZWZsYmg2Ui1JUmR1ZmVlYzA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRDRxRUdXR21rb3hUU2FjVzBDRGQyWDVMclhUS0dlX1Etci1mYVpZaGx5X3RBcWE0Ump6eGc3S25kWm1wd2diZXg5MzR0ZE9kYjllQngxRUp3SnBaaDhLR0FyaGprNHBNYlI1cDFJVDJtYmtwdmtlNy1fUTIxd0tGUnpaVjNtNXdib2ROTmVMU1lRc2JxdHJldkVsS19MQkYySXptMzFBaHk5dDNfM3lDUWhWOHoxd1lZY29INk1RN3dTU2ZNME9RMmV5ZXFqYkdJY2phYWZQaTdHMjR5R1ZlSW9VVktCUzdUeFNLZ3lyN2hoQ2VjcFpXemRCZWZsYmg2Ui1JUmR1ZmVlYzA?oc=5\" target=\"_blank\">Directivos y expertos analizan en El Tormes los desafíos de la Inteligencia Artificial en la gestión de personas (Fotos)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SALAMANCArtv AL DÍA</font>",
-    "fecha": "2026-06-24T17:30:00Z",
+    "titulo": "Inforges y la cátedra Dirección Humana de la UMU abordan cómo afectará la IA en los Recursos Humanos - Murciadiario",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXFrWXU0LVhzQ0o2RzBVZDlELTJnT1cxQ1JFeFBsTzNUaldBOG5VMmRYY3ZNMGxiZzFrNDZkQ3M0YmI1LXlySVNOSWdsVEQxdzI1V3dxVFdYa2ZPNGtzTU5Yc3NwVDRDQTloTjhQdlRrajhvZFY1Ql9mNEV3WEZGMURhcGRWN01VTFhoYklfTzhWQVZkd3BLVWdtcU5XOUtiOFdKdnR6WU9yaHNfOWlPdHVJbzYxMUFfVktXNVc5ejlMbU5jMHUyWEJ3M2Vjc3dwMkN4RVk5SGNUZlhzRk5fdDAxSGR6TFBGeWJfbzhjZWQ0TEZqVlQyWXg0czVQeS05S0xQUkZtWWVVbHkyUE05bmpyRW1jQzk1Qk5N0gGgAkFVX3lxTE5qbXoweDA0TmdpZHNLei01cV96Y0RmdnhWc3E5OGpFRENvNWx2TU1wSDh2OVZWSnE1WDZSVXJkM3hHeU9WYkg1Sjc4QURBRFAzLTIyUTAxOWcwU0cwaHdlUUZ5V3VrUFBHOGg0TVdIMGV6UkFfc2hnUkRXVTNkb0I0QlBOeDFFdDhIQXRtY3NuUTM5STRGOVo2TlZoaWdqMXA3VkQ1SHgzM2wyOWxVanNkUU9iMUdMOUZTZWJQQXpNa1NuczRob0NfSEtwZzQ2MmNzWUNic0NvZWszV1MtN0VaSFlFc1lCNVRiOE9SMllwdVBTS0RIRUZVbTRvT182dG4yUTZIQUpvSnpRN3g1Zi12QU5DUnRXakgzRUVGV0p2Yw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXFrWXU0LVhzQ0o2RzBVZDlELTJnT1cxQ1JFeFBsTzNUaldBOG5VMmRYY3ZNMGxiZzFrNDZkQ3M0YmI1LXlySVNOSWdsVEQxdzI1V3dxVFdYa2ZPNGtzTU5Yc3NwVDRDQTloTjhQdlRrajhvZFY1Ql9mNEV3WEZGMURhcGRWN01VTFhoYklfTzhWQVZkd3BLVWdtcU5XOUtiOFdKdnR6WU9yaHNfOWlPdHVJbzYxMUFfVktXNVc5ejlMbU5jMHUyWEJ3M2Vjc3dwMkN4RVk5SGNUZlhzRk5fdDAxSGR6TFBGeWJfbzhjZWQ0TEZqVlQyWXg0czVQeS05S0xQUkZtWWVVbHkyUE05bmpyRW1jQzk1Qk5N0gGgAkFVX3lxTE5qbXoweDA0TmdpZHNLei01cV96Y0RmdnhWc3E5OGpFRENvNWx2TU1wSDh2OVZWSnE1WDZSVXJkM3hHeU9WYkg1Sjc4QURBRFAzLTIyUTAxOWcwU0cwaHdlUUZ5V3VrUFBHOGg0TVdIMGV6UkFfc2hnUkRXVTNkb0I0QlBOeDFFdDhIQXRtY3NuUTM5STRGOVo2TlZoaWdqMXA3VkQ1SHgzM2wyOWxVanNkUU9iMUdMOUZTZWJQQXpNa1NuczRob0NfSEtwZzQ2MmNzWUNic0NvZWszV1MtN0VaSFlFc1lCNVRiOE9SMllwdVBTS0RIRUZVbTRvT182dG4yUTZIQUpvSnpRN3g1Zi12QU5DUnRXakgzRUVGV0p2Yw?oc=5\" target=\"_blank\">Inforges y la cátedra Dirección Humana de la UMU abordan cómo afectará la IA en los Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Murciadiario</font>",
+    "fecha": "2026-06-20T05:17:26Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "El Tormes"
-  },
-  {
-    "titulo": "ASPE mantendrá una agenda activa con Sanidad sobre recursos humanos y reclama soluciones alejadas de la ideología - Infosalus",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVBOai1aOHZ2OEJlSVd5Z2JhN21KU3NEa250eDN6dXZGSF9OQ3pmSEJXUXZlaHE0ZXg3VnlJWk1aQXV2VVpCTHRVVHRkV2VfaE92dUtiNUN6OGtSUmR3ZjktV3RYQ3U2WXU0V1ZfWHRIdmVrdGlFM0pGbm1IZmFVb1BNN2lPNmJJazhyZjhvT2F6eG9kMGJEaE1FMG5VVUZoMEY2V0RnYUZxRjh0ZXFWclotZFBkRGxuX2p5TG9IYXNUYUMwNXJJSmw1amU4akJKbkh5M1pMeW1kZFNVUVk5VF95SlhibUhZOW1XTQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVBOai1aOHZ2OEJlSVd5Z2JhN21KU3NEa250eDN6dXZGSF9OQ3pmSEJXUXZlaHE0ZXg3VnlJWk1aQXV2VVpCTHRVVHRkV2VfaE92dUtiNUN6OGtSUmR3ZjktV3RYQ3U2WXU0V1ZfWHRIdmVrdGlFM0pGbm1IZmFVb1BNN2lPNmJJazhyZjhvT2F6eG9kMGJEaE1FMG5VVUZoMEY2V0RnYUZxRjh0ZXFWclotZFBkRGxuX2p5TG9IYXNUYUMwNXJJSmw1amU4akJKbkh5M1pMeW1kZFNVUVk5VF95SlhibUhZOW1XTQ?oc=5\" target=\"_blank\">ASPE mantendrá una agenda activa con Sanidad sobre recursos humanos y reclama soluciones alejadas de la ideología</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infosalus</font>",
-    "fecha": "2026-06-23T10:35:36Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
+    "empresa": "UMU",
+    "ubicacion": "Inforges"
   },
   {
     "titulo": "Iberdrola sustituye a su jefe de Recursos Humanos en plena huelga por el convenio - CapitalMadrid",
@@ -270,50 +300,10 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Todo acaba por oler - ORH | Observatorio de Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwb0w2QTZYWEZvam1zTXk0WVptaVR2Q2luT01WMG42SlphY1hhX1NFMnNsNlhWbUlxVjNRS2xadE81MVdNZTJiV3NfaWZNeTYxRUhlcC03YUtFX190MEYxS2luTW0ybTBMVjdF?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBwb0w2QTZYWEZvam1zTXk0WVptaVR2Q2luT01WMG42SlphY1hhX1NFMnNsNlhWbUlxVjNRS2xadE81MVdNZTJiV3NfaWZNeTYxRUhlcC03YUtFX190MEYxS2luTW0ybTBMVjdF?oc=5\" target=\"_blank\">Todo acaba por oler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ORH | Observatorio de Recursos Humanos</font>",
-    "fecha": "2026-06-18T23:07:53Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "ORH",
-    "ubicacion": "Observatorio de Recursos Humanos"
-  },
-  {
-    "titulo": "Inforges y la cátedra Dirección Humana de la UMU abordan cómo afectará la IA en los Recursos Humanos - Murciadiario",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXFrWXU0LVhzQ0o2RzBVZDlELTJnT1cxQ1JFeFBsTzNUaldBOG5VMmRYY3ZNMGxiZzFrNDZkQ3M0YmI1LXlySVNOSWdsVEQxdzI1V3dxVFdYa2ZPNGtzTU5Yc3NwVDRDQTloTjhQdlRrajhvZFY1Ql9mNEV3WEZGMURhcGRWN01VTFhoYklfTzhWQVZkd3BLVWdtcU5XOUtiOFdKdnR6WU9yaHNfOWlPdHVJbzYxMUFfVktXNVc5ejlMbU5jMHUyWEJ3M2Vjc3dwMkN4RVk5SGNUZlhzRk5fdDAxSGR6TFBGeWJfbzhjZWQ0TEZqVlQyWXg0czVQeS05S0xQUkZtWWVVbHkyUE05bmpyRW1jQzk1Qk5N0gGgAkFVX3lxTE5qbXoweDA0TmdpZHNLei01cV96Y0RmdnhWc3E5OGpFRENvNWx2TU1wSDh2OVZWSnE1WDZSVXJkM3hHeU9WYkg1Sjc4QURBRFAzLTIyUTAxOWcwU0cwaHdlUUZ5V3VrUFBHOGg0TVdIMGV6UkFfc2hnUkRXVTNkb0I0QlBOeDFFdDhIQXRtY3NuUTM5STRGOVo2TlZoaWdqMXA3VkQ1SHgzM2wyOWxVanNkUU9iMUdMOUZTZWJQQXpNa1NuczRob0NfSEtwZzQ2MmNzWUNic0NvZWszV1MtN0VaSFlFc1lCNVRiOE9SMllwdVBTS0RIRUZVbTRvT182dG4yUTZIQUpvSnpRN3g1Zi12QU5DUnRXakgzRUVGV0p2Yw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXFrWXU0LVhzQ0o2RzBVZDlELTJnT1cxQ1JFeFBsTzNUaldBOG5VMmRYY3ZNMGxiZzFrNDZkQ3M0YmI1LXlySVNOSWdsVEQxdzI1V3dxVFdYa2ZPNGtzTU5Yc3NwVDRDQTloTjhQdlRrajhvZFY1Ql9mNEV3WEZGMURhcGRWN01VTFhoYklfTzhWQVZkd3BLVWdtcU5XOUtiOFdKdnR6WU9yaHNfOWlPdHVJbzYxMUFfVktXNVc5ejlMbU5jMHUyWEJ3M2Vjc3dwMkN4RVk5SGNUZlhzRk5fdDAxSGR6TFBGeWJfbzhjZWQ0TEZqVlQyWXg0czVQeS05S0xQUkZtWWVVbHkyUE05bmpyRW1jQzk1Qk5N0gGgAkFVX3lxTE5qbXoweDA0TmdpZHNLei01cV96Y0RmdnhWc3E5OGpFRENvNWx2TU1wSDh2OVZWSnE1WDZSVXJkM3hHeU9WYkg1Sjc4QURBRFAzLTIyUTAxOWcwU0cwaHdlUUZ5V3VrUFBHOGg0TVdIMGV6UkFfc2hnUkRXVTNkb0I0QlBOeDFFdDhIQXRtY3NuUTM5STRGOVo2TlZoaWdqMXA3VkQ1SHgzM2wyOWxVanNkUU9iMUdMOUZTZWJQQXpNa1NuczRob0NfSEtwZzQ2MmNzWUNic0NvZWszV1MtN0VaSFlFc1lCNVRiOE9SMllwdVBTS0RIRUZVbTRvT182dG4yUTZIQUpvSnpRN3g1Zi12QU5DUnRXakgzRUVGV0p2Yw?oc=5\" target=\"_blank\">Inforges y la cátedra Dirección Humana de la UMU abordan cómo afectará la IA en los Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Murciadiario</font>",
-    "fecha": "2026-06-19T11:31:27Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "UMU",
-    "ubicacion": "Inforges"
-  },
-  {
-    "titulo": "Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga - Foro Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWdqQ1Rnd016VmxidDV4NEFkcGEtanV2UExZX2ctX3lJOExVUFJUVEN0Y0wtSzJOYVNyT3EyS1ljbmhMQkpKWUFYdmpWa1dyN0JtRmw0azFaUllNakhRNUJud0lteXN4YVlJRHRUV3BtQ2hDT01xUnA3QUY0SHF5WHc4SFJvd3pWeWpkMlVZRjVMQjJfVllPQ0lVTFg?oc=5\" target=\"_blank\">Unicaja, patrocinador oficial del Encuentro Foro Recursos Humanos Málaga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foro Recursos Humanos</font>",
-    "fecha": "2026-06-22T14:20:26Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Foro Recursos Humanos",
-    "ubicacion": "Encuentro Foro Recursos Humanos Málaga"
-  },
-  {
-    "titulo": "El Absentismo Laboral Cerró 2025 En El 7,68% (+0,42 P.p. Interanuales), Máximo Histórico - Adecco Institute",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2tSUWhEV0NBTTZvdC0tYzNWNko3WTVWcHJ0b3hkVjBEZjdEYTYxSWZ1NzdLVUNIMTBoeGNsS1BmaXd0aG5laTFQOEI4WV9OSm1WTDJRS0hMbHY5UTNRczlTRi1ubFMtWlVkUnVQNUg0SnVMZzVWNVliTFRxR1FBZXg5NFdyVlpETHRPZU9tRmExbEZXdDhCVXpFQXpWeWg2Z3N3ejc0UmNvVnB3QkVuUE9NS2FDQTA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2tSUWhEV0NBTTZvdC0tYzNWNko3WTVWcHJ0b3hkVjBEZjdEYTYxSWZ1NzdLVUNIMTBoeGNsS1BmaXd0aG5laTFQOEI4WV9OSm1WTDJRS0hMbHY5UTNRczlTRi1ubFMtWlVkUnVQNUg0SnVMZzVWNVliTFRxR1FBZXg5NFdyVlpETHRPZU9tRmExbEZXdDhCVXpFQXpWeWg2Z3N3ejc0UmNvVnB3QkVuUE9NS2FDQTA?oc=5\" target=\"_blank\">El Absentismo Laboral Cerró 2025 En El 7,68% (+0,42 P.p. Interanuales), Máximo Histórico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adecco Institute</font>",
-    "fecha": "2026-06-18T07:55:26Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Interanuales"
-  },
-  {
     "titulo": "Fundación Randstad premia al Ayuntamiento de Estepona por el fomento de la inclusión laboral de personas con discapacidad a través del Plan Municipal de Aparcamientos - Ayuntamiento de Estepona",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZkdCYmRjU2ZIM2FFS3dXUS1PWHh0QUVQU3ZMWFYzV2huVHhsb0FaRHFnaXJ5WkRtZUJCb0FtVktvWFdfYnM2bkRLeDduZFdwRDBEeGMxSzFwczM2ZjF1WHc4VFZIRkdIRVhWYXpjM1NxVFhXb3c3ZGJHMEVhQ2pjWVFKYVgxQVRLc0x5ZWE4RGZsQk1iNV8yd2FYb0ZEdkRHbWVHR3RiRHJfMFFxVllSQmhfdEJ0R3VkeEFkZkNuVXV5Nzk4amd0eFFhUmtZWmxrQnpwXzRQRlMtdWVfc0RCMTBtVXBVbkR0bnAyTnBOY0RGYlRUN0lqekRPc1FGUDlJR05V?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOZkdCYmRjU2ZIM2FFS3dXUS1PWHh0QUVQU3ZMWFYzV2huVHhsb0FaRHFnaXJ5WkRtZUJCb0FtVktvWFdfYnM2bkRLeDduZFdwRDBEeGMxSzFwczM2ZjF1WHc4VFZIRkdIRVhWYXpjM1NxVFhXb3c3ZGJHMEVhQ2pjWVFKYVgxQVRLc0x5ZWE4RGZsQk1iNV8yd2FYb0ZEdkRHbWVHR3RiRHJfMFFxVllSQmhfdEJ0R3VkeEFkZkNuVXV5Nzk4amd0eFFhUmtZWmxrQnpwXzRQRlMtdWVfc0RCMTBtVXBVbkR0bnAyTnBOY0RGYlRUN0lqekRPc1FGUDlJR05V?oc=5\" target=\"_blank\">Fundación Randstad premia al Ayuntamiento de Estepona por el fomento de la inclusión laboral de personas con discapacidad a través del Plan Municipal de Aparcamientos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Estepona</font>",
-    "fecha": "2026-06-18T11:13:38Z",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeGgwTEpIOTVGQlRfejNnRnRmLTcxR2p1NHUwVmZXeGFLTnNYaEZTdjlUeEQteG12em44aFJHaDhCUDQ2dXdhS2N6dS1HWVJJcE5qUmxkTm1kSEcxQjlwY1V1UkVFYk5RUGpGbklvRVRNaFlCLVEteXB4bmpUWnpvdzBfbGdHME1kM1JIWTlNZHNwVnNkY21MYVZaLVFpNnRvblJYWHRXZlpuNGhpSVFWSFlLQzQ3WnlEUTkyQTNLcm1nMHBBQ0RXTGFoM3I0aUhPOXExVXc5eGJUTHY2eDV5VEJ3RnNEeThVRXRtQVBvWkFIajR0T2tGc09jbGo?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeGgwTEpIOTVGQlRfejNnRnRmLTcxR2p1NHUwVmZXeGFLTnNYaEZTdjlUeEQteG12em44aFJHaDhCUDQ2dXdhS2N6dS1HWVJJcE5qUmxkTm1kSEcxQjlwY1V1UkVFYk5RUGpGbklvRVRNaFlCLVEteXB4bmpUWnpvdzBfbGdHME1kM1JIWTlNZHNwVnNkY21MYVZaLVFpNnRvblJYWHRXZlpuNGhpSVFWSFlLQzQ3WnlEUTkyQTNLcm1nMHBBQ0RXTGFoM3I0aUhPOXExVXc5eGJUTHY2eDV5VEJ3RnNEeThVRXRtQVBvWkFIajR0T2tGc09jbGo?oc=5\" target=\"_blank\">Fundación Randstad premia al Ayuntamiento de Estepona por el fomento de la inclusión laboral de personas con discapacidad a través del Plan Municipal de Aparcamientos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Estepona</font>",
+    "fecha": "2026-06-18T22:30:00Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "Desconocida",
@@ -330,13 +320,23 @@ const window_news_data = [
     "ubicacion": "Randstad"
   },
   {
-    "titulo": "Fundación Randstad reconoce las iniciativas que impulsan una sociedad más inclusiva - Revista Haz - Revista Haz",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldaYS1NMjF2SzRPdjlralhVdnV3YmM1SHZEYjI5YmVMb2VRVzlXTDdGTVIzRTlET2FZS2xfdkZJX0ZsMUZkaldtV2tKMEZpaWV3RTh4Qmx6dFJpT2tWbXdoaEVtLVZ4VnI5X1JLZk9LOFBOYjhERWlMaUxTbXVYSlNJa0RyeG5Cc3BfX2dobFRGTVdrY2hCUHNkaEZUOC1FYnVWVTRNZG5SX0puaE1xaWMyNjMtZjE50gHAAUFVX3lxTE1LaHlZTlpvOGZwVXNnZ3J5X09CNXJ1bkZNaFVHN0wyZFVMME13NUk2N21LY2RCdV9QMVBOejFTUWdnc2w1dF95R254NDIwTFNYenB1aGdFb1VLWFg2MnRWNlZKbGVJeUdUQmFvakVYVnBMMV9mRlh5a0tzU2o5Ul9PVUhSYXczaUNRbVFtbm82V2k1V3U0QXRwd0pnOHdmeEZaWVRvZXRyQ0lJZjcyTFJEalEzcjJwVGZ0b2xwVlc1OQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldaYS1NMjF2SzRPdjlralhVdnV3YmM1SHZEYjI5YmVMb2VRVzlXTDdGTVIzRTlET2FZS2xfdkZJX0ZsMUZkaldtV2tKMEZpaWV3RTh4Qmx6dFJpT2tWbXdoaEVtLVZ4VnI5X1JLZk9LOFBOYjhERWlMaUxTbXVYSlNJa0RyeG5Cc3BfX2dobFRGTVdrY2hCUHNkaEZUOC1FYnVWVTRNZG5SX0puaE1xaWMyNjMtZjE50gHAAUFVX3lxTE1LaHlZTlpvOGZwVXNnZ3J5X09CNXJ1bkZNaFVHN0wyZFVMME13NUk2N21LY2RCdV9QMVBOejFTUWdnc2w1dF95R254NDIwTFNYenB1aGdFb1VLWFg2MnRWNlZKbGVJeUdUQmFvakVYVnBMMV9mRlh5a0tzU2o5Ul9PVUhSYXczaUNRbVFtbm82V2k1V3U0QXRwd0pnOHdmeEZaWVRvZXRyQ0lJZjcyTFJEalEzcjJwVGZ0b2xwVlc1OQ?oc=5\" target=\"_blank\">Fundación Randstad reconoce las iniciativas que impulsan una sociedad más inclusiva - Revista Haz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revista Haz</font>",
-    "fecha": "2026-06-18T11:46:48Z",
+    "titulo": "El personal de limpieza lidera el empleo turístico en Catalunya, según Randstad - Corresponsables",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnBHRkhWYzVHbVotLUEyN1BwMFg3OG5uZUxsblA3U1dkREpmS1RkQWZYMUFZWWhXTjR1ZnJEV3lmZTJoYl9DM0stNmtETkdmODBJNnBPOTZXN1QtMlRUbG9haHMtMkJTenJjNlUtdFNnSjA4U1BUQl94amttV3ExZW1OQWJMQTdoNDNvZTFQR3Y4a09XYXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnBHRkhWYzVHbVotLUEyN1BwMFg3OG5uZUxsblA3U1dkREpmS1RkQWZYMUFZWWhXTjR1ZnJEV3lmZTJoYl9DM0stNmtETkdmODBJNnBPOTZXN1QtMlRUbG9haHMtMkJTenJjNlUtdFNnSjA4U1BUQl94amttV3ExZW1OQWJMQTdoNDNvZTFQR3Y4a09XYXc?oc=5\" target=\"_blank\">El personal de limpieza lidera el empleo turístico en Catalunya, según Randstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corresponsables</font>",
+    "fecha": "2026-06-25T11:30:02Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "Desconocida",
+    "ubicacion": "Catalunya"
+  },
+  {
+    "titulo": "Absentismo En La Cadena De Proveedores De Automoción - Adecco Institute",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2Jjc0FfaDZCcjVRcGdsbWdvd1JDckRDTEtZX01zNU5FODBXVmt3cmV0amJYYlVSNlM5dTlBWkZ4UzdUUlJNcWkzYjRIUjk5ak04eHhBbzdubFZwV3B0eVp5WnM5U29qUzA4dVBMQVpaRjNBNUc0Vnp4MTktYkV2RU5CWWNkbHRE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2Jjc0FfaDZCcjVRcGdsbWdvd1JDckRDTEtZX01zNU5FODBXVmt3cmV0amJYYlVSNlM5dTlBWkZ4UzdUUlJNcWkzYjRIUjk5ak04eHhBbzdubFZwV3B0eVp5WnM5U29qUzA4dVBMQVpaRjNBNUc0Vnp4MTktYkV2RU5CWWNkbHRE?oc=5\" target=\"_blank\">Absentismo En La Cadena De Proveedores De Automoción</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adecco Institute</font>",
+    "fecha": "2026-06-22T10:26:45Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "La Cadena De Proveedores De Automoción",
     "ubicacion": "Nacional"
   },
   {
@@ -348,46 +348,6 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "Desconocida",
     "ubicacion": "Zaragoza"
-  },
-  {
-    "titulo": "Las empresas encaran el reto de las bajas laborales: \"O tienes un modelo 'sexy' o el absentismo es alto\" - El Periódico",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU5GaTRMeU9fSGFkYTNnWTlUemZ6YlU3NG5lWUhqMmpyQVIzXzhwVFpGUzRaZ2xlSUVBTnBOaGVqVy1rX2Y0QncySmlWRnpZSlUzeHduY3pCeTlIQktYTWh2NGV4WEsycWVlVmRLYU45YmhOOUxVbEFodWwwM2c1QlpXb2Mtd2NKZ0VESnVXMzV6SkFhYzZLaGhrTW5fUjJYTVNBOEE5V294dzRPanB6OXJ0OGRRcHRDT3VKRU4wSFFyeERjQ0HSAcYBQVVfeXFMTVNXXzlTU1BHYnRmV05Gb1lwRmwyYTQ2VV85dDdrTGlEdG5KSXVXMFBkV2p6V2kyUWEycDJUNFhtNXJSbm50amJQTk9SVlE0MWVldlNsYWFfMC1kWlFJTllOcVV2NVozVm5pZllTOGlLUEx2RVk4bTlDWVFJaFZEMF9WM0tqVTRGTjByUHpuTXRsSC03YVkyRkRlMjM0anRvZ1NKUG51eXEyVUFPQ0tOUXNpZUdodWZodzRXUnBuTThXWUlOXzNR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU5GaTRMeU9fSGFkYTNnWTlUemZ6YlU3NG5lWUhqMmpyQVIzXzhwVFpGUzRaZ2xlSUVBTnBOaGVqVy1rX2Y0QncySmlWRnpZSlUzeHduY3pCeTlIQktYTWh2NGV4WEsycWVlVmRLYU45YmhOOUxVbEFodWwwM2c1QlpXb2Mtd2NKZ0VESnVXMzV6SkFhYzZLaGhrTW5fUjJYTVNBOEE5V294dzRPanB6OXJ0OGRRcHRDT3VKRU4wSFFyeERjQ0HSAcYBQVVfeXFMTVNXXzlTU1BHYnRmV05Gb1lwRmwyYTQ2VV85dDdrTGlEdG5KSXVXMFBkV2p6V2kyUWEycDJUNFhtNXJSbm50amJQTk9SVlE0MWVldlNsYWFfMC1kWlFJTllOcVV2NVozVm5pZllTOGlLUEx2RVk4bTlDWVFJaFZEMF9WM0tqVTRGTjByUHpuTXRsSC03YVkyRkRlMjM0anRvZ1NKUG51eXEyVUFPQ0tOUXNpZUdodWZodzRXUnBuTThXWUlOXzNR?oc=5\" target=\"_blank\">Las empresas encaran el reto de las bajas laborales: \"O tienes un modelo 'sexy' o el absentismo es alto\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico</font>",
-    "fecha": "2026-06-18T14:12:45Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "El Periódico"
-  },
-  {
-    "titulo": "FEMEL y Randstad organizan una jornada sobre la gestión del absentismo laboral - Confemetal",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnljR1NacjNCUVpGTW93LXg0NlZnekZPeEV6MGRmTWpOU0hSV2xLeG1iY2lYQzd3VVozcjRHVHhDMW8zeC1GWEgtRUxrSTU0Q0p0VEo5U2tsbENQbjJObXlkV24wSXRVbHMycWNpQjlqVUVhXzgtb1RIZmZVc2ZxcTRtZXdyT3piT3Fub1VyZDdydFpHd0VSYlo3dGtPMU5uWHJtRHhuSVZRVTFzMFJBMi1xUC02TDB1ZWZpN1lHLVJfTWhScTIyUEh3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdnljR1NacjNCUVpGTW93LXg0NlZnekZPeEV6MGRmTWpOU0hSV2xLeG1iY2lYQzd3VVozcjRHVHhDMW8zeC1GWEgtRUxrSTU0Q0p0VEo5U2tsbENQbjJObXlkV24wSXRVbHMycWNpQjlqVUVhXzgtb1RIZmZVc2ZxcTRtZXdyT3piT3Fub1VyZDdydFpHd0VSYlo3dGtPMU5uWHJtRHhuSVZRVTFzMFJBMi1xUC02TDB1ZWZpN1lHLVJfTWhScTIyUEh3?oc=5\" target=\"_blank\">FEMEL y Randstad organizan una jornada sobre la gestión del absentismo laboral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Confemetal</font>",
-    "fecha": "2026-06-18T07:32:29Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Randstad"
-  },
-  {
-    "titulo": "Adecco supera el millón de interacciones con candidatos impulsadas por IA - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzB1enpBNi1JcmhfSjhGN0xqMUpXdG16OWQtc25mUTdlMURmMTg3U3Jvc0w0QWNhdTBuZFVGRXVzcmYwd3FyZnU0dmdzLUN4VUxUcUJtOGl1ODlDWmZwN2lrRWFfb253djdmUE8tbjFUM1lNblNnVWcwYjZXR0hScDJub2ZSYmZnSTl1Z0w1S0c5dF9qVHJxWnByS0o1WDhIT1g4a2x4cmtjZzgtUXE0Umd6bDdfMXBJUVI5YmdHdUZMWnlJSlNEcQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzB1enpBNi1JcmhfSjhGN0xqMUpXdG16OWQtc25mUTdlMURmMTg3U3Jvc0w0QWNhdTBuZFVGRXVzcmYwd3FyZnU0dmdzLUN4VUxUcUJtOGl1ODlDWmZwN2lrRWFfb253djdmUE8tbjFUM1lNblNnVWcwYjZXR0hScDJub2ZSYmZnSTl1Z0w1S0c5dF9qVHJxWnByS0o1WDhIT1g4a2x4cmtjZzgtUXE0Umd6bDdfMXBJUVI5YmdHdUZMWnlJSlNEcQ?oc=5\" target=\"_blank\">Adecco supera el millón de interacciones con candidatos impulsadas por IA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-    "fecha": "2026-06-18T10:34:00Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "PR Newswire"
-  },
-  {
-    "titulo": "El absentismo laboral en España cerró 2025 en el 7,68%, máximo histórico, según Adecco - Europa Press",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0FBSFBLS1AtVEJtSzhMUVFpWVFscTR0dDBrYktFWUZ4eFpUcm1BaHYyaDlObE9pSjFiaXN4c3U0N0dVUEV5eW9VZ0lCVzlGUjhxeUlnWDRSRjRnWWNESUI3X1NUTlJkdEF4MGhoSzk0SGQ5dUNLSElzZkhoNDU0dXl6MGozNmEwdTRENUs5RGJzWndQcm5DTUFPRTF6b0t0eUw4YTNrSHpyM0pabzRqa29zbWR5SXRPd1d6NW5OUzlUX2JBMFp5aHBOOWdDWmFqYmk2N2Q1SXBhQQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0FBSFBLS1AtVEJtSzhMUVFpWVFscTR0dDBrYktFWUZ4eFpUcm1BaHYyaDlObE9pSjFiaXN4c3U0N0dVUEV5eW9VZ0lCVzlGUjhxeUlnWDRSRjRnWWNESUI3X1NUTlJkdEF4MGhoSzk0SGQ5dUNLSElzZkhoNDU0dXl6MGozNmEwdTRENUs5RGJzWndQcm5DTUFPRTF6b0t0eUw4YTNrSHpyM0pabzRqa29zbWR5SXRPd1d6NW5OUzlUX2JBMFp5aHBOOWdDWmFqYmk2N2Q1SXBhQQ?oc=5\" target=\"_blank\">El absentismo laboral en España cerró 2025 en el 7,68%, máximo histórico, según Adecco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Europa Press</font>",
-    "fecha": "2026-06-18T08:36:32Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Europa Press",
-    "ubicacion": "España"
   },
   {
     "titulo": "El sector de Ingeniería registra diferencias salariales de hasta 93.000€ en perfiles de acceso y directivos. - Randstad",
@@ -410,34 +370,14 @@ const window_news_data = [
     "ubicacion": "Randstad"
   },
   {
-    "titulo": "Moeve, galardonada por la Fundación Randstad por la inclusión laboral de personas con discapacidad - Europa Sur",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTBRX2ZfdWpEN2FseFROYy15UDRsYndGRnJiUlhCalpTT090bjhOaUtNYkdpc1VHSmwxY19IZkJJRXdzSXlNbjdZalVvN25kQ25zQVltNTlZOURTdmJtdjQ2bWdrVW0zVm82VmVBYm5fMDlxMFpoMTEwWXRNNV9ET040cC1Qbi1vSklQQ0ZtRHlSRW03RjFWY0NOS3RjNE9GY25rbjFBT1hyeUE0OVR4aG56NU1YZnBZNngwYWZuVXp0RDZsM3ZaX9IBzgFBVV95cUxPX2wxWlYzMEhQTnZVVy1QU1JCeU1kQ0FjTWZfbWUyM0RMa2hubkFQWXN0ZnVMQUljTFZnSi1sck5ibVRTVm81MlRDVjBSNVpjRFRSVWhyUXZrSzBrdHUwSHY1ZnduNFpFSGExajEzQ2FiMzlWNERMMFh4akNEYjh5c3hBUnRmVVhld3FMREZFck14amdhYmhZdTBnRWxtdW1lZ2xYODctbzB2OHVSdlhNcjF3MjZMZUlTbXBWNjA5dGNQRUxxUzNSQWpWdnloUQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTBRX2ZfdWpEN2FseFROYy15UDRsYndGRnJiUlhCalpTT090bjhOaUtNYkdpc1VHSmwxY19IZkJJRXdzSXlNbjdZalVvN25kQ25zQVltNTlZOURTdmJtdjQ2bWdrVW0zVm82VmVBYm5fMDlxMFpoMTEwWXRNNV9ET040cC1Qbi1vSklQQ0ZtRHlSRW03RjFWY0NOS3RjNE9GY25rbjFBT1hyeUE0OVR4aG56NU1YZnBZNngwYWZuVXp0RDZsM3ZaX9IBzgFBVV95cUxPX2wxWlYzMEhQTnZVVy1QU1JCeU1kQ0FjTWZfbWUyM0RMa2hubkFQWXN0ZnVMQUljTFZnSi1sck5ibVRTVm81MlRDVjBSNVpjRFRSVWhyUXZrSzBrdHUwSHY1ZnduNFpFSGExajEzQ2FiMzlWNERMMFh4akNEYjh5c3hBUnRmVVhld3FMREZFck14amdhYmhZdTBnRWxtdW1lZ2xYODctbzB2OHVSdlhNcjF3MjZMZUlTbXBWNjA5dGNQRUxxUzNSQWpWdnloUQ?oc=5\" target=\"_blank\">Moeve, galardonada por la Fundación Randstad por la inclusión laboral de personas con discapacidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Europa Sur</font>",
-    "fecha": "2026-06-18T08:50:15Z",
+    "titulo": "AEDIVE y Randstad se alían para acelerar la capacitación del talento en movilidad eléctrica - CdeComunicacion.es",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFF3MEd6TnQzcVFHdXBOV2R4TkVsWjR4c3pwRGRDb2x0QVNlLUdFQ05IWFpTY1NoMHhDMzVFTnM2eGlPN3hGV1RpV0UyZUhsSzRJVHlrOUhsTzB3VUdJNE1IMUtwZUlNU3JxdEtvdmthRGZzczU5T2tTQ292andhal9rQk9raDVGbDZqTWdrdW1acUpza1NfT2RqNk1qRGVkUGRydkQ4aGl1SWFBTjljVnhxQWcxSTRzZThyODVORC1vbHRBaE14RmVDVU1WQdIBzgFBVV95cUxNZFF3MEd6TnQzcVFHdXBOV2R4TkVsWjR4c3pwRGRDb2x0QVNlLUdFQ05IWFpTY1NoMHhDMzVFTnM2eGlPN3hGV1RpV0UyZUhsSzRJVHlrOUhsTzB3VUdJNE1IMUtwZUlNU3JxdEtvdmthRGZzczU5T2tTQ292andhal9rQk9raDVGbDZqTWdrdW1acUpza1NfT2RqNk1qRGVkUGRydkQ4aGl1SWFBTjljVnhxQWcxSTRzZThyODVORC1vbHRBaE14RmVDVU1WQQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFF3MEd6TnQzcVFHdXBOV2R4TkVsWjR4c3pwRGRDb2x0QVNlLUdFQ05IWFpTY1NoMHhDMzVFTnM2eGlPN3hGV1RpV0UyZUhsSzRJVHlrOUhsTzB3VUdJNE1IMUtwZUlNU3JxdEtvdmthRGZzczU5T2tTQ292andhal9rQk9raDVGbDZqTWdrdW1acUpza1NfT2RqNk1qRGVkUGRydkQ4aGl1SWFBTjljVnhxQWcxSTRzZThyODVORC1vbHRBaE14RmVDVU1WQdIBzgFBVV95cUxNZFF3MEd6TnQzcVFHdXBOV2R4TkVsWjR4c3pwRGRDb2x0QVNlLUdFQ05IWFpTY1NoMHhDMzVFTnM2eGlPN3hGV1RpV0UyZUhsSzRJVHlrOUhsTzB3VUdJNE1IMUtwZUlNU3JxdEtvdmthRGZzczU5T2tTQ292andhal9rQk9raDVGbDZqTWdrdW1acUpza1NfT2RqNk1qRGVkUGRydkQ4aGl1SWFBTjljVnhxQWcxSTRzZThyODVORC1vbHRBaE14RmVDVU1WQQ?oc=5\" target=\"_blank\">AEDIVE y Randstad se alían para acelerar la capacitación del talento en movilidad eléctrica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CdeComunicacion.es</font>",
+    "fecha": "2026-06-25T09:04:38Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
-    "empresa": "Fundación Randstad",
-    "ubicacion": "Europa Sur"
-  },
-  {
-    "titulo": "Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición - Corresponsables",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdYRURaSHBmRG9PbkQwNkF6R1FmUU1paG8zT083WkxXLVdRTjczRlltMGhBTnZCeUY2a0hjZEhsbzBRRElmVGhlaUUzQnR4aGhWQUVZaUU4aWIyR1pteU80UEFhYTJWUHhoSzI4UmJObXBuTXdGTEo5OVgyVldaTklKRGJZcW5ldjBlV1ZGOUhoeDZpMUE?oc=5\" target=\"_blank\">Los Premios Fundación Randstad reconocen el talento y la inclusión de las personas con discapacidad en su 21ª edición</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corresponsables</font>",
-    "fecha": "2026-06-18T10:19:19Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Corresponsables"
-  },
-  {
-    "titulo": "Fundación Randstad reconoce la inclusión en la 21ª edición de sus premios - Servimedia",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0p6bUl3a3R6cGFZdjV0a3pHZEQ2TWd2ZE9iWF8ycnRoTndqclZnQTd0Nm1TaDk1TUZDZjl6c3Q2cjZfWUtXdlpWY2U5VjRjajR6YUtLYk1LLTByakpMdmgzOTNUdndsNlk5RnZlbExvUng3UU5DdzBIU3RxUkR2ZjMteE1abEpMbmVvUG1iZWk1eXlDMi0zcG9WNTJPazZsV3llRA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0p6bUl3a3R6cGFZdjV0a3pHZEQ2TWd2ZE9iWF8ycnRoTndqclZnQTd0Nm1TaDk1TUZDZjl6c3Q2cjZfWUtXdlpWY2U5VjRjajR6YUtLYk1LLTByakpMdmgzOTNUdndsNlk5RnZlbExvUng3UU5DdzBIU3RxUkR2ZjMteE1abEpMbmVvUG1iZWk1eXlDMi0zcG9WNTJPazZsV3llRA?oc=5\" target=\"_blank\">Fundación Randstad reconoce la inclusión en la 21ª edición de sus premios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Servimedia</font>",
-    "fecha": "2026-06-18T11:06:00Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Servimedia"
+    "empresa": "AEDIVE",
+    "ubicacion": "Randstad"
   },
   {
     "titulo": "Becas de Adecco para estudiantes con discapacidad para el curso 2026-27 - Mujer y MADRE hoy",
@@ -448,5 +388,65 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "MADRE",
     "ubicacion": "Becas de Adecco"
+  },
+  {
+    "titulo": "Vicenç Álvaro (Manpower): “El humor es el elemento más importante para que las cosas salgan bien” - MarketingNews",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSzEyMl9uT0J6c1Bnbjl1eTVBanNjMlB2NU1IVEx3UjlMSnR1dUpSbVpNRzhRYzdJUk51THVyYlppb1F2azl4bHRxdHFLUjI1WGlQdHNrbGd0U3lvNE4zcmxnLXZXelpvNDJOeUhZMlBMTWlfRnNRSjk2cUdlc2dHdzlVclV2S3VHQTVxWThRa0FqYkVDRVZkbXU3alFGX2NXZGQwRGFHaDAxeUdkajR2a0RKMGhaRE9FX2llalNhS2hidjdHQ0M2Rkp5YUIzcjBncDJJOWRqeUNFNDVSTkNMTUV0c1pXNUczYWJfbC1QU0ttbjhoMkJN?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSzEyMl9uT0J6c1Bnbjl1eTVBanNjMlB2NU1IVEx3UjlMSnR1dUpSbVpNRzhRYzdJUk51THVyYlppb1F2azl4bHRxdHFLUjI1WGlQdHNrbGd0U3lvNE4zcmxnLXZXelpvNDJOeUhZMlBMTWlfRnNRSjk2cUdlc2dHdzlVclV2S3VHQTVxWThRa0FqYkVDRVZkbXU3alFGX2NXZGQwRGFHaDAxeUdkajR2a0RKMGhaRE9FX2llalNhS2hidjdHQ0M2Rkp5YUIzcjBncDJJOWRqeUNFNDVSTkNMTUV0c1pXNUczYWJfbC1QU0ttbjhoMkJN?oc=5\" target=\"_blank\">Vicenç Álvaro (Manpower): “El humor es el elemento más importante para que las cosas salgan bien”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketingNews</font>",
+    "fecha": "2026-06-19T06:44:20Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Adecco busca 120 personas para trabajar en FCC y reforzar los servicios de limpieza viaria de Barcelona este verano - GIRONANOTICIES.COM",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOejlpVUhFaGFVamlWWjVCMnBfMnJ1dzNpc0dCVGppN2NZYnBZLUFULXJ4SlBzOTFDa2JOSmR4UW8tNi1xMU9WZnNRTi1pazI0MnFCNzZYU20zcTR0Z3A2ZEhLeS03eWk3emw1dVdRZzdiTFA4RUhWMWloREI5NjgtRjQyNmp2QUIwTWYwb2lsaTZKZTNkbThwQ2JaNDMyZzRpaVEwLTNVWWZxTlNBQlJVR0tiUlZ3cG41ZjlJWk5uNEdXc0VBOTVGbmd4SWZ1dVQzb1pnZ0YweUZOME5JNDYzVDM4ZzRGN2NWMVdtYldRREZHZzZ5SFlB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOejlpVUhFaGFVamlWWjVCMnBfMnJ1dzNpc0dCVGppN2NZYnBZLUFULXJ4SlBzOTFDa2JOSmR4UW8tNi1xMU9WZnNRTi1pazI0MnFCNzZYU20zcTR0Z3A2ZEhLeS03eWk3emw1dVdRZzdiTFA4RUhWMWloREI5NjgtRjQyNmp2QUIwTWYwb2lsaTZKZTNkbThwQ2JaNDMyZzRpaVEwLTNVWWZxTlNBQlJVR0tiUlZ3cG41ZjlJWk5uNEdXc0VBOTVGbmd4SWZ1dVQzb1pnZ0YweUZOME5JNDYzVDM4ZzRGN2NWMVdtYldRREZHZzZ5SFlB?oc=5\" target=\"_blank\">Adecco busca 120 personas para trabajar en FCC y reforzar los servicios de limpieza viaria de Barcelona este verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIRONANOTICIES.COM</font>",
+    "fecha": "2026-06-24T12:28:26Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "FCC",
+    "ubicacion": "Barcelona"
+  },
+  {
+    "titulo": "La IX convocatoria de becas de grado, máster y FP de la Fundación Adecco destina 300.000 euros para jóvenes con discapacidad - PR Noticias",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXhjX2ZfRUdBQkk0SGcxY1gxYlQyR1FHN0pJWmFYbUc2OHphOFJLMTlEWk4tUWJPTkdjN3h1R1B5dUY2d3N5TWxDRDFsWTBKbmJncXIydjlBU3pLdkZrU3lkVl93VHNlLVRSRndWbnk3dHd0WTJPY0pxVDJobU1pV3BqanhUYlNZOXBXS1M4cVpBaGI2aFRJaUUweEVqT0I0U3JTckttXy1Vem9vTXl0MkdHZ2FBclpQeFlnYlBfeW8xOVhZX0Mtd1RiV2xpSm4yRHZDN1k2OEdYR214SlZES3N2SWN0d3hKcUs2U09hYnNJVzFDQjZ30gH3AUFVX3lxTFBNeGNfZl9FR0FCSTRIZzFjWDFiVDJHUUc3SklaYVhtRzY4emE4UksxOURaTi1RYk9OR2M3eHVHUHl1RjZ3c3lNbENEMWxZMEpuYmdxcjJ2OUFTekt2RmtTeWRWX3dUc2UtVFJGd1ZueTd0d3RZMk9jSnFUMmhtTWlXcGpqeFRiU1k5cFdLUzhxWkFoYjZoVElpRTB4RWpPQjRTclNyS21fLVV6b29NeXQyR0dnYUFyWlB4WWdiUF95bzE5WFlfQy13VGJXbGlKbjJEdkM3WTY4R1hHbXhKVkRLc3ZJY3R3eEpxSzZTT2Fic0lXMUNCNnc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXhjX2ZfRUdBQkk0SGcxY1gxYlQyR1FHN0pJWmFYbUc2OHphOFJLMTlEWk4tUWJPTkdjN3h1R1B5dUY2d3N5TWxDRDFsWTBKbmJncXIydjlBU3pLdkZrU3lkVl93VHNlLVRSRndWbnk3dHd0WTJPY0pxVDJobU1pV3BqanhUYlNZOXBXS1M4cVpBaGI2aFRJaUUweEVqT0I0U3JTckttXy1Vem9vTXl0MkdHZ2FBclpQeFlnYlBfeW8xOVhZX0Mtd1RiV2xpSm4yRHZDN1k2OEdYR214SlZES3N2SWN0d3hKcUs2U09hYnNJVzFDQjZ30gH3AUFVX3lxTFBNeGNfZl9FR0FCSTRIZzFjWDFiVDJHUUc3SklaYVhtRzY4emE4UksxOURaTi1RYk9OR2M3eHVHUHl1RjZ3c3lNbENEMWxZMEpuYmdxcjJ2OUFTekt2RmtTeWRWX3dUc2UtVFJGd1ZueTd0d3RZMk9jSnFUMmhtTWlXcGpqeFRiU1k5cFdLUzhxWkFoYjZoVElpRTB4RWpPQjRTclNyS21fLVV6b29NeXQyR0dnYUFyWlB4WWdiUF95bzE5WFlfQy13VGJXbGlKbjJEdkM3WTY4R1hHbXhKVkRLc3ZJY3R3eEpxSzZTT2Fic0lXMUNCNnc?oc=5\" target=\"_blank\">La IX convocatoria de becas de grado, máster y FP de la Fundación Adecco destina 300.000 euros para jóvenes con discapacidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Noticias</font>",
+    "fecha": "2026-06-23T15:34:43Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Fundación Adecco",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Konecta, reconocida en los Randstad Awards 2026 como una de las empresas más atractivas para trabajar en España - InfoNegocios Barcelona",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQlctaWI0dkpxbloyQ21oWWVrOHJGVWFsd0YzZ1VFeWphM1ZnRC02VkFlZmgxZ2JZMTB6bzkzY1ZpOEZCSVRQc3ZnZ2dwNXotSWI5TE9WTnZLMFBZLVRvUExKX3B0R0J3dXoyYXluLWNxVWNvU0pqbHJ4WlF6OFV1aUlSU3AtQk92NGpfMFJQTmU0OXpYb2hvZmhJTHhUOFZVSllLZGZ0NTF1UGJBRDZFM3pLaXBmTDNPeEl6WWtpTEhZR1VLbkZHRjBJY01LNnJtMjN6QTJDcDEyelhxTFRfWnVWYXRTVmR4OGo1aA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQlctaWI0dkpxbloyQ21oWWVrOHJGVWFsd0YzZ1VFeWphM1ZnRC02VkFlZmgxZ2JZMTB6bzkzY1ZpOEZCSVRQc3ZnZ2dwNXotSWI5TE9WTnZLMFBZLVRvUExKX3B0R0J3dXoyYXluLWNxVWNvU0pqbHJ4WlF6OFV1aUlSU3AtQk92NGpfMFJQTmU0OXpYb2hvZmhJTHhUOFZVSllLZGZ0NTF1UGJBRDZFM3pLaXBmTDNPeEl6WWtpTEhZR1VLbkZHRjBJY01LNnJtMjN6QTJDcDEyelhxTFRfWnVWYXRTVmR4OGo1aA?oc=5\" target=\"_blank\">Konecta, reconocida en los Randstad Awards 2026 como una de las empresas más atractivas para trabajar en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoNegocios Barcelona</font>",
+    "fecha": "2026-06-18T20:21:40Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Randstad Awards",
+    "ubicacion": "España"
+  },
+  {
+    "titulo": "Hernández - ACB",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUplRXd6X2ZlUlVaOU0tQU9wNUNzM1JXaXdJTjVOM2tQaXR5U00xZWtHeElwbVVyYXc1V0NVX2s1OTRyZ0NFMS1xQzVMbDRxZ0NWejR6NHhiTC1lbjZ6bzBIYWUzME1DT3FqSUxnUkxzN3BZcjE4SlVxVG9KWnNIeVRWc09sOUxWOGJUUFZSVUVPUWM4dFllNGhHVEFEa2h1YzI1VXU5Nng1aVVlUEVoMWxfb3dmNFRnbFdpYzZET0QwVUdfWTRmQ0E5ejZpYkFO?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUplRXd6X2ZlUlVaOU0tQU9wNUNzM1JXaXdJTjVOM2tQaXR5U00xZWtHeElwbVVyYXc1V0NVX2s1OTRyZ0NFMS1xQzVMbDRxZ0NWejR6NHhiTC1lbjZ6bzBIYWUzME1DT3FqSUxnUkxzN3BZcjE4SlVxVG9KWnNIeVRWc09sOUxWOGJUUFZSVUVPUWM4dFllNGhHVEFEa2h1YzI1VXU5Nng1aVVlUEVoMWxfb3dmNFRnbFdpYzZET0QwVUdfWTRmQ0E5ejZpYkFO?oc=5\" target=\"_blank\">Hernández</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACB</font>",
+    "fecha": "2026-06-24T03:44:36Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Estos son los ganadores de los Premios Fundación Randstad 2026 - RRHHDigital",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVW03NWNfbElkUWo0OWtvdVVCRUlySlcwVFphUUFacVRsVzl0dWtYZ3JPVWRjbS1POC10V2w5eGNLdXN3RVE2TkxrUDBsUlUtN01oUFM5T0hoOFVEMTZMZHpGUzMyYVVTelNOUnp5NTFpQkU4Mi1WLWlxa2sxTXJRUm1KU2cxUllNVTdWSlhKa2xZUlB5V1NYX1J4dERzQkZsMmtLZ01hNVU4Mi1LNzlRb0xKWHluaHNtUzJZ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVW03NWNfbElkUWo0OWtvdVVCRUlySlcwVFphUUFacVRsVzl0dWtYZ3JPVWRjbS1POC10V2w5eGNLdXN3RVE2TkxrUDBsUlUtN01oUFM5T0hoOFVEMTZMZHpGUzMyYVVTelNOUnp5NTFpQkU4Mi1WLWlxa2sxTXJRUm1KU2cxUllNVTdWSlhKa2xZUlB5V1NYX1J4dERzQkZsMmtLZ01hNVU4Mi1LNzlRb0xKWHluaHNtUzJZ?oc=5\" target=\"_blank\">Estos son los ganadores de los Premios Fundación Randstad 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RRHHDigital</font>",
+    "fecha": "2026-06-18T22:57:52Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   }
 ];
