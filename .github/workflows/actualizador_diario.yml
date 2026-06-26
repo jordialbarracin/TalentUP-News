@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions en GitHub
 
 jobs:
-  actualizar_y_desplegar:
+  actualizar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Instalar dependencias Python
+      - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -32,31 +32,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python rastreador.py
 
-      - name: Comprobar y Subir JSON
+      - name: Comprobar y Subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add datos/ Historia_TalentUP/Hemeroteca/
           if git diff --staged --quiet; then
-            echo "No hay datos nuevos."
+            echo "No hay cambios nuevos para subir."
           else
-            git commit -m "Automatización: Actualización de datos JSON"
+            git commit -m "Automatización: Actualización diaria de noticias y leads"
             git push
           fi
-
-      - name: Configurar Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Instalar dependencias Node y Compilar React
-        run: |
-          npm install
-          npm run build
-
-      - name: Desplegar a GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          commit_message: "Despliegue automático de React"

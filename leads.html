@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TalentUP News - Inteligencia de RRHH</title>
-    <meta name="description" content="Inteligencia de Recursos Humanos en tiempo real.">
+    <title>TalentUP News - Radar de Leads B2B</title>
+    <meta name="description" content="Radar de oportunidades de negocio en RRHH.">
     <!-- Fuentes estilo Google -->
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="estilos.css?v=7">
+    <link rel="stylesheet" href="estilos.css?v=6">
     
     <!-- Tailwind CSS (Inyectado via CDN) -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -52,25 +52,26 @@
         <h1 id="logo-desktop" class="text-2xl font-extrabold text-slate-900 mr-10 tracking-wide cursor-pointer hover:scale-105 transition-transform">TalentUP <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue via-google-red to-google-yellow">News</span></h1>
         
         <div class="flex flex-nowrap items-center space-x-2">
-            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="Legislación">Leyes</button>
-            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="Mercado">Mercado</button>
-            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="ETTs">ETTs</button>
+            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="Contratacion">Contratación</button>
+            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="Aperturas">Aperturas</button>
+            <button class="filter-btn text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-slate-100 border border-transparent whitespace-nowrap" data-categoria="Reestructuracion">Reestructuración</button>
+            
             <div class="w-px h-6 bg-slate-200 self-center mx-2"></div>
-            <a href="leads.html" class="text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 bg-google-blue/10 text-google-blue hover:bg-google-blue hover:text-white border border-google-blue/20 flex items-center">
-                🎯 Radar B2B
+            <a href="index.html" class="text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 bg-slate-100 text-slate-600 hover:bg-slate-200 border border-slate-200 flex items-center">
+                📰 Noticias
             </a>
         </div>
     </nav>
 
     <!-- Filtros Móvil -->
     <div class="md:hidden fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50 w-[95%] max-w-md flex flex-col items-center gap-3 pointer-events-none">
-        <a href="leads.html" class="pointer-events-auto bg-google-blue text-white text-xs font-bold px-6 py-2.5 rounded-full shadow-lg flex items-center shadow-google-blue/20 active:scale-95 transition-transform">
-            🎯 Cambiar a Radar de Leads B2B
+        <a href="index.html" class="pointer-events-auto bg-slate-900 text-white text-xs font-bold px-6 py-2.5 rounded-full shadow-lg flex items-center shadow-slate-900/20 active:scale-95 transition-transform">
+            📰 Cambiar a Noticias Generales
         </a>
         <div class="pointer-events-auto bg-white/90 backdrop-blur-xl border border-slate-200 rounded-[2rem] p-2 flex justify-between items-center space-x-1 shadow-2xl w-full">
-            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Legislación">Leyes</button>
-            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Mercado">Mercado</button>
-            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="ETTs">ETTs</button>
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Contratacion">Contratación</button>
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Aperturas">Aperturas</button>
+            <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Reestructuracion">Reestructuración</button>
         </div>
     </div>
 
@@ -85,11 +86,11 @@
         <header class="mb-16 text-center">
             
             <h2 class="text-5xl md:text-7xl lg:text-[5.5rem] font-extrabold text-slate-900 tracking-tight mb-8 leading-[1.1]" id="section-title">
-                Inteligencia de <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue via-google-red to-google-yellow">Recursos Humanos</span>
+                Radar de <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-google-blue via-google-red to-google-yellow">Leads B2B</span>
             </h2>
             
             <p class="text-xl md:text-2xl text-slate-500 font-light max-w-2xl mx-auto leading-relaxed">
-                El mercado laboral español analizado y estructurado en tiempo real.
+                Oportunidades de negocio y empresas contratando en tiempo real.
             </p>
         </header>
 
@@ -142,7 +143,7 @@
     </div>
 
     <!-- Scripts -->
-    <script src="datos/noticias.js?v=7"></script>
-    <script src="app.js?v=7"></script>
+    <script src="datos/leads.js?v=6"></script>
+    <script src="leads_app.js?v=6"></script>
 </body>
 </html>

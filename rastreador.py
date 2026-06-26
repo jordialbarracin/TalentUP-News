@@ -254,11 +254,11 @@ def main():
             
     print("-" * 50)
     
-    DB_PATH = os.path.join(os.path.dirname(__file__), 'public', 'datos', 'noticias.json')
+    DB_PATH = os.path.join(os.path.dirname(__file__), 'datos', 'noticias.js')
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     
     with open(DB_PATH, 'w', encoding='utf-8') as f:
-        json.dump(todas_las_noticias, f, ensure_ascii=False, indent=2)
+        f.write("const window_news_data = " + json.dumps(todas_las_noticias, ensure_ascii=False, indent=2) + ";")
     
     # === SECCION DE LEADS B2B ===
     todos_los_leads = []
@@ -272,7 +272,7 @@ def main():
         else:
             print("- Fallo la descarga o el feed estaba vacio.")
             
-    DB_LEADS_PATH = os.path.join(os.path.dirname(__file__), 'public', 'datos', 'leads.js')
+    DB_LEADS_PATH = os.path.join(os.path.dirname(__file__), 'datos', 'leads.js')
     with open(DB_LEADS_PATH, 'w', encoding='utf-8') as f:
         f.write("const window_leads_data = " + json.dumps(todos_los_leads, ensure_ascii=False, indent=2) + ";")
     
