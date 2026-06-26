@@ -254,11 +254,11 @@ def main():
             
     print("-" * 50)
     
-    DB_PATH = os.path.join(os.path.dirname(__file__), 'datos', 'noticias.js')
+    DB_PATH = os.path.join(os.path.dirname(__file__), 'public', 'datos', 'noticias.json')
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     
     with open(DB_PATH, 'w', encoding='utf-8') as f:
-        f.write("const window_news_data = " + json.dumps(todas_las_noticias, ensure_ascii=False, indent=2) + ";")
+        json.dump(todas_las_noticias, f, ensure_ascii=False, indent=2)
     
     # === SECCION DE LEADS B2B ===
     todos_los_leads = []
