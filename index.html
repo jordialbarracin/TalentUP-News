@@ -60,16 +60,16 @@
                 <!-- Filters & App Switcher -->
                 <div class="hidden md:flex items-center gap-6">
                     
-                    <!-- HTML App Switcher -->
-                    <div class="relative group cursor-pointer z-[100]">
-                        <div class="flex items-center gap-2 hover:bg-slate-100/50 px-3 py-2 rounded-full transition-colors border border-transparent hover:border-slate-200/50">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-600"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
-                            <span class="text-sm font-bold text-slate-700">Módulos</span>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400 group-hover:rotate-180 transition-transform"><path d="m6 9 6 6 6-6"/></svg>
-                        </div>
-                        
-                        <!-- Dropdown Menu -->
-                        <div class="absolute top-full right-0 mt-3 w-72 bg-white/95 backdrop-blur-2xl border border-slate-200 shadow-2xl rounded-3xl p-3 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-3 group-hover:translate-y-0 z-[100]">
+                <!-- AppSwitcher (Always visible) -->
+                <div class="relative group cursor-pointer z-[100] ml-auto mr-4 md:mr-0">
+                    <div class="flex items-center gap-2 hover:bg-slate-100/50 px-3 py-2 rounded-full transition-colors border border-transparent hover:border-slate-200/50">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-600"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
+                        <span class="text-sm font-bold text-slate-700 hidden sm:inline">Módulos</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400 group-hover:rotate-180 transition-transform"><path d="m6 9 6 6 6-6"/></svg>
+                    </div>
+                    
+                    <!-- Dropdown Menu -->
+                    <div class="absolute top-full right-0 mt-3 w-72 bg-white/95 backdrop-blur-2xl border border-slate-200 shadow-2xl rounded-3xl p-3 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 translate-y-3 group-hover:translate-y-0 z-[100]">
                             
                             <a href="https://talent-up-holding.vercel.app" class="flex items-center gap-4 p-3 hover:bg-slate-50 rounded-2xl transition-all mb-2 border border-transparent hover:border-slate-100 hover:shadow-sm group/main">
                                 <div class="w-12 h-12 rounded-xl bg-gradient-to-tr from-[#2563eb] via-[#ec4899] to-[#f59e0b] flex items-center justify-center text-white font-black text-xl shadow-md group-hover/main:scale-105 transition-transform">
@@ -105,7 +105,10 @@
 
                         </div>
                     </div>
+                </div>
 
+                <!-- Filters & Extra buttons -->
+                <div class="hidden md:flex items-center gap-6">
                     <!-- Filters -->
                     <div class="flex items-center gap-1 bg-slate-100/50 p-1 rounded-full border border-slate-200/50">
                         <button class="filter-btn text-sm font-semibold px-4 py-1.5 rounded-full transition-all duration-300 text-slate-500 hover:text-slate-900 hover:bg-white hover:shadow-sm" data-categoria="Legislación">Leyes</button>
@@ -120,9 +123,6 @@
 
     <!-- Filtros Móvil -->
     <div class="md:hidden fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50 w-[95%] max-w-md flex flex-col items-center gap-3 pointer-events-none">
-        <a href="leads.html" class="pointer-events-auto bg-google-blue text-white text-xs font-bold px-6 py-2.5 rounded-full shadow-lg flex items-center shadow-google-blue/20 active:scale-95 transition-transform">
-            🎯 Cambiar a Radar de Leads B2B
-        </a>
         <div class="pointer-events-auto bg-white/90 backdrop-blur-xl border border-slate-200 rounded-[2rem] p-2 flex justify-between items-center space-x-1 shadow-2xl w-full">
             <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Legislación">Leyes</button>
             <button class="filter-btn flex-1 text-[11px] sm:text-xs font-bold py-3 transition-all duration-300 text-slate-500 hover:bg-slate-100 rounded-2xl text-center" data-categoria="Mercado">Mercado</button>
