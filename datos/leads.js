@@ -9,19 +9,7 @@ const window_leads_data = [
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "BBVA",
-    "ubicacion": "IA"
-  },
-  {
-    "titulo": "Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 24 al 30 de junio de 2026) - La Administración al Día",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtT2V1ZTJROHFNZFBxNHV4bFFnMzVpUmlMNWxXd1dqbllZM1hUN3ZqUms2VGlKbUR5VzNiQUdmVGtlWlIzQ3BhVEFXMEE1OUZHVmJlNE8wN05nVEF2bnlJbDBqQUNhZFI2eHZkaA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtT2V1ZTJROHFNZFBxNHV4bFFnMzVpUmlMNWxXd1dqbllZM1hUN3ZqUms2VGlKbUR5VzNiQUdmVGtlWlIzQ3BhVEFXMEE1OUZHVmJlNE8wN05nVEF2bnlJbDBqQUNhZFI2eHZkaA?oc=5\" target=\"_blank\">Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 24 al 30 de junio de 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Administración al Día</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-24T07:43:23Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Día",
-    "ubicacion": "Ministerio"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 23 de junio de 2026 - Telemadrid",
@@ -34,18 +22,6 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
     "ubicacion": "Comunidad de Madrid"
-  },
-  {
-    "titulo": "Benidorm contratará a seis personas sin empleo a través de programas del LABORA - Ciudadano | Benidorm",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlk1T2F5Mm5LU3R3ZW1EMGZ6eVFOYnZfSWJBbm1pbFctNkl1OWM2Y3ZyQlRLRmtCekJ4RE54LTZ3T28xUTFKNGM5VHh6TmFOaHN5Z0tWanltbzVuSzlXRXM3Mkl1RHZiV3NCTm9wRkJkSHplZHkzbHMzQTUzS2NLczFHTUxWTmJvR1hBT1FOUlI0c000WmZuMWhiNHl6c0ItaG9XRjRzQXdQMFFfejc3OUlCeEFCcXNXamlQRDRR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORlk1T2F5Mm5LU3R3ZW1EMGZ6eVFOYnZfSWJBbm1pbFctNkl1OWM2Y3ZyQlRLRmtCekJ4RE54LTZ3T28xUTFKNGM5VHh6TmFOaHN5Z0tWanltbzVuSzlXRXM3Mkl1RHZiV3NCTm9wRkJkSHplZHkzbHMzQTUzS2NLczFHTUxWTmJvR1hBT1FOUlI0c000WmZuMWhiNHl6c0ItaG9XRjRzQXdQMFFfejc3OUlCeEFCcXNXamlQRDRR?oc=5\" target=\"_blank\">Benidorm contratará a seis personas sin empleo a través de programas del LABORA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ciudadano | Benidorm</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-29T11:01:57Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Benidorm"
   },
   {
     "titulo": "La implementación del nuevo modelo de certificación en el Perú, según la ley 32069 Ley General de Contrataciones Públicas - Observatorio de Contratación Pública",
@@ -68,8 +44,8 @@ const window_leads_data = [
     "fecha": "2026-06-29T10:53:20Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "UGT Castilla-La Mancha",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "UGT Castilla-La Mancha"
   },
   {
     "titulo": "El Centro Dramático Galego contratará a 35 intérpretes para producir ‘Isto tamén é Sargadelos’ y ‘Eurídice’ y reponer ‘A serie clopen’ y ‘Hamlet’ - Xunta de Galicia",
@@ -80,8 +56,8 @@ const window_leads_data = [
     "fecha": "2026-06-23T11:39:07Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "‘Eurídice’",
-    "ubicacion": "Centro Dramático Galego"
+    "empresa": "Centro Dramático Galego",
+    "ubicacion": "‘Eurídice’"
   },
   {
     "titulo": "Las ofertas de empleo en EEUU alcanzan su nivel más alto en dos años, pero la contratación sigue siendo difícil - TradingView",
@@ -104,8 +80,8 @@ const window_leads_data = [
     "fecha": "2026-06-24T16:04:03Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "MERCANTIL",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Málaga"
   },
   {
     "titulo": "El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones - Cadena SER",
@@ -113,10 +89,22 @@ const window_leads_data = [
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBNU1p0cnBDRzg3bVZjM1E0aERHSExWRzBtaTg4LUgycGtKMlJlU2htNXNNN2ZKTnVtWFdvMC1vOERiRmtoTEVIOEFSVDcta09kMXYzaHZxVGd5bGFKXzg2djNhUDVXX3hPSUlQOUJnVW5zalVWVm5SLXVWU2pwVDVmVU5OXzVqRzJYNFJidkREaWZNQ0VHdlVqWEtYVUt0djZ1bU8ySTYyNXNIOEtaTmNxdkR6QVljbzZQdkZzSFU2R2FJVjJn0gHbAUFVX3lxTFBwOFdPZ0lyOHFTdEFsQ3poUDc2UWhkV1VTVnhjN2FmTUFmZ2xlOW1DVlVSMlBHZnFaaDBPZ0FWZms2UnVvbXdWT0xfOTQteHFON2RlbERPdGw0SWdaejVncEdFSXlkY1BHRTdrMzlKdVhYVWo5ajBEQ0ZQMDZzdlRxSUN3RkFFRlFPLWRaUFQyeE1YWWRTOFJPczRmbVRmcDItOE04amtuSld5aFJndWk4WjJWQnd4VlFmYlZyeU9xVk5GaFNOc2lWYUhXSFQyOTZWNVpYb2xOZkZyOA?oc=5\" target=\"_blank\">El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-06-24T15:14:07Z",
+    "fecha": "2026-06-24T13:19:58Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Cadena SER",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Este viernes nuevas ofertas de empleo - Radio Guijuelo",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVk5N2YzU3dKb3F1UHNkTWU1Yk4yNEVBWllJamFtMmgyMnM1Wk9zWnUtMFo3QTZMX2JxZWdNeWFuZXpZelIzc3NxYW81YzF2S3M1STM4QW5oYlRLX3J3cWZXNUZtMXU2OXlpTjRwY0tDcmZlcUpBdl9aZUgxdkNmOA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVk5N2YzU3dKb3F1UHNkTWU1Yk4yNEVBWllJamFtMmgyMnM1Wk9zWnUtMFo3QTZMX2JxZWdNeWFuZXpZelIzc3NxYW81YzF2S3M1STM4QW5oYlRLX3J3cWZXNUZtMXU2OXlpTjRwY0tDcmZlcUpBdl9aZUgxdkNmOA?oc=5\" target=\"_blank\">Este viernes nuevas ofertas de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Guijuelo</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-26T10:49:45Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -128,7 +116,7 @@ const window_leads_data = [
     "fecha": "2026-06-27T07:15:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Madrid Trabaja",
+    "empresa": "Telemadrid",
     "ubicacion": "Nacional"
   },
   {
@@ -156,6 +144,18 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 29 de junio de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHR5RHhFbmNoeHpkZ2JOOGF5V1ZNa0dwTFlmTnltaGlldU5oRzkzM1dEaFowclNxM2lzT04yV1Y3S3RSdlMydXpoaE13UGhkZ1dxallwcWxuVnBHRnBSOW5IUUFKNk9zUFc5T1JhSXQ5TTdUYWJ2YTAzZEZvbW1pdmpqbTBvZmJCX1lxUzlRQlZpRFhYZk1yMmhNaGc0YUtmQ011ejhIZl8xSW1GWlEyZWtib09aNFNpT0FseU9ETHhVUjNwZERHcjI1QTFabmlTRGRHbXM3MFpTQUJvbWdlVWlfZDFiXzTSAewBQVVfeXFMTUQzSEQxRjRTYjYwMF9mSUp2S1NHcS1sX0RYaXVZQ0txbXBlYkE5bDN4b1VvQlZ0aEFaQ0dpSFpCSVdzaDJwV2MyUkNpbkZvU21XTVhIdVZCc2xldE9nZ3ZIOGE3ZWlLellPYmxxLXdPMTBPLUNvYzYxUUMxV1pqSHBFcXE5OVZWYmtYY251QUJCWlY4Sm9rQ3NfeW5tWXRVdkx6YV9xX1N4Qi1SZkhuellnV281WnJlMWJTcWRwNUJzbVhYRFpDS25zMmFZMTBVc0F3Mjd6TGk2SlNRaFBRak0zbWRzQTQzLW90Z3A?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHR5RHhFbmNoeHpkZ2JOOGF5V1ZNa0dwTFlmTnltaGlldU5oRzkzM1dEaFowclNxM2lzT04yV1Y3S3RSdlMydXpoaE13UGhkZ1dxallwcWxuVnBHRnBSOW5IUUFKNk9zUFc5T1JhSXQ5TTdUYWJ2YTAzZEZvbW1pdmpqbTBvZmJCX1lxUzlRQlZpRFhYZk1yMmhNaGc0YUtmQ011ejhIZl8xSW1GWlEyZWtib09aNFNpT0FseU9ETHhVUjNwZERHcjI1QTFabmlTRGRHbXM3MFpTQUJvbWdlVWlfZDFiXzTSAewBQVVfeXFMTUQzSEQxRjRTYjYwMF9mSUp2S1NHcS1sX0RYaXVZQ0txbXBlYkE5bDN4b1VvQlZ0aEFaQ0dpSFpCSVdzaDJwV2MyUkNpbkZvU21XTVhIdVZCc2xldE9nZ3ZIOGE3ZWlLellPYmxxLXdPMTBPLUNvYzYxUUMxV1pqSHBFcXE5OVZWYmtYY251QUJCWlY4Sm9rQ3NfeW5tWXRVdkx6YV9xX1N4Qi1SZkhuellnV281WnJlMWJTcWRwNUJzbVhYRFpDS25zMmFZMTBVc0F3Mjd6TGk2SlNRaFBRak0zbWRzQTQzLW90Z3A?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 29 de junio de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-29T12:37:14Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Comunidad de Madrid"
+  },
+  {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 26 de junio de 2026 - Telemadrid",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTHpid1M5S3R6bFJreWhLek40NlBZM0VlSVFlUzd5NnFhTnp6VmU1ejZPakNWdUlrV2FjQk9Qbkh1Vk5vZFFkRHEtRFQtcDZUcXVoLTJJbk1sbzRsb3FEVklOdkctWTV1NGJPMzBTTFpWQ3BQRUJvZlhNbkhZZ2IzUF84eTBpSi1yM1BoTGFJSjZMd1h0eFNwV09TSUQ3US1HSk84bmwyVWNrRHhQdkxkMjdlVXAzVjJUTzY5Z1F0bE42RElZa3pxSmEtRVZIQ1k0LW9sTnpfSGpCQ2hzZFROX3BmYTVNYmfSAewBQVVfeXFMTkxTTl9CZ3FCY0JvY1U4WmdkQ010SFh1WTA1cXhkWGxwdndTUmhFSDBWVkMtNlp2c04tYmJrN2duYmlxRWp5cGhSTGdCb0RmRlNNaXhRd3cxUFpHUGp4d3NBQnhMUnpybFBaNUxwWHRHcmlnUzdVMlFYb0VjSlY0VUxsb2lFSDN1TXRYeklnVEhyTWNQdHdnZlkwbWpLd3I5cElnUVdhb3pNM1BMQ2tJU09rNzgtX2EzcklQd0FXcWR0bDQ3Yml6aENvLWtiWmVfTjFRZWZ4eW04eU94NVNyc2lhcVlFMldiMGd3UmI?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTHpid1M5S3R6bFJreWhLek40NlBZM0VlSVFlUzd5NnFhTnp6VmU1ejZPakNWdUlrV2FjQk9Qbkh1Vk5vZFFkRHEtRFQtcDZUcXVoLTJJbk1sbzRsb3FEVklOdkctWTV1NGJPMzBTTFpWQ3BQRUJvZlhNbkhZZ2IzUF84eTBpSi1yM1BoTGFJSjZMd1h0eFNwV09TSUQ3US1HSk84bmwyVWNrRHhQdkxkMjdlVXAzVjJUTzY5Z1F0bE42RElZa3pxSmEtRVZIQ1k0LW9sTnpfSGpCQ2hzZFROX3BmYTVNYmfSAewBQVVfeXFMTkxTTl9CZ3FCY0JvY1U4WmdkQ010SFh1WTA1cXhkWGxwdndTUmhFSDBWVkMtNlp2c04tYmJrN2duYmlxRWp5cGhSTGdCb0RmRlNNaXhRd3cxUFpHUGp4d3NBQnhMUnpybFBaNUxwWHRHcmlnUzdVMlFYb0VjSlY0VUxsb2lFSDN1TXRYeklnVEhyTWNQdHdnZlkwbWpLd3I5cElnUVdhb3pNM1BMQ2tJU09rNzgtX2EzcklQd0FXcWR0bDQ3Yml6aENvLWtiWmVfTjFRZWZ4eW04eU94NVNyc2lhcVlFMldiMGd3UmI?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 26 de junio de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
@@ -168,12 +168,12 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 29 de junio de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHR5RHhFbmNoeHpkZ2JOOGF5V1ZNa0dwTFlmTnltaGlldU5oRzkzM1dEaFowclNxM2lzT04yV1Y3S3RSdlMydXpoaE13UGhkZ1dxallwcWxuVnBHRnBSOW5IUUFKNk9zUFc5T1JhSXQ5TTdUYWJ2YTAzZEZvbW1pdmpqbTBvZmJCX1lxUzlRQlZpRFhYZk1yMmhNaGc0YUtmQ011ejhIZl8xSW1GWlEyZWtib09aNFNpT0FseU9ETHhVUjNwZERHcjI1QTFabmlTRGRHbXM3MFpTQUJvbWdlVWlfZDFiXzTSAewBQVVfeXFMTUQzSEQxRjRTYjYwMF9mSUp2S1NHcS1sX0RYaXVZQ0txbXBlYkE5bDN4b1VvQlZ0aEFaQ0dpSFpCSVdzaDJwV2MyUkNpbkZvU21XTVhIdVZCc2xldE9nZ3ZIOGE3ZWlLellPYmxxLXdPMTBPLUNvYzYxUUMxV1pqSHBFcXE5OVZWYmtYY251QUJCWlY4Sm9rQ3NfeW5tWXRVdkx6YV9xX1N4Qi1SZkhuellnV281WnJlMWJTcWRwNUJzbVhYRFpDS25zMmFZMTBVc0F3Mjd6TGk2SlNRaFBRak0zbWRzQTQzLW90Z3A?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHR5RHhFbmNoeHpkZ2JOOGF5V1ZNa0dwTFlmTnltaGlldU5oRzkzM1dEaFowclNxM2lzT04yV1Y3S3RSdlMydXpoaE13UGhkZ1dxallwcWxuVnBHRnBSOW5IUUFKNk9zUFc5T1JhSXQ5TTdUYWJ2YTAzZEZvbW1pdmpqbTBvZmJCX1lxUzlRQlZpRFhYZk1yMmhNaGc0YUtmQ011ejhIZl8xSW1GWlEyZWtib09aNFNpT0FseU9ETHhVUjNwZERHcjI1QTFabmlTRGRHbXM3MFpTQUJvbWdlVWlfZDFiXzTSAewBQVVfeXFMTUQzSEQxRjRTYjYwMF9mSUp2S1NHcS1sX0RYaXVZQ0txbXBlYkE5bDN4b1VvQlZ0aEFaQ0dpSFpCSVdzaDJwV2MyUkNpbkZvU21XTVhIdVZCc2xldE9nZ3ZIOGE3ZWlLellPYmxxLXdPMTBPLUNvYzYxUUMxV1pqSHBFcXE5OVZWYmtYY251QUJCWlY4Sm9rQ3NfeW5tWXRVdkx6YV9xX1N4Qi1SZkhuellnV281WnJlMWJTcWRwNUJzbVhYRFpDS25zMmFZMTBVc0F3Mjd6TGk2SlNRaFBRak0zbWRzQTQzLW90Z3A?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 29 de junio de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 24 de junio de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmd0SHhzNDhMMkhqNk9RYzlzendsNWtfd2U3ZHRfZC1fS20zMjAxZEVta3N4UWdpYjhQcDhhMnVHRlFUOTNhOUROaDQxMzliVXBnTE9ULXRLUzRMRjF1RkFtTk5BX3pSdUNUd3F4YWlxYUwyTm9TZVBfUWdZYmxsTFIxdUVsYVIxWnpKZVA2QVZHaXFidTVxOUpuX2lrMFROZENKelNRMlgtX1dzem5ycE9HblFySnU4cFEyWFN5MTFjWHg2TG9SNFNZUXJGOHVZekJyT2hwa2ozTFA2ZzhTR0lhUUZKZkXSAewBQVVfeXFMT29HeVhVX2dsSVN5cHFzZmVUb1VEVHpCc2MwNGFGNnRTbGlNS3ZxWjU4RkNIVnJEaXR4am1ub1U0eF9uSU9tUnpxZHM4aG1JaHU3RmZDUG12MFVpQ2E4c2loOHlyZTU1bHJCRlBkQ01rVlhGZTdvUzZxWHRud0FMTVN2Um1tcFhNVWJiT1Fablhmd2xwWkFtWFJvcjVqa0dyR21sdEp2NmphZDg0NHVoWWRsblNYem9ROVJIbm8tTDNqNWdmZFpYdlltaVN6eXc2bm5CaERkSWgwdlJsODg2WkJPRGVNSG1la0tyX1Y?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmd0SHhzNDhMMkhqNk9RYzlzendsNWtfd2U3ZHRfZC1fS20zMjAxZEVta3N4UWdpYjhQcDhhMnVHRlFUOTNhOUROaDQxMzliVXBnTE9ULXRLUzRMRjF1RkFtTk5BX3pSdUNUd3F4YWlxYUwyTm9TZVBfUWdZYmxsTFIxdUVsYVIxWnpKZVA2QVZHaXFidTVxOUpuX2lrMFROZENKelNRMlgtX1dzem5ycE9HblFySnU4cFEyWFN5MTFjWHg2TG9SNFNZUXJGOHVZekJyT2hwa2ozTFA2ZzhTR0lhUUZKZkXSAewBQVVfeXFMT29HeVhVX2dsSVN5cHFzZmVUb1VEVHpCc2MwNGFGNnRTbGlNS3ZxWjU4RkNIVnJEaXR4am1ub1U0eF9uSU9tUnpxZHM4aG1JaHU3RmZDUG12MFVpQ2E4c2loOHlyZTU1bHJCRlBkQ01rVlhGZTdvUzZxWHRud0FMTVN2Um1tcFhNVWJiT1Fablhmd2xwWkFtWFJvcjVqa0dyR21sdEp2NmphZDg0NHVoWWRsblNYem9ROVJIbm8tTDNqNWdmZFpYdlltaVN6eXc2bm5CaERkSWgwdlJsODg2WkJPRGVNSG1la0tyX1Y?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 24 de junio de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-06-29T12:37:14Z",
+    "fecha": "2026-06-24T10:18:47Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
@@ -200,8 +200,8 @@ const window_leads_data = [
     "fecha": "2026-06-25T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Euskadi.eus",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Osalan"
   },
   {
     "titulo": "BOLSA INGESA | CEUTA/MELILLA | Cronograma orientativo de apertura de bolsa de empleo temporal en la categoría de Celador/a. - Sindicato Cean",
@@ -224,8 +224,8 @@ const window_leads_data = [
     "fecha": "2026-06-18T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "La Voz de Galicia"
+    "empresa": "Voz de Galicia",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "La nueva fábrica de Leapmotor en Mallén (Zaragoza) producirá unas 60.000 baterías al año y dará empleo a 90 personas - Europa Press",
@@ -261,7 +261,7 @@ const window_leads_data = [
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Desconocida",
-    "ubicacion": "El Conciso"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Obramat inaugura en Churra su segundo almacén en la Región de Murcia - Interempresas.net",
@@ -276,6 +276,18 @@ const window_leads_data = [
     "ubicacion": "Obramat"
   },
   {
+    "titulo": "Así será la nueva fábrica de MG en Galicia, que dará empleo a 1.000 trabajadores - forococheselectricos.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb056RFZncmZudHNEZW1WekQ5c2JOQXIzUnc5VDNKMEJPdGdYNThtbjdyMWhoWldrdVB3TlMzZWZ5TTg3dzRmSTN1bDhjb1pmZGFzUjVrWnRMSWtyTE9pMnlPSkY1RWE3a3oxUVVoc1FyLUFmbzU2VFkyTlZZVVdNZ2hnSTJXQmtVREgzd3JTeDk4OHBfUlAwSVlnRXpTTFE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNb056RFZncmZudHNEZW1WekQ5c2JOQXIzUnc5VDNKMEJPdGdYNThtbjdyMWhoWldrdVB3TlMzZWZ5TTg3dzRmSTN1bDhjb1pmZGFzUjVrWnRMSWtyTE9pMnlPSkY1RWE3a3oxUVVoc1FyLUFmbzU2VFkyTlZZVVdNZ2hnSTJXQmtVREgzd3JTeDk4OHBfUlAwSVlnRXpTTFE?oc=5\" target=\"_blank\">Así será la nueva fábrica de MG en Galicia, que dará empleo a 1.000 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forococheselectricos.com</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-29T07:48:19Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "MG"
+  },
+  {
     "titulo": "El nuevo kiosco del centro de León busca empleados para su apertura - Digital de León",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3FySGJLSHBLbzRRR2tIUmFuUnpwVjVaLVhTQmdyZVplR0N5Q3JsbFZkMzNhWXQ4bWRuQTVrZWIzdzVRbnhua25NUmtGQm5nSTU4UFl5ZkxfY2tIdnNEUHRFR0k0SjZUc1ZHR0JfdDNEVWZyTk9sZXNCLWJIbGthMndEa1Q1b3pUbzl6UzB2ZG9GRV85a29ubG94akdNWGtOR2xUMWI1NFFaUkF2U2NMSFkzRmNXT3E0ZnEzVXpaemthSDhLdkxr0gHMAUFVX3lxTE9LaXlhRFc0b1l1ak9Jckx4NThuSkZORGY4X0JWNVhpdHg0NUVqTDdqVzdKbFVTandrYmFULVB4c2xJamIxMlFSbEhpZm85MFg4emxMWldoQ3BNZEk5WDBVTHZ3d2UtZ003c180d081bTBtQUZBeEw2eXdXRDdkOHQ4YlVOTmo5ZXBXMEZEc1RLeExpYVJSTklNSUpTTzdTVXhRNDRaWm1nVWtfZG51R3U1U3dIc0FpZjN4ZVdYaGNWNGFlR3Y1dVVOd3BqOQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3FySGJLSHBLbzRRR2tIUmFuUnpwVjVaLVhTQmdyZVplR0N5Q3JsbFZkMzNhWXQ4bWRuQTVrZWIzdzVRbnhua25NUmtGQm5nSTU4UFl5ZkxfY2tIdnNEUHRFR0k0SjZUc1ZHR0JfdDNEVWZyTk9sZXNCLWJIbGthMndEa1Q1b3pUbzl6UzB2ZG9GRV85a29ubG94akdNWGtOR2xUMWI1NFFaUkF2U2NMSFkzRmNXT3E0ZnEzVXpaemthSDhLdkxr0gHMAUFVX3lxTE9LaXlhRFc0b1l1ak9Jckx4NThuSkZORGY4X0JWNVhpdHg0NUVqTDdqVzdKbFVTandrYmFULVB4c2xJamIxMlFSbEhpZm85MFg4emxMWldoQ3BNZEk5WDBVTHZ3d2UtZ003c180d081bTBtQUZBeEw2eXdXRDdkOHQ4YlVOTmo5ZXBXMEZEc1RLeExpYVJSTklNSUpTTzdTVXhRNDRaWm1nVWtfZG51R3U1U3dIc0FpZjN4ZVdYaGNWNGFlR3Y1dVVOd3BqOQ?oc=5\" target=\"_blank\">El nuevo kiosco del centro de León busca empleados para su apertura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital de León</font>",
@@ -288,18 +300,6 @@ const window_leads_data = [
     "ubicacion": "León"
   },
   {
-    "titulo": "Así será la nueva fábrica de MG en Galicia, que dará empleo a 1.000 trabajadores - forococheselectricos.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb056RFZncmZudHNEZW1WekQ5c2JOQXIzUnc5VDNKMEJPdGdYNThtbjdyMWhoWldrdVB3TlMzZWZ5TTg3dzRmSTN1bDhjb1pmZGFzUjVrWnRMSWtyTE9pMnlPSkY1RWE3a3oxUVVoc1FyLUFmbzU2VFkyTlZZVVdNZ2hnSTJXQmtVREgzd3JTeDk4OHBfUlAwSVlnRXpTTFE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNb056RFZncmZudHNEZW1WekQ5c2JOQXIzUnc5VDNKMEJPdGdYNThtbjdyMWhoWldrdVB3TlMzZWZ5TTg3dzRmSTN1bDhjb1pmZGFzUjVrWnRMSWtyTE9pMnlPSkY1RWE3a3oxUVVoc1FyLUFmbzU2VFkyTlZZVVdNZ2hnSTJXQmtVREgzd3JTeDk4OHBfUlAwSVlnRXpTTFE?oc=5\" target=\"_blank\">Así será la nueva fábrica de MG en Galicia, que dará empleo a 1.000 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forococheselectricos.com</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-29T07:48:19Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "MG",
-    "ubicacion": "Galicia"
-  },
-  {
     "titulo": "Leche Pascual presenta un ERE para los 80 trabajadores de su planta de Gurb (Barcelona) - EL PAÍS",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2F6bnZSNmxhZ2JnRW5ZdE1OMlF2VmtacDR6VXRMSGpFTE02cG9ONmxaQno4WndBdm5mYmlKeWRxUGxneE9pR21mQVdDVm5YUmJpRDNyMXl2QlhYTkwwTDhpakxnNVBEai1TUHVlNTljeElyM01DdUFnWkYyZklid3E3RHVNTUtpX1FXeHkwbHN3TjJ3RzlCZ1duNEFQQU5sUlNCdWVJWUdoa0k4cllaRDh0bDdmcFZpZmpaUG0xZ19ETVJ0ZDM0REZmaHp4aTdJM1RJ0gHnAUFVX3lxTFBEUGVVU3ViNll1WFlkVVIwQVEwX1BtTG1pbjYxaGJSRzZJUFltTGJPc3B5TVByeTBnYmJMQjVac0JIM3VocDBPSThOTWctanFmVV9oVFBGaWZxSnowRXBXaUlBUEVCbEpBN2VFWlZHSlZwNU9oc243NFY5QV8tQ2tyTnFTZkwxdlFiZE1Vak40clZBQ0lMZWU0cTF1d1lBWWlQcVgyMlBTV0hpNDhKdUJzeHVkOWt3RXpqb3hfTEpSWE1zTWVsOWNNSVhuUlFnU1hKN09hbnBoUi1vTWgtaUlQOUE5UnJjaw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2F6bnZSNmxhZ2JnRW5ZdE1OMlF2VmtacDR6VXRMSGpFTE02cG9ONmxaQno4WndBdm5mYmlKeWRxUGxneE9pR21mQVdDVm5YUmJpRDNyMXl2QlhYTkwwTDhpakxnNVBEai1TUHVlNTljeElyM01DdUFnWkYyZklid3E3RHVNTUtpX1FXeHkwbHN3TjJ3RzlCZ1duNEFQQU5sUlNCdWVJWUdoa0k4cllaRDh0bDdmcFZpZmpaUG0xZ19ETVJ0ZDM0REZmaHp4aTdJM1RJ0gHnAUFVX3lxTFBEUGVVU3ViNll1WFlkVVIwQVEwX1BtTG1pbjYxaGJSRzZJUFltTGJPc3B5TVByeTBnYmJMQjVac0JIM3VocDBPSThOTWctanFmVV9oVFBGaWZxSnowRXBXaUlBUEVCbEpBN2VFWlZHSlZwNU9oc243NFY5QV8tQ2tyTnFTZkwxdlFiZE1Vak40clZBQ0lMZWU0cTF1d1lBWWlQcVgyMlBTV0hpNDhKdUJzeHVkOWt3RXpqb3hfTEpSWE1zTWVsOWNNSVhuUlFnU1hKN09hbnBoUi1vTWgtaUlQOUE5UnJjaw?oc=5\" target=\"_blank\">Leche Pascual presenta un ERE para los 80 trabajadores de su planta de Gurb (Barcelona)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
@@ -308,8 +308,8 @@ const window_leads_data = [
     "fecha": "2026-06-26T11:43:59Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "PAÍS",
-    "ubicacion": "Leche Pascual"
+    "empresa": "ERE",
+    "ubicacion": "Gurb"
   },
   {
     "titulo": "Eroski inaugura un nuevo supermercado franquiciado en Mallorca - Revista ARAL",
@@ -320,8 +320,20 @@ const window_leads_data = [
     "fecha": "2026-06-23T14:18:50Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Revista ARAL",
+    "empresa": "Desconocida",
     "ubicacion": "Mallorca"
+  },
+  {
+    "titulo": "La cooperativa valenciana Consum abre una nueva tienda en Almería y alcanza los 30 supermercados en la provincia - El Debate",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcGlDS1FYMFlxczVqZUZVVUltTFo4bHBUMDVNaHhYeDBBXy16LXZ2TGN1VVNBeVRUVTZtdDF6YU5MOHhyaUF3SnloR3BUN0UzcXh4c0YwVFltMXJsRVREVmJsSkN1ZF85M19ESHRWMkl4MVJ4dTFOMGpyQzdELWJ5Z2R3Tkh6ZEVLel9lcC16eHNnaGpoMHZ3UGctVGpBd1NKaUV0bmpzMVZ5SllZNlhWLXhJQmk5cUc4ZUZRQVI2ZFlWTU9TeUdVMTRWbWNfN093azFKVERSSGNRa2d1WDIzbGMtYzFlN3NYejliendyTm1jZURRM0HSAfsBQVVfeXFMTm5wSnNnblhjeklTckJFV2U2UlZMYW93VGRsbkRjM2NPNHFfRFFVV21DQzRIWEQ3dU1iNzVzSHQ1TXpSQndJT3NHU201N2pVRS1tREZIS2preGpPZEl1UWJUbUJyWWxtVTh3M2pYSDJiajVxMnloOFdPSlNNOXRXSWZ4Vi10M2ZIQ1dNQ0Z3VFl0Q2hFSnFVUUlGSFdzcWxObFBaZzkxX0M1WG1rTnVHalFQbUlhT2VzUjc2R3dWbVRqSUN2Mm9qNW5pLTNyeHI3RUtwSDF0ODN1b3dPdUNPVVJ1SURNQm1KYVZBNXphcGtrR21zN0pOYnpFRG8?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcGlDS1FYMFlxczVqZUZVVUltTFo4bHBUMDVNaHhYeDBBXy16LXZ2TGN1VVNBeVRUVTZtdDF6YU5MOHhyaUF3SnloR3BUN0UzcXh4c0YwVFltMXJsRVREVmJsSkN1ZF85M19ESHRWMkl4MVJ4dTFOMGpyQzdELWJ5Z2R3Tkh6ZEVLel9lcC16eHNnaGpoMHZ3UGctVGpBd1NKaUV0bmpzMVZ5SllZNlhWLXhJQmk5cUc4ZUZRQVI2ZFlWTU9TeUdVMTRWbWNfN093azFKVERSSGNRa2d1WDIzbGMtYzFlN3NYejliendyTm1jZURRM0HSAfsBQVVfeXFMTm5wSnNnblhjeklTckJFV2U2UlZMYW93VGRsbkRjM2NPNHFfRFFVV21DQzRIWEQ3dU1iNzVzSHQ1TXpSQndJT3NHU201N2pVRS1tREZIS2preGpPZEl1UWJUbUJyWWxtVTh3M2pYSDJiajVxMnloOFdPSlNNOXRXSWZ4Vi10M2ZIQ1dNQ0Z3VFl0Q2hFSnFVUUlGSFdzcWxObFBaZzkxX0M1WG1rTnVHalFQbUlhT2VzUjc2R3dWbVRqSUN2Mm9qNW5pLTNyeHI3RUtwSDF0ODN1b3dPdUNPVVJ1SURNQm1KYVZBNXphcGtrR21zN0pOYnpFRG8?oc=5\" target=\"_blank\">La cooperativa valenciana Consum abre una nueva tienda en Almería y alcanza los 30 supermercados en la provincia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Debate</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-25T09:26:47Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Alcampo refuerza su red de franquicias con una nueva apertura en Hondarribia - Just Retail",
@@ -332,32 +344,20 @@ const window_leads_data = [
     "fecha": "2026-06-30T08:55:01Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Alcampo",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Hondarribia"
   },
   {
-    "titulo": "McDonald’s inaugura su nuevo restaurante en la avenida San Ignacio de Pamplona - Navarra Capital",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR09OQ3ZDcmFTamtKVVBCNjlHYS13Zkh3LUNwTGNaYXlPaWJGYTNtZXY4dVE1Q3ZaMmJ5dmx2T29NV1lZYkYzSHJuNmlCNDIzcGFCdFBScWtFOUVrV00zNXl5RGo5NlBEZmRFX3l2UlhlZ1YxbENOQUtsTVE4anhiNHRLOWo5cWpGdEZEUTJESkdsQlByMm8wLXYzaGZNWmhvM2I5Z0xvV0FSajg3SWxhNDVB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR09OQ3ZDcmFTamtKVVBCNjlHYS13Zkh3LUNwTGNaYXlPaWJGYTNtZXY4dVE1Q3ZaMmJ5dmx2T29NV1lZYkYzSHJuNmlCNDIzcGFCdFBScWtFOUVrV00zNXl5RGo5NlBEZmRFX3l2UlhlZ1YxbENOQUtsTVE4anhiNHRLOWo5cWpGdEZEUTJESkdsQlByMm8wLXYzaGZNWmhvM2I5Z0xvV0FSajg3SWxhNDVB?oc=5\" target=\"_blank\">McDonald’s inaugura su nuevo restaurante en la avenida San Ignacio de Pamplona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Navarra Capital</font>",
+    "titulo": "EROSKI inaugura en Mallorca un nuevo supermercado franquiciado con la enseña RAPID - Diario de Mallorca",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2hXbGs5SHEzeENtdVliaU1fSnZPX19vb2NnbE5YU2NHQWhuRnlXU1Via3RiQmRMa2FOcjNqZHlEeXZpMzFzSGhxekRrbXFleEttM3FORnR5TVlRTHJqdEZwZDg2SzJFbzE5dnFhSHlRbzNBNEFLV0h5b3RuRXZUVlp6ZWI4UkFRZmwwWnV5TXZicnNuYTNQS1U2UG5SaHl4WlI0azRGN29DMmF0YlB6REtyb0ZaTG1Ca1M0RGN3ONIBxAFBVV95cUxPMWNzMzBWb0o3ekJDSkRLSDBVU1RkcVJQdjdoWHlWSDItR3V6YmR0ekFfTTk2ZW05OXUyNnV3cjFhVEpqNy16NDBYUDQ4cWc4THNPeUpETHZMMHhPT3g4V0NCS3FvcU5pSUlkY2NuSlpwQUJaRVRlYy1TeVFmUDI1XzlqV2FjaXc5R2hDTEhJODNJdlBwX3IydWZvNjM0eE80WmdnMWZzbmxnR0gxeW5Jb1BPY0xQYmxvODVIMHZGejhJNjkx?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2hXbGs5SHEzeENtdVliaU1fSnZPX19vb2NnbE5YU2NHQWhuRnlXU1Via3RiQmRMa2FOcjNqZHlEeXZpMzFzSGhxekRrbXFleEttM3FORnR5TVlRTHJqdEZwZDg2SzJFbzE5dnFhSHlRbzNBNEFLV0h5b3RuRXZUVlp6ZWI4UkFRZmwwWnV5TXZicnNuYTNQS1U2UG5SaHl4WlI0azRGN29DMmF0YlB6REtyb0ZaTG1Ca1M0RGN3ONIBxAFBVV95cUxPMWNzMzBWb0o3ekJDSkRLSDBVU1RkcVJQdjdoWHlWSDItR3V6YmR0ekFfTTk2ZW05OXUyNnV3cjFhVEpqNy16NDBYUDQ4cWc4THNPeUpETHZMMHhPT3g4V0NCS3FvcU5pSUlkY2NuSlpwQUJaRVRlYy1TeVFmUDI1XzlqV2FjaXc5R2hDTEhJODNJdlBwX3IydWZvNjM0eE80WmdnMWZzbmxnR0gxeW5Jb1BPY0xQYmxvODVIMHZGejhJNjkx?oc=5\" target=\"_blank\">EROSKI inaugura en Mallorca un nuevo supermercado franquiciado con la enseña RAPID</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Mallorca</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-06-17T07:00:00Z",
+    "fecha": "2026-06-19T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "McDonald’s"
-  },
-  {
-    "titulo": "Ofertas de trabajo en Ponferrada y de empleo en El Bierzo - Info Bierzo",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFF0NF8wbWdBSTJLZG5TQnJMc0dnVlU2SGQ1Y0x3TU54a1lBOW1iV19Xd1N2ZzhZOWJBR2pMOFBaNjZBYXRUM09ELVZjU1YxSVdNZE1VSm1qRHVONTdHQWZLWmRPRGdJdWxDal9wbDJPbThBS1R5WGRoTk5VRjQzRmdJdE1NSVZiTHRieUJxZWhfR2hTN0s2aGJFWk41Vk9rNXJ1aUZKTzJza1hLWUtTcXdnVnJ1Q2NrazhZZEN4cnJTZEHSAcgBQVVfeXFMTVdsVFRRS2JYckVrY3F5U3QzbUxGRmdJcVFkTjQ4azNicS1HckozQkgyWmYtakVELUVzZnVjb0FPM0tHQXpwWENDYXFPWDR2MXRlR3BaRVFrQVQ4UmtLbk1udHNvY01fTjFyM05BVVItU0lmN1JxMmZEbks1SDRIQXZLQWlGNDEzd01ubUpsWGY0d3l2VC1jZHBzcFAtWWZjczljT0pNRTRKNkY3XzBMNWtBLVBHYlIwLUs0MktMN3VCTWVfWFVDeHI?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFF0NF8wbWdBSTJLZG5TQnJMc0dnVlU2SGQ1Y0x3TU54a1lBOW1iV19Xd1N2ZzhZOWJBR2pMOFBaNjZBYXRUM09ELVZjU1YxSVdNZE1VSm1qRHVONTdHQWZLWmRPRGdJdWxDal9wbDJPbThBS1R5WGRoTk5VRjQzRmdJdE1NSVZiTHRieUJxZWhfR2hTN0s2aGJFWk41Vk9rNXJ1aUZKTzJza1hLWUtTcXdnVnJ1Q2NrazhZZEN4cnJTZEHSAcgBQVVfeXFMTVdsVFRRS2JYckVrY3F5U3QzbUxGRmdJcVFkTjQ4azNicS1HckozQkgyWmYtakVELUVzZnVjb0FPM0tHQXpwWENDYXFPWDR2MXRlR3BaRVFrQVQ4UmtLbk1udHNvY01fTjFyM05BVVItU0lmN1JxMmZEbks1SDRIQXZLQWlGNDEzd01ubUpsWGY0d3l2VC1jZHBzcFAtWWZjczljT0pNRTRKNkY3XzBMNWtBLVBHYlIwLUs0MktMN3VCTWVfWFVDeHI?oc=5\" target=\"_blank\">Ofertas de trabajo en Ponferrada y de empleo en El Bierzo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Info Bierzo</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-23T13:21:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Ponferrada"
+    "empresa": "EROSKI",
+    "ubicacion": "Mallorca"
   },
   {
     "titulo": "Iberia pone en rampa de salida su ERE voluntario para 844 trabajadores - EL PAÍS",
@@ -368,8 +368,8 @@ const window_leads_data = [
     "fecha": "2026-06-22T07:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "PAÍS",
-    "ubicacion": "Iberia"
+    "empresa": "Iberia",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Magnific (Freepik) plantea un ERE para el 30% de su plantilla - Expansión",
@@ -380,8 +380,20 @@ const window_leads_data = [
     "fecha": "2026-06-18T07:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Magnific",
-    "ubicacion": "Freepik"
+    "empresa": "ERE",
+    "ubicacion": "Magnific"
+  },
+  {
+    "titulo": "Stellantis plantea un ERE y un ERTE en Villaverde tras recortar en 7.800 coches su previsión de producción - El Economista",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkE2YmU5Vl9Wd0E2ellyYzk3M180Uk5oYVJjdjFoclV6UXA1SlE3dTVWRUdCbEJVUm1wT0hfZ29BVzZjdFFvMXlLN0hIY09aRU9sckVTaWlOV0x3NEJBQkU0RVZCQWtZQjhGWjRIQUQ1WnpPanE5WldBRHFCZnNObm5KVlo5X1RCdHk4YnBvVlBkUFJiYnZLeDBMWXRBbjZKNWFrUXhzdDg2OFdVamM1dGIwR3RLTVBLQ1JkZzBYbnlCc25oS1JNcHV2bE9SNTNyOF83OHk0WjRtTHd3MWhyVHJ0aDZjVjJxZlJ0V2RqSk9jQ1lhNGxOS1dBV3PSAecBQVVfeXFMUHFOb2EzUVJIT3pRQWJnOTJIOUUyUlRDZDdOU3BUemtLSUFpdWMxQnNsbEsxdlZuclBOQUZiV09WVXpkWjI5SldTTXp6R1ZuS25iYXJZMzY0dUFsM2YtNGlpb0I4LWVGUmo1bEtMZGdIbVkwX2wwT0hZNlhIWHlJbEt3SUdXTmRYYmg0d0dnek01c3N6aE81VVlaZE9SdWY1dHNoZEpuNmp6RWU0QzZCQ1NnclJIQVRSSjFGM0Y5UGFaYnAyb3ZpTnp0X2doSUs2TzlwLWRsTGE5RHA4c3RWcFRpZmQ3amFB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkE2YmU5Vl9Wd0E2ellyYzk3M180Uk5oYVJjdjFoclV6UXA1SlE3dTVWRUdCbEJVUm1wT0hfZ29BVzZjdFFvMXlLN0hIY09aRU9sckVTaWlOV0x3NEJBQkU0RVZCQWtZQjhGWjRIQUQ1WnpPanE5WldBRHFCZnNObm5KVlo5X1RCdHk4YnBvVlBkUFJiYnZLeDBMWXRBbjZKNWFrUXhzdDg2OFdVamM1dGIwR3RLTVBLQ1JkZzBYbnlCc25oS1JNcHV2bE9SNTNyOF83OHk0WjRtTHd3MWhyVHJ0aDZjVjJxZlJ0V2RqSk9jQ1lhNGxOS1dBV3PSAecBQVVfeXFMUHFOb2EzUVJIT3pRQWJnOTJIOUUyUlRDZDdOU3BUemtLSUFpdWMxQnNsbEsxdlZuclBOQUZiV09WVXpkWjI5SldTTXp6R1ZuS25iYXJZMzY0dUFsM2YtNGlpb0I4LWVGUmo1bEtMZGdIbVkwX2wwT0hZNlhIWHlJbEt3SUdXTmRYYmg0d0dnek01c3N6aE81VVlaZE9SdWY1dHNoZEpuNmp6RWU0QzZCQ1NnclJIQVRSSjFGM0Y5UGFaYnAyb3ZpTnp0X2doSUs2TzlwLWRsTGE5RHA4c3RWcFRpZmQ3amFB?oc=5\" target=\"_blank\">Stellantis plantea un ERE y un ERTE en Villaverde tras recortar en 7.800 coches su previsión de producción</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-25T15:46:41Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERTE",
+    "ubicacion": "Villaverde"
   },
   {
     "titulo": "Magnific (Freepik) plantea un ERE para 111 empleados, casi una cuarta parte de su plantilla - Diario Sur",
@@ -392,20 +404,8 @@ const window_leads_data = [
     "fecha": "2026-06-17T14:39:10Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Magnific",
-    "ubicacion": "Freepik"
-  },
-  {
-    "titulo": "Stellantis plantea un ERE y un ERTE en Villaverde tras recortar en 7.800 coches su previsión de producción - El Economista",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkE2YmU5Vl9Wd0E2ellyYzk3M180Uk5oYVJjdjFoclV6UXA1SlE3dTVWRUdCbEJVUm1wT0hfZ29BVzZjdFFvMXlLN0hIY09aRU9sckVTaWlOV0x3NEJBQkU0RVZCQWtZQjhGWjRIQUQ1WnpPanE5WldBRHFCZnNObm5KVlo5X1RCdHk4YnBvVlBkUFJiYnZLeDBMWXRBbjZKNWFrUXhzdDg2OFdVamM1dGIwR3RLTVBLQ1JkZzBYbnlCc25oS1JNcHV2bE9SNTNyOF83OHk0WjRtTHd3MWhyVHJ0aDZjVjJxZlJ0V2RqSk9jQ1lhNGxOS1dBV3M?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkE2YmU5Vl9Wd0E2ellyYzk3M180Uk5oYVJjdjFoclV6UXA1SlE3dTVWRUdCbEJVUm1wT0hfZ29BVzZjdFFvMXlLN0hIY09aRU9sckVTaWlOV0x3NEJBQkU0RVZCQWtZQjhGWjRIQUQ1WnpPanE5WldBRHFCZnNObm5KVlo5X1RCdHk4YnBvVlBkUFJiYnZLeDBMWXRBbjZKNWFrUXhzdDg2OFdVamM1dGIwR3RLTVBLQ1JkZzBYbnlCc25oS1JNcHV2bE9SNTNyOF83OHk0WjRtTHd3MWhyVHJ0aDZjVjJxZlJ0V2RqSk9jQ1lhNGxOS1dBV3M?oc=5\" target=\"_blank\">Stellantis plantea un ERE y un ERTE en Villaverde tras recortar en 7.800 coches su previsión de producción</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-25T15:46:41Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERTE",
-    "ubicacion": "Villaverde"
+    "empresa": "ERE",
+    "ubicacion": "Magnific"
   },
   {
     "titulo": "Iberia reabrirá su ERE voluntario tras quedarse a 152 bajas del objetivo - Preferente.com",
@@ -429,7 +429,7 @@ const window_leads_data = [
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERTE",
-    "ubicacion": "Nanos"
+    "ubicacion": "A Coruña"
   },
   {
     "titulo": "La malagueña Magnific (antes Freepik) presenta un ERE para el 30% de sus 350 trabajadores en España por su cambio de modelo a la IA - La Opinión de Málaga",
@@ -440,7 +440,7 @@ const window_leads_data = [
     "fecha": "2026-06-18T07:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "España",
+    "empresa": "ERE",
     "ubicacion": "Freepik"
   },
   {
@@ -453,7 +453,7 @@ const window_leads_data = [
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "Desconocida",
-    "ubicacion": "Mercazaragoza"
+    "ubicacion": "El Periódico"
   },
   {
     "titulo": "La empresa leonesa de telemarketing Plus Contacto anuncia un ERE a su plantilla - ILEON",
@@ -464,8 +464,8 @@ const window_leads_data = [
     "fecha": "2026-06-23T15:59:53Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "ILEON"
+    "empresa": "ILEON",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "La fábrica de Nestlé en La Penilla recibe 69 solicitudes de salida voluntaria con el ERE - El Diario Montañés",
@@ -476,8 +476,20 @@ const window_leads_data = [
     "fecha": "2026-06-23T05:17:19Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
+    "empresa": "Nestlé",
     "ubicacion": "La Penilla"
+  },
+  {
+    "titulo": "ElPulpo presenta un ERTE para 15 trabajadores en su sede de A Coruña durante ocho meses - La Voz de Galicia",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd0NnbWp0WjZSUkw1SGhneHc3MkRaTTJxWExTY2hsaTIzcG9LOTRiSFE1X2EwN3lLSkFybExia3VaZDAxODNUVFZPWkRKekt1RGV0RzI4RHVVczRpLWtTTExoTzJkOHpuQ3pOTXM3aTFueTVvZW5adW9MUVoxVnNHdDh3NUZja2pBUkpGdVhqZ3loR0RzV01EWk03c1N5dTBPV19VWWR0MWlETFg2Q1BnbDdYNnY2T2ZvQXhVc2t5SF9EZzZ5SGZoQmYtc2RkbXFwWl9XYkNRNTlHTUNrbVYyZ25OSGZ4RldNS3fSAYYCQVVfeXFMT0hqN1BPU3lBOEZsbUlsdTBVVXdvRzhKcW4zY0VRYVFMT0d3YlMyV2lXRjBNWWo5OEwyWVBMRVNNYWxzeUhBR0p1Zkk5eW9tQmxZWFdxSl9MUUxIVm5WaHd4dDVvMU5OWUpVQ3BfS2ljcHdsZEp0LXQxdWFGbVBWZUxlaVRibTI3blBiaGFITFFrM2xXNDZ3SUx2bHNnc1F2bG52MjU1cEZ5ak1OX1EwUUNjZVJvLVd1YWlGajZEMTkyVTFoVVJrUm9qMTNPa1BHRktUT3FmM0hmSVQ1NG1QVXhCWlBjdGJOVFZ6NW5JNGFYWWxBNGExUGRkNzBVdWctZ0MyYjBOUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd0NnbWp0WjZSUkw1SGhneHc3MkRaTTJxWExTY2hsaTIzcG9LOTRiSFE1X2EwN3lLSkFybExia3VaZDAxODNUVFZPWkRKekt1RGV0RzI4RHVVczRpLWtTTExoTzJkOHpuQ3pOTXM3aTFueTVvZW5adW9MUVoxVnNHdDh3NUZja2pBUkpGdVhqZ3loR0RzV01EWk03c1N5dTBPV19VWWR0MWlETFg2Q1BnbDdYNnY2T2ZvQXhVc2t5SF9EZzZ5SGZoQmYtc2RkbXFwWl9XYkNRNTlHTUNrbVYyZ25OSGZ4RldNS3fSAYYCQVVfeXFMT0hqN1BPU3lBOEZsbUlsdTBVVXdvRzhKcW4zY0VRYVFMT0d3YlMyV2lXRjBNWWo5OEwyWVBMRVNNYWxzeUhBR0p1Zkk5eW9tQmxZWFdxSl9MUUxIVm5WaHd4dDVvMU5OWUpVQ3BfS2ljcHdsZEp0LXQxdWFGbVBWZUxlaVRibTI3blBiaGFITFFrM2xXNDZ3SUx2bHNnc1F2bG52MjU1cEZ5ak1OX1EwUUNjZVJvLVd1YWlGajZEMTkyVTFoVVJrUm9qMTNPa1BHRktUT3FmM0hmSVQ1NG1QVXhCWlBjdGJOVFZ6NW5JNGFYWWxBNGExUGRkNzBVdWctZ0MyYjBOUQ?oc=5\" target=\"_blank\">ElPulpo presenta un ERTE para 15 trabajadores en su sede de A Coruña durante ocho meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-20T07:00:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERTE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Tubacex no está siendo capaz de acreditar las causas del ERTE - ELA Sindikatua",
@@ -489,19 +501,7 @@ const window_leads_data = [
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERTE",
-    "ubicacion": "Tubacex"
-  },
-  {
-    "titulo": "Magnific, antes Freepik, presenta un ERE para más de 100 trabajadores, un 30% de su plantilla - Málaga Hoy",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkxFV1dKMlZvcjNDc19lZDFrMmh3LURyRENlNThvZVp3RkpHOF9YbEJuZzNUT29taXZQZEtsUlpfY3lqdHRlTlVzZmhKTmoyLVNfYU9La09BeXBJaW5Tc1RXbDVvQ25nZkhtbHpvakkzN3RmMEw5THR1NlVTNDFSUmNJcWJDZEFwN0tR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkxFV1dKMlZvcjNDc19lZDFrMmh3LURyRENlNThvZVp3RkpHOF9YbEJuZzNUT29taXZQZEtsUlpfY3lqdHRlTlVzZmhKTmoyLVNfYU9La09BeXBJaW5Tc1RXbDVvQ25nZkhtbHpvakkzN3RmMEw5THR1NlVTNDFSUmNJcWJDZEFwN0tR?oc=5\" target=\"_blank\">Magnific, antes Freepik, presenta un ERE para más de 100 trabajadores, un 30% de su plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Málaga Hoy</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-17T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Freepik"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "ERE ZEEMAN TEXTIL SUPERS, NUEVA REUNIÓN DE LA MESA NEGOCIADORA - CCOO CAT",
@@ -512,8 +512,20 @@ const window_leads_data = [
     "fecha": "2026-06-17T09:47:30Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "CCOO",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Magnific (antes Freepik) despide a un centenar de empleados en Málaga: \"Liderar la IA es mantener talento humano\" - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLWlFeFRqQkFGQWRIejE3ZnZabXhwT2NLTl9RczllQ0g4ZWtqVnZTbjgxOFBvWnFsa0N2TVA4TEx2Z2RyRnhGeGVEeFY0LXFrQTFXZEw0ZjhDUEc0aWpScjlSTEswdEI4UnZxd3lRRXNYdzRHakpfT0NQNEdUUEtDeHF6UkU0TlRMeGdyWmR5djdPTmZtdlR5RDEzUHlQX2FvRmdOWjJUamRTaGhDc2hVa2RmTFFGSHVyOWlmMjk3RkJ5VS1ULWdKZ0ZBY2N3TjFub2h6V1RwaFZ2TzNHUmN0NUVSR2pzUTM3TktsNk1Sc1fSAYQCQVVfeXFMTTFpckpQRVFhTnBBMkNIYUtLajZLUE92RzZEMkNzSXh6U0VQemZ1X2cwc0JTOW11ZDAwZElwTHhZalU5WERTYjV4anpMNjZDUVBWTjNVLTBCVllNWVYtdEMwZS1rZF91ZDlQQklnaXgwbDRaenFYM05SUHFRckR6czh0YVk4WTU3V0hMRWlKWHIyRm9teFJjempZa0FvWm5semVxSTVxUkpGRlQ4V2ZWQW1DM3o3UmR4SWU0N2R2aHlHcTZzTGFyd1RqdHNFdEI0RHRkVHVWV1Z1V1I5MzdPblRvZUIxWXV6bldTcU9JM2U5emZELUw5V21lM1FaUGgxZTNIUGE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLWlFeFRqQkFGQWRIejE3ZnZabXhwT2NLTl9RczllQ0g4ZWtqVnZTbjgxOFBvWnFsa0N2TVA4TEx2Z2RyRnhGeGVEeFY0LXFrQTFXZEw0ZjhDUEc0aWpScjlSTEswdEI4UnZxd3lRRXNYdzRHakpfT0NQNEdUUEtDeHF6UkU0TlRMeGdyWmR5djdPTmZtdlR5RDEzUHlQX2FvRmdOWjJUamRTaGhDc2hVa2RmTFFGSHVyOWlmMjk3RkJ5VS1ULWdKZ0ZBY2N3TjFub2h6V1RwaFZ2TzNHUmN0NUVSR2pzUTM3TktsNk1Sc1fSAYQCQVVfeXFMTTFpckpQRVFhTnBBMkNIYUtLajZLUE92RzZEMkNzSXh6U0VQemZ1X2cwc0JTOW11ZDAwZElwTHhZalU5WERTYjV4anpMNjZDUVBWTjNVLTBCVllNWVYtdEMwZS1rZF91ZDlQQklnaXgwbDRaenFYM05SUHFRckR6czh0YVk4WTU3V0hMRWlKWHIyRm9teFJjempZa0FvWm5semVxSTVxUkpGRlQ4V2ZWQW1DM3o3UmR4SWU0N2R2aHlHcTZzTGFyd1RqdHNFdEI0RHRkVHVWV1Z1V1I5MzdPblRvZUIxWXV6bldTcU9JM2U5emZELUw5V21lM1FaUGgxZTNIUGE?oc=5\" target=\"_blank\">Magnific (antes Freepik) despide a un centenar de empleados en Málaga: \"Liderar la IA es mantener talento humano\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-06-18T07:00:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Cadena SER",
+    "ubicacion": "Freepik"
   },
   {
     "titulo": "Pascual presenta un ERE para los 80 trabajadores de su fábrica de Gurb (Barcelona) - ABC",
@@ -524,19 +536,7 @@ const window_leads_data = [
     "fecha": "2026-06-26T18:16:04Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ABC",
+    "empresa": "ERE",
     "ubicacion": "Gurb"
-  },
-  {
-    "titulo": "Quinta jornada de negociación del despido colectivo en Capgemini - ccoo-servicios.es",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsVXVzUkVvdVpzWDhqSGtYSmJuX1V3NllhQU8wQTVza3hDaGI2VzRDaW9EcEUyZThGRGI3X2pHVkoyVFU0NmNwRFhWcV9YOHo3QnV4WHJaT210dkdGVmRNUlNmeFd0ZXBv?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsVXVzUkVvdVpzWDhqSGtYSmJuX1V3NllhQU8wQTVza3hDaGI2VzRDaW9EcEUyZThGRGI3X2pHVkoyVFU0NmNwRFhWcV9YOHo3QnV4WHJaT210dkdGVmRNUlNmeFd0ZXBv?oc=5\" target=\"_blank\">Quinta jornada de negociación del despido colectivo en Capgemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ccoo-servicios.es</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-06-26T14:01:42Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
   }
 ];
