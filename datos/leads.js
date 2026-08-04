@@ -60,30 +60,6 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "La Audiencia Nacional confirma el cártel que amañó 101 contrataciones en Euskadi - El Diario Vasco",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2FyeTBobVlQNUtmaUN0Mnh3dTdCS1RtdlczODFnNDhjeUFWRE5WLVdFQlA3ZzQ1M0tKbTZtNEpid2pUTGlyTVVFb0tuQ25uOG9iUVVQQlAzUnc1VXZvdjcyNGxVUmVHNzZxaElDd1FWQjF2WjJubi1YSXhUSFFFSlJzdTVPTGZQTnBDV3d3SDZWV3lKbGZ4c2hzTV90Vk9fWWJzV0h4RTF2a292THY3a0k4SHc4WTBjNWFV0gHAAUFVX3lxTE0yc0liT01iUmF4Y0dqckRiVGVPbnFOeTF0SGhpWHEzUmkwQlFMRFpMM0ZPS01VTnlwWGF1czVOWE02SmI4MnlRTGZjYXh6QTlpU3pVRFpMR0hwV3ZDRHRvODEwekpRLUpNbDFib0E5N1MyNF8xYmJxV3J0LUhnZHBQSEpieDJ0YWIwd3Y2NEtkSkxHOHBIQ1ZWNUNkOEp5bl9peWxENnhkOGVPMnRUeHZTWEtRblRidUF6UmRBdG9Haw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2FyeTBobVlQNUtmaUN0Mnh3dTdCS1RtdlczODFnNDhjeUFWRE5WLVdFQlA3ZzQ1M0tKbTZtNEpid2pUTGlyTVVFb0tuQ25uOG9iUVVQQlAzUnc1VXZvdjcyNGxVUmVHNzZxaElDd1FWQjF2WjJubi1YSXhUSFFFSlJzdTVPTGZQTnBDV3d3SDZWV3lKbGZ4c2hzTV90Vk9fWWJzV0h4RTF2a292THY3a0k4SHc4WTBjNWFV0gHAAUFVX3lxTE0yc0liT01iUmF4Y0dqckRiVGVPbnFOeTF0SGhpWHEzUmkwQlFMRFpMM0ZPS01VTnlwWGF1czVOWE02SmI4MnlRTGZjYXh6QTlpU3pVRFpMR0hwV3ZDRHRvODEwekpRLUpNbDFib0E5N1MyNF8xYmJxV3J0LUhnZHBQSEpieDJ0YWIwd3Y2NEtkSkxHOHBIQ1ZWNUNkOEp5bl9peWxENnhkOGVPMnRUeHZTWEtRblRidUF6UmRBdG9Haw?oc=5\" target=\"_blank\">La Audiencia Nacional confirma el cártel que amañó 101 contrataciones en Euskadi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario Vasco</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-28T05:02:29Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Audiencia Nacional"
-  },
-  {
-    "titulo": "El Ayuntamiento de Jimena pondrá en marcha 17 contrataciones a través del plan de cooperación local 2026 - Ayuntamiento de Jimena de la Frontera",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaXlNd1JTLXJmS2lKbXBZQ0VRMS1ldVZoWVRYd1VMSDJRbVNpNkY0NzdBMkQ5ekdjLTV4RjR5cVhSWjY5UWdWcVZZNk5TUmduSkl4X3hlR3RNTVVBdHpPTFB6cUcwbzRiczBZdnBidUx1cGhkMDg2UGlLYm9sd1AwUjFjOTRnbHk2MDZNdEU1OHZQLTRKQl9tOHFGcDNGcDY2RnBrMnVxcVB1N3BQTGxlR3VvZC0weEZFLVh0dXprTzh1NjRJR2ZlaFhwWmZCdFMtRnpoUkVtYXlzVlJjQ0hHVkJhdXF0UHl4ZElrc3pkYkZydFlfWUE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaXlNd1JTLXJmS2lKbXBZQ0VRMS1ldVZoWVRYd1VMSDJRbVNpNkY0NzdBMkQ5ekdjLTV4RjR5cVhSWjY5UWdWcVZZNk5TUmduSkl4X3hlR3RNTVVBdHpPTFB6cUcwbzRiczBZdnBidUx1cGhkMDg2UGlLYm9sd1AwUjFjOTRnbHk2MDZNdEU1OHZQLTRKQl9tOHFGcDNGcDY2RnBrMnVxcVB1N3BQTGxlR3VvZC0weEZFLVh0dXprTzh1NjRJR2ZlaFhwWmZCdFMtRnpoUkVtYXlzVlJjQ0hHVkJhdXF0UHl4ZElrc3pkYkZydFlfWUE?oc=5\" target=\"_blank\">El Ayuntamiento de Jimena pondrá en marcha 17 contrataciones a través del plan de cooperación local 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Jimena de la Frontera</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-27T07:06:54Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Ayuntamiento de Jimena"
-  },
-  {
     "titulo": "Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha - UGT Castilla-La Mancha",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3ZTOHVMUGJYbGhoVXU0Y0kyWVNlVnhZekExc2VsRUlVMGFBNVUxcFlMZ2ktbFdtR05xTnVxYTlfMGx4TFAzaE1EaHJKU2xMLWRDZkduX2pmalJYbDJtakZiNUR3Uk1qSk5XTm5fc3JFUnZyX2czUHRIQ2xTOE9kcTZJT09aMWVvMnlRa19KbnVoOVcwZFQ1ZzFUdTgzMWJ4QTM4UTVHbjA3VEFGVG04T2cxTUdjb0NiNmpjR19xc2hUbXkwbUE?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3ZTOHVMUGJYbGhoVXU0Y0kyWVNlVnhZekExc2VsRUlVMGFBNVUxcFlMZ2ktbFdtR05xTnVxYTlfMGx4TFAzaE1EaHJKU2xMLWRDZkduX2pmalJYbDJtakZiNUR3Uk1qSk5XTm5fc3JFUnZyX2czUHRIQ2xTOE9kcTZJT09aMWVvMnlRa19KbnVoOVcwZFQ1ZzFUdTgzMWJ4QTM4UTVHbjA3VEFGVG04T2cxTUdjb0NiNmpjR19xc2hUbXkwbUE?oc=5\" target=\"_blank\">Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT Castilla-La Mancha</font>",
@@ -94,6 +70,18 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Desconocida",
     "ubicacion": "UGT Castilla-La Mancha"
+  },
+  {
+    "titulo": "La Audiencia Nacional confirma el cártel que amañó 101 contrataciones en Euskadi - El Diario Vasco",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2FyeTBobVlQNUtmaUN0Mnh3dTdCS1RtdlczODFnNDhjeUFWRE5WLVdFQlA3ZzQ1M0tKbTZtNEpid2pUTGlyTVVFb0tuQ25uOG9iUVVQQlAzUnc1VXZvdjcyNGxVUmVHNzZxaElDd1FWQjF2WjJubi1YSXhUSFFFSlJzdTVPTGZQTnBDV3d3SDZWV3lKbGZ4c2hzTV90Vk9fWWJzV0h4RTF2a292THY3a0k4SHc4WTBjNWFV0gHAAUFVX3lxTE0yc0liT01iUmF4Y0dqckRiVGVPbnFOeTF0SGhpWHEzUmkwQlFMRFpMM0ZPS01VTnlwWGF1czVOWE02SmI4MnlRTGZjYXh6QTlpU3pVRFpMR0hwV3ZDRHRvODEwekpRLUpNbDFib0E5N1MyNF8xYmJxV3J0LUhnZHBQSEpieDJ0YWIwd3Y2NEtkSkxHOHBIQ1ZWNUNkOEp5bl9peWxENnhkOGVPMnRUeHZTWEtRblRidUF6UmRBdG9Haw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2FyeTBobVlQNUtmaUN0Mnh3dTdCS1RtdlczODFnNDhjeUFWRE5WLVdFQlA3ZzQ1M0tKbTZtNEpid2pUTGlyTVVFb0tuQ25uOG9iUVVQQlAzUnc1VXZvdjcyNGxVUmVHNzZxaElDd1FWQjF2WjJubi1YSXhUSFFFSlJzdTVPTGZQTnBDV3d3SDZWV3lKbGZ4c2hzTV90Vk9fWWJzV0h4RTF2a292THY3a0k4SHc4WTBjNWFV0gHAAUFVX3lxTE0yc0liT01iUmF4Y0dqckRiVGVPbnFOeTF0SGhpWHEzUmkwQlFMRFpMM0ZPS01VTnlwWGF1czVOWE02SmI4MnlRTGZjYXh6QTlpU3pVRFpMR0hwV3ZDRHRvODEwekpRLUpNbDFib0E5N1MyNF8xYmJxV3J0LUhnZHBQSEpieDJ0YWIwd3Y2NEtkSkxHOHBIQ1ZWNUNkOEp5bl9peWxENnhkOGVPMnRUeHZTWEtRblRidUF6UmRBdG9Haw?oc=5\" target=\"_blank\">La Audiencia Nacional confirma el cártel que amañó 101 contrataciones en Euskadi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario Vasco</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-28T05:02:29Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Audiencia Nacional"
   },
   {
     "titulo": "Nestlé lanza 21 ofertas de empleo en España: estos son los perfiles que busca la compañía - El Periódico",
@@ -108,16 +96,16 @@ const window_leads_data = [
     "ubicacion": "España"
   },
   {
-    "titulo": "Atasco en las contrataciones en Murcia: los acuerdos desiertos se acumulan por la subida de precios - La Opinión de Murcia",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1Q3QkZxOW50UnFLUzhicEh1SW5hTFNzbjA1cEZHUHkwVnMyMXEzZ0VzNGRvaFdJckU0UklxZ3VkS1BOa09FNmdZZGhnWEJHNy0wcTlqUnl3MFNYTHlGMUc2aS1fRmwwVnM3QUwxUW5UQUZFcWoyVUloNU1mckFCVTQwbzIwOFU2aFh4SDY5c20ycTN4cHMzblhGRzJlelp5MkUyOEtGNTQxdmF0NVAtSHdUc9IBuAFBVV95cUxPbXczdWNMeEQ2THg5T2tFM293Rnoyblk0QjFQQmRQWU00eW1SQTkzYVExLU9nM1R2VFgyaFlfdm04OGI3Y0xrVGlxYklrbjlTNzdsWGpHMjVhUkJvSjlFSWVObWptaUo5aG01dDJ6cHM3aThUZ1NXenh3LUpwb2xjT20xSW53TEk5eC1GNVlOVkVHY2VQbEpzdVpHYkhEMm1WVEZyUElkamhrSEhKZHVvX2tobm9SNG91?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1Q3QkZxOW50UnFLUzhicEh1SW5hTFNzbjA1cEZHUHkwVnMyMXEzZ0VzNGRvaFdJckU0UklxZ3VkS1BOa09FNmdZZGhnWEJHNy0wcTlqUnl3MFNYTHlGMUc2aS1fRmwwVnM3QUwxUW5UQUZFcWoyVUloNU1mckFCVTQwbzIwOFU2aFh4SDY5c20ycTN4cHMzblhGRzJlelp5MkUyOEtGNTQxdmF0NVAtSHdUc9IBuAFBVV95cUxPbXczdWNMeEQ2THg5T2tFM293Rnoyblk0QjFQQmRQWU00eW1SQTkzYVExLU9nM1R2VFgyaFlfdm04OGI3Y0xrVGlxYklrbjlTNzdsWGpHMjVhUkJvSjlFSWVObWptaUo5aG01dDJ6cHM3aThUZ1NXenh3LUpwb2xjT20xSW53TEk5eC1GNVlOVkVHY2VQbEpzdVpHYkhEMm1WVEZyUElkamhrSEhKZHVvX2tobm9SNG91?oc=5\" target=\"_blank\">Atasco en las contrataciones en Murcia: los acuerdos desiertos se acumulan por la subida de precios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Opinión de Murcia</font>",
+    "titulo": "🔴‼️ Cuidado con las ofertas de empleo fácil consistentes en dar 'likes' en redes sociales, porque puedes acabar perdiendo tu dinero. 📍 Consulta en el enlace de la bio lo que le pasó a un vecino de Zaragoza. @guardiacivil_zaragoza https://www.aragonplay. - instagram.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02blNzVV9samhIdS1ETXFXa2swTmxHUU82U29sYmpoU0hnRF93M3FMNGN2elhzc0hXZlJVS1JQR3hoTWgtX0RaVmVFZ1dudjVXMlE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE02blNzVV9samhIdS1ETXFXa2swTmxHUU82U29sYmpoU0hnRF93M3FMNGN2elhzc0hXZlJVS1JQR3hoTWgtX0RaVmVFZ1dudjVXMlE?oc=5\" target=\"_blank\">🔴‼️ Cuidado con las ofertas de empleo fácil consistentes en dar 'likes' en redes sociales, porque puedes acabar perdiendo tu dinero. 📍 Consulta en el enlace de la bio lo que le pasó a un vecino de Zaragoza. @guardiacivil_zaragoza https://www.aragonplay.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instagram.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-27T16:45:47Z",
+    "fecha": "2026-07-27T11:24:50Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "Atasco"
+    "ubicacion": "📍 Consulta"
   },
   {
     "titulo": "Intervención concluye que Sociedad de Promoción vulnera la ley en sus contrataciones - Canarias7",
@@ -132,9 +120,9 @@ const window_leads_data = [
     "ubicacion": "Intervención"
   },
   {
-    "titulo": "La plantilla de Correos en Cantabria sufre un recorte histórico de contrataciones de verano que supera el 40% en municipios clave - eldiariocantabria.publico.es",
+    "titulo": "La plantilla de Correos en Cantabria sufre un recorte histórico de contrataciones de verano que supera el 40% en municipios clave - eldiariocantabria.es",
     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSEtCclVtQlhrdm1TTzBGem9QcktPNjNuVy1CZFlwRVozSlVsMGYwUDYzTFY1VVVkb1ZUeDU4SDR4QUZuQzUta0ZJLXdGRVlXYm9MYlp4M0wyVGpDdkZZWXZ3YlFiNGY4S0RVMFBySFM5ak10TnYxQXIyYWNXSS1QbmNCRHgza3N5Rk82MlRZc1RRclNQVWd6RmNfVXFiZW00NW5nbEdIZGJubUNvbDF2aHVBNHNMNTZmTFlUM1pDQTRxajhCdHFqc2U2UEZpNW03R2hMRndlMVFEX2hXekNJTGlUVmY4SlYydE5jc3BTVnhXYUhaQWhhNE13Q3NicTJfOFhDeFE3SmhIaEZYX0FyZlpB0gGXAkFVX3lxTFBLby1ZX2FKYXExRmR6LUVHbHBldzMxTDRJVjk2dTZFeHRVMkZFejU2OUk5UEZ1ZXhKQm1rb01KVlB2LVBUS3lVV1E0enM3U0pBdmF2YklTa1RWR1JJcHV1T1g1YlJDZEFUbjJ3aUx1UGtoM01zcVNoX2JQdUl0TWFQQUFfVTJVVkh1Y3JqT09BZ1BLTFhmc3htazJLNFktSUoxX25sSjRCMENmdFFQUlNGNDhvYUYyOHZqWDl3MjVGWVpTOVhvdUp0RVh0SHVZYkw5ZHNjb3NDZlF1S0d3Nm53XzhWTTVMM2R4YUtLYlBBLV84cFhKOUlOUDk0YkdlWTdPYkhiMkl4R3pIM3hETUZQaXRXdHN4NA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPSEtCclVtQlhrdm1TTzBGem9QcktPNjNuVy1CZFlwRVozSlVsMGYwUDYzTFY1VVVkb1ZUeDU4SDR4QUZuQzUta0ZJLXdGRVlXYm9MYlp4M0wyVGpDdkZZWXZ3YlFiNGY4S0RVMFBySFM5ak10TnYxQXIyYWNXSS1QbmNCRHgza3N5Rk82MlRZc1RRclNQVWd6RmNfVXFiZW00NW5nbEdIZGJubUNvbDF2aHVBNHNMNTZmTFlUM1pDQTRxajhCdHFqc2U2UEZpNW03R2hMRndlMVFEX2hXekNJTGlUVmY4SlYydE5jc3BTVnhXYUhaQWhhNE13Q3NicTJfOFhDeFE3SmhIaEZYX0FyZlpB0gGXAkFVX3lxTFBLby1ZX2FKYXExRmR6LUVHbHBldzMxTDRJVjk2dTZFeHRVMkZFejU2OUk5UEZ1ZXhKQm1rb01KVlB2LVBUS3lVV1E0enM3U0pBdmF2YklTa1RWR1JJcHV1T1g1YlJDZEFUbjJ3aUx1UGtoM01zcVNoX2JQdUl0TWFQQUFfVTJVVkh1Y3JqT09BZ1BLTFhmc3htazJLNFktSUoxX25sSjRCMENmdFFQUlNGNDhvYUYyOHZqWDl3MjVGWVpTOVhvdUp0RVh0SHVZYkw5ZHNjb3NDZlF1S0d3Nm53XzhWTTVMM2R4YUtLYlBBLV84cFhKOUlOUDk0YkdlWTdPYkhiMkl4R3pIM3hETUZQaXRXdHN4NA?oc=5\" target=\"_blank\">La plantilla de Correos en Cantabria sufre un recorte histórico de contrataciones de verano que supera el 40% en municipios clave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eldiariocantabria.publico.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPSEtCclVtQlhrdm1TTzBGem9QcktPNjNuVy1CZFlwRVozSlVsMGYwUDYzTFY1VVVkb1ZUeDU4SDR4QUZuQzUta0ZJLXdGRVlXYm9MYlp4M0wyVGpDdkZZWXZ3YlFiNGY4S0RVMFBySFM5ak10TnYxQXIyYWNXSS1QbmNCRHgza3N5Rk82MlRZc1RRclNQVWd6RmNfVXFiZW00NW5nbEdIZGJubUNvbDF2aHVBNHNMNTZmTFlUM1pDQTRxajhCdHFqc2U2UEZpNW03R2hMRndlMVFEX2hXekNJTGlUVmY4SlYydE5jc3BTVnhXYUhaQWhhNE13Q3NicTJfOFhDeFE3SmhIaEZYX0FyZlpB0gGXAkFVX3lxTFBLby1ZX2FKYXExRmR6LUVHbHBldzMxTDRJVjk2dTZFeHRVMkZFejU2OUk5UEZ1ZXhKQm1rb01KVlB2LVBUS3lVV1E0enM3U0pBdmF2YklTa1RWR1JJcHV1T1g1YlJDZEFUbjJ3aUx1UGtoM01zcVNoX2JQdUl0TWFQQUFfVTJVVkh1Y3JqT09BZ1BLTFhmc3htazJLNFktSUoxX25sSjRCMENmdFFQUlNGNDhvYUYyOHZqWDl3MjVGWVpTOVhvdUp0RVh0SHVZYkw5ZHNjb3NDZlF1S0d3Nm53XzhWTTVMM2R4YUtLYlBBLV84cFhKOUlOUDk0YkdlWTdPYkhiMkl4R3pIM3hETUZQaXRXdHN4NA?oc=5\" target=\"_blank\">La plantilla de Correos en Cantabria sufre un recorte histórico de contrataciones de verano que supera el 40% en municipios clave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eldiariocantabria.es</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-30T08:35:02Z",
@@ -154,6 +142,18 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Desconocida",
     "ubicacion": "Leganés"
+  },
+  {
+    "titulo": "La joint venture de Geely y Ford en Almussafes contempla 1.800 contrataciones hasta 2028 - Economía Digital",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHV4RmxESmp5YVE5RGdLQVlHVnJlMUdLQkhnY3ZleTEzN3NaRlFZXy0yUlo1aVVPNXduLXRZYnJETjBVN2kzdmtac2o2cUtSejMtZGswZkN3bW03X2xheTBHdUJMeE16WVhTOG9MZHBuV2w1SUtGSTNwS215eGRnVGRPZ0NsbHVFc3F5RnZMdThMV2xKa2E2aENxYW9xVzhtLTJ1R0xrME1talRwQ3J4amoxYXk5bTlQVUlDNTN6VHhHdEnSAcgBQVVfeXFMUHdJTmhrczNZeGZGQ1lLOW9PTzZZdUdqRHdsX0JKT0ZRYnByYVdtRjdwODFNenIwZnlOU1JWSE56U05rU2R6OURlZ015VVhnZzB5S3JMSmk1ei1yNUdOS0lUdVlKVUxqU0xZZldqTno1dU0zdlVqOG8yb2V0Y2ItU1pDc2VvamF2VFhoMmtlUHloaDZZdlFXeTRqdUg4UjhtRmUzVEtoeTZzWFcxM2pxWUJVU202dmR1eXRXVzRMbS1mNTUwd2tpWFI?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHV4RmxESmp5YVE5RGdLQVlHVnJlMUdLQkhnY3ZleTEzN3NaRlFZXy0yUlo1aVVPNXduLXRZYnJETjBVN2kzdmtac2o2cUtSejMtZGswZkN3bW03X2xheTBHdUJMeE16WVhTOG9MZHBuV2w1SUtGSTNwS215eGRnVGRPZ0NsbHVFc3F5RnZMdThMV2xKa2E2aENxYW9xVzhtLTJ1R0xrME1talRwQ3J4amoxYXk5bTlQVUlDNTN6VHhHdEnSAcgBQVVfeXFMUHdJTmhrczNZeGZGQ1lLOW9PTzZZdUdqRHdsX0JKT0ZRYnByYVdtRjdwODFNenIwZnlOU1JWSE56U05rU2R6OURlZ015VVhnZzB5S3JMSmk1ei1yNUdOS0lUdVlKVUxqU0xZZldqTno1dU0zdlVqOG8yb2V0Y2ItU1pDc2VvamF2VFhoMmtlUHloaDZZdlFXeTRqdUg4UjhtRmUzVEtoeTZzWFcxM2pxWUJVU202dmR1eXRXVzRMbS1mNTUwd2tpWFI?oc=5\" target=\"_blank\">La joint venture de Geely y Ford en Almussafes contempla 1.800 contrataciones hasta 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economía Digital</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-31T02:55:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Almussafes"
   },
   {
     "titulo": "Fossa Systems abre ofertas de empleo en ingeniería y comercial - Telemadrid",
@@ -180,18 +180,6 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Así es el nuevo centro de empleo de Sanse: ordenadores, talleres y apoyo para encontrar trabajo - lamoraleja.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklGVGJNR25BQkpzRDdBczRJemlzRGc3TVZta2VBeDgxREpGdG9KeFVxampmb2hoX25hcmcxZWplZ3JKQmZtdThidlBQYlU3cDg1cmNDeUVreV96YngtdXNEblJEMUVIYnZoRk4tN3N1OG4tcVlnZA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nQklGVGJNR25BQkpzRDdBczRJemlzRGc3TVZta2VBeDgxREpGdG9KeFVxampmb2hoX25hcmcxZWplZ3JKQmZtdThidlBQYlU3cDg1cmNDeUVreV96YngtdXNEblJEMUVIYnZoRk4tN3N1OG4tcVlnZA?oc=5\" target=\"_blank\">Así es el nuevo centro de empleo de Sanse: ordenadores, talleres y apoyo para encontrar trabajo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lamoraleja.com</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-21T15:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Sanse",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "Trabajadores del Plaza Mayor y McArthurGlen de Málaga se concentran por la apertura de las tiendas hasta medianoche - Málaga Hoy",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORmp1QmJXYnpNbXN6R1pZVGRnTThiWGNCUEFWSU1tLUZCUFBGWTQ2ZWQ5RzIyazQ0dGFTbzRCVHJsZ0xQVmNGSmxQMDlZdzNYNllDTWJfWlE4dlhDTm12NlFJaVltckJMUWRST0dvb19lVmlXS2l6Q3lIVEhIVXFaYnotSWZ3VVlqb0NpbGNHdWVTUUtEdkFHR0IwT0h3bGhLXzJaeDB3V21nMF9hR1ZHcFg4eVpjWUtPVEotNkZZQzlzOWxxSk1MOFNxaWJGZ9IB0wFBVV95cUxOckcxclhFQnA5UmRPeU9DQ0lkeEVXSFRSaUpHbFl4Vy1NVVNfRTZlcEo5ZTh4ZWM2OUp6M3ZPM3ZydkJNYW56dVlTVTgwaUtrRlIwMGlGaVNjVXRyQTZJUVdCdUNuOUhONkJsVWd5Q3cycVRiS0x0ZmhfQnV0MWJ2MzEzOFZrLTVNUW1qdW5YTENXd2xTRFdreXJiMzF1X0U1X0pXZ2UzTktVYTMxLXdReko3VWlJUkJmb05rNHQzVlZZUTJmWjBxX2lzem5XdmJEOW9j?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORmp1QmJXYnpNbXN6R1pZVGRnTThiWGNCUEFWSU1tLUZCUFBGWTQ2ZWQ5RzIyazQ0dGFTbzRCVHJsZ0xQVmNGSmxQMDlZdzNYNllDTWJfWlE4dlhDTm12NlFJaVltckJMUWRST0dvb19lVmlXS2l6Q3lIVEhIVXFaYnotSWZ3VVlqb0NpbGNHdWVTUUtEdkFHR0IwT0h3bGhLXzJaeDB3V21nMF9hR1ZHcFg4eVpjWUtPVEotNkZZQzlzOWxxSk1MOFNxaWJGZ9IB0wFBVV95cUxOckcxclhFQnA5UmRPeU9DQ0lkeEVXSFRSaUpHbFl4Vy1NVVNfRTZlcEo5ZTh4ZWM2OUp6M3ZPM3ZydkJNYW56dVlTVTgwaUtrRlIwMGlGaVNjVXRyQTZJUVdCdUNuOUhONkJsVWd5Q3cycVRiS0x0ZmhfQnV0MWJ2MzEzOFZrLTVNUW1qdW5YTENXd2xTRFdreXJiMzF1X0U1X0pXZ2UzTktVYTMxLXdReko3VWlJUkJmb05rNHQzVlZZUTJmWjBxX2lzem5XdmJEOW9j?oc=5\" target=\"_blank\">Trabajadores del Plaza Mayor y McArthurGlen de Málaga se concentran por la apertura de las tiendas hasta medianoche</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Málaga Hoy</font>",
@@ -202,6 +190,18 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Trabajadores del Plaza Mayor"
+  },
+  {
+    "titulo": "EL NUEVO PARQUE COMERCIAL DE LA MONTAÑA AFRONTA SU RECTA FINAL CON EL 98 % DE SU SUPERFICIE COMERCIAL ARRENDADA - Ayuntamiento del Real Sitio y Villa de Aranjuez",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3lGWHl0RWx4dzdkd2NLZS1XVE1wV2FFbTlSYjl5Vk0zUTZ2bHRISmYtNm1vOEQxX0ZHX1ZYT1BGU2g1T2dYTkdEV3NfWk81cEU0WDVTRU5XeFJ6WTJUMjdMdzVWaG5QLVEtQXRycG5CSDR6OXhNRDhmd0E2Y0plSmVZWmtNN21iX2hITm55Q2FIa0tGR1BGcVZ6Vm1KRUZFZVpFa0RSZlZyUnMzRDhkRGwwZjVIMWRPMkdubllXLW9VN0dqZFVFOVpQbEpuc0E?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3lGWHl0RWx4dzdkd2NLZS1XVE1wV2FFbTlSYjl5Vk0zUTZ2bHRISmYtNm1vOEQxX0ZHX1ZYT1BGU2g1T2dYTkdEV3NfWk81cEU0WDVTRU5XeFJ6WTJUMjdMdzVWaG5QLVEtQXRycG5CSDR6OXhNRDhmd0E2Y0plSmVZWmtNN21iX2hITm55Q2FIa0tGR1BGcVZ6Vm1KRUZFZVpFa0RSZlZyUnMzRDhkRGwwZjVIMWRPMkdubllXLW9VN0dqZFVFOVpQbEpuc0E?oc=5\" target=\"_blank\">EL NUEVO PARQUE COMERCIAL DE LA MONTAÑA AFRONTA SU RECTA FINAL CON EL 98 % DE SU SUPERFICIE COMERCIAL ARRENDADA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento del Real Sitio y Villa de Aranjuez</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-28T10:55:28Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "ARRENDADA",
+    "ubicacion": "PARQUE COMERCIAL DE"
   },
   {
     "titulo": "Video de sorteo de desempate y apertura de plicas - Ayuntamiento de Madrid",
@@ -228,21 +228,9 @@ const window_leads_data = [
     "ubicacion": "EE.UU."
   },
   {
-    "titulo": "Primer día de huelga en Plaza Mayor contra la apertura hasta medianoche: «No queremos que se siente un precedente» - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzhzTW1QQUprbkdCbG1aX3ZXVHFNbU1TWTZDX1hULU1nUUdPc3ljWHlCNlBXdXg0MGtLdFRQbXByVFIwUGFvRjlLSlFSMWpkcGo3d2lHTHdFMEZFS2VzNlhzQUlUNTFsYXFOU1FyR184eEw3SURtaklLdS1XX1djUnhJXzFGM2VWNFB0VDQ1UmNDTWl2RERlNHFZNWlTVzU2RDR4VnJ0SlFSSDZpQXUyYm9R0gG3AUFVX3lxTE1wNzJPZHBiSERLTjBSZDQ1R193UnRyQzF0TUlRV3pMV2U1UXowa0tvUEE5WWdwbHV1RXFZdkUtT2lWdFFlTWJUQkdNa1pmX1ZSTHhBRjl5VFJEODhERUFtWGRQN3U0M0NseE1CZ2NRZFg4VVJvREVvUWIxdzFpNHdVTFhWMl9WLTY4TXNTUUFib0w3RjFScjFxVjdlVWh6NTljSlZJSHI4Qk1HbmJOV2dJUkF5S3BIaw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzhzTW1QQUprbkdCbG1aX3ZXVHFNbU1TWTZDX1hULU1nUUdPc3ljWHlCNlBXdXg0MGtLdFRQbXByVFIwUGFvRjlLSlFSMWpkcGo3d2lHTHdFMEZFS2VzNlhzQUlUNTFsYXFOU1FyR184eEw3SURtaklLdS1XX1djUnhJXzFGM2VWNFB0VDQ1UmNDTWl2RERlNHFZNWlTVzU2RDR4VnJ0SlFSSDZpQXUyYm9R0gG3AUFVX3lxTE1wNzJPZHBiSERLTjBSZDQ1R193UnRyQzF0TUlRV3pMV2U1UXowa0tvUEE5WWdwbHV1RXFZdkUtT2lWdFFlTWJUQkdNa1pmX1ZSTHhBRjl5VFJEODhERUFtWGRQN3U0M0NseE1CZ2NRZFg4VVJvREVvUWIxdzFpNHdVTFhWMl9WLTY4TXNTUUFib0w3RjFScjFxVjdlVWh6NTljSlZJSHI4Qk1HbmJOV2dJUkF5S3BIaw?oc=5\" target=\"_blank\">Primer día de huelga en Plaza Mayor contra la apertura hasta medianoche: «No queremos que se siente un precedente»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sur</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-30T21:21:27Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Plaza Mayor"
-  },
-  {
-    "titulo": "Aranjuez ultima la apertura de un nuevo parque comercial en el barrio de La Montaña - lavozmadrid.es",
+    "titulo": "Aranjuez ultima la apertura de un nuevo parque comercial en el barrio de La Montaña - La Voz de Madrid",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjA0QkFmYXRjRHVESWl0X2FpRGZjbEVCQ09YeGxtOExDbGF1Y1h1eVZKSmJQLXdpandfSm1NRDBTZXcyMHVYM2duMU55d3llTUIwYnZheHhFNThOTDI3YS00UWZUbzFFUkVHY0RqUFNPckx0QWF4cHFVSXFpNUZ2MFM2dVo0ZXhZZF90Z3lqMG5uUkVUdFMtckxWVEdPWHJzdkJzaEJHbHJqMDF6MHhKbVRrNmxUbEdfZ2R6UFFjSWdSM1gzaTJEaHlYR1k?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjA0QkFmYXRjRHVESWl0X2FpRGZjbEVCQ09YeGxtOExDbGF1Y1h1eVZKSmJQLXdpandfSm1NRDBTZXcyMHVYM2duMU55d3llTUIwYnZheHhFNThOTDI3YS00UWZUbzFFUkVHY0RqUFNPckx0QWF4cHFVSXFpNUZ2MFM2dVo0ZXhZZF90Z3lqMG5uUkVUdFMtckxWVEdPWHJzdkJzaEJHbHJqMDF6MHhKbVRrNmxUbEdfZ2R6UFFjSWdSM1gzaTJEaHlYR1k?oc=5\" target=\"_blank\">Aranjuez ultima la apertura de un nuevo parque comercial en el barrio de La Montaña</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozmadrid.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjA0QkFmYXRjRHVESWl0X2FpRGZjbEVCQ09YeGxtOExDbGF1Y1h1eVZKSmJQLXdpandfSm1NRDBTZXcyMHVYM2duMU55d3llTUIwYnZheHhFNThOTDI3YS00UWZUbzFFUkVHY0RqUFNPckx0QWF4cHFVSXFpNUZ2MFM2dVo0ZXhZZF90Z3lqMG5uUkVUdFMtckxWVEdPWHJzdkJzaEJHbHJqMDF6MHhKbVRrNmxUbEdfZ2R6UFFjSWdSM1gzaTJEaHlYR1k?oc=5\" target=\"_blank\">Aranjuez ultima la apertura de un nuevo parque comercial en el barrio de La Montaña</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Madrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-28T12:17:23Z",
@@ -312,6 +300,18 @@ const window_leads_data = [
     "ubicacion": "Plaza Mayor"
   },
   {
+    "titulo": "Primer día de huelga en Plaza Mayor contra la apertura hasta medianoche: «No queremos que se siente un precedente» - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzhzTW1QQUprbkdCbG1aX3ZXVHFNbU1TWTZDX1hULU1nUUdPc3ljWHlCNlBXdXg0MGtLdFRQbXByVFIwUGFvRjlLSlFSMWpkcGo3d2lHTHdFMEZFS2VzNlhzQUlUNTFsYXFOU1FyR184eEw3SURtaklLdS1XX1djUnhJXzFGM2VWNFB0VDQ1UmNDTWl2RERlNHFZNWlTVzU2RDR4VnJ0SlFSSDZpQXUyYm9R0gG3AUFVX3lxTE1wNzJPZHBiSERLTjBSZDQ1R193UnRyQzF0TUlRV3pMV2U1UXowa0tvUEE5WWdwbHV1RXFZdkUtT2lWdFFlTWJUQkdNa1pmX1ZSTHhBRjl5VFJEODhERUFtWGRQN3U0M0NseE1CZ2NRZFg4VVJvREVvUWIxdzFpNHdVTFhWMl9WLTY4TXNTUUFib0w3RjFScjFxVjdlVWh6NTljSlZJSHI4Qk1HbmJOV2dJUkF5S3BIaw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzhzTW1QQUprbkdCbG1aX3ZXVHFNbU1TWTZDX1hULU1nUUdPc3ljWHlCNlBXdXg0MGtLdFRQbXByVFIwUGFvRjlLSlFSMWpkcGo3d2lHTHdFMEZFS2VzNlhzQUlUNTFsYXFOU1FyR184eEw3SURtaklLdS1XX1djUnhJXzFGM2VWNFB0VDQ1UmNDTWl2RERlNHFZNWlTVzU2RDR4VnJ0SlFSSDZpQXUyYm9R0gG3AUFVX3lxTE1wNzJPZHBiSERLTjBSZDQ1R193UnRyQzF0TUlRV3pMV2U1UXowa0tvUEE5WWdwbHV1RXFZdkUtT2lWdFFlTWJUQkdNa1pmX1ZSTHhBRjl5VFJEODhERUFtWGRQN3U0M0NseE1CZ2NRZFg4VVJvREVvUWIxdzFpNHdVTFhWMl9WLTY4TXNTUUFib0w3RjFScjFxVjdlVWh6NTljSlZJSHI4Qk1HbmJOV2dJUkF5S3BIaw?oc=5\" target=\"_blank\">Primer día de huelga en Plaza Mayor contra la apertura hasta medianoche: «No queremos que se siente un precedente»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sur</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-30T21:21:27Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Plaza Mayor"
+  },
+  {
     "titulo": "Elma Saiz inaugura la 69 edición de FIDMA: «Detrás de cada empleo hay oportunidades de futuro para quienes viven y trabajan en esta tierra» - La Voz de Asturias",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT2szczdhS2VPT2R0OERSZTh2NzdVbE4xRFJjRnFaeTRoSkVMS1F6NXoyaXd1Q3NQSE84RWplcVBtbndPdXZTSlRzV09zbTVyX3VESTIwRWxVX3JPV0dtaHU1VnBUQng0VXd2bW1MUXJ6NW1iR2hBNGhVTExHT3hfdll3MzZiVVJ2OGRrQjZrN3hDaWNxS0JxWi12OGxhd0lvbG5mcksxN3FfcUpHY3hKZEotX1hUbXpnZ19HM09aUmVXaGpSZ0NzOU53LVZrcHdkZHJZOVdR0gHyAUFVX3lxTFBnRzVPVkxIUUgzWHlUa1hxZElka3JkZzdPZGdEOWd2cURSTWtlclJOM2k4MzVnSTlFMmRKa0t4cGY5RmVlWldYY24wODZ3cEFIcm5SMUlRcXhHNlFrTDZfUl9CX1AybUlxaEotWi0xd0tjcUJxSnZhR2lyQVVabmlwSlhDVXRRbkNSLVE3TEtSS2ZSbm5ZSHlfVFJwaGo2bnZ6MTVpaDhwbno4ZHJRZWw1ZEdrVGl6eWp3emVjUW9VaWdDcW1kdjlBOTYzdzZONnI0VmFVazJ2TDRYNHdReGVtenQzcC1nWGtmVGlNcDNianV3?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT2szczdhS2VPT2R0OERSZTh2NzdVbE4xRFJjRnFaeTRoSkVMS1F6NXoyaXd1Q3NQSE84RWplcVBtbndPdXZTSlRzV09zbTVyX3VESTIwRWxVX3JPV0dtaHU1VnBUQng0VXd2bW1MUXJ6NW1iR2hBNGhVTExHT3hfdll3MzZiVVJ2OGRrQjZrN3hDaWNxS0JxWi12OGxhd0lvbG5mcksxN3FfcUpHY3hKZEotX1hUbXpnZ19HM09aUmVXaGpSZ0NzOU53LVZrcHdkZHJZOVdR0gHyAUFVX3lxTFBnRzVPVkxIUUgzWHlUa1hxZElka3JkZzdPZGdEOWd2cURSTWtlclJOM2k4MzVnSTlFMmRKa0t4cGY5RmVlWldYY24wODZ3cEFIcm5SMUlRcXhHNlFrTDZfUl9CX1AybUlxaEotWi0xd0tjcUJxSnZhR2lyQVVabmlwSlhDVXRRbkNSLVE3TEtSS2ZSbm5ZSHlfVFJwaGo2bnZ6MTVpaDhwbno4ZHJRZWw1ZEdrVGl6eWp3emVjUW9VaWdDcW1kdjlBOTYzdzZONnI0VmFVazJ2TDRYNHdReGVtenQzcC1nWGtmVGlNcDNianV3?oc=5\" target=\"_blank\">Elma Saiz inaugura la 69 edición de FIDMA: «Detrás de cada empleo hay oportunidades de futuro para quienes viven y trabajan en esta tierra»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Asturias</font>",
@@ -324,16 +324,28 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Un interno agrede a tres funcionarios durante la apertura de celdas en Botafuegos - Cadena SER",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOS10a09pNzdKZTZxUEJzNFlpa3B6TF9LZGgzX1J0YkFzRUlIZnFDWU9OVm5KYjduUU9RTFZaY1FOc3Q5ck9NUWZhWFRDOGZ3QTl6LUtLakViZE9hRDRLcVBiNERELWNVaktjd3lFdmd0STI4bk9RN3dYMXRvRU9ScUlRV1RvQmZtTDR0dWptZ1YzZllfRE1rVl8xdV9PR2pUUU45LXg5Vk1kR2ZZUTVja3BZRk1LRUxSWEN3bndEcm03QnEzX0cybkNWZ05OZ2RXTElWZzdZQlrSAewBQVVfeXFMTThsNVF0NEVEckN1VTUtMlY5YWlUcElORTZZcDVLWTZpNnUtYmhvdDltckVDQUQ0TGlQVDlLZDdsM0FjajZaeklEbU4yc3RGWUNURTE1VWZ1QVVhQ19ZZDNSdFBrSmpjYi1pLVRPcjFVamVnUVJvYkJfYnc0U1djSVg2ZnpLN3Z6VkVKc0xJYVYtYkZMSnc1QV9WaXAtZWx5Q3BzdUtMamJDR2JnRjdyVzREeEZDeDNOSWZlbVEyVkg3R0dCdFFIa1Y1NldRbS1oLVdobHBELVJWV1VSRUR2bHpLZ2cwTGNPakJ2V3A?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOS10a09pNzdKZTZxUEJzNFlpa3B6TF9LZGgzX1J0YkFzRUlIZnFDWU9OVm5KYjduUU9RTFZaY1FOc3Q5ck9NUWZhWFRDOGZ3QTl6LUtLakViZE9hRDRLcVBiNERELWNVaktjd3lFdmd0STI4bk9RN3dYMXRvRU9ScUlRV1RvQmZtTDR0dWptZ1YzZllfRE1rVl8xdV9PR2pUUU45LXg5Vk1kR2ZZUTVja3BZRk1LRUxSWEN3bndEcm03QnEzX0cybkNWZ05OZ2RXTElWZzdZQlrSAewBQVVfeXFMTThsNVF0NEVEckN1VTUtMlY5YWlUcElORTZZcDVLWTZpNnUtYmhvdDltckVDQUQ0TGlQVDlLZDdsM0FjajZaeklEbU4yc3RGWUNURTE1VWZ1QVVhQ19ZZDNSdFBrSmpjYi1pLVRPcjFVamVnUVJvYkJfYnc0U1djSVg2ZnpLN3Z6VkVKc0xJYVYtYkZMSnc1QV9WaXAtZWx5Q3BzdUtMamJDR2JnRjdyVzREeEZDeDNOSWZlbVEyVkg3R0dCdFFIa1Y1NldRbS1oLVdobHBELVJWV1VSRUR2bHpLZ2cwTGNPakJ2V3A?oc=5\" target=\"_blank\">Un interno agrede a tres funcionarios durante la apertura de celdas en Botafuegos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
+    "titulo": "Castilla-La Mancha movilizará 29 millones para empleo y formación y contratará a más de 300 parados - ENCLM",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHY0cjZjdUNZRzJPWDBGQU1lamt1TmVCaG1GNDBRWFFiby1PeUtqYklDWFFFX2VpNmZvUi1DSVhOZWxuaXE1UE55b2djSEtWd1JCRzFBZ1NlUXlLTmM1VnYzaFpRVzVxNVpsREdMaWlIWU4weUNteVlLejhKcFZ5NWJ3MGNtSDNuMXZ6VmptWGE0QlZzd0pkLUV4SE5pUW9mTWkwcXdoa0c4UEY4MEtDM09FeWFSdE1mYVBUNUV4QjhTZDZLM28tdGlaZmNzakI0SS1Nd04yOWlPR1F6dTNFWnR0TGMxLUNBdnVyNFRB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHY0cjZjdUNZRzJPWDBGQU1lamt1TmVCaG1GNDBRWFFiby1PeUtqYklDWFFFX2VpNmZvUi1DSVhOZWxuaXE1UE55b2djSEtWd1JCRzFBZ1NlUXlLTmM1VnYzaFpRVzVxNVpsREdMaWlIWU4weUNteVlLejhKcFZ5NWJ3MGNtSDNuMXZ6VmptWGE0QlZzd0pkLUV4SE5pUW9mTWkwcXdoa0c4UEY4MEtDM09FeWFSdE1mYVBUNUV4QjhTZDZLM28tdGlaZmNzakI0SS1Nd04yOWlPR1F6dTNFWnR0TGMxLUNBdnVyNFRB?oc=5\" target=\"_blank\">Castilla-La Mancha movilizará 29 millones para empleo y formación y contratará a más de 300 parados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ENCLM</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-21T07:00:00Z",
+    "fecha": "2026-07-24T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Cadena SER",
-    "ubicacion": "Botafuegos"
+    "empresa": "ENCLM",
+    "ubicacion": "Castilla-La Mancha"
+  },
+  {
+    "titulo": "Ponte da Barca inaugura el Área Empresarial do Rodo, una apuesta estratégica para atraer inversión y empleo - Diario Luso-Galaico",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUVp5cV9kSXdZbXZsS3gwOVc3M1BuUjVTS3pwYUU0SzBVUXJnWTkzNUpVNGh2b243cnF6Q2pYN3FOR1ZFY0ZYaHdicjNuY3hySVliSjFsd25oU2lnZlU2dDEtLU84Ui1tdm9USjZmTjdUSFg4QU9Za1JqV0VaWllIYzJ2UlhYdFpHN1ByUmMtUHFVZ3pmTGhlbDFsMG5mcmh6YWdnaDB6eG5aYkhDaXFhN3hRVlhaMjlhUHZaMmNNMTVLazNTUS1xSzdkT21LaW5namppYnkwNzMwS1AzTkpmaDRZeTdWcFlFTHBKbWVlcnlLTUxFTE5tZWJmeWlMbDdWWmtDNjM2eDJTeDFq0gGSAkFVX3lxTE9YalltZW9OUmlNN01pZkdpa2ZtNF9LQTZrUjI0aUVfS2ItU1Z3Q19MeVQtUWw1N0t2blFUSkNmRUtLTFRrZTNEUzg5djR2RjZHYmVjUjNwV0VHNV9NMGZ2Q3N1UkhmbWs4TDh6ZV9VbEdnd1dkeUhuOWJGSlVEeEJHczVlVUozQzNXZ1g0VXZTaDhfcTdQUzhZMVRUcFFPVU9zcEtFWmR0VWZTVlhxNDNuYTJQVzRUdDBCcXhVXzZYc0YzS2FXU29feXlrZzVNOHBYdE16M2pzZzRNa2xKbVhWc3N2UGdncndDV3JhNFVVaTliWC1ONVJjamt6ZG9oS1hkOTY1cmgwdy1iOVhqZjN5YXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUVp5cV9kSXdZbXZsS3gwOVc3M1BuUjVTS3pwYUU0SzBVUXJnWTkzNUpVNGh2b243cnF6Q2pYN3FOR1ZFY0ZYaHdicjNuY3hySVliSjFsd25oU2lnZlU2dDEtLU84Ui1tdm9USjZmTjdUSFg4QU9Za1JqV0VaWllIYzJ2UlhYdFpHN1ByUmMtUHFVZ3pmTGhlbDFsMG5mcmh6YWdnaDB6eG5aYkhDaXFhN3hRVlhaMjlhUHZaMmNNMTVLazNTUS1xSzdkT21LaW5namppYnkwNzMwS1AzTkpmaDRZeTdWcFlFTHBKbWVlcnlLTUxFTE5tZWJmeWlMbDdWWmtDNjM2eDJTeDFq0gGSAkFVX3lxTE9YalltZW9OUmlNN01pZkdpa2ZtNF9LQTZrUjI0aUVfS2ItU1Z3Q19MeVQtUWw1N0t2blFUSkNmRUtLTFRrZTNEUzg5djR2RjZHYmVjUjNwV0VHNV9NMGZ2Q3N1UkhmbWs4TDh6ZV9VbEdnd1dkeUhuOWJGSlVEeEJHczVlVUozQzNXZ1g0VXZTaDhfcTdQUzhZMVRUcFFPVU9zcEtFWmR0VWZTVlhxNDNuYTJQVzRUdDBCcXhVXzZYc0YzS2FXU29feXlrZzVNOHBYdE16M2pzZzRNa2xKbVhWc3N2UGdncndDV3JhNFVVaTliWC1ONVJjamt6ZG9oS1hkOTY1cmgwdy1iOVhqZjN5YXc?oc=5\" target=\"_blank\">Ponte da Barca inaugura el Área Empresarial do Rodo, una apuesta estratégica para atraer inversión y empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Luso-Galaico</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-29T21:07:36Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Ponte da Barca"
   },
   {
     "titulo": "Apertura parcial del Bulevar Primero de Mayo de Puerto del Rosario - Diario de Fuerteventura",
@@ -346,18 +358,6 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Bulevar Primero de Mayo de Puerto del Rosario"
-  },
-  {
-    "titulo": "McDonald’s inaugura un nuevo restaurante en Málaga y refuerza su apuesta por el empleo en Andalucía - Revista Andalucía Económica",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzhQa1A5SkJiMDBpOWV6UnRvVFY1aDNtUnBGdUdPcUtjM1d3VFZNbVRwWFFVZ09kQXJpbWc5SlZHSGllQVl4TC1MemI0Q1Y4T04yOUFGMl9VYmphRmZxV3JWWUpNSWJkV0NCcFJ5N0g4WXFmUDZkOWNkbUVhMWRwcEZWa1p4Z19ZUWYwSnN0V1FaZUs3bGdjcWM5eUVXd1NodnRCdDJEb0FQYTBSMm96SDJzd0VTOGx5SkdwY0JybHJHTDYxQmlwZEd3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzhQa1A5SkJiMDBpOWV6UnRvVFY1aDNtUnBGdUdPcUtjM1d3VFZNbVRwWFFVZ09kQXJpbWc5SlZHSGllQVl4TC1MemI0Q1Y4T04yOUFGMl9VYmphRmZxV3JWWUpNSWJkV0NCcFJ5N0g4WXFmUDZkOWNkbUVhMWRwcEZWa1p4Z19ZUWYwSnN0V1FaZUs3bGdjcWM5eUVXd1NodnRCdDJEb0FQYTBSMm96SDJzd0VTOGx5SkdwY0JybHJHTDYxQmlwZEd3?oc=5\" target=\"_blank\">McDonald’s inaugura un nuevo restaurante en Málaga y refuerza su apuesta por el empleo en Andalucía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revista Andalucía Económica</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-03T07:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "McDonald’s"
   },
   {
     "titulo": "Munich negocia un ERE para 65 trabajadores de tiendas, el 16% de la plantilla - La Vanguardia",
@@ -396,33 +396,9 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "La veterana escuela de audiovisual CEV realiza un ERE y despide todos sus trabajadores de Madrid - elDiario.es",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDExSk13c1JYY3hrMkJGUTRfMGZfMWxIS0JGbTNvbElYWFJhdDN0TWdOMXcwdXBPMUdFYlRWUXdXNzlEOXRkWTlaWWVYV19pWEtkT1EtNllQRHg5Q1JBRHp2RHZKLTEySld3NnBTY3RzUlZZbE9sUlhLc0gwckNfSzRxaG5BMGg0M1lLTFBiNVdHelZiQ1NFRkpCV04yaS1NSG1uVmFfVFNCbUtqazV4eHRvTndVUmdLRER0NU5iRFBNUnfSAcgBQVVfeXFMT1phQ21acGpSR0F4Wm5peUtEQ2FzcmlLeTdHaEl4Q1FvUXpJZlJ4Z1NLYzd3N3lzN0pIcG1Xa0VKS3RVZEJqOGlqa2VYOWZuZEVIcm9vWG1pOWt3Z3JhazZZd0p4YTFqYWswQU1hcHVuanhSUFpzandCZkswbWdCaTJQOVpEWFB0X0ZYdi1EVXNCQU5tOXAxYkdaOU0ybExWcGxXSmp0OVF0eHFpaTZWY28zeGhxYklXQzRQcDRocGlnS2hIdXlJUS0?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDExSk13c1JYY3hrMkJGUTRfMGZfMWxIS0JGbTNvbElYWFJhdDN0TWdOMXcwdXBPMUdFYlRWUXdXNzlEOXRkWTlaWWVYV19pWEtkT1EtNllQRHg5Q1JBRHp2RHZKLTEySld3NnBTY3RzUlZZbE9sUlhLc0gwckNfSzRxaG5BMGg0M1lLTFBiNVdHelZiQ1NFRkpCV04yaS1NSG1uVmFfVFNCbUtqazV4eHRvTndVUmdLRER0NU5iRFBNUnfSAcgBQVVfeXFMT1phQ21acGpSR0F4Wm5peUtEQ2FzcmlLeTdHaEl4Q1FvUXpJZlJ4Z1NLYzd3N3lzN0pIcG1Xa0VKS3RVZEJqOGlqa2VYOWZuZEVIcm9vWG1pOWt3Z3JhazZZd0p4YTFqYWswQU1hcHVuanhSUFpzandCZkswbWdCaTJQOVpEWFB0X0ZYdi1EVXNCQU5tOXAxYkdaOU0ybExWcGxXSmp0OVF0eHFpaTZWY28zeGhxYklXQzRQcDRocGlnS2hIdXlJUS0?oc=5\" target=\"_blank\">La veterana escuela de audiovisual CEV realiza un ERE y despide todos sus trabajadores de Madrid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elDiario.es</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-21T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Madrid"
-  },
-  {
-    "titulo": "Los trabajadores de Corteva respaldan el ERE de cierre de la planta de Tamón con el 91% de los votos - La Nueva España",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVV6WWN4cVBrdHQ5M3Z6MDFRM2RuRnJfVVQwbnRFa1ZzbVJfdnFpcUJwS0l6M051dGdDLVVtNGt3VTk5aHdKU3c5NEJrbHh6S3B3UGZscVNlSktwdzBGVElfaEFaU0xnamctY21vQVd0Uk1OY3RRblZIX2YwZktJY0pSX1M0YTFBSlJqQ0QtZWpnV3VfbTNVS0psQdIBoAFBVV95cUxQRy1PMjlFX2dYNWd3VF9PVlo3RXlJZ2c4Vk9nYndPZVFEWEJsblBVVzJFUl9LU3FMcjZyemVJeWZyY01jb2dUcXI1S09oRXdoUi1qaUFnVERpY2lDNEpONi1aSGwtXzd3TGR1QXBnRk0yNjAtcThTTWtJYWEyUGZCN1IwdWdFV2dwZTBXTkdfQV83NE5ySW01VmJ5VGJsbVpZ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVV6WWN4cVBrdHQ5M3Z6MDFRM2RuRnJfVVQwbnRFa1ZzbVJfdnFpcUJwS0l6M051dGdDLVVtNGt3VTk5aHdKU3c5NEJrbHh6S3B3UGZscVNlSktwdzBGVElfaEFaU0xnamctY21vQVd0Uk1OY3RRblZIX2YwZktJY0pSX1M0YTFBSlJqQ0QtZWpnV3VfbTNVS0psQdIBoAFBVV95cUxQRy1PMjlFX2dYNWd3VF9PVlo3RXlJZ2c4Vk9nYndPZVFEWEJsblBVVzJFUl9LU3FMcjZyemVJeWZyY01jb2dUcXI1S09oRXdoUi1qaUFnVERpY2lDNEpONi1aSGwtXzd3TGR1QXBnRk0yNjAtcThTTWtJYWEyUGZCN1IwdWdFV2dwZTBXTkdfQV83NE5ySW01VmJ5VGJsbVpZ?oc=5\" target=\"_blank\">Los trabajadores de Corteva respaldan el ERE de cierre de la planta de Tamón con el 91% de los votos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Nueva España</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-23T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Tamón"
-  },
-  {
-    "titulo": "Los trabajadores del estudio madrileño Vermila (Crisol: Theater of Idols) indican que se ha aplicado un ERE a toda la plantilla - eurogamer.es",
+    "titulo": "Los trabajadores del estudio madrileño Vermila (Crisol: Theater of Idols) indican que se ha aplicado un ERE a toda la plantilla - Eurogamer.es",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNlJOdHhRUmpLSmNmYmV1ZGNkcFRkbVFlaG1yUUh6Q2VSQmNsR2w0YmZNbVQzTkVSUGdmZWRwdW95UjNzQ19zNHJ4RVdvNzhoY3F2bWRQT1BRbTh1dHc4dF9aRnpFR1E3WVRHX3kwaFZjX2hkQmNxWEZCQVR5ZWlhS0FXZVRuNHBCbTFVMDJJendHRDgyU0cyaVpjUlc0cnNzWGVnT3JqTFA0TUZuR29pYTJpUXp0SnZLWUdjR2c3dXZQNkVvLTR1anYwZWFQYl9pdTJyOEVFVTVXbHIwSTlDRUJCbw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNlJOdHhRUmpLSmNmYmV1ZGNkcFRkbVFlaG1yUUh6Q2VSQmNsR2w0YmZNbVQzTkVSUGdmZWRwdW95UjNzQ19zNHJ4RVdvNzhoY3F2bWRQT1BRbTh1dHc4dF9aRnpFR1E3WVRHX3kwaFZjX2hkQmNxWEZCQVR5ZWlhS0FXZVRuNHBCbTFVMDJJendHRDgyU0cyaVpjUlc0cnNzWGVnT3JqTFA0TUZuR29pYTJpUXp0SnZLWUdjR2c3dXZQNkVvLTR1anYwZWFQYl9pdTJyOEVFVTVXbHIwSTlDRUJCbw?oc=5\" target=\"_blank\">Los trabajadores del estudio madrileño Vermila (Crisol: Theater of Idols) indican que se ha aplicado un ERE a toda la plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eurogamer.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNlJOdHhRUmpLSmNmYmV1ZGNkcFRkbVFlaG1yUUh6Q2VSQmNsR2w0YmZNbVQzTkVSUGdmZWRwdW95UjNzQ19zNHJ4RVdvNzhoY3F2bWRQT1BRbTh1dHc4dF9aRnpFR1E3WVRHX3kwaFZjX2hkQmNxWEZCQVR5ZWlhS0FXZVRuNHBCbTFVMDJJendHRDgyU0cyaVpjUlc0cnNzWGVnT3JqTFA0TUZuR29pYTJpUXp0SnZLWUdjR2c3dXZQNkVvLTR1anYwZWFQYl9pdTJyOEVFVTVXbHIwSTlDRUJCbw?oc=5\" target=\"_blank\">Los trabajadores del estudio madrileño Vermila (Crisol: Theater of Idols) indican que se ha aplicado un ERE a toda la plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.es</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-24T08:32:35Z",
@@ -432,21 +408,21 @@ const window_leads_data = [
     "ubicacion": "Crisol: Theater of Idols"
   },
   {
-    "titulo": "La empresa retira el ERTE tras el periodo de consultas - ELA Sindikatua",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMExraElJZjdlbm5HakM2UjBabEtjTkJHYTNEeDljUHJmbVU0SVJ4dTlsMHVONDBxbjU2T1lfV1J3dmVsUk5HcVRjdElMWEg1RF81VnB5NnNqdVljd01UbXgwY0E5OVlsemM0VEY2Zlg0Z0tTTm1Qb1VRQ0xwS2VJVmFUUVhMNTdYS2ItcG14MjFjckRuQTZSeHlVSHcyMzJxaW53NUFqTkpObEVULW1UMg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMExraElJZjdlbm5HakM2UjBabEtjTkJHYTNEeDljUHJmbVU0SVJ4dTlsMHVONDBxbjU2T1lfV1J3dmVsUk5HcVRjdElMWEg1RF81VnB5NnNqdVljd01UbXgwY0E5OVlsemM0VEY2Zlg0Z0tTTm1Qb1VRQ0xwS2VJVmFUUVhMNTdYS2ItcG14MjFjckRuQTZSeHlVSHcyMzJxaW53NUFqTkpObEVULW1UMg?oc=5\" target=\"_blank\">La empresa retira el ERTE tras el periodo de consultas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELA Sindikatua</font>",
+    "titulo": "Los trabajadores de Corteva respaldan el ERE de cierre de la planta de Tamón con el 91% de los votos - LNE",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVV6WWN4cVBrdHQ5M3Z6MDFRM2RuRnJfVVQwbnRFa1ZzbVJfdnFpcUJwS0l6M051dGdDLVVtNGt3VTk5aHdKU3c5NEJrbHh6S3B3UGZscVNlSktwdzBGVElfaEFaU0xnamctY21vQVd0Uk1OY3RRblZIX2YwZktJY0pSX1M0YTFBSlJqQ0QtZWpnV3VfbTNVS0psQdIBoAFBVV95cUxQRy1PMjlFX2dYNWd3VF9PVlo3RXlJZ2c4Vk9nYndPZVFEWEJsblBVVzJFUl9LU3FMcjZyemVJeWZyY01jb2dUcXI1S09oRXdoUi1qaUFnVERpY2lDNEpONi1aSGwtXzd3TGR1QXBnRk0yNjAtcThTTWtJYWEyUGZCN1IwdWdFV2dwZTBXTkdfQV83NE5ySW01VmJ5VGJsbVpZ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVV6WWN4cVBrdHQ5M3Z6MDFRM2RuRnJfVVQwbnRFa1ZzbVJfdnFpcUJwS0l6M051dGdDLVVtNGt3VTk5aHdKU3c5NEJrbHh6S3B3UGZscVNlSktwdzBGVElfaEFaU0xnamctY21vQVd0Uk1OY3RRblZIX2YwZktJY0pSX1M0YTFBSlJqQ0QtZWpnV3VfbTNVS0psQdIBoAFBVV95cUxQRy1PMjlFX2dYNWd3VF9PVlo3RXlJZ2c4Vk9nYndPZVFEWEJsblBVVzJFUl9LU3FMcjZyemVJeWZyY01jb2dUcXI1S09oRXdoUi1qaUFnVERpY2lDNEpONi1aSGwtXzd3TGR1QXBnRk0yNjAtcThTTWtJYWEyUGZCN1IwdWdFV2dwZTBXTkdfQV83NE5ySW01VmJ5VGJsbVpZ?oc=5\" target=\"_blank\">Los trabajadores de Corteva respaldan el ERE de cierre de la planta de Tamón con el 91% de los votos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LNE</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-20T12:01:20Z",
+    "fecha": "2026-07-23T07:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERTE",
-    "ubicacion": "Nacional"
+    "empresa": "ERE",
+    "ubicacion": "Tamón"
   },
   {
-    "titulo": "Avícola Hidalgo presenta un ERTE ante el impacto del Newcastle - El Día de Valladolid",
+    "titulo": "Avícola Hidalgo presenta un ERTE ante el impacto del Newcastle - eldiadevalladolid.com",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTkJXZ3Q2S1hGZXVSYmljYS1PbFE3a0F5VjlqRUQ3bnd6Qm41XzlaYXRoRmFQLU91UnhHakZHOXRZV3JON3J3bzhCSENUaXpGNnhITWxMVjBNdGlWcFJnYV8yQ2dBSmdQaW5XUGJqZkNUS05OMllSTlQ3RjIxOThwSUdzUnU1N1M1SnVEVkdZV2xYMktUeG1RYldkdjhmbnk1UkpCbkk1Zjl4dW84SkdSWVhCQ0pfNHY4RWhaVUpMY09oODFQQ3hwT2ZKdUVmcTVRaUp2TlgtQnVVMDJPNjVXTUhn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTkJXZ3Q2S1hGZXVSYmljYS1PbFE3a0F5VjlqRUQ3bnd6Qm41XzlaYXRoRmFQLU91UnhHakZHOXRZV3JON3J3bzhCSENUaXpGNnhITWxMVjBNdGlWcFJnYV8yQ2dBSmdQaW5XUGJqZkNUS05OMllSTlQ3RjIxOThwSUdzUnU1N1M1SnVEVkdZV2xYMktUeG1RYldkdjhmbnk1UkpCbkk1Zjl4dW84SkdSWVhCQ0pfNHY4RWhaVUpMY09oODFQQ3hwT2ZKdUVmcTVRaUp2TlgtQnVVMDJPNjVXTUhn?oc=5\" target=\"_blank\">Avícola Hidalgo presenta un ERTE ante el impacto del Newcastle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Día de Valladolid</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTkJXZ3Q2S1hGZXVSYmljYS1PbFE3a0F5VjlqRUQ3bnd6Qm41XzlaYXRoRmFQLU91UnhHakZHOXRZV3JON3J3bzhCSENUaXpGNnhITWxMVjBNdGlWcFJnYV8yQ2dBSmdQaW5XUGJqZkNUS05OMllSTlQ3RjIxOThwSUdzUnU1N1M1SnVEVkdZV2xYMktUeG1RYldkdjhmbnk1UkpCbkk1Zjl4dW84SkdSWVhCQ0pfNHY4RWhaVUpMY09oODFQQ3hwT2ZKdUVmcTVRaUp2TlgtQnVVMDJPNjVXTUhn?oc=5\" target=\"_blank\">Avícola Hidalgo presenta un ERTE ante el impacto del Newcastle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eldiadevalladolid.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-27T11:22:33Z",
@@ -456,9 +432,9 @@ const window_leads_data = [
     "ubicacion": "Avícola Hidalgo"
   },
   {
-    "titulo": "La plantilla de Arteixo Telecom en As Pontes podría verse abocada a un ERTE: «No lo esperábamos» - lavozdegalicia.es",
+    "titulo": "La plantilla de Arteixo Telecom en As Pontes podría verse abocada a un ERTE: «No lo esperábamos» - La Voz de Galicia",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3YzWWM3VHhxTDBoRVlNNjlSLV96U0xxZGtoMnprdnVlRWQyY1dpRk9ad3lnRTF5aEY1WmhFVGFHOUd4ZlJFUXg2TlQ5U0J1aTVNd1NBdnJGVG9rODFOSDNmM3BTanJkYlc2dVVlUTczdDVtRnduUkt1TDZ6aUJjNS02LUtjVjhJakF2VmhKZXhXNUtKX09ZNFQxUnRYRmFDdWI3Ry1vR0hEdWlON1VLMmU1UDhpdXRyOGEzU3liVTJiTkx4T3V4cFJTdzBna0XSAesBQVVfeXFMUGUtY3dvZWRYR190SGNFMFgwOHpJM21CeTVTTUprT0dGUE40LVJRTEVyTDZCa1RKSGFqZDJXTGJxWENMa0N4N253eHBZczNpY0JmOFhETnd5RFIyWjB5UktCRDAzOTl4X2FfMXBndS1LWmtqZzdCNDF5R3FMNG15RVluUi1SX0FmTlpINzJTWHFwMWtrb2RERWtHaTlMZHZmOVhma3JGbENQSWVjRWppZmdyOFQ1dTUxbU9nUEZGeUlRbldGX3dpMkZHRnFFT2MtY25YNGYyS1NPUEpOVVlFSGh3aDdXYllUM2doYw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3YzWWM3VHhxTDBoRVlNNjlSLV96U0xxZGtoMnprdnVlRWQyY1dpRk9ad3lnRTF5aEY1WmhFVGFHOUd4ZlJFUXg2TlQ5U0J1aTVNd1NBdnJGVG9rODFOSDNmM3BTanJkYlc2dVVlUTczdDVtRnduUkt1TDZ6aUJjNS02LUtjVjhJakF2VmhKZXhXNUtKX09ZNFQxUnRYRmFDdWI3Ry1vR0hEdWlON1VLMmU1UDhpdXRyOGEzU3liVTJiTkx4T3V4cFJTdzBna0XSAesBQVVfeXFMUGUtY3dvZWRYR190SGNFMFgwOHpJM21CeTVTTUprT0dGUE40LVJRTEVyTDZCa1RKSGFqZDJXTGJxWENMa0N4N253eHBZczNpY0JmOFhETnd5RFIyWjB5UktCRDAzOTl4X2FfMXBndS1LWmtqZzdCNDF5R3FMNG15RVluUi1SX0FmTlpINzJTWHFwMWtrb2RERWtHaTlMZHZmOVhma3JGbENQSWVjRWppZmdyOFQ1dTUxbU9nUEZGeUlRbldGX3dpMkZHRnFFT2MtY25YNGYyS1NPUEpOVVlFSGh3aDdXYllUM2doYw?oc=5\" target=\"_blank\">La plantilla de Arteixo Telecom en As Pontes podría verse abocada a un ERTE: «No lo esperábamos»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdegalicia.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3YzWWM3VHhxTDBoRVlNNjlSLV96U0xxZGtoMnprdnVlRWQyY1dpRk9ad3lnRTF5aEY1WmhFVGFHOUd4ZlJFUXg2TlQ5U0J1aTVNd1NBdnJGVG9rODFOSDNmM3BTanJkYlc2dVVlUTczdDVtRnduUkt1TDZ6aUJjNS02LUtjVjhJakF2VmhKZXhXNUtKX09ZNFQxUnRYRmFDdWI3Ry1vR0hEdWlON1VLMmU1UDhpdXRyOGEzU3liVTJiTkx4T3V4cFJTdzBna0XSAesBQVVfeXFMUGUtY3dvZWRYR190SGNFMFgwOHpJM21CeTVTTUprT0dGUE40LVJRTEVyTDZCa1RKSGFqZDJXTGJxWENMa0N4N253eHBZczNpY0JmOFhETnd5RFIyWjB5UktCRDAzOTl4X2FfMXBndS1LWmtqZzdCNDF5R3FMNG15RVluUi1SX0FmTlpINzJTWHFwMWtrb2RERWtHaTlMZHZmOVhma3JGbENQSWVjRWppZmdyOFQ1dTUxbU9nUEZGeUlRbldGX3dpMkZHRnFFT2MtY25YNGYyS1NPUEpOVVlFSGh3aDdXYllUM2doYw?oc=5\" target=\"_blank\">La plantilla de Arteixo Telecom en As Pontes podría verse abocada a un ERTE: «No lo esperábamos»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-29T03:06:03Z",
@@ -492,15 +468,27 @@ const window_leads_data = [
     "ubicacion": "Perfumerías Avenida"
   },
   {
-    "titulo": "VASS acuerda con los empleados un ERE que afecta al 11% de su plantilla - Computing BPS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWlrTHVaVm9QdUh0VkoyWkRpbmlBblFFRHJWMmtXYURReWNHTTQ2NG9KLWVyaWRQWklkTEYxWWYzMGxvNERHclh6V2NEaTJIZG9kZUc4UkxUNUpXcksyMWhrNnBlSzNPNkIwTklkZ09DcmpQbmpIY1dzOTlISjVsTnVWVzF5YkpQTnNfUjQwdXdoV0FhOVFFMG1US3JFQV9rSVNZMnRjenlxLS1SVzYwZkZ1MWhXRVlYTllsX0pFblZOQWZL?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWlrTHVaVm9QdUh0VkoyWkRpbmlBblFFRHJWMmtXYURReWNHTTQ2NG9KLWVyaWRQWklkTEYxWWYzMGxvNERHclh6V2NEaTJIZG9kZUc4UkxUNUpXcksyMWhrNnBlSzNPNkIwTklkZ09DcmpQbmpIY1dzOTlISjVsTnVWVzF5YkpQTnNfUjQwdXdoV0FhOVFFMG1US3JFQV9rSVNZMnRjenlxLS1SVzYwZkZ1MWhXRVlYTllsX0pFblZOQWZL?oc=5\" target=\"_blank\">VASS acuerda con los empleados un ERE que afecta al 11% de su plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computing BPS</font>",
+    "titulo": "El juzgado de lo social de Gasteiz declara nulo el ERTE presentado en las bodegas Casa Primicia - LAB.EUS",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3AyWFRuOEFaSzdvQmVIZE9kZmpqNVhwRkM2d2kzYy1tYTIxWkFKN2JNbVZNS0xPTlJwSkxMdEZ2dWZUMjE0aE5VbWRLaGlsY05TbEo0WXFiaG5yamQtLTFLZjJuWjFvMVNNRHRoZkY3VTNtUnBLUm5MVlU5UUNpUmJtTjlWUVFIQkMxTEMyYjVybTJybEkxWEIyTGluZTNpbGxYTkpZcWlqemNCU3JnTFk3cmYwM2ZjeElv?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3AyWFRuOEFaSzdvQmVIZE9kZmpqNVhwRkM2d2kzYy1tYTIxWkFKN2JNbVZNS0xPTlJwSkxMdEZ2dWZUMjE0aE5VbWRLaGlsY05TbEo0WXFiaG5yamQtLTFLZjJuWjFvMVNNRHRoZkY3VTNtUnBLUm5MVlU5UUNpUmJtTjlWUVFIQkMxTEMyYjVybTJybEkxWEIyTGluZTNpbGxYTkpZcWlqemNCU3JnTFk3cmYwM2ZjeElv?oc=5\" target=\"_blank\">El juzgado de lo social de Gasteiz declara nulo el ERTE presentado en las bodegas Casa Primicia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAB.EUS</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-29T11:38:16Z",
+    "fecha": "2026-08-03T11:29:04Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
+    "empresa": "ERTE",
+    "ubicacion": "Casa Primicia"
+  },
+  {
+    "titulo": "Meloni saca la tijera: Endesa anuncia un ERE voluntario para 230 empleados - Economía Digital",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHh1MDlwODY5bHQ5eWhwSGoxVnhsMU5BcDh2SHpwUE5mRmR6YlVGMVZRMVYwRmRiVDNUNXotMWtlQjkxTHdUOTcwdzFCZVdTN3RabFZJclhCaEc1eWtBeE1fUVM5SkpaN2ctUkVzOVN2YkxnRTJBcnNfazg5andLUV9Zdmk3QS1kbmxlaEZFcUgyZzlFQkFiM1BEN2pzdzNjd0hSdm9xOUY0WTDSAbABQVVfeXFMT3hCOXBHS1dBbkJkTU9vQWFzVEE2LVJYbXFJeThkNXEyUUZxdmdOM00zeldtVnZPWS1Ccmp4RUxXOG1CR2VNWU9zb0dFQndrdkhaRXp2enJqWW5zbjJRTko0R1lyZ3owUENUamZfendFYllQLWRKMlBIUUtFdXNKX2psbWNNbHdGSUVwRm9VaGZ0SENiT2hhb3duMnFCUkNGaXI4eVNhb2NreVdDaEU0WmU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHh1MDlwODY5bHQ5eWhwSGoxVnhsMU5BcDh2SHpwUE5mRmR6YlVGMVZRMVYwRmRiVDNUNXotMWtlQjkxTHdUOTcwdzFCZVdTN3RabFZJclhCaEc1eWtBeE1fUVM5SkpaN2ctUkVzOVN2YkxnRTJBcnNfazg5andLUV9Zdmk3QS1kbmxlaEZFcUgyZzlFQkFiM1BEN2pzdzNjd0hSdm9xOUY0WTDSAbABQVVfeXFMT3hCOXBHS1dBbkJkTU9vQWFzVEE2LVJYbXFJeThkNXEyUUZxdmdOM00zeldtVnZPWS1Ccmp4RUxXOG1CR2VNWU9zb0dFQndrdkhaRXp2enJqWW5zbjJRTko0R1lyZ3owUENUamZfendFYllQLWRKMlBIUUtFdXNKX2psbWNNbHdGSUVwRm9VaGZ0SENiT2hhb3duMnFCUkNGaXI4eVNhb2NreVdDaEU0WmU?oc=5\" target=\"_blank\">Meloni saca la tijera: Endesa anuncia un ERE voluntario para 230 empleados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economía Digital</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-31T17:09:17Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Endesa",
     "ubicacion": "Nacional"
   },
   {
@@ -525,6 +513,18 @@ const window_leads_data = [
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "AZSA",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Sindicato Unión General de Trabajadoras y Trabajadores de España - madridugt.org",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkdUMkJnX0VPeUsySlVvX052YklSY0FXZ2hKNXhYdmljeU5HQVhKak9JQ2hFU0lSNEFma0JpdWM3RGhqYlM5MHdZanlJYVJLLTVUNmtIcVJHNlpJSWJyckxvcTZTcDhSLWxEWm0yZmJla21NSWlHU3RzT2gxMldBSjBTUXFvejdKblVORjRqWGpiaTF4bkEwZHczT19VNE5h?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkdUMkJnX0VPeUsySlVvX052YklSY0FXZ2hKNXhYdmljeU5HQVhKak9JQ2hFU0lSNEFma0JpdWM3RGhqYlM5MHdZanlJYVJLLTVUNmtIcVJHNlpJSWJyckxvcTZTcDhSLWxEWm0yZmJla21NSWlHU3RzT2gxMldBSjBTUXFvejdKblVORjRqWGpiaTF4bkEwZHczT19VNE5h?oc=5\" target=\"_blank\">Sindicato Unión General de Trabajadoras y Trabajadores de España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">madridugt.org</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-07-28T09:16:43Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Sindicato Unión General",
     "ubicacion": "Nacional"
   },
   {
