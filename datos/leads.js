@@ -1,8 +1,8 @@
 const window_leads_data = [
   {
-    "titulo": "La Diputación de Segovia destina 150.000 euros para subvencionar seis contrataciones de talento en el marco del CTC del sector cárnico - Ayuntamiento de Aldea Real - dipsegovia.es - Diputación de Segovia",
-    "url": "https://news.google.com/rss/articles/CBMivglBVV95cUxPU0ZMa2tWTHhOWTdjTGp3ak1raXhfMTNpOWJHZ1RuSkZQVUdDSU05b1hDaDc1TnBMZEFuYkN1QjhUVlpBV0hRXzY0SXlYMmtISFh3X0FGS2M3NGFObU9ybjFVdllhUkxsVTRUa3NpNzZkOTRzNDR4MGlDTFdVMmxKMTduazNZU0VIM012enBNTUhSQzlhdGVsNlZ5eGs2U0RYR3ZRQkNZeEIxN0ZBYW0wVjI0dURxZDJEdlN0VWlpTURkb0wyNVkwZkduSEdGOENGd29VSTRsWGNqaVRDTmpneHA5Z0N6bzNTbGtKbEI2VEpja3YtYzBhblFYR2ZBZlZqN01NY2drZERkOThtTUhMT3ZPVWc3SXNVNHlJdk4zeTU3QWhhMlNuX3cxSkNqM29fLVNFMURtTkUtQU4xT1lTdXp0UkY4dGlONzgxUGwxNTRhdE9tRUk0T0VGTl9OaWRJbDlTTEViSjVDTmtkMzhfMEhpdmVkenRvVFFnWURzLUI4U19iNE95VnpOQk8xSkoyRE9lRnVfSDhweGlka2JmSlVtYWNRcUEyVlllQ0hNTG5sZnZlNjZQSUExMk5PRE9DODVPMEZ0Q0o2NEVteWdvdUMteFlYaXNwLV9pNzBxYkpnTW9FWk5CZ01icVoxbzBxQlA3YWtua0l6c09BVDNCNjRtSGM4ZS1EYlV4OFgxWkZwR3lHc29rRzlQTlNfUVhUYi01V0NMNkk0TWtxWjRjOUxHWDVmbTlNVVZYRExqZ3Q5M0I4VGYtLXVqNklPaE1EWEMzWG5nVUd5Mm9wblVCaVRyRERCZHBkOERZaWdPN2JVa1JUXzBfQm4yVFZXTlV5R0J5Mm9YYWhDZEtOWl8xaXIxMHVvZ1diMjFnZ1FNdExBS08tRFVRZjdTWEc2dDNlWURzVE1ncjAzVXZiTC1vMUUwRlNwaXEyYnVlU1ZIM3FBLWs1M21TLXNzZ3ZIcVBzZDdjLTlvalowd3NwWTRKTDJSVm42Mk9lWUkwSU15YWw2Qi1UT3NIdDNtQzd3VDlhcklmN2FnX0Z2cGs2VGUwVWdtcnR3VEI0SFVGdzBISFQ0UHR4MExQd0ZfTmFwVElyM1NDeGV1bHFXaV9NdGhXRUd0RFFIVWFnMHFQZF80UHFEbWtqS0Q0Y193RXdDTDZ0WHlIemt5V2V3bWtVX2lqOHVqY3FvQkE5MUFydUlqQjBuc3Y5alpXdG5FSS03MVM5VU0wNHcwUTAxaTFFVzZzN2ZRRFE1aWV2cGgtTW9GWl9uYmpEQTFDT21wMjJQRFZyRXFUUzZGSzhDRExaRFMzNUxpQlN1SWtJZjBNV1BCZ3BfQmhVVU1aaFd5MVJ4MnJ4X1ZxTkR1UHU5dDhob1RWLUdEX0FnSHNSUE0zdUZaQ0RKdzZlWk0xRWNWVjFDNTMxQ3JTaG0xY3pHcl9YZHcxeXpvdXl0T0QxTFAteHZiX2VEa3RscHF1Vm80S1BCSWpjR3lnWFFFdDJrM1hUejlzYXRtSkFXMWZ4aEhveDNVanhMeTlnRlpFdEd5TENGb05lRnZ3LXk0dFE4QmtNZ3lFQUtUc0RESi1JNWdxSExSTkFLbVdDZDVNOXRSLS1nZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivglBVV95cUxPU0ZMa2tWTHhOWTdjTGp3ak1raXhfMTNpOWJHZ1RuSkZQVUdDSU05b1hDaDc1TnBMZEFuYkN1QjhUVlpBV0hRXzY0SXlYMmtISFh3X0FGS2M3NGFObU9ybjFVdllhUkxsVTRUa3NpNzZkOTRzNDR4MGlDTFdVMmxKMTduazNZU0VIM012enBNTUhSQzlhdGVsNlZ5eGs2U0RYR3ZRQkNZeEIxN0ZBYW0wVjI0dURxZDJEdlN0VWlpTURkb0wyNVkwZkduSEdGOENGd29VSTRsWGNqaVRDTmpneHA5Z0N6bzNTbGtKbEI2VEpja3YtYzBhblFYR2ZBZlZqN01NY2drZERkOThtTUhMT3ZPVWc3SXNVNHlJdk4zeTU3QWhhMlNuX3cxSkNqM29fLVNFMURtTkUtQU4xT1lTdXp0UkY4dGlONzgxUGwxNTRhdE9tRUk0T0VGTl9OaWRJbDlTTEViSjVDTmtkMzhfMEhpdmVkenRvVFFnWURzLUI4U19iNE95VnpOQk8xSkoyRE9lRnVfSDhweGlka2JmSlVtYWNRcUEyVlllQ0hNTG5sZnZlNjZQSUExMk5PRE9DODVPMEZ0Q0o2NEVteWdvdUMteFlYaXNwLV9pNzBxYkpnTW9FWk5CZ01icVoxbzBxQlA3YWtua0l6c09BVDNCNjRtSGM4ZS1EYlV4OFgxWkZwR3lHc29rRzlQTlNfUVhUYi01V0NMNkk0TWtxWjRjOUxHWDVmbTlNVVZYRExqZ3Q5M0I4VGYtLXVqNklPaE1EWEMzWG5nVUd5Mm9wblVCaVRyRERCZHBkOERZaWdPN2JVa1JUXzBfQm4yVFZXTlV5R0J5Mm9YYWhDZEtOWl8xaXIxMHVvZ1diMjFnZ1FNdExBS08tRFVRZjdTWEc2dDNlWURzVE1ncjAzVXZiTC1vMUUwRlNwaXEyYnVlU1ZIM3FBLWs1M21TLXNzZ3ZIcVBzZDdjLTlvalowd3NwWTRKTDJSVm42Mk9lWUkwSU15YWw2Qi1UT3NIdDNtQzd3VDlhcklmN2FnX0Z2cGs2VGUwVWdtcnR3VEI0SFVGdzBISFQ0UHR4MExQd0ZfTmFwVElyM1NDeGV1bHFXaV9NdGhXRUd0RFFIVWFnMHFQZF80UHFEbWtqS0Q0Y193RXdDTDZ0WHlIemt5V2V3bWtVX2lqOHVqY3FvQkE5MUFydUlqQjBuc3Y5alpXdG5FSS03MVM5VU0wNHcwUTAxaTFFVzZzN2ZRRFE1aWV2cGgtTW9GWl9uYmpEQTFDT21wMjJQRFZyRXFUUzZGSzhDRExaRFMzNUxpQlN1SWtJZjBNV1BCZ3BfQmhVVU1aaFd5MVJ4MnJ4X1ZxTkR1UHU5dDhob1RWLUdEX0FnSHNSUE0zdUZaQ0RKdzZlWk0xRWNWVjFDNTMxQ3JTaG0xY3pHcl9YZHcxeXpvdXl0T0QxTFAteHZiX2VEa3RscHF1Vm80S1BCSWpjR3lnWFFFdDJrM1hUejlzYXRtSkFXMWZ4aEhveDNVanhMeTlnRlpFdEd5TENGb05lRnZ3LXk0dFE4QmtNZ3lFQUtUc0RESi1JNWdxSExSTkFLbVdDZDVNOXRSLS1nZw?oc=5\" target=\"_blank\">La Diputación de Segovia destina 150.000 euros para subvencionar seis contrataciones de talento en el marco del CTC del sector cárnico - Ayuntamiento de Aldea Real - dipsegovia.es</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diputación de Segovia</font>",
+    "titulo": "La Diputación de Segovia destina 150.000 euros para subvencionar seis contrataciones de talento en el marco del CTC del sector cárnico - Ayuntamiento de Navares de Enmedio - dipsegovia.es - Diputación de Segovia",
+    "url": "https://news.google.com/rss/articles/CBMi0wlBVV95cUxORnZlQnFPM2Q5dzZURXZseTFSWElLajVJNDB4VTdWYWhrVHh5Njd2TWliTTZHcHhJUHdrbVRObVA3SHk3b2p0Mk4ydWJEcGYtalRtc3dTNHdVMEhhNnBoQmhKVDdpa3A5VldiU084WkFSVTZLcFZnZm1DUEt3V2ZUM3BmZi01elk4QVlxeWR0WHNrd0xRWllfQ2FVQnQ5SkNPNy1oMzhVYTRFaGs5NjRVaC1tNHlEVXREYzY4YU5sdE5YdW1mNGZvMEo2NVJ6X3B3bTFHa2ctQWZLSW1QdkNfWlBydXVScXZlTmMwOVFHNWc2a0tqSDBURnBfVDZlaUg4ejdveTkwdVhIV3A3aVM2M3VmcE5fYW9ucGZMQWZrclZYOVI3RTlnMTlWZno2MENzYU9henlQeVcyclVfTUY3YU5abVdsV201VWRLei1FMkZCeXhLdW5OTTh4bGFwdVpod0dHLVBndHBsTTl3S093Ym56YnFIWWV6a1hnNnpkcUFrN1MxVWpEbVVUUEpPWFZZZERSdVU0elFqcGRoeHlDMXh1Vmk4MEhwY21NR0R5T3p0cjVLR0VOVkt3UmVzVTZSQVhPcnFVOUFBOG8xZjdzZDFOSFNaX1VCVk5WZ2xiMDFORnRzZjJJU0FmdDYxdGt1LUxRMnVvUGNYR2dmM1luTTB3SzRMdXEwOUVwNmgxQWJKQU1wT3p2ZDlDQlFrRTVfTVVzeGlrdDJkbHhBZkJrdzdSaEVyNmN4T2RxQ1o4NVNhUmRKMnVzRlZvdHNDYWhFUVoxc3ctV0IzWENOYmU0eGxPc3U4OU14M1VuTW1BRjhFakhOeXk1Y1gtdklmMmphTFltZzZ4blZGRFRveWNieWl1MV9ETmU4LU4tRkk3bmF2S0RHVkpXQ05USFk3VlBOT1d2SWdJWFhYMWg0a0ZWRW0yeENVSjg3dGdzRkdTRm9VS0tLNjJkenpHYjlQZ1RYUHBweF9EZm85SHJmU29JVzY2T21oVk9iU3ZEQnFJb0JWalNnMnl5ZjNSN2xBMk9UTEtwVzFWWUJXRjBWNFVsTzhIZlNGdHhHQl91Z2xqdjBaYzhGOVJwRGw3SFpQN0JERlhib3hpMTB1Sk8wM1pydlpVZGhvb2VROTNZWUMtLWNQbDdtWHpxdFlRV0VWaldSQTdrRkdvTTdnTWJrRDJENGtBRVd0TnNFSzVkeWdWWS13eml5Si1QcVhDQnJROVdLMTF4ZnpZMW9WS2V4R2RSUVRYZFF1LWs1UTlXczd4bUNHLUh4Tk5wWTlNLWlocDRIRXhLdFVyUmpwYmgwdUt0ZmlpNllFV1dhaktPN0RpV0ZidDlacXo2eDJYM2d4Mmx6X0dRc09pT0VnV1RaYjBFRDJQT3ZfVGFxc3lFRTJXQnZZSlBIdjdiSkUxaHRQZkNhT2hzelZYeVhUQlhTYnE3VDlQMlo5UHdkUnB3YUgwamVIblVpMmk5M3hQb0lZNlY2NngxSkVUUng1dGxkN1owOXZPazU2OWowQWdOaHppLXJOMTZBX1ZTd095b0JlSTAxbzhnczFicTE1ZUgzbVJDTUllVEc0cFpmWWxGUGVNMWFsanhwbTFFQWFWcEM5cG9iTVpDLWMzcWVqOUZETno5V1dEZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wlBVV95cUxORnZlQnFPM2Q5dzZURXZseTFSWElLajVJNDB4VTdWYWhrVHh5Njd2TWliTTZHcHhJUHdrbVRObVA3SHk3b2p0Mk4ydWJEcGYtalRtc3dTNHdVMEhhNnBoQmhKVDdpa3A5VldiU084WkFSVTZLcFZnZm1DUEt3V2ZUM3BmZi01elk4QVlxeWR0WHNrd0xRWllfQ2FVQnQ5SkNPNy1oMzhVYTRFaGs5NjRVaC1tNHlEVXREYzY4YU5sdE5YdW1mNGZvMEo2NVJ6X3B3bTFHa2ctQWZLSW1QdkNfWlBydXVScXZlTmMwOVFHNWc2a0tqSDBURnBfVDZlaUg4ejdveTkwdVhIV3A3aVM2M3VmcE5fYW9ucGZMQWZrclZYOVI3RTlnMTlWZno2MENzYU9henlQeVcyclVfTUY3YU5abVdsV201VWRLei1FMkZCeXhLdW5OTTh4bGFwdVpod0dHLVBndHBsTTl3S093Ym56YnFIWWV6a1hnNnpkcUFrN1MxVWpEbVVUUEpPWFZZZERSdVU0elFqcGRoeHlDMXh1Vmk4MEhwY21NR0R5T3p0cjVLR0VOVkt3UmVzVTZSQVhPcnFVOUFBOG8xZjdzZDFOSFNaX1VCVk5WZ2xiMDFORnRzZjJJU0FmdDYxdGt1LUxRMnVvUGNYR2dmM1luTTB3SzRMdXEwOUVwNmgxQWJKQU1wT3p2ZDlDQlFrRTVfTVVzeGlrdDJkbHhBZkJrdzdSaEVyNmN4T2RxQ1o4NVNhUmRKMnVzRlZvdHNDYWhFUVoxc3ctV0IzWENOYmU0eGxPc3U4OU14M1VuTW1BRjhFakhOeXk1Y1gtdklmMmphTFltZzZ4blZGRFRveWNieWl1MV9ETmU4LU4tRkk3bmF2S0RHVkpXQ05USFk3VlBOT1d2SWdJWFhYMWg0a0ZWRW0yeENVSjg3dGdzRkdTRm9VS0tLNjJkenpHYjlQZ1RYUHBweF9EZm85SHJmU29JVzY2T21oVk9iU3ZEQnFJb0JWalNnMnl5ZjNSN2xBMk9UTEtwVzFWWUJXRjBWNFVsTzhIZlNGdHhHQl91Z2xqdjBaYzhGOVJwRGw3SFpQN0JERlhib3hpMTB1Sk8wM1pydlpVZGhvb2VROTNZWUMtLWNQbDdtWHpxdFlRV0VWaldSQTdrRkdvTTdnTWJrRDJENGtBRVd0TnNFSzVkeWdWWS13eml5Si1QcVhDQnJROVdLMTF4ZnpZMW9WS2V4R2RSUVRYZFF1LWs1UTlXczd4bUNHLUh4Tk5wWTlNLWlocDRIRXhLdFVyUmpwYmgwdUt0ZmlpNllFV1dhaktPN0RpV0ZidDlacXo2eDJYM2d4Mmx6X0dRc09pT0VnV1RaYjBFRDJQT3ZfVGFxc3lFRTJXQnZZSlBIdjdiSkUxaHRQZkNhT2hzelZYeVhUQlhTYnE3VDlQMlo5UHdkUnB3YUgwamVIblVpMmk5M3hQb0lZNlY2NngxSkVUUng1dGxkN1owOXZPazU2OWowQWdOaHppLXJOMTZBX1ZTd095b0JlSTAxbzhnczFicTE1ZUgzbVJDTUllVEc0cFpmWWxGUGVNMWFsanhwbTFFQWFWcEM5cG9iTVpDLWMzcWVqOUZETno5V1dEZw?oc=5\" target=\"_blank\">La Diputación de Segovia destina 150.000 euros para subvencionar seis contrataciones de talento en el marco del CTC del sector cárnico - Ayuntamiento de Navares de Enmedio - dipsegovia.es</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diputación de Segovia</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-06T07:00:00Z",
@@ -24,16 +24,64 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Ofertas de empleo de Madrid Trabaja 08.08.2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 08.08.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "titulo": "Navantia busca personal: 131 ofertas de empleo para ingenieros y titulados superiores, 46 en la Bahía de Cádiz - El Conciso",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnFFQndaTk50SVV2RXdzcHFYZTVnZGtRbF82OHVWVVJQSkZjcWxnbFhRc0xaUEcwajR6cFdGMGF5SHUxcWVKX1dtN0xxanpONEV5M1MtMHNjamdYanRMTW1hcTBZVndnWkJlb2lvWS1jcV9ObEZkMWpoVG9qWmtpYzNJOEtCSGVTeXJXMUJObTE0ejNuQk94NG1MSTPSAaIBQVVfeXFMTzMtYWV3MS0wQUszcWlpMmVLVDZXMFA4X1pxVFBfVVA2Z2RHdjAtTVVQdVdiSE93d2p3bmMwVk9PZThORTBRRTZ0bnd1M2NjTHBWMU5tN09ZejFKUjZ3enJLRURibURBTlpzeXR0S2c2N252ZEM1MTJWU21zMnRjVzUtM2tYdkh3dGxqQjJId3pvUGdKcGRGY2Nia1dKUlIzMXF3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnFFQndaTk50SVV2RXdzcHFYZTVnZGtRbF82OHVWVVJQSkZjcWxnbFhRc0xaUEcwajR6cFdGMGF5SHUxcWVKX1dtN0xxanpONEV5M1MtMHNjamdYanRMTW1hcTBZVndnWkJlb2lvWS1jcV9ObEZkMWpoVG9qWmtpYzNJOEtCSGVTeXJXMUJObTE0ejNuQk94NG1MSTPSAaIBQVVfeXFMTzMtYWV3MS0wQUszcWlpMmVLVDZXMFA4X1pxVFBfVVA2Z2RHdjAtTVVQdVdiSE93d2p3bmMwVk9PZThORTBRRTZ0bnd1M2NjTHBWMU5tN09ZejFKUjZ3enJLRURibURBTlpzeXR0S2c2N252ZEM1MTJWU21zMnRjVzUtM2tYdkh3dGxqQjJId3pvUGdKcGRGY2Nia1dKUlIzMXF3?oc=5\" target=\"_blank\">Navantia busca personal: 131 ofertas de empleo para ingenieros y titulados superiores, 46 en la Bahía de Cádiz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Conciso</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-08T08:37:00Z",
+    "fecha": "2026-08-04T17:17:40Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Telemadrid",
+    "empresa": "Navantia",
+    "ubicacion": "Bahía de Cádiz"
+  },
+  {
+    "titulo": "Ofertas de empleo en EEUU disminuyen en junio, mientras que la contratación aumenta - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94U1d1bkRTRG9TcXhNNWlqRGJjUmJDUmZVMWZPT0RZcG5mT0ZTcTZMM2o0QnZHNUdWYm8xV1ZiRFU1cUlxRmRkRnRPLVQ1T3RuVElpb1ZoTVVWZ1paT0pGQXBiOVRsQlVzNVlKODdWRHlIRi1obHI0?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE94U1d1bkRTRG9TcXhNNWlqRGJjUmJDUmZVMWZPT0RZcG5mT0ZTcTZMM2o0QnZHNUdWYm8xV1ZiRFU1cUlxRmRkRnRPLVQ1T3RuVElpb1ZoTVVWZ1paT0pGQXBiOVRsQlVzNVlKODdWRHlIRi1obHI0?oc=5\" target=\"_blank\">Ofertas de empleo en EEUU disminuyen en junio, mientras que la contratación aumenta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-04T14:47:59Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "TradingView",
+    "ubicacion": "EEUU"
+  },
+  {
+    "titulo": "Las fábricas españolas recortan sus compras y frenan las contrataciones por la incertidumbre de la guerra - Vozpopuli",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0NNXy1fZjVSTkxZRzg5V0MtWWxHbUwwcE1PekJXYnY2ZjZxMHFMY3l2NWk2TnZxX3k4S3JRYzhUQ0YyUHI5Y1AxRUwzaHpscGVMSTZ5ZnVjWm5QcXRDQlRHTVgwQjE1Q1I3MXN3bGhFRHdTUV90U2ZCN2xGVjQ4MzNtUHdKR1VUYWltUmh2d1ZNVzFlXzgyb0d3Tkk2RHdGOUFoMzljX0JIdGozZlBiaDZHLUREbkFEd1BpYjc2NmkzNERMLVl2YUpUcGEwVmxDYmNIazFfbVFva2hOMkEwOXM2bTF1a3dIM1HSAe8BQVVfeXFMUHg5YUZDYmpvN0Y0aV9HeEdzUWU3QUpZLWxZTmRhQWhfQUdXcHlRakQxejc2RWNyVXY0dU1Bc2NVbzhOWmt1RklvT3RMbkRiNkZHckltSVZOc1pVZWlTQkU0cXplNDZaVENYT2d6MEVPSlp5WWhDdUlXRGYyZlZGenRpNFlxVTFHcm45VjhvQmJZbDhRV0NQRmZqR3hfTUs4TEdTUVVacU83X2ZrQTFzQU9CaFpxM2UteWo2SVk4azBtYXpXYkJjZHdESjg2eFhxMHdHLWJ4R3o5NmJhWTROcU16TVhUZFVaVllPNExVVFE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0NNXy1fZjVSTkxZRzg5V0MtWWxHbUwwcE1PekJXYnY2ZjZxMHFMY3l2NWk2TnZxX3k4S3JRYzhUQ0YyUHI5Y1AxRUwzaHpscGVMSTZ5ZnVjWm5QcXRDQlRHTVgwQjE1Q1I3MXN3bGhFRHdTUV90U2ZCN2xGVjQ4MzNtUHdKR1VUYWltUmh2d1ZNVzFlXzgyb0d3Tkk2RHdGOUFoMzljX0JIdGozZlBiaDZHLUREbkFEd1BpYjc2NmkzNERMLVl2YUpUcGEwVmxDYmNIazFfbVFva2hOMkEwOXM2bTF1a3dIM1HSAe8BQVVfeXFMUHg5YUZDYmpvN0Y0aV9HeEdzUWU3QUpZLWxZTmRhQWhfQUdXcHlRakQxejc2RWNyVXY0dU1Bc2NVbzhOWmt1RklvT3RMbkRiNkZHckltSVZOc1pVZWlTQkU0cXplNDZaVENYT2d6MEVPSlp5WWhDdUlXRGYyZlZGenRpNFlxVTFHcm45VjhvQmJZbDhRV0NQRmZqR3hfTUs4TEdTUVVacU83X2ZrQTFzQU9CaFpxM2UteWo2SVk4azBtYXpXYkJjZHdESjg2eFhxMHdHLWJ4R3o5NmJhWTROcU16TVhUZFVaVllPNExVVFE?oc=5\" target=\"_blank\">Las fábricas españolas recortan sus compras y frenan las contrataciones por la incertidumbre de la guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-04T02:45:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Feria de Málaga 2026: Limasam amplía plantilla con 320 contrataciones para un operativo especial que estará disponible 24 horas - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0gzV3U5cnZxYjh1bUhNM3VrTGtSTl9mbmFBZ3RtSWM1UWlRVFUtTG9TOVo3cmVFUTktSmtBbzNrWXZwZy1kaVBZaVlhaDlxN25fdDY2amdZVXAtVV9PUXFodkFNdTA1NEpoXzRPN2NCNGlac3lRVHRnZjFGTlEtUV85NnpmSzZEUUluOXNVTFlWOFFZVTJJUFVqZk9sajDSAaQBQVVfeXFMUHJaQ2FHeVBuQV9pVWNxUGJqdFBIczNnTEZzYm5nMGEtUmJFMVhDaWdBS29MM1h0U25FQ0FaQmFFcFFKN2VHSFZEcXgxOXRkOUR3OVB5OG8xX1lRb05nR2p2bGtoMDZSMkRqMzlaTVJER3FpZTNCQndqRmxYYVkyaDduMXNkckRva04talBzTWY2UDdLVmMydFpOZVJ6c3NKd3JTWVI?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0gzV3U5cnZxYjh1bUhNM3VrTGtSTl9mbmFBZ3RtSWM1UWlRVFUtTG9TOVo3cmVFUTktSmtBbzNrWXZwZy1kaVBZaVlhaDlxN25fdDY2amdZVXAtVV9PUXFodkFNdTA1NEpoXzRPN2NCNGlac3lRVHRnZjFGTlEtUV85NnpmSzZEUUluOXNVTFlWOFFZVTJJUFVqZk9sajDSAaQBQVVfeXFMUHJaQ2FHeVBuQV9pVWNxUGJqdFBIczNnTEZzYm5nMGEtUmJFMVhDaWdBS29MM1h0U25FQ0FaQmFFcFFKN2VHSFZEcXgxOXRkOUR3OVB5OG8xX1lRb05nR2p2bGtoMDZSMkRqMzlaTVJER3FpZTNCQndqRmxYYVkyaDduMXNkckRva04talBzTWY2UDdLVmMydFpOZVJ6c3NKd3JTWVI?oc=5\" target=\"_blank\">Feria de Málaga 2026: Limasam amplía plantilla con 320 contrataciones para un operativo especial que estará disponible 24 horas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Opinión de Málaga</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T13:07:53Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Feria de Málaga"
+  },
+  {
+    "titulo": "Echedey Eugenio defiende la legalidad de las contrataciones municipales en Arrecife - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVBvdUpZcDlxLWFoZ3k1dXZWMHE5ZjBwTEpUaVpDT0pOVzN2b2oyVWhxUU5WXzZXcnhBdzJLUnc1ZnRoRjROaXgycUhsU3Z5NEJ6Y3JGcmR1Sm1rdmVQcWtwYk9GdWNGM2tqTnprRE1RVVdEVlhMMGNmZDQ1aTczdW5MM3RFdER2bnd0dkJJbUhCa3ZaajFaMlRyVkFzU3lOWkNybURob285UTlELTltbjdRQUI1ZjB5d2FYY1hJSUhxaTBVenc4QmtkR2J6dTV0UzdRZEhuONIB6wFBVV95cUxOVXYxV2pGQ090eTJnekNBSERBc2txOVdZYkVHTjZ4VG9NR0hGVmdEUGNqN1Y1UzFKU3JDOVhHX25lWFIyVXE5Q05Ja2d5TXF1TUN0WTNQN0NxSnQ5TGZRd1FQYlJjT3JkbnNxTTd4ZGJCQUR2UVJHVHBTalBmQTI0WWZDdnBjRlVydjRhTDJxbWV0bGxxQXB3S0E1YmFEZU5ySUN4dElnV2RMVXVSX0ExZnV4RUJMbTBwdUNYWmtMTHM5blBnUnZ4bGVvYWZFRVhTelMyelRDVkd6Q3lTZUFzUThWSldNeWRLbU1F?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVBvdUpZcDlxLWFoZ3k1dXZWMHE5ZjBwTEpUaVpDT0pOVzN2b2oyVWhxUU5WXzZXcnhBdzJLUnc1ZnRoRjROaXgycUhsU3Z5NEJ6Y3JGcmR1Sm1rdmVQcWtwYk9GdWNGM2tqTnprRE1RVVdEVlhMMGNmZDQ1aTczdW5MM3RFdER2bnd0dkJJbUhCa3ZaajFaMlRyVkFzU3lOWkNybURob285UTlELTltbjdRQUI1ZjB5d2FYY1hJSUhxaTBVenc4QmtkR2J6dTV0UzdRZEhuONIB6wFBVV95cUxOVXYxV2pGQ090eTJnekNBSERBc2txOVdZYkVHTjZ4VG9NR0hGVmdEUGNqN1Y1UzFKU3JDOVhHX25lWFIyVXE5Q05Ja2d5TXF1TUN0WTNQN0NxSnQ5TGZRd1FQYlJjT3JkbnNxTTd4ZGJCQUR2UVJHVHBTalBmQTI0WWZDdnBjRlVydjRhTDJxbWV0bGxxQXB3S0E1YmFEZU5ySUN4dElnV2RMVXVSX0ExZnV4RUJMbTBwdUNYWmtMTHM5blBnUnZ4bGVvYWZFRVhTelMyelRDVkd6Q3lTZUFzUThWSldNeWRLbU1F?oc=5\" target=\"_blank\">Echedey Eugenio defiende la legalidad de las contrataciones municipales en Arrecife</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T11:00:09Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Cadena SER",
+    "ubicacion": "Arrecife"
   },
   {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 05 de agosto de 2026 - Telemadrid",
@@ -42,6 +90,18 @@ const window_leads_data = [
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-05T09:12:28Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Comunidad de Madrid"
+  },
+  {
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 10 de agosto de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXBsd3FRTEJXeVNiWlNYb1FURVZPU0doeVA3X3p0b2VCQzh2cEdyU3hETEo4NmJqakdpNW9iakZFa3c0TVJEZ1pWcmljTzhvRC1LR0FrQ0J5aVFtUlpzYTF0eTFQeE1LeWpydjBPMm52RDdvVnJtVlFlT0VKeWZKLU5Qa0c2elNnVlNra09XUG9FNV8zLUNVSEhJVk1ja1dMOVJFV01hOGZLeC1sMjhmS090ak5zaHl2UmtJakVXXzQwY0VlcUV4NW5DTXJURHRBNVhyZGFmN2ZRRkt2Uno0bUhGZVhrYy1R0gHuAUFVX3lxTFBidGpOSzhoOWR3YTBQZEZZXzBDZU5xYTBBWEZ3eDVHRC0ybUdYS0ZOR0hvWTc5d3NOOVZQUVNJNmRFSWp3Q0dEZ3ZiNjZKeWRLSVRWZDA4ZTg3NDU2dWZFdGxyTWlpN0dkNzA0S2hWRDhnWG5SYkJXMlg1Rmw1UXFnbnNYQTBfZ0Z0NTFGVWtpVkx6QUFPaWRLc2FuR1ZNTnlpeHZuUWpGUkFraDBPWUxVcEdVWWtXRG5DQlBBQzFpaU5nVXVKc2gwUHVseEo4NEgyUl9MeDBlWHR5ZTFpUG9hTW5MZlBJMVV2b2JvdXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXBsd3FRTEJXeVNiWlNYb1FURVZPU0doeVA3X3p0b2VCQzh2cEdyU3hETEo4NmJqakdpNW9iakZFa3c0TVJEZ1pWcmljTzhvRC1LR0FrQ0J5aVFtUlpzYTF0eTFQeE1LeWpydjBPMm52RDdvVnJtVlFlT0VKeWZKLU5Qa0c2elNnVlNra09XUG9FNV8zLUNVSEhJVk1ja1dMOVJFV01hOGZLeC1sMjhmS090ak5zaHl2UmtJakVXXzQwY0VlcUV4NW5DTXJURHRBNVhyZGFmN2ZRRkt2Uno0bUhGZVhrYy1R0gHuAUFVX3lxTFBidGpOSzhoOWR3YTBQZEZZXzBDZU5xYTBBWEZ3eDVHRC0ybUdYS0ZOR0hvWTc5d3NOOVZQUVNJNmRFSWp3Q0dEZ3ZiNjZKeWRLSVRWZDA4ZTg3NDU2dWZFdGxyTWlpN0dkNzA0S2hWRDhnWG5SYkJXMlg1Rmw1UXFnbnNYQTBfZ0Z0NTFGVWtpVkx6QUFPaWRLc2FuR1ZNTnlpeHZuUWpGUkFraDBPWUxVcEdVWWtXRG5DQlBBQzFpaU5nVXVKc2gwUHVseEo4NEgyUl9MeDBlWHR5ZTFpUG9hTW5MZlBJMVV2b2JvdXc?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 10 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T10:25:01Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
@@ -60,28 +120,16 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 03 de agosto de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2NFalBGeXNYSmFNR29uVjFXTi1lWUFDN3lMNEEtcmRZTGxpX0p4OElnNldqbVNZaUJLRjlYNkluUTZ1UkNuZERQODFOY3hLNzRyc21neGFmVnlHOFlTeXpFc0xNeXhBaUpVeWZKdXZER3MwQWtneTd0bDA3Q2lSSFVHVGg0OWxXQ3UxWGpnUTlkQkJob3RiM0xobW9OMUhjSFlCZkpycUFEYmxIS0hVVEZtdE1FNllwejdabWFueDNHelNfejAxUzlTX0lsN0FtTWlMSUhPN25TOVdzUDRHMDVKYzBTZnVR0gHuAUFVX3lxTFBlclFOb0pmWVNXR19FUFByN0pEYkFrQWRwSThIY19ndmRKY1pRME9oeHVIbGJRdG9BV1FqTTN1eXhOZ3JOVkJVVWthenIzQUs4SkZfdDJ5Yk1LUDhxZWxON3IyMVZhU2c2VldHVDRJUmRDOGlhcl9qby1YNG9UTWplS3hfQTJ0aHpCQ1VqMVNlNlFfMll5MTVRQ2pkenZTRnVkT0hRM2V1Wl9SRlViUTUzUzR0X0Y3ZEhCRDJqWk12WUlUWFlBdHJRc0gxcTVIUjVuWlB6N1hySl8xLWJmbEJRM0IzbkliMHVEUTFHNnc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2NFalBGeXNYSmFNR29uVjFXTi1lWUFDN3lMNEEtcmRZTGxpX0p4OElnNldqbVNZaUJLRjlYNkluUTZ1UkNuZERQODFOY3hLNzRyc21neGFmVnlHOFlTeXpFc0xNeXhBaUpVeWZKdXZER3MwQWtneTd0bDA3Q2lSSFVHVGg0OWxXQ3UxWGpnUTlkQkJob3RiM0xobW9OMUhjSFlCZkpycUFEYmxIS0hVVEZtdE1FNllwejdabWFueDNHelNfejAxUzlTX0lsN0FtTWlMSUhPN25TOVdzUDRHMDVKYzBTZnVR0gHuAUFVX3lxTFBlclFOb0pmWVNXR19FUFByN0pEYkFrQWRwSThIY19ndmRKY1pRME9oeHVIbGJRdG9BV1FqTTN1eXhOZ3JOVkJVVWthenIzQUs4SkZfdDJ5Yk1LUDhxZWxON3IyMVZhU2c2VldHVDRJUmRDOGlhcl9qby1YNG9UTWplS3hfQTJ0aHpCQ1VqMVNlNlFfMll5MTVRQ2pkenZTRnVkT0hRM2V1Wl9SRlViUTUzUzR0X0Y3ZEhCRDJqWk12WUlUWFlBdHJRc0gxcTVIUjVuWlB6N1hySl8xLWJmbEJRM0IzbkliMHVEUTFHNnc?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 03 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "titulo": "Ofertas de empleo de Madrid Trabaja 08.08.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 08.08.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-03T10:19:51Z",
+    "fecha": "2026-08-08T08:37:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
-    "ubicacion": "Comunidad de Madrid"
-  },
-  {
-    "titulo": "Navantia busca personal: 131 ofertas de empleo para ingenieros y titulados superiores, 46 en la Bahía de Cádiz - El Conciso",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnFFQndaTk50SVV2RXdzcHFYZTVnZGtRbF82OHVWVVJQSkZjcWxnbFhRc0xaUEcwajR6cFdGMGF5SHUxcWVKX1dtN0xxanpONEV5M1MtMHNjamdYanRMTW1hcTBZVndnWkJlb2lvWS1jcV9ObEZkMWpoVG9qWmtpYzNJOEtCSGVTeXJXMUJObTE0ejNuQk94NG1MSTPSAaIBQVVfeXFMTzMtYWV3MS0wQUszcWlpMmVLVDZXMFA4X1pxVFBfVVA2Z2RHdjAtTVVQdVdiSE93d2p3bmMwVk9PZThORTBRRTZ0bnd1M2NjTHBWMU5tN09ZejFKUjZ3enJLRURibURBTlpzeXR0S2c2N252ZEM1MTJWU21zMnRjVzUtM2tYdkh3dGxqQjJId3pvUGdKcGRGY2Nia1dKUlIzMXF3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnFFQndaTk50SVV2RXdzcHFYZTVnZGtRbF82OHVWVVJQSkZjcWxnbFhRc0xaUEcwajR6cFdGMGF5SHUxcWVKX1dtN0xxanpONEV5M1MtMHNjamdYanRMTW1hcTBZVndnWkJlb2lvWS1jcV9ObEZkMWpoVG9qWmtpYzNJOEtCSGVTeXJXMUJObTE0ejNuQk94NG1MSTPSAaIBQVVfeXFMTzMtYWV3MS0wQUszcWlpMmVLVDZXMFA4X1pxVFBfVVA2Z2RHdjAtTVVQdVdiSE93d2p3bmMwVk9PZThORTBRRTZ0bnd1M2NjTHBWMU5tN09ZejFKUjZ3enJLRURibURBTlpzeXR0S2c2N252ZEM1MTJWU21zMnRjVzUtM2tYdkh3dGxqQjJId3pvUGdKcGRGY2Nia1dKUlIzMXF3?oc=5\" target=\"_blank\">Navantia busca personal: 131 ofertas de empleo para ingenieros y titulados superiores, 46 en la Bahía de Cádiz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Conciso</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-04T17:17:40Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Navantia",
-    "ubicacion": "Bahía de Cádiz"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 06 de agosto de 2026 - Telemadrid",
@@ -96,66 +144,6 @@ const window_leads_data = [
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Ofertas de empleo en EEUU disminuyen en junio, mientras que la contratación aumenta - es.tradingview.com",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94U1d1bkRTRG9TcXhNNWlqRGJjUmJDUmZVMWZPT0RZcG5mT0ZTcTZMM2o0QnZHNUdWYm8xV1ZiRFU1cUlxRmRkRnRPLVQ1T3RuVElpb1ZoTVVWZ1paT0pGQXBiOVRsQlVzNVlKODdWRHlIRi1obHI0?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE94U1d1bkRTRG9TcXhNNWlqRGJjUmJDUmZVMWZPT0RZcG5mT0ZTcTZMM2o0QnZHNUdWYm8xV1ZiRFU1cUlxRmRkRnRPLVQ1T3RuVElpb1ZoTVVWZ1paT0pGQXBiOVRsQlVzNVlKODdWRHlIRi1obHI0?oc=5\" target=\"_blank\">Ofertas de empleo en EEUU disminuyen en junio, mientras que la contratación aumenta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-04T14:47:59Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "EEUU"
-  },
-  {
-    "titulo": "Las fábricas españolas recortan sus compras y frenan las contrataciones por la incertidumbre de la guerra - Vozpopuli",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0NNXy1fZjVSTkxZRzg5V0MtWWxHbUwwcE1PekJXYnY2ZjZxMHFMY3l2NWk2TnZxX3k4S3JRYzhUQ0YyUHI5Y1AxRUwzaHpscGVMSTZ5ZnVjWm5QcXRDQlRHTVgwQjE1Q1I3MXN3bGhFRHdTUV90U2ZCN2xGVjQ4MzNtUHdKR1VUYWltUmh2d1ZNVzFlXzgyb0d3Tkk2RHdGOUFoMzljX0JIdGozZlBiaDZHLUREbkFEd1BpYjc2NmkzNERMLVl2YUpUcGEwVmxDYmNIazFfbVFva2hOMkEwOXM2bTF1a3dIM1HSAe8BQVVfeXFMUHg5YUZDYmpvN0Y0aV9HeEdzUWU3QUpZLWxZTmRhQWhfQUdXcHlRakQxejc2RWNyVXY0dU1Bc2NVbzhOWmt1RklvT3RMbkRiNkZHckltSVZOc1pVZWlTQkU0cXplNDZaVENYT2d6MEVPSlp5WWhDdUlXRGYyZlZGenRpNFlxVTFHcm45VjhvQmJZbDhRV0NQRmZqR3hfTUs4TEdTUVVacU83X2ZrQTFzQU9CaFpxM2UteWo2SVk4azBtYXpXYkJjZHdESjg2eFhxMHdHLWJ4R3o5NmJhWTROcU16TVhUZFVaVllPNExVVFE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0NNXy1fZjVSTkxZRzg5V0MtWWxHbUwwcE1PekJXYnY2ZjZxMHFMY3l2NWk2TnZxX3k4S3JRYzhUQ0YyUHI5Y1AxRUwzaHpscGVMSTZ5ZnVjWm5QcXRDQlRHTVgwQjE1Q1I3MXN3bGhFRHdTUV90U2ZCN2xGVjQ4MzNtUHdKR1VUYWltUmh2d1ZNVzFlXzgyb0d3Tkk2RHdGOUFoMzljX0JIdGozZlBiaDZHLUREbkFEd1BpYjc2NmkzNERMLVl2YUpUcGEwVmxDYmNIazFfbVFva2hOMkEwOXM2bTF1a3dIM1HSAe8BQVVfeXFMUHg5YUZDYmpvN0Y0aV9HeEdzUWU3QUpZLWxZTmRhQWhfQUdXcHlRakQxejc2RWNyVXY0dU1Bc2NVbzhOWmt1RklvT3RMbkRiNkZHckltSVZOc1pVZWlTQkU0cXplNDZaVENYT2d6MEVPSlp5WWhDdUlXRGYyZlZGenRpNFlxVTFHcm45VjhvQmJZbDhRV0NQRmZqR3hfTUs4TEdTUVVacU83X2ZrQTFzQU9CaFpxM2UteWo2SVk4azBtYXpXYkJjZHdESjg2eFhxMHdHLWJ4R3o5NmJhWTROcU16TVhUZFVaVllPNExVVFE?oc=5\" target=\"_blank\">Las fábricas españolas recortan sus compras y frenan las contrataciones por la incertidumbre de la guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-04T02:45:00Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Las ofertas de empleo en EE.UU. caen por debajo de lo esperado en junio - Investing.com España",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2MzVnJTYjdOWDhEMTVfemlXNU1tMVRmeDBkNjljQ2Q1WGFvZlp0Zy1ycmJOTlFkd2hrcGx0TGhfNkFBSG8xSmlOLTdZTnQ4YlZNWmluQTE5cUtYSk1Ec1BKeW5CUVZXa05xQnhrcDVoTks3RnhBelJuS1ZPSzJfbmxpamFnVTVIempUb0M2QnR3NFhOdHMtRE1NSFNtVWxpVzc1UlZ6OTVucHVheVdjdGJIdUQ2TzJUdXVVbXZRek5vVEJOYlE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2MzVnJTYjdOWDhEMTVfemlXNU1tMVRmeDBkNjljQ2Q1WGFvZlp0Zy1ycmJOTlFkd2hrcGx0TGhfNkFBSG8xSmlOLTdZTnQ4YlZNWmluQTE5cUtYSk1Ec1BKeW5CUVZXa05xQnhrcDVoTks3RnhBelJuS1ZPSzJfbmxpamFnVTVIempUb0M2QnR3NFhOdHMtRE1NSFNtVWxpVzc1UlZ6OTVucHVheVdjdGJIdUQ2TzJUdXVVbXZRek5vVEJOYlE?oc=5\" target=\"_blank\">Las ofertas de empleo en EE.UU. caen por debajo de lo esperado en junio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-04T14:13:00Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "EE.UU."
-  },
-  {
-    "titulo": "Ofertas de empleo en EE.UU. cayeron en junio; los despidos se mantuvieron limitados - Bloomberg Línea",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFhaDVhcVFUTlVmUDJjdWJkZElOSFlTaHNZWUlOMUttaWxFam83ajNnRDlDVkZzWmV6VFptNThaZ0drWnRPZzE4X2Y5dGl3enFzZ1djSHROUXhrNjRBUGlGcTI0a1c0Yi1vd1J2TnlHUVZseWdCcG94a3g4QnNSNTVoQTNzaGk0a1hwalV6NWxnREtDZ1RXeFdvZGZINWFNc0xnMFFwWEp4Yk0wUE5lOWFtR3RwZ0Y4ZUZPa1RVNnRLSFVnejhFUFFnSXJNZ9IB4gFBVV95cUxOOC1MdXBXdTFRd3Vzd3h6ZHBFVDg2cU9DNy1wMF9VeUpfX0lSemF6M1BqTTBfczVKeVNBaDNzZG42emxtZEstbjRoZy1LeHZZcE42X1RnM2VoUkE0c3JvRTZKUl9iTENMRjVWc0ZITG5BSklRVm5uT1FkTEFEc3doa3ViVzMwQkdZdnZFZjNYakRKWW1GM29PVDVyT0JHN2F4N0x6d1hPM3NYMWlRYTBUcUZCMDNXOXVyZ0FzSXAwU1d0S2loVnk2aTE1X05laVRHdnQzbndXUHhreDdidlZXM0NR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFhaDVhcVFUTlVmUDJjdWJkZElOSFlTaHNZWUlOMUttaWxFam83ajNnRDlDVkZzWmV6VFptNThaZ0drWnRPZzE4X2Y5dGl3enFzZ1djSHROUXhrNjRBUGlGcTI0a1c0Yi1vd1J2TnlHUVZseWdCcG94a3g4QnNSNTVoQTNzaGk0a1hwalV6NWxnREtDZ1RXeFdvZGZINWFNc0xnMFFwWEp4Yk0wUE5lOWFtR3RwZ0Y4ZUZPa1RVNnRLSFVnejhFUFFnSXJNZ9IB4gFBVV95cUxOOC1MdXBXdTFRd3Vzd3h6ZHBFVDg2cU9DNy1wMF9VeUpfX0lSemF6M1BqTTBfczVKeVNBaDNzZG42emxtZEstbjRoZy1LeHZZcE42X1RnM2VoUkE0c3JvRTZKUl9iTENMRjVWc0ZITG5BSklRVm5uT1FkTEFEc3doa3ViVzMwQkdZdnZFZjNYakRKWW1GM29PVDVyT0JHN2F4N0x6d1hPM3NYMWlRYTBUcUZCMDNXOXVyZ0FzSXAwU1d0S2loVnk2aTE1X05laVRHdnQzbndXUHhreDdidlZXM0NR?oc=5\" target=\"_blank\">Ofertas de empleo en EE.UU. cayeron en junio; los despidos se mantuvieron limitados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Línea</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-04T14:58:26Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "EE.UU."
-  },
-  {
-    "titulo": "Madrid roza las 46.000 ofertas de empleo en julio - Noticias para Municipios",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0hhRllkTW9GVHhjOWtFREgwMmxUd1poRTFleE1TV2c5UVdPcEU0YlpPVUtBdllzSnNoSzlMNGhrY0wyTWNTeU1pLTZrQXlWdm9nT1l1M1VtMV9sQy03QjZWVGQyaVRXXzRXQWNRUnh0c3FWd0xRM0tzcDFvdXJaM2hLdEkzMEI1NzhpVXMtVHphUVh4TTBFMlNfRjMwLXEzbG5TcUgwazQ2cVlfMlB2QW5DWEJUZm9hd3c?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0hhRllkTW9GVHhjOWtFREgwMmxUd1poRTFleE1TV2c5UVdPcEU0YlpPVUtBdllzSnNoSzlMNGhrY0wyTWNTeU1pLTZrQXlWdm9nT1l1M1VtMV9sQy03QjZWVGQyaVRXXzRXQWNRUnh0c3FWd0xRM0tzcDFvdXJaM2hLdEkzMEI1NzhpVXMtVHphUVh4TTBFMlNfRjMwLXEzbG5TcUgwazQ2cVlfMlB2QW5DWEJUZm9hd3c?oc=5\" target=\"_blank\">Madrid roza las 46.000 ofertas de empleo en julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias para Municipios</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-06T06:48:19Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Madrid"
-  },
-  {
     "titulo": "'Desaparecen' del Portal de Contrataciones las infografías del proyecto del entorno de La Antigua - EL DECANO DE GUADALAJARA",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi15eUxMWkpQejdpN3ZRcFh3aVBGM05sUnoxTEVrZ3Z1OFZLazZISnFBUzhmajRSa1MwcWpfekFlODhVcjY0WThWazlQREoyVXUtRlFhcnpWcnBXbGxpWUtjaURiZDdhT1c2UnpsVHExa2hhS09tb0JrajBsWG0xN1R6bS1PX1lyeTRrUzVJM1N5dHFSakE2bldFc1lOWmE5dVcyLUFST2hybVlWbTJWOFpXMXY3TllybG9tU3EyTVRyS2g1RUs2VVR0cXJJYkt1YmhKN0xVcUVERGcwZVN2WVdRZENYOEIyR0puSw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi15eUxMWkpQejdpN3ZRcFh3aVBGM05sUnoxTEVrZ3Z1OFZLazZISnFBUzhmajRSa1MwcWpfekFlODhVcjY0WThWazlQREoyVXUtRlFhcnpWcnBXbGxpWUtjaURiZDdhT1c2UnpsVHExa2hhS09tb0JrajBsWG0xN1R6bS1PX1lyeTRrUzVJM1N5dHFSakE2bldFc1lOWmE5dVcyLUFST2hybVlWbTJWOFpXMXY3TllybG9tU3EyTVRyS2g1RUs2VVR0cXJJYkt1YmhKN0xVcUVERGcwZVN2WVdRZENYOEIyR0puSw?oc=5\" target=\"_blank\">'Desaparecen' del Portal de Contrataciones las infografías del proyecto del entorno de La Antigua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL DECANO DE GUADALAJARA</font>",
@@ -168,28 +156,28 @@ const window_leads_data = [
     "ubicacion": "La Antigua"
   },
   {
-    "titulo": "Navantia abre 33 ofertas de empleo para Ferrol mientras el comité exige dos fragatas más - GaliciaPress",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2dReEI1WWFtSFA1dFVkTmVlTTlPWjZBUzNGM0tQdXpRcTRDWk96bUNHS1FLci05ZS12N25pNDBXclV5LXZJVEVtOWhNLVpvc1pPZTBkaEh1N1BRUTNVUzlydi1pUjA5TzBWQXVUMzFqQl9PemlSSmhSSVZfdDNCaDhhRGlpODlvbFFJS1N0UVdDNkZ0SkxIVk4xc0JaMmdJNF9wUVRseXZZLXBGcmZXQmJ4ZFNSUno1OVpxREdUTjZOYlVPeTdhY2xmN0pacjQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2dReEI1WWFtSFA1dFVkTmVlTTlPWjZBUzNGM0tQdXpRcTRDWk96bUNHS1FLci05ZS12N25pNDBXclV5LXZJVEVtOWhNLVpvc1pPZTBkaEh1N1BRUTNVUzlydi1pUjA5TzBWQXVUMzFqQl9PemlSSmhSSVZfdDNCaDhhRGlpODlvbFFJS1N0UVdDNkZ0SkxIVk4xc0JaMmdJNF9wUVRseXZZLXBGcmZXQmJ4ZFNSUno1OVpxREdUTjZOYlVPeTdhY2xmN0pacjQ?oc=5\" target=\"_blank\">Navantia abre 33 ofertas de empleo para Ferrol mientras el comité exige dos fragatas más</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GaliciaPress</font>",
+    "titulo": "Las contrataciones vinculadas al turismo salvan un mes de julio con una bajada muy ligera del paro - Diario de Arousa",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOODhJMGVsQVJsOXlVTENERDRiZHVNQWFwSjNMRW5yNEI4ekMwMkVrX2NtUk1qTHJENllXem5zMnphbEpXdFBwS01fX2JYd3BWd096NmZFcjhwaUpTWTNMNkZhVDM2SW41VlVwYUJQQ21CVDJuemhmTGJ2QlZfZXhqbDZNdDNIREFwTVJod3B0Rk81dG5YYld5bXVlcHhXR0x6Y096dzFWNEF2emF3d3ZkeDlZNU9HNU9PYzhQd1VDM0M3bnRYMmFhbngxck9OSHRHUkE2VW5FQS1LVVhMRVVCOXlxU3hwQ1hnQWpINm9Fd3MxWlp4d2JaT3ZCeFJLREQxNmR3Zw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOODhJMGVsQVJsOXlVTENERDRiZHVNQWFwSjNMRW5yNEI4ekMwMkVrX2NtUk1qTHJENllXem5zMnphbEpXdFBwS01fX2JYd3BWd096NmZFcjhwaUpTWTNMNkZhVDM2SW41VlVwYUJQQ21CVDJuemhmTGJ2QlZfZXhqbDZNdDNIREFwTVJod3B0Rk81dG5YYld5bXVlcHhXR0x6Y096dzFWNEF2emF3d3ZkeDlZNU9HNU9PYzhQd1VDM0M3bnRYMmFhbngxck9OSHRHUkE2VW5FQS1LVVhMRVVCOXlxU3hwQ1hnQWpINm9Fd3MxWlp4d2JaT3ZCeFJLREQxNmR3Zw?oc=5\" target=\"_blank\">Las contrataciones vinculadas al turismo salvan un mes de julio con una bajada muy ligera del paro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Arousa</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-04T14:58:00Z",
+    "fecha": "2026-08-04T17:31:11Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Navantia",
-    "ubicacion": "Ferrol"
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "EL NUEVO PARQUE COMERCIAL DE LA MONTAÑA AFRONTA SU RECTA FINAL CON EL 98 % DE SU SUPERFICIE COMERCIAL ARRENDADA - Ayuntamiento del Real Sitio y Villa de Aranjuez",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3lGWHl0RWx4dzdkd2NLZS1XVE1wV2FFbTlSYjl5Vk0zUTZ2bHRISmYtNm1vOEQxX0ZHX1ZYT1BGU2g1T2dYTkdEV3NfWk81cEU0WDVTRU5XeFJ6WTJUMjdMdzVWaG5QLVEtQXRycG5CSDR6OXhNRDhmd0E2Y0plSmVZWmtNN21iX2hITm55Q2FIa0tGR1BGcVZ6Vm1KRUZFZVpFa0RSZlZyUnMzRDhkRGwwZjVIMWRPMkdubllXLW9VN0dqZFVFOVpQbEpuc0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3lGWHl0RWx4dzdkd2NLZS1XVE1wV2FFbTlSYjl5Vk0zUTZ2bHRISmYtNm1vOEQxX0ZHX1ZYT1BGU2g1T2dYTkdEV3NfWk81cEU0WDVTRU5XeFJ6WTJUMjdMdzVWaG5QLVEtQXRycG5CSDR6OXhNRDhmd0E2Y0plSmVZWmtNN21iX2hITm55Q2FIa0tGR1BGcVZ6Vm1KRUZFZVpFa0RSZlZyUnMzRDhkRGwwZjVIMWRPMkdubllXLW9VN0dqZFVFOVpQbEpuc0E?oc=5\" target=\"_blank\">EL NUEVO PARQUE COMERCIAL DE LA MONTAÑA AFRONTA SU RECTA FINAL CON EL 98 % DE SU SUPERFICIE COMERCIAL ARRENDADA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento del Real Sitio y Villa de Aranjuez</font>",
+    "titulo": "Madrid roza las 46.000 ofertas de empleo en julio - Noticias para Municipios",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0hhRllkTW9GVHhjOWtFREgwMmxUd1poRTFleE1TV2c5UVdPcEU0YlpPVUtBdllzSnNoSzlMNGhrY0wyTWNTeU1pLTZrQXlWdm9nT1l1M1VtMV9sQy03QjZWVGQyaVRXXzRXQWNRUnh0c3FWd0xRM0tzcDFvdXJaM2hLdEkzMEI1NzhpVXMtVHphUVh4TTBFMlNfRjMwLXEzbG5TcUgwazQ2cVlfMlB2QW5DWEJUZm9hd3c?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0hhRllkTW9GVHhjOWtFREgwMmxUd1poRTFleE1TV2c5UVdPcEU0YlpPVUtBdllzSnNoSzlMNGhrY0wyTWNTeU1pLTZrQXlWdm9nT1l1M1VtMV9sQy03QjZWVGQyaVRXXzRXQWNRUnh0c3FWd0xRM0tzcDFvdXJaM2hLdEkzMEI1NzhpVXMtVHphUVh4TTBFMlNfRjMwLXEzbG5TcUgwazQ2cVlfMlB2QW5DWEJUZm9hd3c?oc=5\" target=\"_blank\">Madrid roza las 46.000 ofertas de empleo en julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias para Municipios</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-28T07:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "ARRENDADA",
-    "ubicacion": "PARQUE COMERCIAL DE"
+    "fecha": "2026-08-06T06:48:19Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Madrid"
   },
   {
     "titulo": "Trabajadores del Plaza Mayor y McArthurGlen de Málaga se concentran por la apertura de las tiendas hasta medianoche - Málaga Hoy",
@@ -228,16 +216,16 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Escenarios en bolsa del empleo. Apertura en video por Cárpatos - Serenity Markets",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5\" target=\"_blank\">Escenarios en bolsa del empleo. Apertura en video por Cárpatos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Serenity Markets</font>",
+    "titulo": "Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 M€ y crear 12 nuevos empleos - Lidl España",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmVRX0JvX3FIT0R5bXFaWW5FQk5PVWt4aG5TcV9ySW9YckpUUDZ6N3lzaERWUlpMWVNsMFhISHpwejV2TnJqaDNQa0F2d2tiMmplVDhEcmd3TGJfeFliUnZJMlpoM1Jwa29PRFFFZUZBRFpCY0Y0MEV0Y01ZU21rZkl5ZkFfbDlLLWZMT3dZb1Q0cXk4OUZtclZ2NURTdmt4Y2N0ZFRtRmJ0Ui12RURnMW9KZFVoWEtVUW00RHRhOVJiVHd2M3Awclg4MzJqU2cwUU9iWFRnYXB5aGt3VTZDdldSclIwU3hhVVZvTnBEZkY?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmVRX0JvX3FIT0R5bXFaWW5FQk5PVWt4aG5TcV9ySW9YckpUUDZ6N3lzaERWUlpMWVNsMFhISHpwejV2TnJqaDNQa0F2d2tiMmplVDhEcmd3TGJfeFliUnZJMlpoM1Jwa29PRFFFZUZBRFpCY0Y0MEV0Y01ZU21rZkl5ZkFfbDlLLWZMT3dZb1Q0cXk4OUZtclZ2NURTdmt4Y2N0ZFRtRmJ0Ui12RURnMW9KZFVoWEtVUW00RHRhOVJiVHd2M3Awclg4MzJqU2cwUU9iWFRnYXB5aGt3VTZDdldSclIwU3hhVVZvTnBEZkY?oc=5\" target=\"_blank\">Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 M€ y crear 12 nuevos empleos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lidl España</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-07T06:53:16Z",
+    "fecha": "2026-08-07T12:06:12Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Apertura",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Sant Joan"
   },
   {
     "titulo": "El empleo americano y Ormuz marcan una apertura europea sin apenas cambios - Bolsamania",
@@ -264,6 +252,18 @@ const window_leads_data = [
     "ubicacion": "Golfo Pérsico"
   },
   {
+    "titulo": "Escenarios en bolsa del empleo. Apertura en video por Cárpatos - Serenity Markets",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5\" target=\"_blank\">Escenarios en bolsa del empleo. Apertura en video por Cárpatos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Serenity Markets</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-07T06:53:16Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Apertura",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "Gadis crea 42 empleos con la apertura de un nuevo supermercado en Trobajo y consolida su presencia en León con 450 trabajadores - Cadena SER",
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYjFjMGpxdHJsanBRanlwalV3YXFwcnhrNHNJUlVrLXk0VlE5al83cGZIdHVkQUlvTEpJTl9iSm9HS3dPWHJLZ0dWbl9ZVGRPaXRkY2FfUW5SdmF1Ul90eWJwRkZRckYyMmRpNFM1bUJtVGFJZDhvQ1BZYTZkYzdEcVV6dDFoaUgxTXlZLUo4WXo4cGxheGFyaUNOb0lUUXljVzVmSDV6eXRhRWt0Y21YMEJRc0RtN2RieHlTM1JrRklyVmJhenVHZXdfbVhuMmZySktRUjM2LU1wMWdGYlRWV1pzWkxtemhsdUxyTWNtNWo1X21JMHRENnNKc2VtMm80NVRSSG45b3Q3cTAxbDhQMEg4VDPSAagCQVVfeXFMUENtVDk5QWMxRXVrYnh5eXQ0VjRHczRsNklMa3FtYVBDOTNjMGxZbUxpa3NYWFoxbXVSM0pyVTh1WjRWWDlGMmJCSHdHSXpXamQwNU4wZkM2ZDFWUnRBbkFzTkVGZWY1VXFEYXBvLTBaYURydjdJYUE5UHpBYXlJWnpCMUdkcnVaZDBRM2tTcUljcTEyQk5rdVZVVHpKWmNmOXJGd25EdlYyc3RMcUhINEtMcTNDMnB4VVBrUG1kamloaEZrUGhZVmt1X0k5eHFSNGROY3Y2MEtVVEJJd1VoZnBvemlnOU1MenQwT1dkcTJId1dHamdURTczcFU0elg2SFM1QVZrakMxMlFUVGFtN01neWlFb1BXQ1Bvdlk1bFY0YVJfc2EwX0U?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNYjFjMGpxdHJsanBRanlwalV3YXFwcnhrNHNJUlVrLXk0VlE5al83cGZIdHVkQUlvTEpJTl9iSm9HS3dPWHJLZ0dWbl9ZVGRPaXRkY2FfUW5SdmF1Ul90eWJwRkZRckYyMmRpNFM1bUJtVGFJZDhvQ1BZYTZkYzdEcVV6dDFoaUgxTXlZLUo4WXo4cGxheGFyaUNOb0lUUXljVzVmSDV6eXRhRWt0Y21YMEJRc0RtN2RieHlTM1JrRklyVmJhenVHZXdfbVhuMmZySktRUjM2LU1wMWdGYlRWV1pzWkxtemhsdUxyTWNtNWo1X21JMHRENnNKc2VtMm80NVRSSG45b3Q3cTAxbDhQMEg4VDPSAagCQVVfeXFMUENtVDk5QWMxRXVrYnh5eXQ0VjRHczRsNklMa3FtYVBDOTNjMGxZbUxpa3NYWFoxbXVSM0pyVTh1WjRWWDlGMmJCSHdHSXpXamQwNU4wZkM2ZDFWUnRBbkFzTkVGZWY1VXFEYXBvLTBaYURydjdJYUE5UHpBYXlJWnpCMUdkcnVaZDBRM2tTcUljcTEyQk5rdVZVVHpKWmNmOXJGd25EdlYyc3RMcUhINEtMcTNDMnB4VVBrUG1kamloaEZrUGhZVmt1X0k5eHFSNGROY3Y2MEtVVEJJd1VoZnBvemlnOU1MenQwT1dkcTJId1dHamdURTczcFU0elg2SFM1QVZrakMxMlFUVGFtN01neWlFb1BXQ1Bvdlk1bFY0YVJfc2EwX0U?oc=5\" target=\"_blank\">Gadis crea 42 empleos con la apertura de un nuevo supermercado en Trobajo y consolida su presencia en León con 450 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
@@ -288,21 +288,21 @@ const window_leads_data = [
     "ubicacion": "Aranjuez"
   },
   {
-    "titulo": "Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés - es.tradingview.com",
+    "titulo": "Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés - TradingView",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGVnVkFzWnQ2ZWEzVEFWWFFtUGQ1ejBuY3FCWGlhbXd2NVRRQlpkaFQxM25sS1BHT3R5dnM3Qy1ENExjQUdJOVI3MGswRWFGZ29selBLZVVHU3dMVGhZc29mWF9KV1RNNEIzcUtDZlZpYnlkV0o4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGVnVkFzWnQ2ZWEzVEFWWFFtUGQ1ejBuY3FCWGlhbXd2NVRRQlpkaFQxM25sS1BHT3R5dnM3Qy1ENExjQUdJOVI3MGswRWFGZ29selBLZVVHU3dMVGhZc29mWF9KV1RNNEIzcUtDZlZpYnlkV0o4?oc=5\" target=\"_blank\">Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGVnVkFzWnQ2ZWEzVEFWWFFtUGQ1ejBuY3FCWGlhbXd2NVRRQlpkaFQxM25sS1BHT3R5dnM3Qy1ENExjQUdJOVI3MGswRWFGZ29selBLZVVHU3dMVGhZc29mWF9KV1RNNEIzcUtDZlZpYnlkV0o4?oc=5\" target=\"_blank\">Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-07T12:59:35Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "interés"
+    "empresa": "TradingView",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "La Junta de Andalucía destina más de 120.000 euros al nuevo centro de formación de Talleres Roldán para impulsar el empleo en Cabra - CabraNoticias",
+    "titulo": "La Junta de Andalucía destina más de 120.000 euros al nuevo centro de formación de Talleres Roldán para impulsar el empleo en Cabra - cabranoticias.com",
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWngxTUFWVk1ILWpJcy11YzVLRldFSjQ3TEt2MnhnRS1IUjFqaW56TWN0U2VOeWt6T2ZlOWx5cTROeFZzTG9TaF9HOEtFUXptRlM4NDlaZ2ZTdU1UOTRZbS1tczZZcTd6b0J5Rk10V0psYV9RU0pSMkdSNjdxODVOaGJWSXU1NXp5VXNtQ21lUlN1NlFPanlZTWJINW1qYWFCYzU0a0VRS2RkX0x5UTAtNUpNdERqWDlrSTF0dUtuXzRMa3IxVkRUalEzN0docmgyYW56eEo1VU11LTUxd1ljaEZTbFRxdU53M0tab1pYM2RYQ1FOY25sQmJyOXo?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWngxTUFWVk1ILWpJcy11YzVLRldFSjQ3TEt2MnhnRS1IUjFqaW56TWN0U2VOeWt6T2ZlOWx5cTROeFZzTG9TaF9HOEtFUXptRlM4NDlaZ2ZTdU1UOTRZbS1tczZZcTd6b0J5Rk10V0psYV9RU0pSMkdSNjdxODVOaGJWSXU1NXp5VXNtQ21lUlN1NlFPanlZTWJINW1qYWFCYzU0a0VRS2RkX0x5UTAtNUpNdERqWDlrSTF0dUtuXzRMa3IxVkRUalEzN0docmgyYW56eEo1VU11LTUxd1ljaEZTbFRxdU53M0tab1pYM2RYQ1FOY25sQmJyOXo?oc=5\" target=\"_blank\">La Junta de Andalucía destina más de 120.000 euros al nuevo centro de formación de Talleres Roldán para impulsar el empleo en Cabra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CabraNoticias</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWngxTUFWVk1ILWpJcy11YzVLRldFSjQ3TEt2MnhnRS1IUjFqaW56TWN0U2VOeWt6T2ZlOWx5cTROeFZzTG9TaF9HOEtFUXptRlM4NDlaZ2ZTdU1UOTRZbS1tczZZcTd6b0J5Rk10V0psYV9RU0pSMkdSNjdxODVOaGJWSXU1NXp5VXNtQ21lUlN1NlFPanlZTWJINW1qYWFCYzU0a0VRS2RkX0x5UTAtNUpNdERqWDlrSTF0dUtuXzRMa3IxVkRUalEzN0docmgyYW56eEo1VU11LTUxd1ljaEZTbFRxdU53M0tab1pYM2RYQ1FOY25sQmJyOXo?oc=5\" target=\"_blank\">La Junta de Andalucía destina más de 120.000 euros al nuevo centro de formación de Talleres Roldán para impulsar el empleo en Cabra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cabranoticias.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-30T11:12:00Z",
@@ -312,9 +312,9 @@ const window_leads_data = [
     "ubicacion": "Cabra"
   },
   {
-    "titulo": "Día Inaugura Nuevo Supermercado en Tembleque: Compromiso con el Empleo y Desarrollo Económico - Herencia.net",
+    "titulo": "Día Inaugura Nuevo Supermercado en Tembleque: Compromiso con el Empleo y Desarrollo Económico - herencia.net",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWRwaHhUdUl2REJPSTBKNDREMnVGTGJIY256TG1yaE5tOEJlaDFNMjk4UU1wNURFbGtfeldSX3dsS0Z1N0gydWhmVWFrNkozVHk3cHFfZnluT2pQOEdsVnJIUkctY1RvZlNZYmE3eU5TWElDV1BESGNJNV9JLTFRN29ReS1QbG53ZHNWS3dDMVZ5WjZ2UHJIWHdONExETjJjRzh0MWF3aXpfb2Rzd05Ia2FMYkVoRGRkTmN2a2RoWWt3aTg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWRwaHhUdUl2REJPSTBKNDREMnVGTGJIY256TG1yaE5tOEJlaDFNMjk4UU1wNURFbGtfeldSX3dsS0Z1N0gydWhmVWFrNkozVHk3cHFfZnluT2pQOEdsVnJIUkctY1RvZlNZYmE3eU5TWElDV1BESGNJNV9JLTFRN29ReS1QbG53ZHNWS3dDMVZ5WjZ2UHJIWHdONExETjJjRzh0MWF3aXpfb2Rzd05Ia2FMYkVoRGRkTmN2a2RoWWt3aTg?oc=5\" target=\"_blank\">Día Inaugura Nuevo Supermercado en Tembleque: Compromiso con el Empleo y Desarrollo Económico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herencia.net</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWRwaHhUdUl2REJPSTBKNDREMnVGTGJIY256TG1yaE5tOEJlaDFNMjk4UU1wNURFbGtfeldSX3dsS0Z1N0gydWhmVWFrNkozVHk3cHFfZnluT2pQOEdsVnJIUkctY1RvZlNZYmE3eU5TWElDV1BESGNJNV9JLTFRN29ReS1QbG53ZHNWS3dDMVZ5WjZ2UHJIWHdONExETjJjRzh0MWF3aXpfb2Rzd05Ia2FMYkVoRGRkTmN2a2RoWWt3aTg?oc=5\" target=\"_blank\">Día Inaugura Nuevo Supermercado en Tembleque: Compromiso con el Empleo y Desarrollo Económico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">herencia.net</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-07-30T11:14:49Z",
@@ -336,28 +336,28 @@ const window_leads_data = [
     "ubicacion": "Plaza Mayor"
   },
   {
-    "titulo": "Plaza Mayor defiende la apertura hasta medianoche como \"una excepción puntual\" de dos días y afirma respetar el derecho a huelga de los trabajadores - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVJ6LVE5NnhoSHNBQkxyMDNMd0VwRVl0UGdwNm1BMU1mMFdLV2xUNkZuN0x3WHZVUE1fdUFJMmZfLUFKcFE1MDFPSFJoN0hySjVtcWtrNmEySUVGeWhESkN2UktOaHpRQ2xxbU5hWkdiVmpUcWhraWYtVVhlQWU0SmdiazJWMHo2NHVWdDhKM2txWWtnVGF2anBPYVpyOElQQVlUWEhzTGc4d9IBrwFBVV95cUxPN2N0TmdQNzhzY3ptcHJqS090OXJ6djdlaHRneUVoUG0tSWtxc3U0ck5kaG42SFRfMzZBR3dTQjV0YVNnVHlIMUhVU21JLW5QTzBjUlVvcVZVNFF2bzZ6WFJ0QlFZTk9reEkydVUzTGhOcDU5Y2gwRFgtSDhyeUx2QTYtdG5ZNTdKSXJuS2lpYWpPY3Y4UkhSbnBzMERJblk2Zl9fUDJ0R2IwYlFPSURj?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVJ6LVE5NnhoSHNBQkxyMDNMd0VwRVl0UGdwNm1BMU1mMFdLV2xUNkZuN0x3WHZVUE1fdUFJMmZfLUFKcFE1MDFPSFJoN0hySjVtcWtrNmEySUVGeWhESkN2UktOaHpRQ2xxbU5hWkdiVmpUcWhraWYtVVhlQWU0SmdiazJWMHo2NHVWdDhKM2txWWtnVGF2anBPYVpyOElQQVlUWEhzTGc4d9IBrwFBVV95cUxPN2N0TmdQNzhzY3ptcHJqS090OXJ6djdlaHRneUVoUG0tSWtxc3U0ck5kaG42SFRfMzZBR3dTQjV0YVNnVHlIMUhVU21JLW5QTzBjUlVvcVZVNFF2bzZ6WFJ0QlFZTk9reEkydVUzTGhOcDU5Y2gwRFgtSDhyeUx2QTYtdG5ZNTdKSXJuS2lpYWpPY3Y4UkhSbnBzMERJblk2Zl9fUDJ0R2IwYlFPSURj?oc=5\" target=\"_blank\">Plaza Mayor defiende la apertura hasta medianoche como \"una excepción puntual\" de dos días y afirma respetar el derecho a huelga de los trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Opinión de Málaga</font>",
+    "titulo": "Elma Saiz inaugura la 69 edición de FIDMA: «Detrás de cada empleo hay oportunidades de futuro para quienes viven y trabajan en esta tierra» - La Voz de Asturias",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT2szczdhS2VPT2R0OERSZTh2NzdVbE4xRFJjRnFaeTRoSkVMS1F6NXoyaXd1Q3NQSE84RWplcVBtbndPdXZTSlRzV09zbTVyX3VESTIwRWxVX3JPV0dtaHU1VnBUQng0VXd2bW1MUXJ6NW1iR2hBNGhVTExHT3hfdll3MzZiVVJ2OGRrQjZrN3hDaWNxS0JxWi12OGxhd0lvbG5mcksxN3FfcUpHY3hKZEotX1hUbXpnZ19HM09aUmVXaGpSZ0NzOU53LVZrcHdkZHJZOVdR0gHyAUFVX3lxTFBnRzVPVkxIUUgzWHlUa1hxZElka3JkZzdPZGdEOWd2cURSTWtlclJOM2k4MzVnSTlFMmRKa0t4cGY5RmVlWldYY24wODZ3cEFIcm5SMUlRcXhHNlFrTDZfUl9CX1AybUlxaEotWi0xd0tjcUJxSnZhR2lyQVVabmlwSlhDVXRRbkNSLVE3TEtSS2ZSbm5ZSHlfVFJwaGo2bnZ6MTVpaDhwbno4ZHJRZWw1ZEdrVGl6eWp3emVjUW9VaWdDcW1kdjlBOTYzdzZONnI0VmFVazJ2TDRYNHdReGVtenQzcC1nWGtmVGlNcDNianV3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT2szczdhS2VPT2R0OERSZTh2NzdVbE4xRFJjRnFaeTRoSkVMS1F6NXoyaXd1Q3NQSE84RWplcVBtbndPdXZTSlRzV09zbTVyX3VESTIwRWxVX3JPV0dtaHU1VnBUQng0VXd2bW1MUXJ6NW1iR2hBNGhVTExHT3hfdll3MzZiVVJ2OGRrQjZrN3hDaWNxS0JxWi12OGxhd0lvbG5mcksxN3FfcUpHY3hKZEotX1hUbXpnZ19HM09aUmVXaGpSZ0NzOU53LVZrcHdkZHJZOVdR0gHyAUFVX3lxTFBnRzVPVkxIUUgzWHlUa1hxZElka3JkZzdPZGdEOWd2cURSTWtlclJOM2k4MzVnSTlFMmRKa0t4cGY5RmVlWldYY24wODZ3cEFIcm5SMUlRcXhHNlFrTDZfUl9CX1AybUlxaEotWi0xd0tjcUJxSnZhR2lyQVVabmlwSlhDVXRRbkNSLVE3TEtSS2ZSbm5ZSHlfVFJwaGo2bnZ6MTVpaDhwbno4ZHJRZWw1ZEdrVGl6eWp3emVjUW9VaWdDcW1kdjlBOTYzdzZONnI0VmFVazJ2TDRYNHdReGVtenQzcC1nWGtmVGlNcDNianV3?oc=5\" target=\"_blank\">Elma Saiz inaugura la 69 edición de FIDMA: «Detrás de cada empleo hay oportunidades de futuro para quienes viven y trabajan en esta tierra»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Asturias</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-28T07:00:00Z",
+    "fecha": "2026-07-31T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Plaza Mayor"
+    "empresa": "Voz de Asturias",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ponte da Barca inaugura el Área Empresarial do Rodo, una apuesta estratégica para atraer inversión y empleo - Diario Luso-Galaico",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUVp5cV9kSXdZbXZsS3gwOVc3M1BuUjVTS3pwYUU0SzBVUXJnWTkzNUpVNGh2b243cnF6Q2pYN3FOR1ZFY0ZYaHdicjNuY3hySVliSjFsd25oU2lnZlU2dDEtLU84Ui1tdm9USjZmTjdUSFg4QU9Za1JqV0VaWllIYzJ2UlhYdFpHN1ByUmMtUHFVZ3pmTGhlbDFsMG5mcmh6YWdnaDB6eG5aYkhDaXFhN3hRVlhaMjlhUHZaMmNNMTVLazNTUS1xSzdkT21LaW5namppYnkwNzMwS1AzTkpmaDRZeTdWcFlFTHBKbWVlcnlLTUxFTE5tZWJmeWlMbDdWWmtDNjM2eDJTeDFq0gGSAkFVX3lxTE9YalltZW9OUmlNN01pZkdpa2ZtNF9LQTZrUjI0aUVfS2ItU1Z3Q19MeVQtUWw1N0t2blFUSkNmRUtLTFRrZTNEUzg5djR2RjZHYmVjUjNwV0VHNV9NMGZ2Q3N1UkhmbWs4TDh6ZV9VbEdnd1dkeUhuOWJGSlVEeEJHczVlVUozQzNXZ1g0VXZTaDhfcTdQUzhZMVRUcFFPVU9zcEtFWmR0VWZTVlhxNDNuYTJQVzRUdDBCcXhVXzZYc0YzS2FXU29feXlrZzVNOHBYdE16M2pzZzRNa2xKbVhWc3N2UGdncndDV3JhNFVVaTliWC1ONVJjamt6ZG9oS1hkOTY1cmgwdy1iOVhqZjN5YXc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUVp5cV9kSXdZbXZsS3gwOVc3M1BuUjVTS3pwYUU0SzBVUXJnWTkzNUpVNGh2b243cnF6Q2pYN3FOR1ZFY0ZYaHdicjNuY3hySVliSjFsd25oU2lnZlU2dDEtLU84Ui1tdm9USjZmTjdUSFg4QU9Za1JqV0VaWllIYzJ2UlhYdFpHN1ByUmMtUHFVZ3pmTGhlbDFsMG5mcmh6YWdnaDB6eG5aYkhDaXFhN3hRVlhaMjlhUHZaMmNNMTVLazNTUS1xSzdkT21LaW5namppYnkwNzMwS1AzTkpmaDRZeTdWcFlFTHBKbWVlcnlLTUxFTE5tZWJmeWlMbDdWWmtDNjM2eDJTeDFq0gGSAkFVX3lxTE9YalltZW9OUmlNN01pZkdpa2ZtNF9LQTZrUjI0aUVfS2ItU1Z3Q19MeVQtUWw1N0t2blFUSkNmRUtLTFRrZTNEUzg5djR2RjZHYmVjUjNwV0VHNV9NMGZ2Q3N1UkhmbWs4TDh6ZV9VbEdnd1dkeUhuOWJGSlVEeEJHczVlVUozQzNXZ1g0VXZTaDhfcTdQUzhZMVRUcFFPVU9zcEtFWmR0VWZTVlhxNDNuYTJQVzRUdDBCcXhVXzZYc0YzS2FXU29feXlrZzVNOHBYdE16M2pzZzRNa2xKbVhWc3N2UGdncndDV3JhNFVVaTliWC1ONVJjamt6ZG9oS1hkOTY1cmgwdy1iOVhqZjN5YXc?oc=5\" target=\"_blank\">Ponte da Barca inaugura el Área Empresarial do Rodo, una apuesta estratégica para atraer inversión y empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Luso-Galaico</font>",
+    "titulo": "Video de sorteo de desempate y apertura de plicas - Ayuntamiento de Madrid",
+    "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOUDRNcFRWenhzNXB6amlNVTBoQ0Y2THJrak1NQW1XZjNDRWxIZ1g2VU45ZDZSUGRJb0ZmaThibWV5YzZXbEpGNnJiWGVTdzRFOUFrTkpTdkF2V3ZPX3VTdHgwUjRzVUgzcXNmd1lMT3o4VDQ2QzQ4bWpfWGdVdjBWLVpXV19HR3RsRGkzaTU3bWtFV3d2ZWFBZEdZU2xWQjhZZnZuem44Q0JEZGFiZF9zZnk5R01iLVJnTUxKclBhNmR1dFU4c05ZZngtZDkwRExVVWJrNHVobi1XUmpvUnV6U19fdUJCM1BlUFRZUFlOR2V2clota3ZYRE1WcWMzYm90U19MdnMwcURPRHZ5ZXM0UWRhVkVqZmZRS3ZOMkhXZ0ZiaE9CSkhkaUd4RDRHUXhYdmg0WnVCTjlZbEpja001NmhmZTFwNkkwOXVXZTNWSGV0eUhUejF6ZHp6Y1VsWGhKUTFvd3JjY1NVRm9HSmhDMzBVOVZOZWNXSVVCMnY0cWNkbU1VaVQ4M09aV2lpenJtVmlXVDh0MGxiSjZkeVQxeDVscElzZzNJNHpDZUtFbTZrNm1fTVZiMnhKNmxLa0x4TjhfdGFVcVBuWmhxck9TYkJ2OEtEbjFlYWtaVWRVVE8xb1hST0wwMmt2YkMzTW5fYlF5YTlIWEdiSWxVSUpGQzJRZGpubmpPRjloWWdKU1I5cXpv?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilARBVV95cUxOUDRNcFRWenhzNXB6amlNVTBoQ0Y2THJrak1NQW1XZjNDRWxIZ1g2VU45ZDZSUGRJb0ZmaThibWV5YzZXbEpGNnJiWGVTdzRFOUFrTkpTdkF2V3ZPX3VTdHgwUjRzVUgzcXNmd1lMT3o4VDQ2QzQ4bWpfWGdVdjBWLVpXV19HR3RsRGkzaTU3bWtFV3d2ZWFBZEdZU2xWQjhZZnZuem44Q0JEZGFiZF9zZnk5R01iLVJnTUxKclBhNmR1dFU4c05ZZngtZDkwRExVVWJrNHVobi1XUmpvUnV6U19fdUJCM1BlUFRZUFlOR2V2clota3ZYRE1WcWMzYm90U19MdnMwcURPRHZ5ZXM0UWRhVkVqZmZRS3ZOMkhXZ0ZiaE9CSkhkaUd4RDRHUXhYdmg0WnVCTjlZbEpja001NmhmZTFwNkkwOXVXZTNWSGV0eUhUejF6ZHp6Y1VsWGhKUTFvd3JjY1NVRm9HSmhDMzBVOVZOZWNXSVVCMnY0cWNkbU1VaVQ4M09aV2lpenJtVmlXVDh0MGxiSjZkeVQxeDVscElzZzNJNHpDZUtFbTZrNm1fTVZiMnhKNmxLa0x4TjhfdGFVcVBuWmhxck9TYkJ2OEtEbjFlYWtaVWRVVE8xb1hST0wwMmt2YkMzTW5fYlF5YTlIWEdiSWxVSUpGQzJRZGpubmpPRjloWWdKU1I5cXpv?oc=5\" target=\"_blank\">Video de sorteo de desempate y apertura de plicas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Madrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-07-29T21:07:36Z",
+    "fecha": "2026-08-02T02:40:42Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Desconocida",
-    "ubicacion": "Ponte da Barca"
+    "ubicacion": "Ayuntamiento de Madrid"
   },
   {
     "titulo": "Munich negocia un ERE para 65 trabajadores de tiendas, el 16% de la plantilla - La Vanguardia",
@@ -394,6 +394,18 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "ERE",
     "ubicacion": "Perfumerías Avenida"
+  },
+  {
+    "titulo": "Los ERE se disparan con Cataluña a la cabeza - Radio Intereconomía",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWRGY3ZxcFFnREZPLVRpcWlDZDh3dUhWR0c4QU5lbkIzSS1XaXZLSmZ4SGhiQXd0QVJmRTE5OXM2NlpPd1dzNHBCdHJOdkctNnZVcUw1eTA3SmdqWThpUGxwNWVOdDVTaU9yTXZqVllOLTZMeVljYjItZXNIZTRfd2dIV0VkeDUtNjYwNWJwWXhpaFVRU2lCUWRncGg4WUZhWTFzNNIBqgFBVV95cUxPbU50aGY2aEY4cHNaX1dPaWxRcno3bUhZeTBkel9uSmd5OU5zOEJLMXAwSVFyaW83aVRWTWh1VFh3SkhKc2lIMktaMXlIejFyT1c3YXNzS0lTN2xRQ19peVhYMEMxZEp0clQ4NXdDeWlKQUVOS29IOXh1bENsQ3hEem5rZHVRVnJ4VDNUUU8tcHJjVVZIWHBBOW1QRjlDc1ZMT0VQUHI1cjRXUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWRGY3ZxcFFnREZPLVRpcWlDZDh3dUhWR0c4QU5lbkIzSS1XaXZLSmZ4SGhiQXd0QVJmRTE5OXM2NlpPd1dzNHBCdHJOdkctNnZVcUw1eTA3SmdqWThpUGxwNWVOdDVTaU9yTXZqVllOLTZMeVljYjItZXNIZTRfd2dIV0VkeDUtNjYwNWJwWXhpaFVRU2lCUWRncGg4WUZhWTFzNNIBqgFBVV95cUxPbU50aGY2aEY4cHNaX1dPaWxRcno3bUhZeTBkel9uSmd5OU5zOEJLMXAwSVFyaW83aVRWTWh1VFh3SkhKc2lIMktaMXlIejFyT1c3YXNzS0lTN2xRQ19peVhYMEMxZEp0clQ4NXdDeWlKQUVOS29IOXh1bENsQ3hEem5rZHVRVnJ4VDNUUU8tcHJjVVZIWHBBOW1QRjlDc1ZMT0VQUHI1cjRXUQ?oc=5\" target=\"_blank\">Los ERE se disparan con Cataluña a la cabeza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Intereconomía</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T08:02:34Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "La plantilla de Arteixo Telecom en As Pontes podría verse abocada a un ERTE: «No lo esperábamos» - La Voz de Galicia",
@@ -461,23 +473,11 @@ const window_leads_data = [
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjVNYTJwTHh0OC05YmNaUGxRNjhJXzFncHBpVVZQc3A2T3N1OUNfZXR6M2l0dXRLbmtQYl91U0VLZ3ZZQzZ0TEJSMld2OWJ0YmUtVGJnSFJqTzFSWmtjV2NBUnFoM0hUeXV6UTF0cVhsYWo0TGFaaTdTMG9xbmU1dndLVVozVmxJWm5SN1YxNGJlZU1CdjJfRE44cGJlUTdWRU5JVnpUTXV5QjZjaDVzdlBNQlLSAboBQVVfeXFMT0pqX05DQWluZ1htRFJTX2JNZXBHenB3RTVaSEdRRUxleC0wXzFIaklCeVZPS1FrV3JQTkpwVVhIVGQ0V3NhSldjVDcwc0hvVWNnaG9aeTJWZFJJaEZrZTROblVQdzU4SGNKU1NYME9LbXRNWC1aUUVyZm1YY1lyRlVNcDhOWkpueG83cExvc2VZYWxndDJBdHNyVDIta3JDc2tlWHlQQnFmNUx1Xy10T3FYMmkwV1dFWkdR?oc=5\" target=\"_blank\">Munich, con tienda en Tarragona, negocia un ERE para despedir a unos 65 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-02T12:03:41Z",
+    "fecha": "2026-08-02T07:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "Desconocida",
     "ubicacion": "Tarragona"
-  },
-  {
-    "titulo": "Sindicato Unión General de Trabajadoras y Trabajadores de España - UGT Madrid",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkdUMkJnX0VPeUsySlVvX052YklSY0FXZ2hKNXhYdmljeU5HQVhKak9JQ2hFU0lSNEFma0JpdWM3RGhqYlM5MHdZanlJYVJLLTVUNmtIcVJHNlpJSWJyckxvcTZTcDhSLWxEWm0yZmJla21NSWlHU3RzT2gxMldBSjBTUXFvejdKblVORjRqWGpiaTF4bkEwZHczT19VNE5h?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkdUMkJnX0VPeUsySlVvX052YklSY0FXZ2hKNXhYdmljeU5HQVhKak9JQ2hFU0lSNEFma0JpdWM3RGhqYlM5MHdZanlJYVJLLTVUNmtIcVJHNlpJSWJyckxvcTZTcDhSLWxEWm0yZmJla21NSWlHU3RzT2gxMldBSjBTUXFvejdKblVORjRqWGpiaTF4bkEwZHczT19VNE5h?oc=5\" target=\"_blank\">Sindicato Unión General de Trabajadoras y Trabajadores de España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT Madrid</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-28T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "Sindicato Unión General",
-    "ubicacion": "Nacional"
   },
   {
     "titulo": "El número de trabajadores afectados por ERE cae un 60,2% en mayo, hasta los 80 - ifomo.es",
@@ -504,12 +504,24 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas - Modaes",
+    "titulo": "Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas - modaes.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFo5Si0wWmE5MzN2U0JQVjhJWExSWVJGNmdpajVZRmE1Q3JfYjk4R1BHcmlraHRFaGljTU5mNzN0Mm5OM29PY18zaTFrb3lSekYyRW5aX2JaQW8yTWFBVmtQcHZaQ2JWU3owdFBJVE94dzUyOTRPSzJWWS1OZUNNdE41ZWVFU1BTV0Fvb0swVnBPNEhQZF9NaDNYckhIOFdNOWc2TXYzbHNYTHBUZTkzTkpCcw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFo5Si0wWmE5MzN2U0JQVjhJWExSWVJGNmdpajVZRmE1Q3JfYjk4R1BHcmlraHRFaGljTU5mNzN0Mm5OM29PY18zaTFrb3lSekYyRW5aX2JaQW8yTWFBVmtQcHZaQ2JWU3owdFBJVE94dzUyOTRPSzJWWS1OZUNNdE41ZWVFU1BTV0Fvb0swVnBPNEhQZF9NaDNYckhIOFdNOWc2TXYzbHNYTHBUZTkzTkpCcw?oc=5\" target=\"_blank\">Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modaes</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFo5Si0wWmE5MzN2U0JQVjhJWExSWVJGNmdpajVZRmE1Q3JfYjk4R1BHcmlraHRFaGljTU5mNzN0Mm5OM29PY18zaTFrb3lSekYyRW5aX2JaQW8yTWFBVmtQcHZaQ2JWU3owdFBJVE94dzUyOTRPSzJWWS1OZUNNdE41ZWVFU1BTV0Fvb0swVnBPNEhQZF9NaDNYckhIOFdNOWc2TXYzbHNYTHBUZTkzTkpCcw?oc=5\" target=\"_blank\">Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">modaes.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-03T09:19:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Los despidos colectivos aumentan un 15,6% hasta mayo y afectan a 16.931 empleados - El Economista",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGR2dnE3S203Tl85LXdfdEtOZTRjUkZxWUl0QklVLThxR0g1NEtlSzBvTnRWY2ZwMW5TMEl2bktxREVPU1dJMDVVTjhfV2Uwcm1IV2JDZktQUGc1V2Y3b3o2ZC04cjA0Zm12N1NkZDBVMFA4VUVuV0U2Mjk1X29KOEJjTl9IbDdqRU1fdXlXN0tVclc3OE0zS1JRbmptZjNmQjREWU9adktkWFpKSks5NGIweGFMMTl5MzJpWTFoWm9MaXJzQ0tWd3kybzNGNjhXOEFMNDZwVzU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGR2dnE3S203Tl85LXdfdEtOZTRjUkZxWUl0QklVLThxR0g1NEtlSzBvTnRWY2ZwMW5TMEl2bktxREVPU1dJMDVVTjhfV2Uwcm1IV2JDZktQUGc1V2Y3b3o2ZC04cjA0Zm12N1NkZDBVMFA4VUVuV0U2Mjk1X29KOEJjTl9IbDdqRU1fdXlXN0tVclc3OE0zS1JRbmptZjNmQjREWU9adktkWFpKSks5NGIweGFMMTl5MzJpWTFoWm9MaXJzQ0tWd3kybzNGNjhXOEFMNDZwVzU?oc=5\" target=\"_blank\">Los despidos colectivos aumentan un 15,6% hasta mayo y afectan a 16.931 empleados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T11:18:58Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "Desconocida",
@@ -526,17 +538,5 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Perfumerías Avenida refinancia toda su deuda con los bancos y sigue negociando un ERE y cierre de tiendas - Salamancahoy",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTBiUmZIY2JTeXZTek4ya1U0aDc5SUtoSzRIYUtrQjVheVd1dVZGS2tNemtWRDB5aXFfQUxoUnpwNFFVMjJCTzlleXpDRkJVb2ZKQ3FqdWZMUFlmS0t3UFNOMjdhejI0R3NXQlNDczlSV1BwQ0trRjlZODVjcEV4Y05hOUFxR1dqYlpXdE5KR3VKUXcxQzJ4RjI1VWE2RVB4bWVHWVdqUWk1dktzd1dmRDhjZVhRZ2NjemlvaV9NM3hqTHhTclJQUWNGWWc0U0Fn0gHWAUFVX3lxTFBHbEFYLVNjSTdFVlVlZW10a3dsNnVySU9UcWdMVXMxcmJhdmcxalpvczUyWmxDWUF4V3pRY0FUQU1HXzdCNzE5anZsUTZFdXNfTG12T2V2RVNRUHlkTF9Hel94N1JFVWlQQXV2RUd3ajhLR2o5YlZ2blRIZW1uR3A4R2ZJQlJUbWhFNWJlTHRMSkx0TUJ2RnNlOHA4T3RtY2J4LUp3ZHVlS3dHTUtqaHVoN1NXS2tyRVRUZ0VfVU54a3hvVjBYMUlIcjI2WC1NRVhISURsN1E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTBiUmZIY2JTeXZTek4ya1U0aDc5SUtoSzRIYUtrQjVheVd1dVZGS2tNemtWRDB5aXFfQUxoUnpwNFFVMjJCTzlleXpDRkJVb2ZKQ3FqdWZMUFlmS0t3UFNOMjdhejI0R3NXQlNDczlSV1BwQ0trRjlZODVjcEV4Y05hOUFxR1dqYlpXdE5KR3VKUXcxQzJ4RjI1VWE2RVB4bWVHWVdqUWk1dktzd1dmRDhjZVhRZ2NjemlvaV9NM3hqTHhTclJQUWNGWWc0U0Fn0gHWAUFVX3lxTFBHbEFYLVNjSTdFVlVlZW10a3dsNnVySU9UcWdMVXMxcmJhdmcxalpvczUyWmxDWUF4V3pRY0FUQU1HXzdCNzE5anZsUTZFdXNfTG12T2V2RVNRUHlkTF9Hel94N1JFVWlQQXV2RUd3ajhLR2o5YlZ2blRIZW1uR3A4R2ZJQlJUbWhFNWJlTHRMSkx0TUJ2RnNlOHA4T3RtY2J4LUp3ZHVlS3dHTUtqaHVoN1NXS2tyRVRUZ0VfVU54a3hvVjBYMUlIcjI2WC1NRVhISURsN1E?oc=5\" target=\"_blank\">Perfumerías Avenida refinancia toda su deuda con los bancos y sigue negociando un ERE y cierre de tiendas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salamancahoy</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-07-29T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Perfumerías Avenida"
   }
 ];
