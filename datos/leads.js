@@ -36,28 +36,28 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 07 de agosto de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPampuc0diR2VwR2NoOWlwQmRJU1lZbHFDT01PQ3A1VmgyaktzNXh4U1ZPWldZaEVFLVM2d1JlMnM1cTdOTDlzS0wxeGI0bDh5OUEzZE9NUy1tTXQ1NVJGczNmRXZuV042OWZtLWpENVlYcXdaNG5Yc1Vkb0RFb3V0dFY1WDJwaGRhUjMwclAyZzc3ZmJGYTJWM0xPNUJVSFVEYjl1RTNkZWtOaXNJNFBGRFcydmZOWEgwb2dVWWFPTHAtaVM0NWFodFdWQWl3NmlwTTl6ZDQwRWNHdWhzMXhVcTdzdlRXTHhP0gHuAUFVX3lxTE43V1oycUVpXy1CZEt4eXAtdE5lSG9UdWcyMGlObmhOeFppWHI2NGo1SnA3MGdwbVlNM094MXY1YW9RZGlIRGVWbTFsemR4d3BQMHJqTmxyazRlX2xmRkZOQVB5TjFsWHI4YWlNVlpzczJlU3lqVTV4aXZRWGNrX3U4RmxOU3BxdlJ3SHBqeXFuT3VNcU5veEpHdHE1ZFQxUDlWQnpDcTVObEdDOEdiUmpqZHJyc3VDSFpPd1BpbnhjN1ZnWW14UGZTRkF5ajlpVXBhZVdpeGVIeWFHdGNLb1V3azlnZGUxd001dE9TRlE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPampuc0diR2VwR2NoOWlwQmRJU1lZbHFDT01PQ3A1VmgyaktzNXh4U1ZPWldZaEVFLVM2d1JlMnM1cTdOTDlzS0wxeGI0bDh5OUEzZE9NUy1tTXQ1NVJGczNmRXZuV042OWZtLWpENVlYcXdaNG5Yc1Vkb0RFb3V0dFY1WDJwaGRhUjMwclAyZzc3ZmJGYTJWM0xPNUJVSFVEYjl1RTNkZWtOaXNJNFBGRFcydmZOWEgwb2dVWWFPTHAtaVM0NWFodFdWQWl3NmlwTTl6ZDQwRWNHdWhzMXhVcTdzdlRXTHhP0gHuAUFVX3lxTE43V1oycUVpXy1CZEt4eXAtdE5lSG9UdWcyMGlObmhOeFppWHI2NGo1SnA3MGdwbVlNM094MXY1YW9RZGlIRGVWbTFsemR4d3BQMHJqTmxyazRlX2xmRkZOQVB5TjFsWHI4YWlNVlpzczJlU3lqVTV4aXZRWGNrX3U4RmxOU3BxdlJ3SHBqeXFuT3VNcU5veEpHdHE1ZFQxUDlWQnpDcTVObEdDOEdiUmpqZHJyc3VDSFpPd1BpbnhjN1ZnWW14UGZTRkF5ajlpVXBhZVdpeGVIeWFHdGNLb1V3azlnZGUxd001dE9TRlE?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 07 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 12 de agosto de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalNVZmpjclVwYWhOQ1plbkptMFZTQWExdFI1Q3lib0FGYVRQRGFrNUg5cGFEU0s1aGtWaXpiTVZQRUc4clZnd1ZfWUl2Nnk5aWZ3blFGaUd0WVlnVlY1ZGlCQks0SW5mOXdDY1BiS0hIZFAteUF0V0Y5eUg5YVBISVVUZE1tbFdSZWJVRzhRSHBpOHpHVGt3OW9nOU5qc2VoeUdYTHFHNzJvcG5jN3RJMWFHeFhVZFZXSTc1SmlxT1ZHbVA2ekItSE55UlJrYXJCbXI3Y254eTV5ZmZicWN5R0pWSlZIVjda0gHuAUFVX3lxTFBPanltOVQ5TUxZZ2I4dExoR2hCSncxT09oNVVEa3lKdk1iU19XWkJOQmtsZGYwNjVNdTVDdkFoeFd5R3F4bWhGdkcwdF9QbTQwbzJ3UnY3aEhhWGtfbVNIWHdfYThUaUF2V1FvMW1hNkdJM05WeTd1QzZQdnUwUl9BcUdxc1pzS2Jqb3RWQlFuMWVtdjJRNVNkQk5qc1RDUl9rdWl6RUJTeDZRTVBGZk0zcHNHQURERGYtYlE0cGdDVi14NVJJMmJaMmtsMG9ha0pueF96WkV6dHpiamRsZlJlSy1SUElSNzhHOHhKNWc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalNVZmpjclVwYWhOQ1plbkptMFZTQWExdFI1Q3lib0FGYVRQRGFrNUg5cGFEU0s1aGtWaXpiTVZQRUc4clZnd1ZfWUl2Nnk5aWZ3blFGaUd0WVlnVlY1ZGlCQks0SW5mOXdDY1BiS0hIZFAteUF0V0Y5eUg5YVBISVVUZE1tbFdSZWJVRzhRSHBpOHpHVGt3OW9nOU5qc2VoeUdYTHFHNzJvcG5jN3RJMWFHeFhVZFZXSTc1SmlxT1ZHbVA2ekItSE55UlJrYXJCbXI3Y254eTV5ZmZicWN5R0pWSlZIVjda0gHuAUFVX3lxTFBPanltOVQ5TUxZZ2I4dExoR2hCSncxT09oNVVEa3lKdk1iU19XWkJOQmtsZGYwNjVNdTVDdkFoeFd5R3F4bWhGdkcwdF9QbTQwbzJ3UnY3aEhhWGtfbVNIWHdfYThUaUF2V1FvMW1hNkdJM05WeTd1QzZQdnUwUl9BcUdxc1pzS2Jqb3RWQlFuMWVtdjJRNVNkQk5qc1RDUl9rdWl6RUJTeDZRTVBGZk0zcHNHQURERGYtYlE0cGdDVi14NVJJMmJaMmtsMG9ha0pueF96WkV6dHpiamRsZlJlSy1SUElSNzhHOHhKNWc?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 12 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-07T07:00:00Z",
+    "fecha": "2026-08-12T10:13:03Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
     "ubicacion": "Comunidad de Madrid"
   },
   {
-    "titulo": "Consumo casi duplica en un año las denuncias recibidas por posibles fraudes en las contrataciones turísticas por Internet - CARM.es",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFibEc5RkQtSzFtVFFJdlN0MEpSMXRxX1dLc1lqRFYyOUVjbW55UzBrWkNVRjZoYzRXN1ZVY0RvbmxMM0xENU54eEZqc19WTDFKVlp6azNwWnRyQkZFaUZDS2tCUEJHWVRjSXBZMC1GNzV3YWdzUWdROGk4VWhlXw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFibEc5RkQtSzFtVFFJdlN0MEpSMXRxX1dLc1lqRFYyOUVjbW55UzBrWkNVRjZoYzRXN1ZVY0RvbmxMM0xENU54eEZqc19WTDFKVlp6azNwWnRyQkZFaUZDS2tCUEJHWVRjSXBZMC1GNzV3YWdzUWdROGk4VWhlXw?oc=5\" target=\"_blank\">Consumo casi duplica en un año las denuncias recibidas por posibles fraudes en las contrataciones turísticas por Internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CARM.es</font>",
+    "titulo": "El Ayuntamiento de Utrera activa 47 contrataciones del PFEA para septiembre - www.utreraweb.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnU4bFF1cVJibGIwbkZwLThtY0dVSC1MRU9wOXh0bUkwTTNOS3AyZXh1c3V3NGp0S3JOQjlPZFRtTnRmczJ1WTFncUhwQWw3SkUwQVpSVU4yTzM5NnhLNDJGVFhtZm1ac1lQdnBLN2dQODV6bkM4UkxtZXZQZVF4dGxkaWVwZGdxNnZFYU51TmRjeXdTdlJkYXczWEpfNGNCakFtcmVLWkUzRTVRbTBCcTNnREg2RjE2VjdnbUEybXVuRngyS2t0YVhYSklJcnNNaDdSaA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnU4bFF1cVJibGIwbkZwLThtY0dVSC1MRU9wOXh0bUkwTTNOS3AyZXh1c3V3NGp0S3JOQjlPZFRtTnRmczJ1WTFncUhwQWw3SkUwQVpSVU4yTzM5NnhLNDJGVFhtZm1ac1lQdnBLN2dQODV6bkM4UkxtZXZQZVF4dGxkaWVwZGdxNnZFYU51TmRjeXdTdlJkYXczWEpfNGNCakFtcmVLWkUzRTVRbTBCcTNnREg2RjE2VjdnbUEybXVuRngyS2t0YVhYSklJcnNNaDdSaA?oc=5\" target=\"_blank\">El Ayuntamiento de Utrera activa 47 contrataciones del PFEA para septiembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.utreraweb.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-14T08:58:55Z",
+    "fecha": "2026-08-17T06:58:22Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "Nacional"
+    "ubicacion": "Ayuntamiento de Utrera"
   },
   {
     "titulo": "OFERTA EMPLEO | Convocadas varias ofertas de empleo en la categoría de TCE en diferentes localidades. - Sindicato Nacional de Técnicos Superiores Sanitarios",
@@ -72,9 +72,9 @@ const window_leads_data = [
     "ubicacion": "Sindicato Nacional de Técnicos Superiores Sanitarios"
   },
   {
-    "titulo": "El Hospital Virgen del Rocío pone nuevas ofertas de empleo para agosto: solo hay que tener la FP y menos de 30 años - abc.es",
+    "titulo": "El Hospital Virgen del Rocío pone nuevas ofertas de empleo para agosto: solo hay que tener la FP y menos de 30 años - ABC",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG5pNUd5aHkxblRYVFpwZF9uVmpIOWFIX0VVbUg4YkFvU29aTkZDNHNrM3pMX0hTT0d5MHlHWmg5YXZjRFJOZEZZbmp1dEhvcEN5Y0laX0U5b2NWVW8wMmFpbTd3SkhDYVhsTUtvN1NFZ3l6ZU1kTDcxWjlDZmRpWVN2V1gwRFdVWjNVVWhHRXNhRV9wM1hnZDR1b0FPM2cxcmdXU0RoS3hjQdIBrwFBVV95cUxQN1pGOWRWR2pSdmdDU0dQcUhJakJYX1poWlhzZWdsYUR2UnF2N3VJM0pBZ0lGOENRcEFxT1FoREVaelRuT0ZJYjE5YVRNd3Q1WVUyVlJtcDc3Q21BY1RFbG1zRmsxT1dMVFc0MWkwaUpPRndwMlVtajRSUXpLbnYyMTR2RzJBX0V3UTV1QkNMRWl5RjVDTWxMcGF3TkFHWEZrQnROUjBpeEt1TFNMWmZV?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG5pNUd5aHkxblRYVFpwZF9uVmpIOWFIX0VVbUg4YkFvU29aTkZDNHNrM3pMX0hTT0d5MHlHWmg5YXZjRFJOZEZZbmp1dEhvcEN5Y0laX0U5b2NWVW8wMmFpbTd3SkhDYVhsTUtvN1NFZ3l6ZU1kTDcxWjlDZmRpWVN2V1gwRFdVWjNVVWhHRXNhRV9wM1hnZDR1b0FPM2cxcmdXU0RoS3hjQdIBrwFBVV95cUxQN1pGOWRWR2pSdmdDU0dQcUhJakJYX1poWlhzZWdsYUR2UnF2N3VJM0pBZ0lGOENRcEFxT1FoREVaelRuT0ZJYjE5YVRNd3Q1WVUyVlJtcDc3Q21BY1RFbG1zRmsxT1dMVFc0MWkwaUpPRndwMlVtajRSUXpLbnYyMTR2RzJBX0V3UTV1QkNMRWl5RjVDTWxMcGF3TkFHWEZrQnROUjBpeEt1TFNMWmZV?oc=5\" target=\"_blank\">El Hospital Virgen del Rocío pone nuevas ofertas de empleo para agosto: solo hay que tener la FP y menos de 30 años</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG5pNUd5aHkxblRYVFpwZF9uVmpIOWFIX0VVbUg4YkFvU29aTkZDNHNrM3pMX0hTT0d5MHlHWmg5YXZjRFJOZEZZbmp1dEhvcEN5Y0laX0U5b2NWVW8wMmFpbTd3SkhDYVhsTUtvN1NFZ3l6ZU1kTDcxWjlDZmRpWVN2V1gwRFdVWjNVVWhHRXNhRV9wM1hnZDR1b0FPM2cxcmdXU0RoS3hjQdIBrwFBVV95cUxQN1pGOWRWR2pSdmdDU0dQcUhJakJYX1poWlhzZWdsYUR2UnF2N3VJM0pBZ0lGOENRcEFxT1FoREVaelRuT0ZJYjE5YVRNd3Q1WVUyVlJtcDc3Q21BY1RFbG1zRmsxT1dMVFc0MWkwaUpPRndwMlVtajRSUXpLbnYyMTR2RzJBX0V3UTV1QkNMRWl5RjVDTWxMcGF3TkFHWEZrQnROUjBpeEt1TFNMWmZV?oc=5\" target=\"_blank\">El Hospital Virgen del Rocío pone nuevas ofertas de empleo para agosto: solo hay que tener la FP y menos de 30 años</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-16T09:49:39Z",
@@ -96,21 +96,9 @@ const window_leads_data = [
     "ubicacion": "Feria de Málaga"
   },
   {
-    "titulo": "'Desaparecen' del Portal de Contrataciones las infografías del proyecto del entorno de La Antigua - EL DECANO DE GUADALAJARA",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi15eUxMWkpQejdpN3ZRcFh3aVBGM05sUnoxTEVrZ3Z1OFZLazZISnFBUzhmajRSa1MwcWpfekFlODhVcjY0WThWazlQREoyVXUtRlFhcnpWcnBXbGxpWUtjaURiZDdhT1c2UnpsVHExa2hhS09tb0JrajBsWG0xN1R6bS1PX1lyeTRrUzVJM1N5dHFSakE2bldFc1lOWmE5dVcyLUFST2hybVlWbTJWOFpXMXY3TllybG9tU3EyTVRyS2g1RUs2VVR0cXJJYkt1YmhKN0xVcUVERGcwZVN2WVdRZENYOEIyR0puSw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi15eUxMWkpQejdpN3ZRcFh3aVBGM05sUnoxTEVrZ3Z1OFZLazZISnFBUzhmajRSa1MwcWpfekFlODhVcjY0WThWazlQREoyVXUtRlFhcnpWcnBXbGxpWUtjaURiZDdhT1c2UnpsVHExa2hhS09tb0JrajBsWG0xN1R6bS1PX1lyeTRrUzVJM1N5dHFSakE2bldFc1lOWmE5dVcyLUFST2hybVlWbTJWOFpXMXY3TllybG9tU3EyTVRyS2g1RUs2VVR0cXJJYkt1YmhKN0xVcUVERGcwZVN2WVdRZENYOEIyR0puSw?oc=5\" target=\"_blank\">'Desaparecen' del Portal de Contrataciones las infografías del proyecto del entorno de La Antigua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL DECANO DE GUADALAJARA</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-06T23:33:03Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "La Antigua"
-  },
-  {
-    "titulo": "Monegros Empresarial crea un canal de WhatsApp para difundir las ofertas de empleo - desdemonegros.com",
+    "titulo": "Monegros Empresarial crea un canal de WhatsApp para difundir las ofertas de empleo - Desdemonegros",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXpxa2JuRndWSTU5NnBtZnRLaTdoNG9JeGtZZWFob0t1NWM4X0dYRlEwTHZSLXpQNGNKb2hiYkF4Nml4ejZiZW5wVWQwWHg1YTRHOExaMWpULXo5YVRJY2MxZWZSRGM2Qk9xS0RPc3BVTXl5dXVvVG1NSDBHWUV0Y0E0dEVJM1pkaGJjS3NvQzgzLXhxcF9BQThaQzlHWXM3SE5qMTNvaWlZZDZ2cFZOUmFJMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXpxa2JuRndWSTU5NnBtZnRLaTdoNG9JeGtZZWFob0t1NWM4X0dYRlEwTHZSLXpQNGNKb2hiYkF4Nml4ejZiZW5wVWQwWHg1YTRHOExaMWpULXo5YVRJY2MxZWZSRGM2Qk9xS0RPc3BVTXl5dXVvVG1NSDBHWUV0Y0E0dEVJM1pkaGJjS3NvQzgzLXhxcF9BQThaQzlHWXM3SE5qMTNvaWlZZDZ2cFZOUmFJMA?oc=5\" target=\"_blank\">Monegros Empresarial crea un canal de WhatsApp para difundir las ofertas de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">desdemonegros.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXpxa2JuRndWSTU5NnBtZnRLaTdoNG9JeGtZZWFob0t1NWM4X0dYRlEwTHZSLXpQNGNKb2hiYkF4Nml4ejZiZW5wVWQwWHg1YTRHOExaMWpULXo5YVRJY2MxZWZSRGM2Qk9xS0RPc3BVTXl5dXVvVG1NSDBHWUV0Y0E0dEVJM1pkaGJjS3NvQzgzLXhxcF9BQThaQzlHWXM3SE5qMTNvaWlZZDZ2cFZOUmFJMA?oc=5\" target=\"_blank\">Monegros Empresarial crea un canal de WhatsApp para difundir las ofertas de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Desdemonegros</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-10T08:31:00Z",
@@ -118,6 +106,18 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Desconocida",
     "ubicacion": "Monegros Empresarial"
+  },
+  {
+    "titulo": "Echedey Eugenio defiende la legalidad de las contrataciones municipales en Arrecife - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVBvdUpZcDlxLWFoZ3k1dXZWMHE5ZjBwTEpUaVpDT0pOVzN2b2oyVWhxUU5WXzZXcnhBdzJLUnc1ZnRoRjROaXgycUhsU3Z5NEJ6Y3JGcmR1Sm1rdmVQcWtwYk9GdWNGM2tqTnprRE1RVVdEVlhMMGNmZDQ1aTczdW5MM3RFdER2bnd0dkJJbUhCa3ZaajFaMlRyVkFzU3lOWkNybURob285UTlELTltbjdRQUI1ZjB5d2FYY1hJSUhxaTBVenc4QmtkR2J6dTV0UzdRZEhuONIB6wFBVV95cUxOVXYxV2pGQ090eTJnekNBSERBc2txOVdZYkVHTjZ4VG9NR0hGVmdEUGNqN1Y1UzFKU3JDOVhHX25lWFIyVXE5Q05Ja2d5TXF1TUN0WTNQN0NxSnQ5TGZRd1FQYlJjT3JkbnNxTTd4ZGJCQUR2UVJHVHBTalBmQTI0WWZDdnBjRlVydjRhTDJxbWV0bGxxQXB3S0E1YmFEZU5ySUN4dElnV2RMVXVSX0ExZnV4RUJMbTBwdUNYWmtMTHM5blBnUnZ4bGVvYWZFRVhTelMyelRDVkd6Q3lTZUFzUThWSldNeWRLbU1F?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVBvdUpZcDlxLWFoZ3k1dXZWMHE5ZjBwTEpUaVpDT0pOVzN2b2oyVWhxUU5WXzZXcnhBdzJLUnc1ZnRoRjROaXgycUhsU3Z5NEJ6Y3JGcmR1Sm1rdmVQcWtwYk9GdWNGM2tqTnprRE1RVVdEVlhMMGNmZDQ1aTczdW5MM3RFdER2bnd0dkJJbUhCa3ZaajFaMlRyVkFzU3lOWkNybURob285UTlELTltbjdRQUI1ZjB5d2FYY1hJSUhxaTBVenc4QmtkR2J6dTV0UzdRZEhuONIB6wFBVV95cUxOVXYxV2pGQ090eTJnekNBSERBc2txOVdZYkVHTjZ4VG9NR0hGVmdEUGNqN1Y1UzFKU3JDOVhHX25lWFIyVXE5Q05Ja2d5TXF1TUN0WTNQN0NxSnQ5TGZRd1FQYlJjT3JkbnNxTTd4ZGJCQUR2UVJHVHBTalBmQTI0WWZDdnBjRlVydjRhTDJxbWV0bGxxQXB3S0E1YmFEZU5ySUN4dElnV2RMVXVSX0ExZnV4RUJMbTBwdUNYWmtMTHM5blBnUnZ4bGVvYWZFRVhTelMyelRDVkd6Q3lTZUFzUThWSldNeWRLbU1F?oc=5\" target=\"_blank\">Echedey Eugenio defiende la legalidad de las contrataciones municipales en Arrecife</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T11:00:09Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Cadena SER",
+    "ubicacion": "Arrecife"
   },
   {
     "titulo": "La Fundación \"la Caixa\" facilita 105 contrataciones de jóvenes en Huelva durante el primer semestre - Huelva Información",
@@ -132,6 +132,30 @@ const window_leads_data = [
     "ubicacion": "Fundación"
   },
   {
+    "titulo": "El Grupo Adecco diseña una herramienta de IA que recomienda ofertas de empleo a partir del currículum - Castilla y León Económica",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmUyVVhqYWsyMl9vdEVMbHc1WWJCcXp2UDVWVF9BTDlLVXo2ZG83REF3RGJySUtTYTBRdnpuU1htUzk2Nlc0RmVydUtGRHlVLXE2Ri1UR2o3LUxwVG9lUmNpLXk4Y3paODVkUWVMYUMxZXBka19EYzBlNzYzUmJIa0Z6TG1oSFBINjRCMWwyanlaRzJxMnNNSA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmUyVVhqYWsyMl9vdEVMbHc1WWJCcXp2UDVWVF9BTDlLVXo2ZG83REF3RGJySUtTYTBRdnpuU1htUzk2Nlc0RmVydUtGRHlVLXE2Ri1UR2o3LUxwVG9lUmNpLXk4Y3paODVkUWVMYUMxZXBka19EYzBlNzYzUmJIa0Z6TG1oSFBINjRCMWwyanlaRzJxMnNNSA?oc=5\" target=\"_blank\">El Grupo Adecco diseña una herramienta de IA que recomienda ofertas de empleo a partir del currículum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castilla y León Económica</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-14T07:00:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Grupo Adecco",
+    "ubicacion": "currículum"
+  },
+  {
+    "titulo": "El Consistorio lleva a cabo contrataciones de 56 personas con el Programa de Colaboración Económica Municipal de Empleo - HOY Trujillo",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1A0SVZtZ2JwMEwyc0t0UzRxR1Jxa1g5XzZJYm15Y1JabWp5TndPdFJvdTF3MUs2VmZEU2tWUlZMUlBZOUlReHRYeFU5ZjU4TjFxX0NLWnZKM0Y3dzlRNFc1ZUxUY3JKRmVZVW9POG11ek9fOXNUbm1RUDRtRF9QQk0yc0tMX0JlZzh4NHlJeEk3VVdVMkYzdWd2ZWpCU204b0VqVGdxY01oaFQtMDQ0dXlya2lCQdIBuwFBVV95cUxQS2JNdWV1ZWlzZWpyMnlwejlRU1hDLU9fR0pMamtDd1hKZUZhY1cxaFNZcDhvbnY1ZEwxU3NLdVdYTmM3NEwxZGE5clAyYUlJbHVDOW5DSzVPeE9ZZVZuLWVDTm5FVEVHRGhoa0xqWmRFN2ItRTBjTG9vZVA5Z2lsZ1BVSUxkT21BczNQTXY2eF84ZEhMcnkyejlFV1R3Nm5QRm5EdkdyeWZUSE9VTmlLY3pTTTlTSVI3dW1r?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1A0SVZtZ2JwMEwyc0t0UzRxR1Jxa1g5XzZJYm15Y1JabWp5TndPdFJvdTF3MUs2VmZEU2tWUlZMUlBZOUlReHRYeFU5ZjU4TjFxX0NLWnZKM0Y3dzlRNFc1ZUxUY3JKRmVZVW9POG11ek9fOXNUbm1RUDRtRF9QQk0yc0tMX0JlZzh4NHlJeEk3VVdVMkYzdWd2ZWpCU204b0VqVGdxY01oaFQtMDQ0dXlya2lCQdIBuwFBVV95cUxQS2JNdWV1ZWlzZWpyMnlwejlRU1hDLU9fR0pMamtDd1hKZUZhY1cxaFNZcDhvbnY1ZEwxU3NLdVdYTmM3NEwxZGE5clAyYUlJbHVDOW5DSzVPeE9ZZVZuLWVDTm5FVEVHRGhoa0xqWmRFN2ItRTBjTG9vZVA5Z2lsZ1BVSUxkT21BczNQTXY2eF84ZEhMcnkyejlFV1R3Nm5QRm5EdkdyeWZUSE9VTmlLY3pTTTlTSVI3dW1r?oc=5\" target=\"_blank\">El Consistorio lleva a cabo contrataciones de 56 personas con el Programa de Colaboración Económica Municipal de Empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOY Trujillo</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-17T06:00:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "Cuatro de cada diez ofertas de empleo de Lanbide en julio se registraron en Gipuzkoa - El Diario Vasco",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmVZMDJCa1FMNWRpN20tOVprbzE3ekJaRUNLaDl6WFVDMDZEZGFUekpQeERNbk9GcEtrVmhUNXNJeXhlaFZVcG5ZdEYzWTMyY0ZtOVZreXRlNHFpd21Bd3NmbHhKSURzWnpJWFdObXh6UEpNWVNnZEl1bmtVdEdoSlFmTi1xRl9Fai1EVGVsMHlRcEpVMjlCYmQxX2c1cHFGR05WOUtSbW1sUXRxNV82cjV6ZWZTYnPSAbwBQVVfeXFMTnJ2WkNxeVl5a3FQSzBGWnh5SF91dUR1MDhvWWtJLWlVcWRsaWMzdG0yWVpPZkpfdDY0cWlQeS1DbTJJaGs1eWFGLUpwWkZ5Z3FXYVhfQXdOTGNQRkx0eHVRdHg1cE5oWkQ0eUxhOFpOU3cxdThpUktIeTdGVHg4SDF2VDBHZzdPam96TUV2anpkQzZjTmhSYS1vMXpteHcxSVVRUnVYZG5DR3BlQ3Q1UjRzSGZ3T09kQmFVR24?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmVZMDJCa1FMNWRpN20tOVprbzE3ekJaRUNLaDl6WFVDMDZEZGFUekpQeERNbk9GcEtrVmhUNXNJeXhlaFZVcG5ZdEYzWTMyY0ZtOVZreXRlNHFpd21Bd3NmbHhKSURzWnpJWFdObXh6UEpNWVNnZEl1bmtVdEdoSlFmTi1xRl9Fai1EVGVsMHlRcEpVMjlCYmQxX2c1cHFGR05WOUtSbW1sUXRxNV82cjV6ZWZTYnPSAbwBQVVfeXFMTnJ2WkNxeVl5a3FQSzBGWnh5SF91dUR1MDhvWWtJLWlVcWRsaWMzdG0yWVpPZkpfdDY0cWlQeS1DbTJJaGs1eWFGLUpwWkZ5Z3FXYVhfQXdOTGNQRkx0eHVRdHg1cE5oWkQ0eUxhOFpOU3cxdThpUktIeTdGVHg4SDF2VDBHZzdPam96TUV2anpkQzZjTmhSYS1vMXpteHcxSVVRUnVYZG5DR3BlQ3Q1UjRzSGZ3T09kQmFVR24?oc=5\" target=\"_blank\">Cuatro de cada diez ofertas de empleo de Lanbide en julio se registraron en Gipuzkoa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario Vasco</font>",
@@ -144,18 +168,6 @@ const window_leads_data = [
     "ubicacion": "Gipuzkoa"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 12 de agosto de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalNVZmpjclVwYWhOQ1plbkptMFZTQWExdFI1Q3lib0FGYVRQRGFrNUg5cGFEU0s1aGtWaXpiTVZQRUc4clZnd1ZfWUl2Nnk5aWZ3blFGaUd0WVlnVlY1ZGlCQks0SW5mOXdDY1BiS0hIZFAteUF0V0Y5eUg5YVBISVVUZE1tbFdSZWJVRzhRSHBpOHpHVGt3OW9nOU5qc2VoeUdYTHFHNzJvcG5jN3RJMWFHeFhVZFZXSTc1SmlxT1ZHbVA2ekItSE55UlJrYXJCbXI3Y254eTV5ZmZicWN5R0pWSlZIVjda0gHuAUFVX3lxTFBPanltOVQ5TUxZZ2I4dExoR2hCSncxT09oNVVEa3lKdk1iU19XWkJOQmtsZGYwNjVNdTVDdkFoeFd5R3F4bWhGdkcwdF9QbTQwbzJ3UnY3aEhhWGtfbVNIWHdfYThUaUF2V1FvMW1hNkdJM05WeTd1QzZQdnUwUl9BcUdxc1pzS2Jqb3RWQlFuMWVtdjJRNVNkQk5qc1RDUl9rdWl6RUJTeDZRTVBGZk0zcHNHQURERGYtYlE0cGdDVi14NVJJMmJaMmtsMG9ha0pueF96WkV6dHpiamRsZlJlSy1SUElSNzhHOHhKNWc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalNVZmpjclVwYWhOQ1plbkptMFZTQWExdFI1Q3lib0FGYVRQRGFrNUg5cGFEU0s1aGtWaXpiTVZQRUc4clZnd1ZfWUl2Nnk5aWZ3blFGaUd0WVlnVlY1ZGlCQks0SW5mOXdDY1BiS0hIZFAteUF0V0Y5eUg5YVBISVVUZE1tbFdSZWJVRzhRSHBpOHpHVGt3OW9nOU5qc2VoeUdYTHFHNzJvcG5jN3RJMWFHeFhVZFZXSTc1SmlxT1ZHbVA2ekItSE55UlJrYXJCbXI3Y254eTV5ZmZicWN5R0pWSlZIVjda0gHuAUFVX3lxTFBPanltOVQ5TUxZZ2I4dExoR2hCSncxT09oNVVEa3lKdk1iU19XWkJOQmtsZGYwNjVNdTVDdkFoeFd5R3F4bWhGdkcwdF9QbTQwbzJ3UnY3aEhhWGtfbVNIWHdfYThUaUF2V1FvMW1hNkdJM05WeTd1QzZQdnUwUl9BcUdxc1pzS2Jqb3RWQlFuMWVtdjJRNVNkQk5qc1RDUl9rdWl6RUJTeDZRTVBGZk0zcHNHQURERGYtYlE0cGdDVi14NVJJMmJaMmtsMG9ha0pueF96WkV6dHpiamRsZlJlSy1SUElSNzhHOHhKNWc?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 12 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-12T10:13:03Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Telemadrid",
-    "ubicacion": "Comunidad de Madrid"
-  },
-  {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 10 de agosto de 2026 - Telemadrid",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXBsd3FRTEJXeVNiWlNYb1FURVZPU0doeVA3X3p0b2VCQzh2cEdyU3hETEo4NmJqakdpNW9iakZFa3c0TVJEZ1pWcmljTzhvRC1LR0FrQ0J5aVFtUlpzYTF0eTFQeE1LeWpydjBPMm52RDdvVnJtVlFlT0VKeWZKLU5Qa0c2elNnVlNra09XUG9FNV8zLUNVSEhJVk1ja1dMOVJFV01hOGZLeC1sMjhmS090ak5zaHl2UmtJakVXXzQwY0VlcUV4NW5DTXJURHRBNVhyZGFmN2ZRRkt2Uno0bUhGZVhrYy1R0gHuAUFVX3lxTFBidGpOSzhoOWR3YTBQZEZZXzBDZU5xYTBBWEZ3eDVHRC0ybUdYS0ZOR0hvWTc5d3NOOVZQUVNJNmRFSWp3Q0dEZ3ZiNjZKeWRLSVRWZDA4ZTg3NDU2dWZFdGxyTWlpN0dkNzA0S2hWRDhnWG5SYkJXMlg1Rmw1UXFnbnNYQTBfZ0Z0NTFGVWtpVkx6QUFPaWRLc2FuR1ZNTnlpeHZuUWpGUkFraDBPWUxVcEdVWWtXRG5DQlBBQzFpaU5nVXVKc2gwUHVseEo4NEgyUl9MeDBlWHR5ZTFpUG9hTW5MZlBJMVV2b2JvdXc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXBsd3FRTEJXeVNiWlNYb1FURVZPU0doeVA3X3p0b2VCQzh2cEdyU3hETEo4NmJqakdpNW9iakZFa3c0TVJEZ1pWcmljTzhvRC1LR0FrQ0J5aVFtUlpzYTF0eTFQeE1LeWpydjBPMm52RDdvVnJtVlFlT0VKeWZKLU5Qa0c2elNnVlNra09XUG9FNV8zLUNVSEhJVk1ja1dMOVJFV01hOGZLeC1sMjhmS090ak5zaHl2UmtJakVXXzQwY0VlcUV4NW5DTXJURHRBNVhyZGFmN2ZRRkt2Uno0bUhGZVhrYy1R0gHuAUFVX3lxTFBidGpOSzhoOWR3YTBQZEZZXzBDZU5xYTBBWEZ3eDVHRC0ybUdYS0ZOR0hvWTc5d3NOOVZQUVNJNmRFSWp3Q0dEZ3ZiNjZKeWRLSVRWZDA4ZTg3NDU2dWZFdGxyTWlpN0dkNzA0S2hWRDhnWG5SYkJXMlg1Rmw1UXFnbnNYQTBfZ0Z0NTFGVWtpVkx6QUFPaWRLc2FuR1ZNTnlpeHZuUWpGUkFraDBPWUxVcEdVWWtXRG5DQlBBQzFpaU5nVXVKc2gwUHVseEo4NEgyUl9MeDBlWHR5ZTFpUG9hTW5MZlBJMVV2b2JvdXc?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 10 de agosto de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
@@ -166,18 +178,6 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
     "ubicacion": "Comunidad de Madrid"
-  },
-  {
-    "titulo": "Ofertas de empleo de Madrid Trabaja 08.08.2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmpzdG1lTWtUXzdjSDcxVnMzM1o1SnZtQTJlNzBzZUVRNmQ0blMyRnJBVm5HQXdoOEVUWFFTWGpJa2cyazhfTm9ndGFmSXI3VlpucXhNR3g0R04xQ0pOX3NrNmdGV00xU2VZSGFiODdnREF4dXRxZmZmNVl6aE56QUNWc012SEhkNC1rcWVsVnBHOGRoVmg1cWN6VUVRdVFRX1NkRGpBVFpScUtrSjhpaEJrWU9XaEFsM0RCOVg3QTRlZ0dxSTUwbtIBzgFBVV95cUxQTXFFZDJuLS1DbTVnbGowYkN0algxMGplS3g3ZXRjc0p5bnVjSEtleDJrdjlpeDU2em1jQm9sOWNTeWJuZG1QbFZfWXp0cmw0bEZIU3hEai14SUNjT2x6cTQ0dTBqdTVLdkhySlhUblRSUE1kWUNMdTdnNXZPV0VNakd0alBuQVl6TVAydWNZdXR6YXlQWjBma2pyMnZob3BWUmZEWm5aVVFhS3Zrc0J0a2pRendETHU2cnZhbVE1bFBoUUUxek85QXNBMU41Zw?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 08.08.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-08T07:00:00Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Telemadrid",
-    "ubicacion": "Nacional"
   },
   {
     "titulo": "Trabajadores se movilizan en Vigo contra la apertura comercial los domingos - Faro de Vigo",
@@ -240,9 +240,9 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 millones y crear 12 nuevos empleos - www.diariodelpuerto.com",
+    "titulo": "Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 millones y crear 12 nuevos empleos - diariodelpuerto.com",
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXF5QTZ2Wmt2ck5nNUE3RHRtdnU5dzJwczJneGQ3X2FCeUcyWW5RTFlzM3MwNmVkZ1BNREE2Y3NKdXNlTllzeDBidGdwdkhuempudm5QVmkxYnBoRGRhSkNOQzNlZHUtVG9RUGhfZHA3Q19LcXlvbFk1T1hGMmg1Q19xRzk5eDk2VlU5Nm42Q2FOYmNuaGwweWlWTU0xSEtSaEtuUXc0UHFkX01SYk94OVBIMVB3cXpsenNIM0x4TW5hWlpjVEstYmxGbDNzUTR6UTcxOGZGMmEyak03aGxCak1JdV95UHNQRW5lTk82SQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXF5QTZ2Wmt2ck5nNUE3RHRtdnU5dzJwczJneGQ3X2FCeUcyWW5RTFlzM3MwNmVkZ1BNREE2Y3NKdXNlTllzeDBidGdwdkhuempudm5QVmkxYnBoRGRhSkNOQzNlZHUtVG9RUGhfZHA3Q19LcXlvbFk1T1hGMmg1Q19xRzk5eDk2VlU5Nm42Q2FOYmNuaGwweWlWTU0xSEtSaEtuUXc0UHFkX01SYk94OVBIMVB3cXpsenNIM0x4TW5hWlpjVEstYmxGbDNzUTR6UTcxOGZGMmEyak03aGxCak1JdV95UHNQRW5lTk82SQ?oc=5\" target=\"_blank\">Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 millones y crear 12 nuevos empleos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.diariodelpuerto.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXF5QTZ2Wmt2ck5nNUE3RHRtdnU5dzJwczJneGQ3X2FCeUcyWW5RTFlzM3MwNmVkZ1BNREE2Y3NKdXNlTllzeDBidGdwdkhuempudm5QVmkxYnBoRGRhSkNOQzNlZHUtVG9RUGhfZHA3Q19LcXlvbFk1T1hGMmg1Q19xRzk5eDk2VlU5Nm42Q2FOYmNuaGwweWlWTU0xSEtSaEtuUXc0UHFkX01SYk94OVBIMVB3cXpsenNIM0x4TW5hWlpjVEstYmxGbDNzUTR6UTcxOGZGMmEyak03aGxCak1JdV95UHNQRW5lTk82SQ?oc=5\" target=\"_blank\">Lidl inaugura en Sant Joan d’Alacant una nueva tienda tras invertir 5,7 millones y crear 12 nuevos empleos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diariodelpuerto.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-07T11:36:27Z",
@@ -250,18 +250,6 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Sant Joan"
-  },
-  {
-    "titulo": "Action anuncia su apertura en Níjar y ya está buscando trabajadores - lavozdealmeria.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFJaMkhUVjFqSVh6MWpELUJaVEp3TzltVmZ2VXBLMldjVjJza3IxQ3U4d1p2bXdESllIM1FZV3RRamV0anVwVlFaUWgwWmJ4TTNJZmhsbThxX0VFX2Z2UlJQdExmamRqbk1tQnRPYTdhSnl3N3Bpd3UtdHVHSDFzSGZ6LUEzQUhiQ0paNVJiNHlfMTE2LXZjTUJ3S3llMkhXdGNuYzhoWGNRTjJSX044?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFJaMkhUVjFqSVh6MWpELUJaVEp3TzltVmZ2VXBLMldjVjJza3IxQ3U4d1p2bXdESllIM1FZV3RRamV0anVwVlFaUWgwWmJ4TTNJZmhsbThxX0VFX2Z2UlJQdExmamRqbk1tQnRPYTdhSnl3N3Bpd3UtdHVHSDFzSGZ6LUEzQUhiQ0paNVJiNHlfMTE2LXZjTUJ3S3llMkhXdGNuYzhoWGNRTjJSX044?oc=5\" target=\"_blank\">Action anuncia su apertura en Níjar y ya está buscando trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdealmeria.com</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-13T17:14:50Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Action"
   },
   {
     "titulo": "La Junta inaugura la Oficina de Empleo de Huelma - Extra Jaén",
@@ -288,15 +276,39 @@ const window_leads_data = [
     "ubicacion": "Trobajo"
   },
   {
-    "titulo": "Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGVnVkFzWnQ2ZWEzVEFWWFFtUGQ1ejBuY3FCWGlhbXd2NVRRQlpkaFQxM25sS1BHT3R5dnM3Qy1ENExjQUdJOVI3MGswRWFGZ29selBLZVVHU3dMVGhZc29mWF9KV1RNNEIzcUtDZlZpYnlkV0o4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGVnVkFzWnQ2ZWEzVEFWWFFtUGQ1ejBuY3FCWGlhbXd2NVRRQlpkaFQxM25sS1BHT3R5dnM3Qy1ENExjQUdJOVI3MGswRWFGZ29selBLZVVHU3dMVGhZc29mWF9KV1RNNEIzcUtDZlZpYnlkV0o4?oc=5\" target=\"_blank\">Las bolsas estadounidenses se preparan para una apertura al alza, ya que la caída inesperada del empleo modera las apuestas por una subida de las tasas de interés</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "titulo": "Escenarios en bolsa del empleo. Apertura en video por Cárpatos - Serenity Markets",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWpRY1JzcVB4OVRoX1N1MGFXMkdCNE1CQnJZTDF3RUtTODNGa1RhaVhEbU9XaGtvcXk2R2wtVm5UNEZQd1hwS2NHQVA5aTNiQnpiaDN3NDNVbzl4akxWeGlqZW9CLXdzbXJDM29Vb2czdUVZZmhKekE4RVZFbWQ2TEtJZnQ2ZUNDQTNhOU9YV3hOdFJBcjJQM200MWxUSHpYNGE1OVZhNA?oc=5\" target=\"_blank\">Escenarios en bolsa del empleo. Apertura en video por Cárpatos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Serenity Markets</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-07T12:59:35Z",
+    "fecha": "2026-08-07T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "TradingView",
+    "empresa": "Apertura",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Action anuncia su apertura en Níjar y ya está buscando trabajadores - lavozdealmeria.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFJaMkhUVjFqSVh6MWpELUJaVEp3TzltVmZ2VXBLMldjVjJza3IxQ3U4d1p2bXdESllIM1FZV3RRamV0anVwVlFaUWgwWmJ4TTNJZmhsbThxX0VFX2Z2UlJQdExmamRqbk1tQnRPYTdhSnl3N3Bpd3UtdHVHSDFzSGZ6LUEzQUhiQ0paNVJiNHlfMTE2LXZjTUJ3S3llMkhXdGNuYzhoWGNRTjJSX044?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFJaMkhUVjFqSVh6MWpELUJaVEp3TzltVmZ2VXBLMldjVjJza3IxQ3U4d1p2bXdESllIM1FZV3RRamV0anVwVlFaUWgwWmJ4TTNJZmhsbThxX0VFX2Z2UlJQdExmamRqbk1tQnRPYTdhSnl3N3Bpd3UtdHVHSDFzSGZ6LUEzQUhiQ0paNVJiNHlfMTE2LXZjTUJ3S3llMkhXdGNuYzhoWGNRTjJSX044?oc=5\" target=\"_blank\">Action anuncia su apertura en Níjar y ya está buscando trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdealmeria.com</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-13T17:14:50Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Action"
+  },
+  {
+    "titulo": "Apertura de un nuevo supermercado Día en la calle Larga - El Puerto al minuto",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGhTUVBsSkNTOG5DMnYxcmhqUlgtM1ZDS3lKN21LNV94VjdTOEJUVm1vd2pmUkhhZ3ExdnpqVmFlelU4cEV4bkZVMDIxRGhZSFppdVUxNUZQd1hMS0hZUzFZNElDR2FwckRTUER2Y2xIQlJxTzVMNFJ0SnRmUzBvU1R1NjlYTUpTZXhIM01SbHdFek1YR3NHMA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGhTUVBsSkNTOG5DMnYxcmhqUlgtM1ZDS3lKN21LNV94VjdTOEJUVm1vd2pmUkhhZ3ExdnpqVmFlelU4cEV4bkZVMDIxRGhZSFppdVUxNUZQd1hMS0hZUzFZNElDR2FwckRTUER2Y2xIQlJxTzVMNFJ0SnRmUzBvU1R1NjlYTUpTZXhIM01SbHdFek1YR3NHMA?oc=5\" target=\"_blank\">Apertura de un nuevo supermercado Día en la calle Larga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Puerto al minuto</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-14T15:42:09Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -312,18 +324,6 @@ const window_leads_data = [
     "ubicacion": "València"
   },
   {
-    "titulo": "Apertura de un nuevo supermercado Día en la calle Larga - El Puerto al minuto",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGhTUVBsSkNTOG5DMnYxcmhqUlgtM1ZDS3lKN21LNV94VjdTOEJUVm1vd2pmUkhhZ3ExdnpqVmFlelU4cEV4bkZVMDIxRGhZSFppdVUxNUZQd1hMS0hZUzFZNElDR2FwckRTUER2Y2xIQlJxTzVMNFJ0SnRmUzBvU1R1NjlYTUpTZXhIM01SbHdFek1YR3NHMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGhTUVBsSkNTOG5DMnYxcmhqUlgtM1ZDS3lKN21LNV94VjdTOEJUVm1vd2pmUkhhZ3ExdnpqVmFlelU4cEV4bkZVMDIxRGhZSFppdVUxNUZQd1hMS0hZUzFZNElDR2FwckRTUER2Y2xIQlJxTzVMNFJ0SnRmUzBvU1R1NjlYTUpTZXhIM01SbHdFek1YR3NHMA?oc=5\" target=\"_blank\">Apertura de un nuevo supermercado Día en la calle Larga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Puerto al minuto</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-14T15:42:09Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "Action prepara su llegada a Níjar con la apertura de una nueva tienda y la creación de empleo - La Crónica del Parque",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEtWSThEd0YxMkQ4OGpZN2RpWTJlekFsdVFHVldUeldkVTRvaW93TjNrQzdhdjR2ako0MmpjTG1RYVlzTVBIeGRaYXFmallneV80aDUyZ0hnWVVzZ1g0WFZJVkVhdXppNkotMWwzOWNlVzBsLVVmQ1hDenpNZDRlNFpXeFNyMTdLc2FJWlZrWWhXakhXa2hVby11aUV2ZmtmaHVlb3c5YXk1YmRsTllqOTB0TEJjVXpTNlVWcnJRTDRUaGVMLTJnQ1RWMDZBUVhWT2NXS1lFb2FfUQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEtWSThEd0YxMkQ4OGpZN2RpWTJlekFsdVFHVldUeldkVTRvaW93TjNrQzdhdjR2ako0MmpjTG1RYVlzTVBIeGRaYXFmallneV80aDUyZ0hnWVVzZ1g0WFZJVkVhdXppNkotMWwzOWNlVzBsLVVmQ1hDenpNZDRlNFpXeFNyMTdLc2FJWlZrWWhXakhXa2hVby11aUV2ZmtmaHVlb3c5YXk1YmRsTllqOTB0TEJjVXpTNlVWcnJRTDRUaGVMLTJnQ1RWMDZBUVhWT2NXS1lFb2FfUQ?oc=5\" target=\"_blank\">Action prepara su llegada a Níjar con la apertura de una nueva tienda y la creación de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Crónica del Parque</font>",
@@ -336,40 +336,28 @@ const window_leads_data = [
     "ubicacion": "Action"
   },
   {
-    "titulo": "Las bolsas suben antes de la apertura a la espera del informe de empleo y pendientes de Irán - MarketScreener España",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTjRKX3c3dmtiVE9TODFnM012Z2VLOFRNcjJld3doV0M4d1FHM282VVJXanVueXI0aHFodC1NV2FmR3A0OHZ0M1dRNE0zRDc0eGlMZUNWMG9sNy1GdFFRZmoyc0hmTC1DRGNEbUFmOXY1dHBTaHRLUVdzQnNaUFBOV3lGeEtoaWhMbHI2ZVVfckstakI2QmROY2pTTTRfV2NBdWsyQld2ZlZMajltQ2h5alltR3FOOHdIUjJtMlI3MzQxdWtYandmRzlRcnFRc0RLWGc3QWRqdHF6c2U2Nk1KdkV3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTjRKX3c3dmtiVE9TODFnM012Z2VLOFRNcjJld3doV0M4d1FHM282VVJXanVueXI0aHFodC1NV2FmR3A0OHZ0M1dRNE0zRDc0eGlMZUNWMG9sNy1GdFFRZmoyc0hmTC1DRGNEbUFmOXY1dHBTaHRLUVdzQnNaUFBOV3lGeEtoaWhMbHI2ZVVfckstakI2QmROY2pTTTRfV2NBdWsyQld2ZlZMajltQ2h5alltR3FOOHdIUjJtMlI3MzQxdWtYandmRzlRcnFRc0RLWGc3QWRqdHF6c2U2Nk1KdkV3?oc=5\" target=\"_blank\">Las bolsas suben antes de la apertura a la espera del informe de empleo y pendientes de Irán</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+    "titulo": "Los futuros de Wall Street suben antes de la apertura a la espera del informe de empleo y pendientes de Oriente Próximo - MarketScreener España",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQUhXd1l1aGdZczJDOXJhajBfOWpQa0JoaWg4X3hpMnhjdEJtd21WeHBBLVVrWUpvY25jLXFpOU80Sm5PblNIRmY1bHRnM3VOU3pja3FoLXh5LWgweEdJLUtTZS13WWZoSWNqUEhjek9scW83ZEx3OW1hR3cwN1kwOU8tN09YQlBNdkRLUVNBd2dvTjhlQnVtSEZYZ1dTeXRscUY1T1Z6SXRLM1VTRVVkTWh1U3ZGVUxZa2hSeWpyLTUzRlBOY0I4VTlGVER3LTY4ZHVNdzh1QVNCb0N0ZVlHYnE1UllabmUwWDBqUw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQUhXd1l1aGdZczJDOXJhajBfOWpQa0JoaWg4X3hpMnhjdEJtd21WeHBBLVVrWUpvY25jLXFpOU80Sm5PblNIRmY1bHRnM3VOU3pja3FoLXh5LWgweEdJLUtTZS13WWZoSWNqUEhjek9scW83ZEx3OW1hR3cwN1kwOU8tN09YQlBNdkRLUVNBd2dvTjhlQnVtSEZYZ1dTeXRscUY1T1Z6SXRLM1VTRVVkTWh1U3ZGVUxZa2hSeWpyLTUzRlBOY0I4VTlGVER3LTY4ZHVNdzh1QVNCb0N0ZVlHYnE1UllabmUwWDBqUw?oc=5\" target=\"_blank\">Los futuros de Wall Street suben antes de la apertura a la espera del informe de empleo y pendientes de Oriente Próximo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-07T12:13:13Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Los futuros de Wall Street apuntan a una apertura estable antes del reporte de empleo: Dow Jones, S&P, Nasdaq - Yahoo Finanzas",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2k5VVhsVHlBeExWRUNndHlMSWZ4dXZGNGhybFlrcjJzV3RDbTFmZHpQMGZPNXpwQVVrQlRfX1hkVWVObkhGUkstaGZqT1I2WXZoRTVqMHg4SlpNR21FVGY4Y0g2SEl1eVAyU3FwWkRKdFVXQUJBSlc1OXhVUGR3UzUtb1JWUDJ4LWU3bXZJR1pjdlY2YWNBYw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2k5VVhsVHlBeExWRUNndHlMSWZ4dXZGNGhybFlrcjJzV3RDbTFmZHpQMGZPNXpwQVVrQlRfX1hkVWVObkhGUkstaGZqT1I2WXZoRTVqMHg4SlpNR21FVGY4Y0g2SEl1eVAyU3FwWkRKdFVXQUJBSlc1OXhVUGR3UzUtb1JWUDJ4LWU3bXZJR1pjdlY2YWNBYw?oc=5\" target=\"_blank\">Los futuros de Wall Street apuntan a una apertura estable antes del reporte de empleo: Dow Jones, S&amp;P, Nasdaq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finanzas</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-06T13:20:11Z",
+    "fecha": "2026-08-07T11:57:01Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Wall Street"
   },
   {
-    "titulo": "Munich negocia un ERE para despedir a unos 65 trabajadores en su red de tiendas en España - El Periódico",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0FmbkdlMHlGSmQwNF9PMi1mNXN6MjBWU2FxZG9nVHlsUG5XUU5Oa3Zwek1KaHc3Tm5Pa0VxYl9Jb3gzWjgzYWdHQ291emdfY2hsYTJ1dmpab2Z2NGxUa2RTRk1zeVJEcElmaDRDUEFWbHdYLUFNcnZlVm1IMlo1bzFFTkJVT3FiLTBpbjNfb1JNNjRHZ0p4cDZyQUFGbUkwbXhCN9IBpAFBVV95cUxQZkJxSllTa1dpME5uX014bVdERTRzQkd4NTg2WTdNOVYyME55TFM5NXdDTDI2aGZtazRHZE5aLTJwdGZSc2dtVWt0UFFzM1NTYUVQbERkOHNJNWF1MW5peVdORkNEbkZlTWtLaU4yNmxDTHhUZ2FuMkNVWmdJS0JOd0JueGRHYkFlUGh4ZkNNNFdnNkxUSmdtSy1xOGJTRWpEU1Awaw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0FmbkdlMHlGSmQwNF9PMi1mNXN6MjBWU2FxZG9nVHlsUG5XUU5Oa3Zwek1KaHc3Tm5Pa0VxYl9Jb3gzWjgzYWdHQ291emdfY2hsYTJ1dmpab2Z2NGxUa2RTRk1zeVJEcElmaDRDUEFWbHdYLUFNcnZlVm1IMlo1bzFFTkJVT3FiLTBpbjNfb1JNNjRHZ0p4cDZyQUFGbUkwbXhCN9IBpAFBVV95cUxQZkJxSllTa1dpME5uX014bVdERTRzQkd4NTg2WTdNOVYyME55TFM5NXdDTDI2aGZtazRHZE5aLTJwdGZSc2dtVWt0UFFzM1NTYUVQbERkOHNJNWF1MW5peVdORkNEbkZlTWtLaU4yNmxDTHhUZ2FuMkNVWmdJS0JOd0JueGRHYkFlUGh4ZkNNNFdnNkxUSmdtSy1xOGJTRWpEU1Awaw?oc=5\" target=\"_blank\">Munich negocia un ERE para despedir a unos 65 trabajadores en su red de tiendas en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico</font>",
+    "titulo": "Almaraz ha generado unos 650.000 GWh desde su apertura y en 2025 aportó el 28,5 % de la producción nuclear española - El Periódico de la Energía",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb3pvSElSci14NHpsRE42TWRQcEg2dWdoSlluTU1tUDV2ekQ2ZllxY1RUU3lod0tvR0xUUHhPTV9QdVBabTYzekh4RkVnUFA4VGZPajdNODR3emgwLTJvY1lCYzdYNW9kQjl1LWozZTQyVDRTelA4TXRGVURSb1BCZjBQRE9lRGRkUjNPZW1uRVpDY0IwdDVSUHFuZ1YwZ0ZLWUVORld3c0w4S0N1Z3p0Vm5NLUxneG8tcVA2TjVSU0kyOEVVYzJEZ0szRWhscVBhbXYyOGMtd05sRFNMdUtHYjNVUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb3pvSElSci14NHpsRE42TWRQcEg2dWdoSlluTU1tUDV2ekQ2ZllxY1RUU3lod0tvR0xUUHhPTV9QdVBabTYzekh4RkVnUFA4VGZPajdNODR3emgwLTJvY1lCYzdYNW9kQjl1LWozZTQyVDRTelA4TXRGVURSb1BCZjBQRE9lRGRkUjNPZW1uRVpDY0IwdDVSUHFuZ1YwZ0ZLWUVORld3c0w4S0N1Z3p0Vm5NLUxneG8tcVA2TjVSU0kyOEVVYzJEZ0szRWhscVBhbXYyOGMtd05sRFNMdUtHYjNVUQ?oc=5\" target=\"_blank\">Almaraz ha generado unos 650.000 GWh desde su apertura y en 2025 aportó el 28,5 % de la producción nuclear española</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de la Energía</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-03T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
+    "fecha": "2026-08-14T09:21:15Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
     "empresa": "Desconocida",
-    "ubicacion": "España"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Acuerdo por los despidos en Perfumerías Avenida tras negociar 'tienda por tienda' las condiciones del ERE - Salamancahoy",
@@ -396,9 +384,9 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Una mujer pide el subsidio para mayores de 52 años tras ser despedida en un ERE con una indemnización de 150.000 euros - El Debate",
+    "titulo": "Una mujer pide el subsidio para mayores de 52 años tras ser despedida en un ERE con una indemnización de 150.000 euros - eldebate.com",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV05HQjUtMFk3d0pNR2Vid3hsQzRkUXFHS0I2TzhaM0x1dk8yWGJVV1NwZ0hKQ2hXTlduRmkzdUdwVkZSTnNVN1NhZnNURTlST0xmRngxQmxudHFaTnBnWWlYcXVxcUlqUmFCRlZhYTJadk53bkVRbEtwZ1NlM3o1d3FsaHp1NVUxSVlJTndmN0NIdHdUSVYzUzRGWUNrT3A5ckZNUURJbE42Nm9CSUJLakF4QlZsZ29WWHg3aVNUU0lBdWZYdUZGanprcEl4R3pyTF80ZmFESjREZEFCbVRtZkZ1NjTSAeoBQVVfeXFMTUtyQlhCcG9qRmVONzRERl9fRHdFTld3dXhUcVhIVVpOQnhuSXp4LW1hb0hPaWZBOHM5QUI0VDFGN2hWWTM1OU9rOVBOb2RSRlhOUFNfMU1adnhtTllVckFVTmJ4c0xaMWhuYk9XRVQxM2pUWkp4ZF82U3d4em5DTm9uQ0U4N1FwR0lyM2owZ3V5UmI5d0h4UmRZZENmMUJfUm84VWhaTTdsYmhtS202RVNKamwtbDhGQXl1aHUzYW1XdjhUZ2NmX0I1YU1FUGpPMjlQX1VFY1BFV3RheDl5cDJEVGpHZjRUb2pB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV05HQjUtMFk3d0pNR2Vid3hsQzRkUXFHS0I2TzhaM0x1dk8yWGJVV1NwZ0hKQ2hXTlduRmkzdUdwVkZSTnNVN1NhZnNURTlST0xmRngxQmxudHFaTnBnWWlYcXVxcUlqUmFCRlZhYTJadk53bkVRbEtwZ1NlM3o1d3FsaHp1NVUxSVlJTndmN0NIdHdUSVYzUzRGWUNrT3A5ckZNUURJbE42Nm9CSUJLakF4QlZsZ29WWHg3aVNUU0lBdWZYdUZGanprcEl4R3pyTF80ZmFESjREZEFCbVRtZkZ1NjTSAeoBQVVfeXFMTUtyQlhCcG9qRmVONzRERl9fRHdFTld3dXhUcVhIVVpOQnhuSXp4LW1hb0hPaWZBOHM5QUI0VDFGN2hWWTM1OU9rOVBOb2RSRlhOUFNfMU1adnhtTllVckFVTmJ4c0xaMWhuYk9XRVQxM2pUWkp4ZF82U3d4em5DTm9uQ0U4N1FwR0lyM2owZ3V5UmI5d0h4UmRZZENmMUJfUm84VWhaTTdsYmhtS202RVNKamwtbDhGQXl1aHUzYW1XdjhUZ2NmX0I1YU1FUGpPMjlQX1VFY1BFV3RheDl5cDJEVGpHZjRUb2pB?oc=5\" target=\"_blank\">Una mujer pide el subsidio para mayores de 52 años tras ser despedida en un ERE con una indemnización de 150.000 euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Debate</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV05HQjUtMFk3d0pNR2Vid3hsQzRkUXFHS0I2TzhaM0x1dk8yWGJVV1NwZ0hKQ2hXTlduRmkzdUdwVkZSTnNVN1NhZnNURTlST0xmRngxQmxudHFaTnBnWWlYcXVxcUlqUmFCRlZhYTJadk53bkVRbEtwZ1NlM3o1d3FsaHp1NVUxSVlJTndmN0NIdHdUSVYzUzRGWUNrT3A5ckZNUURJbE42Nm9CSUJLakF4QlZsZ29WWHg3aVNUU0lBdWZYdUZGanprcEl4R3pyTF80ZmFESjREZEFCbVRtZkZ1NjTSAeoBQVVfeXFMTUtyQlhCcG9qRmVONzRERl9fRHdFTld3dXhUcVhIVVpOQnhuSXp4LW1hb0hPaWZBOHM5QUI0VDFGN2hWWTM1OU9rOVBOb2RSRlhOUFNfMU1adnhtTllVckFVTmJ4c0xaMWhuYk9XRVQxM2pUWkp4ZF82U3d4em5DTm9uQ0U4N1FwR0lyM2owZ3V5UmI5d0h4UmRZZENmMUJfUm84VWhaTTdsYmhtS202RVNKamwtbDhGQXl1aHUzYW1XdjhUZ2NmX0I1YU1FUGpPMjlQX1VFY1BFV3RheDl5cDJEVGpHZjRUb2pB?oc=5\" target=\"_blank\">Una mujer pide el subsidio para mayores de 52 años tras ser despedida en un ERE con una indemnización de 150.000 euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eldebate.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-06T07:00:00Z",
@@ -406,18 +394,6 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "ERE",
     "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Las personas afectadas en España por despido colectivo suben un 15,6 %, la mayoría en los servicios - EFE - Agencia de noticias",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0VNVkVSMW05WDU2ZEtoQ0gxVGdaUTV4S2pXeFd6bHp5NjQzUEk5R18xMVZwVmNkSTNpSGNzUjRYSWpETERfczF5eWpwT0dCVnA5eHAwSDlpVWttWHd6WlpTZmM4OUVrWVpGWE9rUWpJYlhmcTM0LURXaDBteUVIRWJJbEhkOVczMXlHb3NlckJSUmozYmVn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0VNVkVSMW05WDU2ZEtoQ0gxVGdaUTV4S2pXeFd6bHp5NjQzUEk5R18xMVZwVmNkSTNpSGNzUjRYSWpETERfczF5eWpwT0dCVnA5eHAwSDlpVWttWHd6WlpTZmM4OUVrWVpGWE9rUWpJYlhmcTM0LURXaDBteUVIRWJJbEhkOVczMXlHb3NlckJSUmozYmVn?oc=5\" target=\"_blank\">Las personas afectadas en España por despido colectivo suben un 15,6 %, la mayoría en los servicios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EFE - Agencia de noticias</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-10T08:11:15Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "EFE",
-    "ubicacion": "España"
   },
   {
     "titulo": "La administración concursal de Security Services Kuo prepara un despido colectivo - Escudo Digital",
@@ -444,33 +420,21 @@ const window_leads_data = [
     "ubicacion": "Diario Vasco"
   },
   {
-    "titulo": "Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas - Modaes",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFo5Si0wWmE5MzN2U0JQVjhJWExSWVJGNmdpajVZRmE1Q3JfYjk4R1BHcmlraHRFaGljTU5mNzN0Mm5OM29PY18zaTFrb3lSekYyRW5aX2JaQW8yTWFBVmtQcHZaQ2JWU3owdFBJVE94dzUyOTRPSzJWWS1OZUNNdE41ZWVFU1BTV0Fvb0swVnBPNEhQZF9NaDNYckhIOFdNOWc2TXYzbHNYTHBUZTkzTkpCcw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFo5Si0wWmE5MzN2U0JQVjhJWExSWVJGNmdpajVZRmE1Q3JfYjk4R1BHcmlraHRFaGljTU5mNzN0Mm5OM29PY18zaTFrb3lSekYyRW5aX2JaQW8yTWFBVmtQcHZaQ2JWU3owdFBJVE94dzUyOTRPSzJWWS1OZUNNdE41ZWVFU1BTV0Fvb0swVnBPNEhQZF9NaDNYckhIOFdNOWc2TXYzbHNYTHBUZTkzTkpCcw?oc=5\" target=\"_blank\">Munich negocia un ERE que afectará al 16% de su plantilla y cerrará quince tiendas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modaes</font>",
+    "titulo": "Munich llega a un preacuerdo con la plantilla y rebaja el ERE a 45 personas afectadas - Expansión",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1YyTzV1c19pbkZSNnlRd2ZQUXNTT0J4VEdZQWpoRkg4SVV6SjVaM25KeGZpLVRwVnZZYlJsalFvQllvZzdSV2N4akV3aDR4XzUyVkpRdE9wanlONzZHeUhjaVhEcS1NTWVRaWoyQkNtSDJqRmN6MXB0SlctWTRDck930gGCAUFVX3lxTE1WUnBaWlc4TTM2RzdWa3pGMHZVWHpNSFRrVVhYZjBjREo2VDlYaEF4Y01LNEE1amgxelJuVWZGY1AzSFFYbDBHTm9UUmJGZVlBMkQ4cDh4bTlmby1hLUFud3o0MlhTZWhoampzTTY3Tml3OEhfTXozZ0ExNThnSHRJMXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1YyTzV1c19pbkZSNnlRd2ZQUXNTT0J4VEdZQWpoRkg4SVV6SjVaM25KeGZpLVRwVnZZYlJsalFvQllvZzdSV2N4akV3aDR4XzUyVkpRdE9wanlONzZHeUhjaVhEcS1NTWVRaWoyQkNtSDJqRmN6MXB0SlctWTRDck930gGCAUFVX3lxTE1WUnBaWlc4TTM2RzdWa3pGMHZVWHpNSFRrVVhYZjBjREo2VDlYaEF4Y01LNEE1amgxelJuVWZGY1AzSFFYbDBHTm9UUmJGZVlBMkQ4cDh4bTlmby1hLUFud3o0MlhTZWhoampzTTY3Tml3OEhfTXozZ0ExNThnSHRJMXc?oc=5\" target=\"_blank\">Munich llega a un preacuerdo con la plantilla y rebaja el ERE a 45 personas afectadas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expansión</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-03T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "La tienda de Munich en el Parc Central de Tarragona se libra del ERE - Diari de Tarragona",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXZqV0ZFRVp4MlpIMGtpalh5cTBsMEpzNEp3aDRIbzBSS05RMVBtTmdYRmxVSVdmaFp1Y1dfYkxyUi0xd0pNeDgwWWRTN0U3dWJEbTNVVDhuYm9NSVN2NG0wR2dLQmhNMEp0X3o0Q2hmSDhpQmJpVE5seS1OeTRXbUNVRFpIWE8wWE5sMVB3dlo4RWNCR0RadWt4RFVwX0ZVRGfSAacBQVVfeXFMTzU0NVhVa0hRQXM3TjNnQlZCNXJNRVNKVEpfMlJpTnN0MUJMRWVmMWFGSXpPQXQ5N2pNR3lCZWVwRnpJYzU1Nk5ObjBwOTl3TWotRGJTZXBtd0hLbXV2ODRYUUpKZ1JCa21JdmkzNjhielhWcnFKZW1hTWtCd1pyMlFOX3dVRzBqeUlkOXZidTlkMm1DcGFHU003SHplU0N3OVBuWjRyUVU?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXZqV0ZFRVp4MlpIMGtpalh5cTBsMEpzNEp3aDRIbzBSS05RMVBtTmdYRmxVSVdmaFp1Y1dfYkxyUi0xd0pNeDgwWWRTN0U3dWJEbTNVVDhuYm9NSVN2NG0wR2dLQmhNMEp0X3o0Q2hmSDhpQmJpVE5seS1OeTRXbUNVRFpIWE8wWE5sMVB3dlo4RWNCR0RadWt4RFVwX0ZVRGfSAacBQVVfeXFMTzU0NVhVa0hRQXM3TjNnQlZCNXJNRVNKVEpfMlJpTnN0MUJMRWVmMWFGSXpPQXQ5N2pNR3lCZWVwRnpJYzU1Nk5ObjBwOTl3TWotRGJTZXBtd0hLbXV2ODRYUUpKZ1JCa21JdmkzNjhielhWcnFKZW1hTWtCd1pyMlFOX3dVRzBqeUlkOXZidTlkMm1DcGFHU003SHplU0N3OVBuWjRyUVU?oc=5\" target=\"_blank\">La tienda de Munich en el Parc Central de Tarragona se libra del ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-03T07:00:00Z",
+    "fecha": "2026-08-14T19:09:17Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERE",
-    "ubicacion": "Munich"
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "Las trabajadoras de Konecta BTO en Güeñes denuncian un «ERE encubierto» tras 13 despidos en solo dos meses - radiopopular.com",
+    "titulo": "Las trabajadoras de Konecta BTO en Güeñes denuncian un «ERE encubierto» tras 13 despidos en solo dos meses - Radio Popular de Bilbao",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblNiMWZSeWZ3ODNVblJPOFk0b0I4YVd5WFVpdEZ3OTN2WnhzdWxyVEhXc19vZFdGbUJYbmZMTFNkUVdVWFV0WFlTOS1PRDdVeURidlM2UkJnREZKcy01UXF4OHhzSV9YckF2dVVfWFRacWhFa1pDVEdZTXQ2aGh1aXB0RElEMFdLcFZJNGpvZmE5UVM3NGh5VEVyMEV5VVdKQ01IeHZzQ2ZmbV82NGVHemdNOWE5WEdNeFNsV1ZmQXk2RVBDbzYtb1V0SDA5SGRYR0hZ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblNiMWZSeWZ3ODNVblJPOFk0b0I4YVd5WFVpdEZ3OTN2WnhzdWxyVEhXc19vZFdGbUJYbmZMTFNkUVdVWFV0WFlTOS1PRDdVeURidlM2UkJnREZKcy01UXF4OHhzSV9YckF2dVVfWFRacWhFa1pDVEdZTXQ2aGh1aXB0RElEMFdLcFZJNGpvZmE5UVM3NGh5VEVyMEV5VVdKQ01IeHZzQ2ZmbV82NGVHemdNOWE5WEdNeFNsV1ZmQXk2RVBDbzYtb1V0SDA5SGRYR0hZ?oc=5\" target=\"_blank\">Las trabajadoras de Konecta BTO en Güeñes denuncian un «ERE encubierto» tras 13 despidos en solo dos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">radiopopular.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblNiMWZSeWZ3ODNVblJPOFk0b0I4YVd5WFVpdEZ3OTN2WnhzdWxyVEhXc19vZFdGbUJYbmZMTFNkUVdVWFV0WFlTOS1PRDdVeURidlM2UkJnREZKcy01UXF4OHhzSV9YckF2dVVfWFRacWhFa1pDVEdZTXQ2aGh1aXB0RElEMFdLcFZJNGpvZmE5UVM3NGh5VEVyMEV5VVdKQ01IeHZzQ2ZmbV82NGVHemdNOWE5WEdNeFNsV1ZmQXk2RVBDbzYtb1V0SDA5SGRYR0hZ?oc=5\" target=\"_blank\">Las trabajadoras de Konecta BTO en Güeñes denuncian un «ERE encubierto» tras 13 despidos en solo dos meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Popular de Bilbao</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-14T08:22:02Z",
@@ -492,18 +456,6 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "La catalana Munich llega a un preacuerdo con la plantilla y rebaja el ERE - El Nacional.cat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFZIelpZLV82WGstRHlwTXFsalRvOGRjQUUxdEtvZ1Y1UG1hdWRkQnQ0eGdWc0JlQ2huYVVUVkRtNTNXcVpvWTUtbjFpRDVHdzJjcmlIWE56Qko1RTBxRkZOZnJYOTdfTFhNQzRiT2ZEMUZrejdablFoTGZCUzV6STUteDRDbVJiSU10SUgtN2kzeFM4dklmdzF6aGRWRkQ4dl9zRUFqdkhaZDhjTXdjc3BTY2t5akFrN2ZqZQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFZIelpZLV82WGstRHlwTXFsalRvOGRjQUUxdEtvZ1Y1UG1hdWRkQnQ0eGdWc0JlQ2huYVVUVkRtNTNXcVpvWTUtbjFpRDVHdzJjcmlIWE56Qko1RTBxRkZOZnJYOTdfTFhNQzRiT2ZEMUZrejdablFoTGZCUzV6STUteDRDbVJiSU10SUgtN2kzeFM4dklmdzF6aGRWRkQ4dl9zRUFqdkhaZDhjTXdjc3BTY2t5akFrN2ZqZQ?oc=5\" target=\"_blank\">La catalana Munich llega a un preacuerdo con la plantilla y rebaja el ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Nacional.cat</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-08-14T13:57:52Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "CaixaBank, condenada por vulnerar el derecho a la igualdad y no discriminación por razón de edad de los trabajadores en un ERE - Economist & Jurist",
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjRpeHFPQ3dyT1luRnlaMzhJUlJmT0FNVmZQaXhqbXRxUDRlOHBnSHlYakt0azI3dmtYQ1ZnejI3bHl2UHh1cU9VX24telJhdlZlZHNhc0tfeGk4bldBbWNDMnY2bmdVYVNELXdLZEdwTG1TZ0VZRW5rV2hPUHVkcXNuTHRRbFF3eC1LWVZJTGtVQ1l1dTM5YjVOMHVRTEttbklNTHJ2NmZJNHhLUDlvWjYwZlZPZW5Vc3VZbFp5cDhjdU9TczltLVhvOG9VWVRncWtTcEtiTWZYdEFkVy02THkyVEpCQlhQWXdwbmhtY2UwNEQwWlQzUjVqdUhUWW9wd29CN3VnTXc0cjhjM2k4?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjRpeHFPQ3dyT1luRnlaMzhJUlJmT0FNVmZQaXhqbXRxUDRlOHBnSHlYakt0azI3dmtYQ1ZnejI3bHl2UHh1cU9VX24telJhdlZlZHNhc0tfeGk4bldBbWNDMnY2bmdVYVNELXdLZEdwTG1TZ0VZRW5rV2hPUHVkcXNuTHRRbFF3eC1LWVZJTGtVQ1l1dTM5YjVOMHVRTEttbklNTHJ2NmZJNHhLUDlvWjYwZlZPZW5Vc3VZbFp5cDhjdU9TczltLVhvOG9VWVRncWtTcEtiTWZYdEFkVy02THkyVEpCQlhQWXdwbmhtY2UwNEQwWlQzUjVqdUhUWW9wd29CN3VnTXc0cjhjM2k4?oc=5\" target=\"_blank\">CaixaBank, condenada por vulnerar el derecho a la igualdad y no discriminación por razón de edad de los trabajadores en un ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economist & Jurist</font>",
@@ -516,21 +468,33 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Las pérdidas en sus tiendas llevan a una conocida marca de moda deportiva catalana a negociar un ERE - economiadigital.es",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFRQYVUtUHZncjc1ck1yeFl2N0hsNFpoTHZBQ29wNTRZY0xHOEFSeVlDMThkX293SDllUWZXYzlTUm53UkRPTnV3dkJZSDVUS0p1QTNJVG5VTTFQd3M4Skl6QVZQTXlHNnd6WnNxZVdieVp6X2FSdER0Ql9fQ0tBX1JJNNIBiAFBVV95cUxQMXRtUWRhYnZNRjBkMUhfakRHZWY0YkpPWElRZDY3dUxiYzdzNmhxeW5JMDIzei1hTDU4SUZiSzREdkt2aG1UZG53cGktckNGVUkzNDhjdkx3UnB4U0xEam45MmZQRnVKbkY0N1JHeS1qWEJZN2lRc1Nua0ZCckZWemJwOFpCbjQ5?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFRQYVUtUHZncjc1ck1yeFl2N0hsNFpoTHZBQ29wNTRZY0xHOEFSeVlDMThkX293SDllUWZXYzlTUm53UkRPTnV3dkJZSDVUS0p1QTNJVG5VTTFQd3M4Skl6QVZQTXlHNnd6WnNxZVdieVp6X2FSdER0Ql9fQ0tBX1JJNNIBiAFBVV95cUxQMXRtUWRhYnZNRjBkMUhfakRHZWY0YkpPWElRZDY3dUxiYzdzNmhxeW5JMDIzei1hTDU4SUZiSzREdkt2aG1UZG53cGktckNGVUkzNDhjdkx3UnB4U0xEam45MmZQRnVKbkY0N1JHeS1qWEJZN2lRc1Nua0ZCckZWemJwOFpCbjQ5?oc=5\" target=\"_blank\">Las pérdidas en sus tiendas llevan a una conocida marca de moda deportiva catalana a negociar un ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">economiadigital.es</font>",
+    "titulo": "Las personas afectadas por despido colectivo suben un 15,6 %, la mayoría en los servicios - Infobae",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0JRY09ZUXhWdlJZTlZQSmtqZHl3d2RNZjlXTHBzSm45Z1FmT0xTQTRSMEY5RUd4M0ZuTk5WczVZQXRMcEV2LXZVY0xINWJsSHBSMWxpMjFLbzl3TW1CUldlaVZWWlEwSzBycmlkaktaZFJqQ0ZFUVQzcFZmMkg1VHpvb3NUdlI2MFZ5Y0d3aHVraVQ1a3BwLWU0TnYtc2I4UGQxNXUxcHFTOHJ0STBMSGVrdUlpMnhNZjVmdUMxa2xhTVVVRGw5T3hmMldEUmJCZ2lj0gHuAUFVX3lxTFBwV3J3aWFUaUk5N1BaRlJ5azU0V2VlYXc5LUx1MXBleHlhU0VKVjR5RzNIUEJxU3VnaUVxb0loNGw3NnZUbWR6ZTJpenBlT0FpTmVreXpqMW5CV2k1ckV6LTJQczhMb1VlNEV4X2diQm5NY0lMdGdZNlhGLVhRcmRsalZzdzNpcS1CVHdNTlpjbXJZR0pldlpuZC1iUjB5OVM4MGo1dGVXTUljamhNYW9seWdOMGJoVnlfTGV2SFQzczlTcUp5SUtVZmNtb1FoWC1wMFM0QTFreGJBWEV4S1dwU0ltRzI3UWVMZ1FjT2c?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0JRY09ZUXhWdlJZTlZQSmtqZHl3d2RNZjlXTHBzSm45Z1FmT0xTQTRSMEY5RUd4M0ZuTk5WczVZQXRMcEV2LXZVY0xINWJsSHBSMWxpMjFLbzl3TW1CUldlaVZWWlEwSzBycmlkaktaZFJqQ0ZFUVQzcFZmMkg1VHpvb3NUdlI2MFZ5Y0d3aHVraVQ1a3BwLWU0TnYtc2I4UGQxNXUxcHFTOHJ0STBMSGVrdUlpMnhNZjVmdUMxa2xhTVVVRGw5T3hmMldEUmJCZ2lj0gHuAUFVX3lxTFBwV3J3aWFUaUk5N1BaRlJ5azU0V2VlYXc5LUx1MXBleHlhU0VKVjR5RzNIUEJxU3VnaUVxb0loNGw3NnZUbWR6ZTJpenBlT0FpTmVreXpqMW5CV2k1ckV6LTJQczhMb1VlNEV4X2diQm5NY0lMdGdZNlhGLVhRcmRsalZzdzNpcS1CVHdNTlpjbXJZR0pldlpuZC1iUjB5OVM4MGo1dGVXTUljamhNYW9seWdOMGJoVnlfTGV2SFQzczlTcUp5SUtVZmNtb1FoWC1wMFM0QTFreGJBWEV4S1dwU0ltRzI3UWVMZ1FjT2c?oc=5\" target=\"_blank\">Las personas afectadas por despido colectivo suben un 15,6 %, la mayoría en los servicios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-08-03T07:00:00Z",
+    "fecha": "2026-08-10T08:45:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Desconocida",
+    "ubicacion": "Infobae"
+  },
+  {
+    "titulo": "La catalana Munich llega a un preacuerdo con la plantilla y rebaja el ERE - El Nacional.cat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFZIelpZLV82WGstRHlwTXFsalRvOGRjQUUxdEtvZ1Y1UG1hdWRkQnQ0eGdWc0JlQ2huYVVUVkRtNTNXcVpvWTUtbjFpRDVHdzJjcmlIWE56Qko1RTBxRkZOZnJYOTdfTFhNQzRiT2ZEMUZrejdablFoTGZCUzV6STUteDRDbVJiSU10SUgtN2kzeFM4dklmdzF6aGRWRkQ4dl9zRUFqdkhaZDhjTXdjc3BTY2t5akFrN2ZqZQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFZIelpZLV82WGstRHlwTXFsalRvOGRjQUUxdEtvZ1Y1UG1hdWRkQnQ0eGdWc0JlQ2huYVVUVkRtNTNXcVpvWTUtbjFpRDVHdzJjcmlIWE56Qko1RTBxRkZOZnJYOTdfTFhNQzRiT2ZEMUZrejdablFoTGZCUzV6STUteDRDbVJiSU10SUgtN2kzeFM4dklmdzF6aGRWRkQ4dl9zRUFqdkhaZDhjTXdjc3BTY2t5akFrN2ZqZQ?oc=5\" target=\"_blank\">La catalana Munich llega a un preacuerdo con la plantilla y rebaja el ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Nacional.cat</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-14T13:57:52Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERE",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Convocan dos nuevos paros en Konecta BTO contra «un ERE encubierto» con trece despidos - naiz:",
+    "titulo": "Convocan dos nuevos paros en Konecta BTO contra «un ERE encubierto» con trece despidos - naiz.eus",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTklTejg3ZmNQUEZlQ0dzMFhseHhXSFQ0ZGFUWjQtdnY5UmdkaXdXVWxXMXBVRmc2aURLY0RaeHJEd041TC1sc1dkOFNEeXA3WGtDSjZCdmQ0WkpHazMxNWd6eE12V2JFLWdDQmNXQ0oyUnQ3RFlQZmhaV3B6YkJPQTlEaTBMTUFBdTVfSDJERE5uaWFXUWVpejZfVWhXRVpWdy1DV0xUemFzMzdvSWhkTzJYMjVJNUJjX0ZQZHoxT1FhTlRRTjhyTzBMRjVRMHZkbWM2LdIB1gFBVV95cUxNbGJtWXJISFNocnJqV2d6OFllOWdMUkZfVXJIeFpMS25mMFdLTFF1QV80ZzMtNEd0b1hMNDNBallkR0hQNENadzBDV3JoRy05TXdFT2dBTXV2dVhiYkxGcEpBdXBGMkg2eUFzejRocjcxOGxFVTFnX0hDcmRlUndCTmk0dnBmV0l4ZVVNZG0wa0RfZE9IZ0dkRjFKOXV2YkxXemM5ZWd5UmNfUXB1MmpVamcyTHNXTHppWm5nRndBemx5RER5eHNFNDNobFdFSGFacW1XWWlB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTklTejg3ZmNQUEZlQ0dzMFhseHhXSFQ0ZGFUWjQtdnY5UmdkaXdXVWxXMXBVRmc2aURLY0RaeHJEd041TC1sc1dkOFNEeXA3WGtDSjZCdmQ0WkpHazMxNWd6eE12V2JFLWdDQmNXQ0oyUnQ3RFlQZmhaV3B6YkJPQTlEaTBMTUFBdTVfSDJERE5uaWFXUWVpejZfVWhXRVpWdy1DV0xUemFzMzdvSWhkTzJYMjVJNUJjX0ZQZHoxT1FhTlRRTjhyTzBMRjVRMHZkbWM2LdIB1gFBVV95cUxNbGJtWXJISFNocnJqV2d6OFllOWdMUkZfVXJIeFpMS25mMFdLTFF1QV80ZzMtNEd0b1hMNDNBallkR0hQNENadzBDV3JoRy05TXdFT2dBTXV2dVhiYkxGcEpBdXBGMkg2eUFzejRocjcxOGxFVTFnX0hDcmRlUndCTmk0dnBmV0l4ZVVNZG0wa0RfZE9IZ0dkRjFKOXV2YkxXemM5ZWd5UmNfUXB1MmpVamcyTHNXTHppWm5nRndBemx5RER5eHNFNDNobFdFSGFacW1XWWlB?oc=5\" target=\"_blank\">Convocan dos nuevos paros en Konecta BTO contra «un ERE encubierto» con trece despidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">naiz:</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTklTejg3ZmNQUEZlQ0dzMFhseHhXSFQ0ZGFUWjQtdnY5UmdkaXdXVWxXMXBVRmc2aURLY0RaeHJEd041TC1sc1dkOFNEeXA3WGtDSjZCdmQ0WkpHazMxNWd6eE12V2JFLWdDQmNXQ0oyUnQ3RFlQZmhaV3B6YkJPQTlEaTBMTUFBdTVfSDJERE5uaWFXUWVpejZfVWhXRVpWdy1DV0xUemFzMzdvSWhkTzJYMjVJNUJjX0ZQZHoxT1FhTlRRTjhyTzBMRjVRMHZkbWM2LdIB1gFBVV95cUxNbGJtWXJISFNocnJqV2d6OFllOWdMUkZfVXJIeFpMS25mMFdLTFF1QV80ZzMtNEd0b1hMNDNBallkR0hQNENadzBDV3JoRy05TXdFT2dBTXV2dVhiYkxGcEpBdXBGMkg2eUFzejRocjcxOGxFVTFnX0hDcmRlUndCTmk0dnBmV0l4ZVVNZG0wa0RfZE9IZ0dkRjFKOXV2YkxXemM5ZWd5UmNfUXB1MmpVamcyTHNXTHppWm5nRndBemx5RER5eHNFNDNobFdFSGFacW1XWWlB?oc=5\" target=\"_blank\">Convocan dos nuevos paros en Konecta BTO contra «un ERE encubierto» con trece despidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">naiz.eus</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-08-07T12:56:00Z",
@@ -538,5 +502,41 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "Konecta BTO",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Munich pacta el ERE y echará a 45 personas - cronicaglobal.elespanol.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEhfTlJ2S1dIMnVtYWdrT200TzBTbzVuclBqSTNmQmhabmpKeWVPWnlxSy0zcFFMT240N0xUWkI3dmdYY3hJNlpMT0d4SVdmNTJyT2Z3czRkZExCMlRIM2pkcTBfUDV5Qlg0RTRrU3B3RlhGa2t4bHBTWkxRUGs4RjEyQTNjTzF5aVVXSS1OVWVHMUZUNWRDYnNuRlVpVGt3ZjdsWlh0SmNNWG_SAbABQVVfeXFMUEtpdHNtLS1KYTY5WG5fck85bTB3TEp1RWotYVFJNW8zbi1Lbm5TUEtCZ1M4bjBOMHZPRThoTmp2eDM5NW50WmRPYTdvWktudWRWUTBCdjVSWWRzdUtiTllKb0U1ZWlsaEM4ZTcxWDRmVjBYS2JjT2RnajFSTnZjT0stOWlhSS1EdnY3WkxJVUdGWDlDYU9qVW04UkcwRDRrNWpGS0JEc1NWSElWMml0U3g?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEhfTlJ2S1dIMnVtYWdrT200TzBTbzVuclBqSTNmQmhabmpKeWVPWnlxSy0zcFFMT240N0xUWkI3dmdYY3hJNlpMT0d4SVdmNTJyT2Z3czRkZExCMlRIM2pkcTBfUDV5Qlg0RTRrU3B3RlhGa2t4bHBTWkxRUGs4RjEyQTNjTzF5aVVXSS1OVWVHMUZUNWRDYnNuRlVpVGt3ZjdsWlh0SmNNWG_SAbABQVVfeXFMUEtpdHNtLS1KYTY5WG5fck85bTB3TEp1RWotYVFJNW8zbi1Lbm5TUEtCZ1M4bjBOMHZPRThoTmp2eDM5NW50WmRPYTdvWktudWRWUTBCdjVSWWRzdUtiTllKb0U1ZWlsaEM4ZTcxWDRmVjBYS2JjT2RnajFSTnZjT0stOWlhSS1EdnY3WkxJVUdGWDlDYU9qVW04UkcwRDRrNWpGS0JEc1NWSElWMml0U3g?oc=5\" target=\"_blank\">Munich pacta el ERE y echará a 45 personas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cronicaglobal.elespanol.com</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-14T11:37:19Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Los despidos colectivos aumentan un 15,6% hasta mayo y Catalunya es la comunidad más castigada - El Periódico",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHZaVDZKeUM0MUllYVhSdFpHNEdNNDdINEhOdjhiRTR6SEdZbFUxNHVFYTVxVFlHcVc1UmJiNl9heFJBdFpmY1N1NXV6Zk9SUTlaQ29PRUhOdFVSa1FYZVdoemlhckEwRzBPZXpwQ1dNZnI3WVFLSnd6cy1Eajg5ckx4d2VnajN3eXpqSzlEbFB0WHdPc0ZV0gGXAUFVX3lxTE5BQjFXRXRPcTZmSXRIc1E3TFE0RzYxLWtsVkVadXQ3S3BqLTJYakk1eU9RMUR5T3lvVlE5SFNDUW1oSjM2alBtdVpnRWV6OVQwYmt2VDl5cHU1OTd2NzZkZ05yaWV1NkVHQS1DLVd0M0lDUDZabU1fUUlITWM3aTJ0MFFKZmlJX2RBTVlfNm1DOVJaYXk2Yjg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHZaVDZKeUM0MUllYVhSdFpHNEdNNDdINEhOdjhiRTR6SEdZbFUxNHVFYTVxVFlHcVc1UmJiNl9heFJBdFpmY1N1NXV6Zk9SUTlaQ29PRUhOdFVSa1FYZVdoemlhckEwRzBPZXpwQ1dNZnI3WVFLSnd6cy1Eajg5ckx4d2VnajN3eXpqSzlEbFB0WHdPc0ZV0gGXAUFVX3lxTE5BQjFXRXRPcTZmSXRIc1E3TFE0RzYxLWtsVkVadXQ3S3BqLTJYakk1eU9RMUR5T3lvVlE5SFNDUW1oSjM2alBtdVpnRWV6OVQwYmt2VDl5cHU1OTd2NzZkZ05yaWV1NkVHQS1DLVd0M0lDUDZabU1fUUlITWM3aTJ0MFFKZmlJX2RBTVlfNm1DOVJaYXk2Yjg?oc=5\" target=\"_blank\">Los despidos colectivos aumentan un 15,6% hasta mayo y Catalunya es la comunidad más castigada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-10T18:33:22Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Desconocida",
+    "ubicacion": "El Periódico"
+  },
+  {
+    "titulo": "La historia de Manuela: 42 años cotizados y un recorte del 24% en su pensión tras un ERE - Las Provincias",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjVVZWJIVElqaUpiRFdaSm9CcW9xUG84NjdiLW0xUVRzT19zUXdCTlR4amk0VGh5MWYwU0lNM09Dd1c5dGRfS1NDdDJucVJjUU1HOHRmV0htTHZ3ckJLMWM2eGNDUkthY0ZraEo3cENvLVNyVjBFM0wzSUdmbDBaRzAtU1JOWWNJLTFoMEctR29HNlFLaklSdWNVUVhPaG12UGgyS0tPczRZaWstZUE3SW5tZFdVVGh0T0JBTEJZS1nSAcYBQVVfeXFMT1N6R0Y1cGNHZWhFd2RwT19BNEN2d1RvNWZhcEdzcFJseXFJdjVvMVNKMnZWVU8wbWRhaVlHdkxjblpGM2xrRzlhLU44bGZNLVlpbFhkdmlIZ1lYZE9ZbWYyc24xMzE5b0lJQXZyWEpsYUtvSVpYbDNVUG45blFJRDdQS1AtRkRKLW9lMHJyUlpZaWNwUUZ6MDB6aDBVZ205d3RGN0ZLTHp4dE1xYkp0aVpSWTBrSnNJUmVqZkFaU0dBR3NLNjZ3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjVVZWJIVElqaUpiRFdaSm9CcW9xUG84NjdiLW0xUVRzT19zUXdCTlR4amk0VGh5MWYwU0lNM09Dd1c5dGRfS1NDdDJucVJjUU1HOHRmV0htTHZ3ckJLMWM2eGNDUkthY0ZraEo3cENvLVNyVjBFM0wzSUdmbDBaRzAtU1JOWWNJLTFoMEctR29HNlFLaklSdWNVUVhPaG12UGgyS0tPczRZaWstZUE3SW5tZFdVVGh0T0JBTEJZS1nSAcYBQVVfeXFMT1N6R0Y1cGNHZWhFd2RwT19BNEN2d1RvNWZhcEdzcFJseXFJdjVvMVNKMnZWVU8wbWRhaVlHdkxjblpGM2xrRzlhLU44bGZNLVlpbFhkdmlIZ1lYZE9ZbWYyc24xMzE5b0lJQXZyWEpsYUtvSVpYbDNVUG45blFJRDdQS1AtRkRKLW9lMHJyUlpZaWNwUUZ6MDB6aDBVZ205d3RGN0ZLTHp4dE1xYkp0aVpSWTBrSnNJUmVqZkFaU0dBR3NLNjZ3?oc=5\" target=\"_blank\">La historia de Manuela: 42 años cotizados y un recorte del 24% en su pensión tras un ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Provincias</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-08-12T22:41:38Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Las Provincias"
   }
 ];
