@@ -1,6 +1,6 @@
 const window_news_data = [
   {
-    "titulo": "El Ministerio de Trabajo concede un permiso de cuatro días con el 100% del salario por lluvias e inundaciones, incluso sin cotizaciones - eleconomista.es",
+    "titulo": "El Ministerio de Trabajo concede un permiso de cuatro días con el 100% del salario por lluvias e inundaciones, incluso sin cotizaciones - El Economista",
     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQY3JrRENUY1BjZVRDSVBrNUdReDFZbFV5UzdHcDVfNGZuTWpkeEdtWDE4TUdsWVNXczJWMUhyNVJsVVltbTUzZUR1V1FTRzdZVzhWZ2NMRTBMNUF6RnMxVEhuWElleEszbjZKbW9fZndqaFpPR3M0Si0xOGRDbGtTRDRTNTBDNHRoeThGUUlRX2s5TGE5bVM2OVJSQnhSX0pNdXlpVDlVV0JQajhZUjBxV2tPRGltdkI3Skt1NDl3MmtpMnpHOXVTbS1LSWRUdnZNd09PczhtZ3RfcmJPcF9GNTNWQVFsZjUxeWVPVEFHU0h3RlNUcTdzb0ZnZmNrYlhyQXdhbS1EYlVzcDJtNm5INF9jRU5TTDF5YjM4ZDJ0RjNDQTRwbzlORw?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -12,20 +12,8 @@ const window_news_data = [
     "ubicacion": "Ministerio de Trabajo"
   },
   {
-    "titulo": "El Estatuto de los Trabajadores lo confirma: tienes derecho a la reserva de tu puesto de trabajo si te han aplicado un ERTE - La Razón",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0V0d01FeFFuVTdIWFdwVHpxRWl3YjNTZURzUVJVZGpjc0w2a20wVXNtUTBlenpqNjd2TXVCSFlpVkpXMXp5N0ZiYk96LW1od0liUFBGLXNwTUc3cGF6WTN4NkI2aDdobkZORjJVLUVRRXkta2VaV1AyTTZWa2ZOUW1pUnBUR1pnaDcwLVJKTFZOZmNnSUk2SW15SHZITGlWM2VOVW5WQ0t6bWFYVEUxNk1fOVJqNGNSSmhhR3MyRmdNVG41TExBU1VvbXpZc1FKNkdKRFluVUxWaVNJVUQ5ZHQtZlhIcXNWcGFNRjNibGFOQdIBhgJBVV95cUxNUnRyRktOZUJIVzh2MzRKN2FfSEUwOW8wWDBQdWo3enFiN0pxOS1oN19tRlU4dzhZcUQtdDlIajYtQUtfbzlwaWUyUE5CUGYyV053Y24wdGhTUmpSOGZPUmtPSmxxU29Ra3ROSEdrRlBtOFctdjJsVkZxRVNoSUt6ZGpoV19wMUcyNThoWEVOcWNzbVdvalNzaTJIcUtiTGl0MjY4dTJOMHEwYUlWc0U1RDdyTF9uV2tSdTdNLXNTWVM2ZDY5WXpycE5GMTg1Mm1UWGpsdTk0ZjFLZ3QtbzNxc0M2ZTU2RWtDNXg3VWhEVmEyVS11MDdXQktrUnkwcUxxXzJxZm1R?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-12T11:16:16Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "ERTE",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "La tasa de temporalidad baja del 25 al 15% por el efecto de la reforma laboral de 2021 - El Diario Vasco",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGVNWUJVNDltQzNmclUtRFdCNzFqQzAwRVNXZmw3XzVfYi12ZGVtWHFpRE50QmVJNWhBNmFsSVpIRHNfbi1seHVqaWhoNEtXbVVncTVPbUdKQm56QXBKdzQxczl4bExtaXMxa3puUjNESXBjQ1gwQXBZd3JwbnQwMXJQRGFsSTBTRzhzVE1MTlcxeGhzWHJWRjJOMUV3amdvbWgtRGRqajh2dnZYNVlJV1dOQjNsbEU4UUHSAb8BQVVfeXFMUDJ6VV9wdGJzZng3Q2FTb0xldFJUY2gxQTJiOElET0M0Z3dvU3Z6NGhSd3cxYjJpWTJYYWEwZHpubU5KdjdMcFVFcEdkMDZkWVNtdWhyUXZVNTJVZzdyV1g4cWhmY0tIcDc1cTlnMm1RZWk1UUFoaFpGb1d6bWhkZHh2Z1ZGalJZME82eHlzek41THZrcHp6a2o0V0pVVUxvN29YY002Uy01VFJwNktmZmlBOEphRmtheG16REJHalU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnpVX3B0YnNmeDdDYVNvTGV0UlRjaDFBMmI4SURPQzRnd29Tdno0aFJ3dzFiMmlZMlhhYTBkem5tTkp2N0xwVUVwR2QwNmRZU211aHJRdlU1MlVnN3JXWDhxaGZjS0hwNzVxOWcybVFlaTVRQWhoWkZvV3ptaGRkeHZnVkZqUlkwTzZ4eXN6TjVMdmtwenprajRXSlVVTG83b1hjTTZTLTVUUnA2S2ZmaUE4SmFGa2F4bXpEQkdqVdIBvwFBVV95cUxQMnpVX3B0YnNmeDdDYVNvTGV0UlRjaDFBMmI4SURPQzRnd29Tdno0aFJ3dzFiMmlZMlhhYTBkem5tTkp2N0xwVUVwR2QwNmRZU211aHJRdlU1MlVnN3JXWDhxaGZjS0hwNzVxOWcybVFlaTVRQWhoWkZvV3ptaGRkeHZnVkZqUlkwTzZ4eXN6TjVMdmtwenprajRXSlVVTG83b1hjTTZTLTVUUnA2S2ZmaUE4SmFGa2F4bXpEQkdqVQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
@@ -36,12 +24,12 @@ const window_news_data = [
     "ubicacion": "Diario Vasco"
   },
   {
-    "titulo": "Avalado por el Estatuto de los Trabajadores: los trabajadores deben tener 1 día y medio de descanso semanal - OkDiario",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjVFdFUxX0l1NjBYdXlOMVE3LU9kWmU4QWxoTm1hZmw3VmI2UmpMaWhrcVdkQUk1MGNCZlFpZ0ZTbWo3aURNMGdIcGlqd2dTWFF0U1Jqd2FfT3lHOXhQellTV1VRTGg2d1djYnJ6dER3LWI0WjBJZDJCTnFNSnNudFpMSk52SVRaaG5nNjJqbVRzaVAwaGR5SVlSQlpwbk1pbVBFUkxPOFVNN1gwV3dHVTJnRU1WWmV0RzZlbWQ5b9IBxAFBVV95cUxNYWhZbmNVWWhoeElfOFN3YXoyeUhBRkdmcGRnM2x2NDFLdG1HdldZQ3hJMVNUMVhaWTRESmlzd1VDVG1kS0Rmbno2ZkpoSkhXSUM4b19lTjlNQkxXUkpmWUMtRHZfejVxdjZfbkR0YnlybGlVbDNpSFIzTFdGdGk0QWx2OVBsbHRicFlGdkt4QUs4RFo3ZF9VZW1CSlRvamJUZUhHSHlQbHZrbktEM3VJVHJZaExyanRVRy0tZDFRYzFTMFRh?oc=5",
+    "titulo": "Confirmado por el Estatuto de los Trabajadores: los empleados pueden pedir cuatro días ante un aviso naranja por lluvias y tormentas - El Periódico de Aragón",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUVpSVlTNVRtbjBKaWZWelN5R1NTRzd3a09ZRkhTZzF6bjQzQzY3cF9qWEZPMm9IWXlRLVFuTUlLMVJTVXltaHBQcXRQQU84dC1MWWVZTlZkcDVpVFhCZ3RURnAwd0xrOHpqa3F1bk90d3VCWlBBbGhnTm9Ed3VINno3Q0hJa1VqWldJbWpaUnZHNHNJUkVsVnVJZG0tdV96d0FLQkJOVDJheEtkeWZyY2FZMXdib1YtaHNLM2Yzb9IBxAFBVV95cUxPRkVuWG1Ha0llaklwV1M5TmxRaGNxVHBseXA1SlU1LWNXQ21qaHZSZ1UyZEYtX0JERmp1NFpPM05GNDBIQnM1Y0t1UzZKRS1kVkhmS3NjUkxVcFdPRy1QQ1VjMThYVmJQak1kb2pmZXE3UU9UeHRBVExLcVJmc0ItdkRGMFlJRzltSlhOOERjY1dhLUswc0ppMWIxVFpIY3FDaVM0Vko1ZUQzOUhvdDRiRzFOV19ULS1NcWZRSWZJZGY1WkYz?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-10T15:16:56Z",
+    "fecha": "2026-09-17T18:00:26Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
     "empresa": "Desconocida",
@@ -60,19 +48,7 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "El Estatuto de los Trabajadores lo confirma: hasta tres años de excedencia para cuidar a un hijo y dos para atender a la pareja - Líder Actual",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnpCVEY2aW5jZE1raklxc0g3VVNHTUJqcGp5Mi1CNXJGRXVUODRUYkhUR0RzQzRyR0tqcGRiODNmRUxQQUl6U2NhZENxa05qejBHVjFxYnBiMlktV29jWXFOSl92UXp1LVBndXF0aHV6UE5OOTJxcnIzclZqSXNUMGdCY1RYejk5QmhGNFR4TjByUDFKUUhnNExDanVVaHBqek1vU3Vn?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T15:30:00Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "La mitad de los contratos firmados en agosto duraron menos de tres meses pese a las restricciones de la reforma laboral - eldebate.com",
+    "titulo": "La mitad de los contratos firmados en agosto duraron menos de tres meses pese a las restricciones de la reforma laboral - El Debate",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOXRVRnlGbEZCUUNxd1NKSWZlYlZFeEVvX21WWEx3cDM0cGRnSE5uRVBYWHR3RmwyekF0RGw2RjNPenpZcmREaFF2WHdGSk9uSjJMcC15R2ZlLTU1ajBlVWVXcm5IdGdYRmhveDdyUDVSUURWekNnWTFOTThwck9zbFRHYXdtY1BlZmVIOFhoX0taZGZVOS04aGpkNDNIOUFrZzBlU0ltc0N0ZEpyTVR0Z3VlcFBtS1pPQkNweHgwV1NQMTRMNElpWG9uVFBFMGtFeVVEdFhseUQxQkd2NE930gHkAUFVX3lxTE5oQU44TnpyTTA2cDh2RUJITm5kd19DNU5UYlpKaFY2ZERoLV9ERHhuU1JsSXVzTnRGMlB4eFFqeUZkdWJEcEFFb1ljRzgyTi1pQ0owYldoeG0wb0I5YkxBWHNGNkpnU1o1NHAxM0swTE1Dc1dFUHBnSUxxVGN4c3hrSS1VSk92aFEyNlIwd0xyWmtGUFFadTIwd0lxamlfRGp5cV8xa1VOdl9paGdScnd4X0JVNGY5TzZVaVlWMjA5dlBDalNjNUZuc0ZEMWdHc1I1ajA2ajU0NE1hanBXT2pZMFJBcA?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -84,7 +60,7 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Los despidos de trabajadores en periodo de prueba se han multiplicado por cinco desde la reforma laboral - nuevarevolucion.es",
+    "titulo": "Los despidos de trabajadores en periodo de prueba se han multiplicado por cinco desde la reforma laboral - NR | Periodismo alternativo",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajl6UVlEdFlKTmgyb2VHUGg1S3BucWszLUljR2VvWXRtZlNnVmsxUjlvWXlaSmlLdjFaMDNGTjR1aEplaXh2V1Y4OWVzNFBjM0F2MXNlVUp4VW90S0QtM0U4RnEyVTVnNjB6aHFNb2ppeFRPY1VKcnVuLVlXek1YQjAwV2htR0NBU0c3THhJZnlFRFNHWmhPSnFnNVYyVGFzUmhycUZIdlMyUTV6NXczRG5KWkxwd3RXMzFONUZTRE1RMzNSTkpIYjRYdHU?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -94,6 +70,18 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "El Estatuto de los Trabajadores lo confirma: si caes enfermo en tus vacaciones, no pierdes tus días libres y los puedes recuperar - La Provincia",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM1Q4S1kyMXhteHd0aVc1bHh6TlhvN2JmV3ZST3k1b2ZCN2xNTkJjaGRZUmNtS3lqcG5oamNaaDRzMWtITGVNdU9kb045T1M0X2xDUjFzQlZIUUt5SFd3UVVEWG5STlRCd0xSUWgtR3ZiR01yLUVGTWtCOFRNaUlLVk1taTVhQVNnd1pXU0lMdXJHUTUwazFkRXFqUDNUX2Q3LTdFbkJfdzdMWFRMTkhSaVlHMkZ6bzlXc2Jpem10czlZZEpSemhGMTZTTDdiTk11bnlLanpR0gHbAUFVX3lxTFBxV3lISWdoNmVFb1dVa3Z3c3IyNG1jQVg4bTh6NEU1UVUySlFXUEI1NWUyNE9hYTNKdzk2WjV2U3VMcjkzZGJFdlpaQkF2NGplOVZidnRtcC1Za0pGT3F3LUk2N1k3VmRLOW9DX1pLR1B0T1pFUmxBWXhrY2M4bUg5YS12bVBJdHRWWm9BY0RSdE9OblFla01XVXBxZHIyTTNMSjZWdUI5RzlBNWd5WkstTjFXSTZ6XzVKdENQd2JDRjRDNUxEOWMyd2R2djFTRVNSU1hiemJDN3pFbw?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-13T06:01:05Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Provincia"
   },
   {
     "titulo": "Oficial y confirmado | Reforma laboral: el Supremo confirma que el desayuno y los 15 minutos de cortesía forman parte de la jornada laboral - El Cronista",
@@ -106,6 +94,18 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "Supremo"
+  },
+  {
+    "titulo": "La reforma laboral de Milei - CLACSO",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMDh4Q1RjMUQwYUc2YnhsYlVBQjk0ZjV3RHd2RUtFSEQ4OHczZkdab2QxbmtVNmItckpwTlVFSUpJYi00WnN4YWdxbHFvOXpXN29oYUxaSFNzWGJINmdkLQ?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T19:41:30Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Milei"
   },
   {
     "titulo": "Matías laks, Country Manager de Rappi: “Colombia tiene la reforma laboral más innovadora y mejor del mundo” - AS Colombia",
@@ -132,18 +132,6 @@ const window_news_data = [
     "ubicacion": "Unicentro Bogotá"
   },
   {
-    "titulo": "Efectos de la Reforma laboral: acuerdo entre Renault y SMATA por el banco de horas - iProfesional",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnNSNDdZVGE4RXNlY2dEMzVxN3NkaU4zM2VyaGFSVWNnMUYwQ1VyeE1QalF0LUp4MDlib3dESFBZRXk0Wi0zc2ZXbmxzNGhET2k3cWJEaWNXMC1uUUx5QTRYRzAzQnZzQ2ZRLWc4bC1GeXFJdHVqb0R6bkZrMFFKcDBqQ2dhNkJPTzdMTFRFang0ajVOODIxRmJwczhua1V3TUNBUXJNMGhMTkxmM0VDSzNCUE1wR2ZuTWZyRVZqY3lXdkRl0gHKAUFVX3lxTE9CaHQ1OXV4dGFIemhMTXVRekVRcVFPY3hKOHp3bF9TN2otLVFBQW5GaHlIakY2QUlYN2ZQc0FJeHN1djM3S3lkdFlTc1l3Y1lWQXl4NmpqZkJKUFBtVXFfazV6dE03RmM5MkhLdE90TEU4Y2s5cEh3SzdnM1ZUS0pjMnowdDRibkVtMUVFOHpRdWplVEQ5bTRkUmh0aG1CdzN4T0tkalQ5ZDN5TUg2bU9LSUpTN1lEVlZLWUhrRTdTUGtEYkZVc2gtaXc?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-11T12:06:00Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Renault",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "Ministerio de Trabajo inicia convocatorias para empleos en España - latribuna.com.py",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazdRYm9RZ3NOeDdGQUZCczYzMjRDVGVvNVNjYy1Zc1RkeFRZNzdQSy04cVlsT0ZCb2xDdXJVZFVGZE1feE03ZnpvWDk3dGxwSEtwMTdNUDFRWFpSSml1b1BEaUFSUDNWTDhJZHFfYWI0VFVRTk1nOFdyN243RHE3VXY3Nzg1bUlxV2k2c2hWMjVEVENEOTBpWVF3TEM4Vk9kWnRqd0hncGt6R1I0MTQ1WWt0LXBvUHN2ZTNnb3VYQ2dkeUU?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
@@ -154,6 +142,18 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "España"
+  },
+  {
+    "titulo": "Efectos de la Reforma laboral: acuerdo entre Renault y SMATA por el banco de horas - iProfesional",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnNSNDdZVGE4RXNlY2dEMzVxN3NkaU4zM2VyaGFSVWNnMUYwQ1VyeE1QalF0LUp4MDlib3dESFBZRXk0Wi0zc2ZXbmxzNGhET2k3cWJEaWNXMC1uUUx5QTRYRzAzQnZzQ2ZRLWc4bC1GeXFJdHVqb0R6bkZrMFFKcDBqQ2dhNkJPTzdMTFRFang0ajVOODIxRmJwczhua1V3TUNBUXJNMGhMTkxmM0VDSzNCUE1wR2ZuTWZyRVZqY3lXdkRl0gHKAUFVX3lxTE9CaHQ1OXV4dGFIemhMTXVRekVRcVFPY3hKOHp3bF9TN2otLVFBQW5GaHlIakY2QUlYN2ZQc0FJeHN1djM3S3lkdFlTc1l3Y1lWQXl4NmpqZkJKUFBtVXFfazV6dE03RmM5MkhLdE90TEU4Y2s5cEh3SzdnM1ZUS0pjMnowdDRibkVtMUVFOHpRdWplVEQ5bTRkUmh0aG1CdzN4T0tkalQ5ZDN5TUg2bU9LSUpTN1lEVlZLWUhrRTdTUGtEYkZVc2gtaXc?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-11T12:06:00Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Renault",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Pese a los cambios que trajo la reforma laboral, empresas elevan su optimismo de cara al cierre del 2026 - Portafolio.co",
@@ -180,16 +180,28 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "El Estatuto de los Trabajadores lo ratifica: si tienes un año de antigüedad cuentas con 20 horas retribuidas de formación - La Razón",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdks4NmdBTENLWk5PNktvemlWUDlzaTBWM01EOGxNUmZrZnpza2tjd2VuekZnY0cxVkNsRzhSaXlnS2JNVHBwZVpod2V1TlF1UEtEVVVjU19ub1ZmaVp4c0RTdndfak9VcU8yRVNSMWN4a1dLcGxoQ01neU5adzhxdHRWVmFPdGVicDE3dkF5cFlxNDU3cU96RlIxN2RlbDQxTHctRHh0bDNKSkhNSmRUaUk2LWhxLVJNQW04M0xCOUFhdHNOT19lXzA1Y1JqV2E3NmV3ekluWDJ3dEd0VWprZEhxQzVEOWJZdFZhdmxpWUdLNENMU2tTeFVTWDI2N0hadmdzYW9kb2YzcExf0gGMAkFVX3lxTE52Szg2Z0FMQ0taTk82S296aVZQOXNpMFYzTUQ4bE1SZmtmenNra2N3ZW56RmdjRzFWQ2xHOFJpeWdLYk1UcHBlWmh3ZXVOUXVQS0RVVWNTX25vVmZpWnhzRFN2d19qT1VxTzJFU1IxY3hrV0twbGhDTWd5Tlp3OHF0dFZWYU90ZWJwMTd2QXlwWXE0NTdxT3pGUjE3ZGVsNDFMdy1EeHRsM0pKSE1KZFRpSTYtaHEtUk1BbTgzTEI5QWF0c05PX2VfMDVjUmpXYTc2ZXd6SW5YMnd0R3RVamtkSHFDNUQ5Yll0VmF2bGlZR0s0Q0xTa1N4VVNYMjY3SFp2Z3Nhb2RvZjNwTF8?oc=5",
+    "titulo": "La Justicia aplicó la reforma laboral y una indemnización por despido se elevó a $160 millones de pesos - Perfil",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWG8yd1c2U3hZT25BajJ4d3NncVVrb0ExaXdKN2lkZWFRZVl6MmZ4UzA2UHNIZjRBbkhOTjA0elViSS1qcWpvamx1UTEybk5DYkczWEp2ZnJLWUh0cWdVVW52dDJiLTlsNDBxNERhRkpKNVNrSXNkbjZveWpzaDZjU0RzREMzMzJBWEdGeVNjcnMzQWdZRUppRFdvX1l4Zzh5U0lfbXlBYTdydHV6N2FJNmRVNzlPbVlpTFR1cHJ5aFBibmE3SUZ1bzlVOGNKVW5YbS1xYXkzbXFqXzhiM2pNWVBHaTAtcjY10gHoAUFVX3lxTFBYbzJ3VzZTeFlPbkFqMnh3c2dxVWtvQTFpd0o3aWRlYVFlWXoyZnhTMDZQc0hmNEFuSE5OMDR6VWJJLWpxam9qbHVRMTJuTkNiRzNYSnZmcktZSHRxZ1VVbnZ0MmItOWw0MHE0RGFGSko1U2tJc2RuNm95anNoNmNTRHNEQzMzMkFYR0Z5U2NyczNBZ1lFSmlEV29fWXhnOHlTSV9teUFhN3J0dXo3YUk2ZFU3OU9tWWlMVHVwcnloUGJuYTdJRnVvOVU4Y0pVblhtLXFheTNtcWpfOGIzak1ZUEdpMC1yNjU?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-15T04:30:16Z",
+    "fecha": "2026-09-16T00:57:35Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
-    "empresa": "La Razón",
+    "empresa": "Justicia",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Es oficial: si tu jefe se jubila o fallece, la ley reconoce una compensación de un mes de sueldo - La Provincia",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHpJQWpDaFAzMmV4azc2amh5NTNTM2s5WlRrM1lmekhsR1d5cW1qdDZCRHdJcEUwQk5GSFBwdlNFQ1VHdEZkSF82S0FZNDZnUkZ0ZTB5aHd5Z3FKZXhPdWVaQ181V2cxQ1hySnEwZ0ZGX1MzODl6ZGdSazV6Z1ZKTlFxR2lMb1NtTmRF0gGQAUFVX3lxTFBwVGE1YTVUSHJlcFVCR1Bkd3kwN2kwWHVrU1NoTk82UmI4amJsSllCNVFuWXJpQ3AtenA1ZmRUaGpsc0dJZl9GWFU5R2tPaHYtOVhRVVBZd2hqMS16WUNrb0tfNEsydWJMOUZyREotaEhMLThlMFV1MEVHUWlKamZid3dCZ3JDZ2l3TWJRMU43Sw?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-13T10:00:31Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Provincia"
   },
   {
     "titulo": "Aplicaron la reforma laboral y una indemnización por despido pasó de $6 millones a casi $160 millones - Infobae",
@@ -204,18 +216,6 @@ const window_news_data = [
     "ubicacion": "Infobae"
   },
   {
-    "titulo": "La Justicia aplicó la reforma laboral y una indemnización por despido se elevó a $160 millones de pesos - perfil.com",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWG8yd1c2U3hZT25BajJ4d3NncVVrb0ExaXdKN2lkZWFRZVl6MmZ4UzA2UHNIZjRBbkhOTjA0elViSS1qcWpvamx1UTEybk5DYkczWEp2ZnJLWUh0cWdVVW52dDJiLTlsNDBxNERhRkpKNVNrSXNkbjZveWpzaDZjU0RzREMzMzJBWEdGeVNjcnMzQWdZRUppRFdvX1l4Zzh5U0lfbXlBYTdydHV6N2FJNmRVNzlPbVlpTFR1cHJ5aFBibmE3SUZ1bzlVOGNKVW5YbS1xYXkzbXFqXzhiM2pNWVBHaTAtcjY10gHoAUFVX3lxTFBYbzJ3VzZTeFlPbkFqMnh3c2dxVWtvQTFpd0o3aWRlYVFlWXoyZnhTMDZQc0hmNEFuSE5OMDR6VWJJLWpxam9qbHVRMTJuTkNiRzNYSnZmcktZSHRxZ1VVbnZ0MmItOWw0MHE0RGFGSko1U2tJc2RuNm95anNoNmNTRHNEQzMzMkFYR0Z5U2NyczNBZ1lFSmlEV29fWXhnOHlTSV9teUFhN3J0dXo3YUk2ZFU3OU9tWWlMVHVwcnloUGJuYTdJRnVvOVU4Y0pVblhtLXFheTNtcWpfOGIzak1ZUEdpMC1yNjU?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-16T00:57:35Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Justicia",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "Oficial y obligatorio | Ratifican la reforma laboral: los trabajadores no tienen garantía constitucional de dos días de descanso - El Cronista",
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMHpwaWJGNFNyWHp5bzJCRjJzbXpDaTdaWm8yb0lxYUxwUjJFZXpaZllfamIyUm9nanhidmkyV0hRN1FFak1odVZfSjFsb2tnN3Y0ejc2cllVR1cxbnlFVGw2Nm5xYVZYcmcxN0tJdGVna3VmRnZsRUMyM3BBUEhEN0FaeXNSaHExODFtQUZjVU1uUE5BOThyVEMteFVkRUJFOXhxcUpzZEtqejFLU3REQ1ptc3FMZHdFR2ZmQVhqeHlXSWNXTHN2N3J5YktIbDVwLVFvVGZFRjdHZTN5QUZRM2VCMU04WThYWUdHT3NMcUQ3TDFBLVQ1OGNwQmlVa1E2aXfSAZwCQVVfeXFMTXV0NlVhWmJyWi0wcU0zcHNuSUNZYm9FOTgtTnNVNm14ZU4xRGdhQWtOWVNsdlZ0MzhHT3pOdHREdFcySzd3aDJnSkdOMGZrSk5fMUZfMlE2OFlxRGNnNnNWZ00teGFzZGVBSE5mZUxNWExnT0FpVUpNbzJyNkZfTTFoakxNbGJUU0R4MWtkU0RSd3B1ODVyb2FTT1dpMW1qVzNVQUJFd242YU1hMUgwWUJCRGFUZU9aVjFhbHcxWmJCVUlyNE1oSXNGVlJnY1kzVFk0TDNhb0VvQUpvSGhfZ0VtMUlQUzN0aWJuZzdOd3Zad0JCVlRncVlVLUJZZFduWjVGVzJUTDFoR3FWalVWdDV5Vm5zWGFYMHQxUWg?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
@@ -226,6 +226,18 @@ const window_news_data = [
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "Ratifican"
+  },
+  {
+    "titulo": "El Ministerio de Trabajo abre procesos sancionatorios tras hallar incumplimientos en jornadas nocturnas en El Salvador - Infobae",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc1pDdDhfUmoxWURIbVZ0dlczYjN5dkpPSURUQUFXTWRrdURTeVlJOGxLRkZPdzd4d3Y2TUhwQzZzY043emFjWnlldHF1SjV0eEhSTlNjUHZJOEhnaEdWSEtVZ3VUb2h4Y3NUT1FXamFrdk1mVEQ2NlpmUTVhc3BlZ0xjU3ZZTXhhaF8wemV5dXliZGZURFdVaTVIdHF6dWdweWlGeEJfeVFveERYb2g2U083T2JYVVBoZm5wbkQ4aEsxOUwxTXZ2NFo0LTd4ck5hRzFoOXRqc0VXMGowcUM5bDB1YUMtN0VINGVYNlpNMENtTXlZLTRLc1F30gGUAkFVX3lxTE9abFpJS1Zpd2dEY0xmZjhFNmNleGVmMWFPVUJEZnZxSXl2dlRneVVrc1ktZEdEMXRqVU45Y3J4QXAzSFNxNk9lN2NPRk44WWhKWk9CY0U2THctbGtTZ3djWVdWWlN2enZIYlY3OS0xNzI3TVlNNGlwb2pFTkNVbDJEV0paNHh4OVdVaTBjQjY3TjMzSmw3Z1FtRGtRNkRRcUhuTTRhZTRvN05HYlRmZ2pYRDZmd0owbl9HZm1jX25ZS3VHZXdpMlFNTmhpNGxrUXZIdHpnRXYzOU5uNjA1amdLMzMtVjJJdFZXTmw2eGRCYm5QUmc3a1pYVlBjX24zZGoxazBaVUxZMDFvNXBoLWFHZS1KYQ?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T18:49:49Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Ministerio de Trabajo"
   },
   {
     "titulo": "Sindicatos denuncian persistencia del \"charrismo\" a siete años de reforma laboral - La Jornada",
@@ -264,16 +276,28 @@ const window_news_data = [
     "ubicacion": "puerto de"
   },
   {
-    "titulo": "La reforma laboral no tiene impacto: Volvió a caer el empleo privado formal - El Diario Varelense",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUZPQ3d5bVV1ZmJFakNfT1V6alg5M2FSTjJMcUoxNDJLY1Qyc1ZjUXdOM1pGWjRUTXU1WXZDb0RyX0hZRGJnOGZWbjhwYTBGcnVQZXFSRE1vYURfZW1RZmpaOTcwUHFXcW9oeHhpYk5wWVY3TWM4ZVZnRWE1N1c0VUktcW85U2xCUVdyNkdkV1JlWDNzSnRNNW84U25jeWltR1pXakNXZjJGYmZ0?oc=5",
+    "titulo": "La Justicia de San Juan aplicó la reforma laboral a un despido de 2014 y la indemnización saltó de $6 millones a casi $160 - La Nación",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM3RvU3dCVWlYVU9GZW1mMWFDeXYwdm52dU5DSE41QXpmWkdKbUpTRmVSVjJCckhtVUZGalU4NXdXeGtzdndJTnQtcHBUSzl3QzNnRElhaHZHOGNjSGx3bDIzMWptd0NCR1I1ME9sVlJ6NHA0U1pyd0dhbGtqUmpkOGtWNEFKOHJmR0NsaXNmUDI0TDhxb0FEOTIta2ZZS3JfYl9fWDZkQ0JHUnR1QjIySVlTRmV1aVFaVnVjRk0tSzNGaUFZZVJDZFhjaHV2NUNqeWNKMUw1alowa2NZMHI0U20tTQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-14T18:41:06Z",
+    "fecha": "2026-09-14T15:19:00Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
     "empresa": "Desconocida",
-    "ubicacion": "Volvió"
+    "ubicacion": "Nación"
+  },
+  {
+    "titulo": "Impacta empresas reforma laboral - Reforma",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIUHpZNGVKVm5qNXJ4em5uSUVKTTZPZW9wMFJtU0tDUnFLRGR0SzhtSnVzb0JzT0hOS2RpendQYVNJbEoyTWxqSjFVS01uel9LRzVtWGVIR082OE00VDdtVUFfN0pVQkw2LXRiakVWZGM2UHJOSUdBN2lB?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T11:01:54Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "🔴🔵El Poder Ejecutivo, a través del Ministerio de Trabajo y Promoción del Empleo (MTPE), oficializó la designación de Elizabeth Zulema Tomas Gonzáles de Palomino como nueva presidenta ejecutiva del Seguro Social de Salud (EsSalud). 🌐Más informació - facebook.com",
@@ -289,27 +313,39 @@ const window_news_data = [
   },
   {
     "titulo": "El SEOCA Zona Oeste participó de la movilización en contra de la reforma laboral - NOVA Bonaerense",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlcweWF4TGR6bVBMbnV6WFFjZVBRSGtYMEVkaG5HU1pNYTBTLVhXa3JjYVV6TG9RTFFlNnVCektRaFZTbXdHMVRhUl9oaUpWd2loaV9TUEdlOG9VWXNlUjFad05JY3NWNWVFRGRITFQzeF9zaE8wdHdGZ1NvSll4OQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWE9pbnBlMmd2NjZ4TEFGVERjX3p4YTAzSnVmdUN1RG5wOXF0bk9OMGk4VDJqY0x5NlhyMllBeUl4cWQ1aFJQTjJaTlZTcHJwYV9OU3ZDMEZURWtVbUF4UTNhX2RWemQ3WTh5bEpwVG5mSE55ODVkaVRmUi1HUkJMcg?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-14T07:00:00Z",
+    "fecha": "2026-09-14T01:05:53Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
     "empresa": "Desconocida",
     "ubicacion": "SEOCA Zona Oeste"
   },
   {
-    "titulo": "La Justicia de San Juan aplicó la reforma laboral a un despido de 2014 y la indemnización saltó de $6 millones a casi $160 - La Nación",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM3RvU3dCVWlYVU9GZW1mMWFDeXYwdm52dU5DSE41QXpmWkdKbUpTRmVSVjJCckhtVUZGalU4NXdXeGtzdndJTnQtcHBUSzl3QzNnRElhaHZHOGNjSGx3bDIzMWptd0NCR1I1ME9sVlJ6NHA0U1pyd0dhbGtqUmpkOGtWNEFKOHJmR0NsaXNmUDI0TDhxb0FEOTIta2ZZS3JfYl9fWDZkQ0JHUnR1QjIySVlTRmV1aVFaVnVjRk0tSzNGaUFZZVJDZFhjaHV2NUNqeWNKMUw1alowa2NZMHI0U20tTQ?oc=5",
+    "titulo": "Reforma laboral: reglamentaron los productos de inversión para los fondos de asistencia laboral - frente a Cano",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0dEaHB5MXRiRGJCcTVIcFRyUmFDYU1lLWRvQ01KNmhCd1pYTFlZN2owakZVMnpDU0xtZDJTaHhIS0pXRm80UTUyOTNYNU93OHIxOTZaX25WM0JHZ1hnUnZsTnp3Slh4Q1BaSnppbDN2S0FfWk5nSjQzWUhJdUpQSTl0ZUxsNjg5Q2Q4VlFSYVN0MGtwRGJpTHhwOGNrVkV4MUl5Q3Vpd180TEhodk1tZ1JMVTJHLTFpRjJpY19KQQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-14T15:19:00Z",
+    "fecha": "2026-09-17T15:33:00Z",
+    "fuente": "Novedades Legales (España)",
+    "categoria": "Legislación",
+    "empresa": "Cano",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "La reforma laboral no tiene impacto: Volvió a caer el empleo privado formal - El Diario Varelense",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUZPQ3d5bVV1ZmJFakNfT1V6alg5M2FSTjJMcUoxNDJLY1Qyc1ZjUXdOM1pGWjRUTXU1WXZDb0RyX0hZRGJnOGZWbjhwYTBGcnVQZXFSRE1vYURfZW1RZmpaOTcwUHFXcW9oeHhpYk5wWVY3TWM4ZVZnRWE1N1c0VUktcW85U2xCUVdyNkdkV1JlWDNzSnRNNW84U25jeWltR1pXakNXZjJGYmZ0?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-14T18:41:06Z",
     "fuente": "Novedades Legales (España)",
     "categoria": "Legislación",
     "empresa": "Desconocida",
-    "ubicacion": "Nación"
+    "ubicacion": "Volvió"
   },
   {
     "titulo": "Reforma Laboral: Indemnización por Despido Escaló de $6 Millones a $160 Millones en San Juan - Rosario Finanzas",
@@ -324,43 +360,7 @@ const window_news_data = [
     "ubicacion": "Indemnización"
   },
   {
-    "titulo": "Reforma laboral: imponen el primer banco de horas - Diario Hoy En la noticia",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1ItVHhuTzJiTjdaVVY1N2pxZDJRYWpGZWFPeHhyc3M0bFlzSDdLbHdkTU5qdlM4d2NiaS1wcDFjalRwbkx1d2ZJYWx6eTJOWkthT0xFTzREZWVXSzUxVWZBRHc2TUN0OTQ4S1BoN2dNUWpHWU5JMTEtVkhvN045WVUyRmEtRVVfTzg1LUxQZ9IBlAFBVV95cUxOdF9OSXRkRGNKQU5HdTQtcFAyelV6R2N0Y256a0k0X3VaZzBILUpVQ3M4LWV2aUpJMzdGUGdFVVN4akFUQU1teHBvamV1c0ZYaC02QVI3T2tHanh0ZnNwbFRmdW9ZLXdRM1lnWlNFbHBxaE90dThfS0lHdEpORVlENnpxem5oUG9MYWZjR1pVeFJHUDNV?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-16T03:28:47Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "La Cámara del Trabajo habilita la vigencia de la Reforma Laboral al conceder efecto suspensivo a la apelación del Gobierno - DeGremiales.com",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX3NiQ1MzNGdUS3FtU0l5U1NUWlgwbGw4eW9UX1g5b2oxNDB2MjJibmJiby0waU5LVFdPX1ZISkg0TWY3M0pDZFU4UUdvcGF4T2F1cExwT00wUTNVR25vdTFGRnRsYnV2aFRmdnRfdjE0b1gwaWhJeVZra0s3NUd5NW84SDVKZU10RUUzYi1GQ2tSaVU1YkRZSUJUUHNXdk5CaXJaVEVwQzlwVUZtb2tyeWRoVnNFcmc0aVJPR2w5clBWMzI1MjZaZkNBTy1tazZNS3I1c1NTOFJDUUQ2RUdwUUJER2RRX201aGxJ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-13T09:00:49Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Cámara del Trabajo"
-  },
-  {
-    "titulo": "Cuba estiró el plazo de la reforma laboral - El Ciudadano",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTFdzMlh5YlMtRmdfNjBXX3dJSUJjMk1IWTJWbHhJLXdYeG9uSmh1Nm5oQldXXzNaMkszZkVXa3Fxb1BGRVk0eEt6VmNUdTVkMTdILVF5cUtRSTBoY1BrNG96bjljOFhHS1BPVEh1QUpfQXhRWmNPdmVqelFSeVXSAX9BVV95cUxOSkxXczJYeWJTLUZnXzYwV193SUlCYzJNSFkyVmx4SS13WHhvbkpodTZuaEJXV18zWjJLM2ZFV2txcW9QRkVZNHhLelZjVHU1ZDE3SC1ReXFLUUkwaGNQazRvem45YzhYR0tQT1RIdUFKX0F4UVpjT3ZlanpRUnlV?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-13T17:25:55Z",
-    "fuente": "Novedades Legales (España)",
-    "categoria": "Legislación",
-    "empresa": "Desconocida",
-    "ubicacion": "Cuba"
-  },
-  {
-    "titulo": "Juver ficha a Antonio Vidal nuevo director de Recursos Humanos para impulsar el desarrollo del talento - Murcia Plaza",
+    "titulo": "Juver ficha a Antonio Vidal nuevo director de Recursos Humanos para impulsar el desarrollo del talento - murciaplaza.com",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZDBmdUZVQzg5NHpyNGpjZDFRaVZQT3JieDBpMUZtbFAzYzNKSlAzNXc3UUJaZjlmMFlwck5xbzdVU2pPS1dXcUJHMjBhMWloWUw3ZFZ6MThrRU51VGRFc05ubjRFTmpEWmFqWWx3QzNpb2R4V1dpMkFzVmU0LTFGWnZldDJSMlpOQmdHT2tXSHR2X2tFdWRodGdaWVdYXzZZT0wxWWlQNjBKenM0LVo2b2kzUm8weHd5Y3d2YXd2UUFkUWh5LW45cnhLMXRLNXB1U2VScmJ5RXZpY3l5WnphQ0pkQ0Vjb3dqOFE?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -372,36 +372,36 @@ const window_news_data = [
     "ubicacion": "Juver"
   },
   {
-    "titulo": "Antonio Vidal, nuevo director de Recursos Humanos de Juver - FRS Food Retail & Service",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjRiOFBrbGMydUVkMDMyWktXMDhNY0t6Q2hFUGp4V0tIQWE3bzhDYlJla2YxNi16RGNyNlcxUUtaUUJIaC1iZ00zMzVsUThNdmxqeENfbm1jbmh2NGREWHVmNnhtNDBERjZ4c2FQZU5vRkFlVXNKVlpTMVhtQnpBQkhlTjZlM0l2UVlrTVRzWUhURU8weHB3dVdkTDNvTkJjXy1QcGpJLU84ZEctQ3Y1bVE4Y1M5cWpYbjM4?oc=5",
+    "titulo": "Solo el 37% de las empresas utiliza IA en procesos de Recursos Humanos - interempresas.net",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUM3MEpVc2FreG5rd3VmWDNZRUtRVURLWHpxdEc2NnYyLVpQR0txQTRseVRaWGtEYkM3NWl1MW5NcGJWSFBjLXdxZGx1ZzhqTzhyQzZhY3VKRTl2dXRQOWlRWXJZMnM1NkpWMnd6d0hHay1EaVJ5cWRNZkd4TV80Z1dUSkE1d0lmOTR6X2RJV1RzMFBjeGR3UGpuTElPVWlZUTdwamF3eXkzcjFXSUFoeG16bHJNRlRqZlJrZk9VZUdTYVVP?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-16T09:32:00Z",
+    "fecha": "2026-09-17T10:40:19Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Juver incorpora a Antonio Vidal como nuevo director de Recursos Humanos - Factor Humano",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iajhSWkJGTlJraUhiNm1PalBrb29ZTTRXUmN5WHJsR2cwY3MwdmJ6bWZOS3I5RTFTVkJESUctUGlkNndsMkxNeWVWUDJnaUUzQ0lLblNoQlZ0azNBRVlPMFctcU80VlEydEE?oc=5",
+    "titulo": "REUNIÓN CON LA DIRECTORA GENERAL DE RECURSOS HUMANOS DE EDUCACIÓN - Intersindical Región Murciana",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONk9MQ3NEd1phQXIwVmkxa3htUG1vdlR1U24xUEFaQjhxcXFPY2lXVVpZSmRVSlBZZlBfUUFYUzZjLUp2alhGWmRYdTZxeUp2NklaeE5rOVVOTEN0VkJ3ZXdYbkRNejMtRU9QT3lMNVA4UW83REdMUkM5Y3BmajExVWthRkJPd3BOWXhpNW82djFCWmo4eThWMVlyNXVIVTBoMXA1VTJzaw?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-16T09:56:00Z",
+    "fecha": "2026-09-17T07:01:57Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Juver"
+    "empresa": "DIRECTORA GENERAL",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "La IA entra en Recursos Humanos entre la promesa de eficiencia y el temor a perder el factor humano - diarioluso-galaico.com",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeXpvaXE4bW5yN1Z2VWtDaWVJRW1pejdkaExyNlFvdkF2Mmo2WDRtYzRxYl9uVlNtYmxZTGZhelVJSnJiOGx5MTJlTWd3VmZhLUx4ZEdsN2NXUXpLMGhOUVlDN0Y2aEk4MTJ6T0dkbWdPUmRZaVBQTWxfSmFIT3hUTHRxTTRvclNBQ1cxUVVrS2YyLXE5YXBqX0k2NDZDT0VDWDllTUtpdzNIb1IyVHBab0tZMVVHbHQ2WllMT09QOGFTVjVDMVdJcXFTWnFwQnVXZVhzakppN1VKcnUtOG5LZ3d1cERXSk52MzRBctIB8gFBVV95cUxNRHowSWRBc1NSd2tHYU5zNVJlVE53NTlKazRsM3hFWklMSEtrTkt2WjIxV2lQNVR4YjZMaC1PN3I3aGZBRlRKMnJzTEpUMExYdk9Xc3BGcFIzaE5SV3ZYRTBkOW1uNzktT2xvbkE5TWFzUDAteHhpcDA2UUlGanRPZU5zTnozZFpGSlJWa21GQXA2cl81dl92SWozNld0Q2VWRzQ3bVUwRnVmWUhvZ0p2alBMMWV4WnpEVThMeEJkYXNzbFdRc3lXQ2t1ZUFVODRDMXphbGkwZldBcXUycm1VT3N1MVN6MmNrcTlQLU52Qnoxdw?oc=5",
+    "titulo": "Pozoblanco activa un Plan de Acción para mejorar la gestión de Recursos Humanos - El Día de Córdoba",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHliYnNQT0lZVkUwQWl6c3djMWJHX2FkZjhFR2JNNVk5c0lEMWpZZmF1V0gzckYtd3l6Vl8xNUpvMm54Y25UMlZYTzA2eEhZNkswOWtPdlAxM0NWNndCTERXSEc3U0dMUnNUQjdyVEJuaEo4UVpxZHR3Mm1RcWxDMmI0VkhmNFVDRnFtTlE1aEkzcDFkVEYyRW1MbWJvUEdGNjYwcDNucw?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-15T20:54:16Z",
+    "fecha": "2026-09-15T16:40:33Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
@@ -420,6 +420,66 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
+    "titulo": "La IA entra en Recursos Humanos entre la promesa de eficiencia y el temor a perder el factor humano - Diario Luso-Galaico",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeXpvaXE4bW5yN1Z2VWtDaWVJRW1pejdkaExyNlFvdkF2Mmo2WDRtYzRxYl9uVlNtYmxZTGZhelVJSnJiOGx5MTJlTWd3VmZhLUx4ZEdsN2NXUXpLMGhOUVlDN0Y2aEk4MTJ6T0dkbWdPUmRZaVBQTWxfSmFIT3hUTHRxTTRvclNBQ1cxUVVrS2YyLXE5YXBqX0k2NDZDT0VDWDllTUtpdzNIb1IyVHBab0tZMVVHbHQ2WllMT09QOGFTVjVDMVdJcXFTWnFwQnVXZVhzakppN1VKcnUtOG5LZ3d1cERXSk52MzRBctIB8gFBVV95cUxNRHowSWRBc1NSd2tHYU5zNVJlVE53NTlKazRsM3hFWklMSEtrTkt2WjIxV2lQNVR4YjZMaC1PN3I3aGZBRlRKMnJzTEpUMExYdk9Xc3BGcFIzaE5SV3ZYRTBkOW1uNzktT2xvbkE5TWFzUDAteHhpcDA2UUlGanRPZU5zTnozZFpGSlJWa21GQXA2cl81dl92SWozNld0Q2VWRzQ3bVUwRnVmWUhvZ0p2alBMMWV4WnpEVThMeEJkYXNzbFdRc3lXQ2t1ZUFVODRDMXphbGkwZldBcXUycm1VT3N1MVN6MmNrcTlQLU52Qnoxdw?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-15T20:54:16Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Antonio Vidal, nuevo director de Recursos Humanos de Juver - FRS Food Retail & Service",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjRiOFBrbGMydUVkMDMyWktXMDhNY0t6Q2hFUGp4V0tIQWE3bzhDYlJla2YxNi16RGNyNlcxUUtaUUJIaC1iZ00zMzVsUThNdmxqeENfbm1jbmh2NGREWHVmNnhtNDBERjZ4c2FQZU5vRkFlVXNKVlpTMVhtQnpBQkhlTjZlM0l2UVlrTVRzWUhURU8weHB3dVdkTDNvTkJjXy1QcGpJLU84ZEctQ3Y1bVE4Y1M5cWpYbjM4?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-16T09:32:00Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Balbina López de la Torre, Directora de Recursos Humanos de Quest Global - rrhhdigital.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkFjeEZ6MGpZZkw0NGhiUVNCTklkVXVUcWNqUTlsdnlydlNCZHFQajVIMGxpVDNhN1BUc1gxSHFzMDFqNVBmZExTVmtRazJKcVFydHBJN1FUTHJublhVWkRIbWtXRWd4Zlc1UGp2c0l2NzdVbG51VTJPT3pBZ2tzeWpySU1vR1JhRDc2ZzhMcm5RekJVTVM2eC00X0xaLXhua1ZnSEZld0hXYlFVM3UxVjlad0MwSnV3OGlrUU9zaFZNYnZ2X3c?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T22:05:34Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Balbina López de la Torre"
+  },
+  {
+    "titulo": "Juver incorpora a Antonio Vidal como nuevo director de Recursos Humanos - Factor Humano",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iajhSWkJGTlJraUhiNm1PalBrb29ZTTRXUmN5WHJsR2cwY3MwdmJ6bWZOS3I5RTFTVkJESUctUGlkNndsMkxNeWVWUDJnaUUzQ0lLblNoQlZ0azNBRVlPMFctcU80VlEydEE?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-16T09:56:00Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Juver"
+  },
+  {
+    "titulo": "Una firma alemana de recursos humanos abre sede en Mallorca para crecer en el mercado de habla germana - Economía de Mallorca",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTRLUmZlZU1ibjRyYUhlTGU2bEU1dkdsZlRyQmxBS1FxQTFmbUkxcnBEVnNYOWtUUHV0bzVWRTlCU21WVEotZUY2VVBvUjljbjZSSmpDdFp6NTd3UGE3bDd5QXNjbHRTd3ZYNzdqelhmMDBYckY1cWxId1lick4tYkJMTU1XZkNoVWRkV0V4NzZRU2ZsdElIb2UycHVRSHVpd2FTeUUtMjdDQnB0b2tmRnBpNG5KZG1pRE91NlZWZlVqMDRXWVNKbXBJTERUSUVfbTNXRmtnUEYxYldWa0d5XzlJemZ4SnBwWWZTcFZB?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-18T09:05:54Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Mallorca"
+  },
+  {
     "titulo": "Joan Peña, director de recursos humanos en Cooperating Volunteers: \"Yo también querría vivir en un lugar con oportunidades si no las encuentro en casa\" - El Periódico",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVE4Um15VDhLc1pPRXhlc20wNFBrMlNtNEo4WVY3dVl2WVFlQ256ZXFuTWFMWm9VVjMxVTVReUd3WnQteXlnV0p3LVFLNzczR2lkSEc5cVJUZ3FGaWI5WWtpTGVTNWZQLUI1UWtSMmNIdG9OR0pHUE5GQ21pY1ZMaHUxN0xyQ3FEVlVPaGw4enZlWWJGOTZwY2JiUTg0S042TGt5cGRENDbSAagBQVVfeXFMTjZ1S2dJUmF4Nlh6dVR1ZHFqT19YMmR2Tmk1S0FOc3ZHZTVyeENpc0YwZURKZ0wtZVB2OHRZVENZejNxS1RvWVlnenJQQnZwLTNsM2t0OFpZNndwWk5tVUs4YmNvR1hwS0RfNnRDckdTblZqUUUzWDQyUHJZcnlFRDdfeXFZU1VTbE5YbGk4d1FvdzFtZkduLWhEUDZHeUNpUnpMTFhzYkRU?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
@@ -430,6 +490,18 @@ const window_news_data = [
     "categoria": "Mercado",
     "empresa": "Desconocida",
     "ubicacion": "El Periódico"
+  },
+  {
+    "titulo": "Una española deja su vida trabajando en recursos humanos para trabajar como pizzera en Islandia: \"Lo que empezó como una aventura se convirtió en mi vida\" - La Razón",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPay1TdnJoTWFJbHR6VWNYUlNmUFBFWWRDLTdzSTNEa2tybm5nSE5SWlVaS2FyNS1jT01KalBMMjdBLWdORHJIOS1aZEdGT2xHWjBPLWlMTEtTMnlDNzBxLU95Y1VGeHF0Z0VaNkpBZmdlS3F6MnQwaXhhRDRBMi1GUUNwZEV0RjFEcGRBTGh0eURoNTN2cEJQc0VnZHhXVXlVSnJ4MnQtaFdCdmJNdUdBYWVnaFFLNjRIVDRMWm5mMzdnVFFBODJSUGlxdHJSQ1Q2WVN0ZXBuTVZ4N3BraWJlTUxsUXRyUHBWTTJmcTMwV2pnanJDYU13YXhhUzgzWjZXMURMbGFSM016TWUxVkpKMUR1WUxYd0ZZWkN1LVNDYkplaGNkNXo0VHpwc3hfQdIBrgJBVV95cUxPay1TdnJoTWFJbHR6VWNYUlNmUFBFWWRDLTdzSTNEa2tybm5nSE5SWlVaS2FyNS1jT01KalBMMjdBLWdORHJIOS1aZEdGT2xHWjBPLWlMTEtTMnlDNzBxLU95Y1VGeHF0Z0VaNkpBZmdlS3F6MnQwaXhhRDRBMi1GUUNwZEV0RjFEcGRBTGh0eURoNTN2cEJQc0VnZHhXVXlVSnJ4MnQtaFdCdmJNdUdBYWVnaFFLNjRIVDRMWm5mMzdnVFFBODJSUGlxdHJSQ1Q2WVN0ZXBuTVZ4N3BraWJlTUxsUXRyUHBWTTJmcTMwV2pnanJDYU13YXhhUzgzWjZXMURMbGFSM016TWUxVkpKMUR1WUxYd0ZZWkN1LVNDYkplaGNkNXo0VHpwc3hfQQ?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T15:00:19Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Islandia"
   },
   {
     "titulo": "SiriusPoint nombra a Rachel Winoski directora de Recursos Humanos - Investing.com España",
@@ -456,16 +528,40 @@ const window_news_data = [
     "ubicacion": "Kitchen"
   },
   {
-    "titulo": "Pozoblanco activa un Plan de Acción para mejorar la gestión de Recursos Humanos - El Día de Córdoba",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHliYnNQT0lZVkUwQWl6c3djMWJHX2FkZjhFR2JNNVk5c0lEMWpZZmF1V0gzckYtd3l6Vl8xNUpvMm54Y25UMlZYTzA2eEhZNkswOWtPdlAxM0NWNndCTERXSEc3U0dMUnNUQjdyVEJuaEo4UVpxZHR3Mm1RcWxDMmI0VkhmNFVDRnFtTlE1aEkzcDFkVEYyRW1MbWJvUEdGNjYwcDNuc9IBrAFBVV95cUxQZlpCSk14N3lacEtWdWdPUjdacWdsdWI0SHU0cEY1cnN5UXROLTFVRGNCNWFhWE9fMGpjemxvUUFuNUdYYlg0QXVaZmRsNDZtMjg1Mm03ZENQNVpQMzJLZjJmM3ZKMzlYZmk2RnphQ1R6STFUdkVGeHRBaGlMZVV1UUcwWFBCUDRfZGo1ZERnWFRvOVA2VlB6eVJaTWsxYlE0eEZlYkVXSzdmSlpX?oc=5",
+    "titulo": "La exjefa de recursos humanos de la APV afirma en otro juicio que la presidenta \"redactó las bases\" de las plazas investigadas por enchufismo - elDiario.es",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONzJJRFVmOHhaMzNrQ1A2bmYxODgyVUZEYWxGY2t6dU14QWpza3dSaTVrdUp1N012TlZHdWxNbG1henRYZE5qNFJnRUxvNm4yYURDd0h3dE1rM3NmYXN4VzlTNlVvQ0M1M19vT1haRDRQZk0yOXVNcVFmek9rSHBUQjVMUnF2N3ZZdFRxQkkxODIyQl8ySkFLMkRJMFlBaTVvUkZQeW9Bb01URE0yZExEZHV3NXBSaW05aEgwSWlweVNiMmF3aTlGQ0hQTFVTVVpxU3dfUTM1WnhJamJkeFVLQjd2UlRZZVk5cDhGSWRKeUlWQ1FmUTV2RXhZb9IBgAJBVV95cUxOTUp0ZU5nbmY2eVBSTlYtenpKTGhKYkY4Z3lUTlN6a1JiMVp4ZmRZSUJOQnJSNGpDc2RyTTlTSVZCS1Y3ZzY2LXJrMUJZejhGVTlWXzNZYURRdmxwNm5ITXV4SWZ5aFpDaTV3aFEyVUZ3SkdWbkpRb1FHM04wNFVBY2xsSkx0d2hJdGtOVjNFNzB6TU1yalRqc1VZX0hSb2JBbVRXcHE4RFlPeFlENnJoR0xJTGcwclhKVFFMcHllbmx3M0NDY2JhSm16Wlg2OVFKcTF4TnUzSHByemdJVmZqQzN0YTlrN3h5MkNNR2x6WnNzbE5sejEtUDFKQ1d6ZUc0?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-15T16:40:33Z",
+    "fecha": "2026-09-16T03:00:44Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Juver Alimentación ficha a Antonio Vidal para liderar su área de Recursos Humanos en plena renovación directiva - Las Gastrocrónicas",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDUwTVNpUHpocm5DQnlSbUpGdW80OE5xYjdFa3VNbzVhZFBVbW54QW9MbnVCZjlqMElwVXowc3BhZHQzMTN3aTgyckJEd3dEQ1RuWnBka25EUmdNcmIxQ2RQcGhtVUp0WlZ3WEM2UWpkNTl1NUxOR2pKLVhSVF9mTUVQVDkycEFMU25rOWtfVlh4RUh2djh3aFFTNzBWSXhHWk55TWZ1U0QwNVZyMFVBdi11YVY5UlZKTzk3OHhzUGRweHg3TlR0Y2VnZTdrRkYwVHg0RHZPOUNFUQ?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-18T08:00:30Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Las Gastrocrónicas"
+  },
+  {
+    "titulo": "Pruebas selectivas para Facultativo Especialista en Psicología Clínica 2021 - Comunidad de Madrid |",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUNHWnVBbWZEZ2dYQ3F3Qk9aNElZRWVTOWhwZU5hcHJQRWdWZ3JBMllkcEZhQTFWUnNhSzNPMHlQSXpCUFI1WlpJc3VLV2NhRk9Oa1FWZDMxSnlELTBvd1hzLUZKNXBfZEhfcEZTWmJxS2tkdE5oMldaZlh3WVdNODN0eEY2c1MtVnM2M3U4Wi1aN1lTLTFHc1NDR0lDSDBXNzNCXw?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-15T10:13:22Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Facultativo Especialista",
+    "ubicacion": "Psicología Clínica 2021 - Comunidad de Madrid"
   },
   {
     "titulo": "La IA como prueba incómoda del liderazgo - ORH | Observatorio de Recursos Humanos",
@@ -480,100 +576,16 @@ const window_news_data = [
     "ubicacion": "Observatorio de Recursos Humanos"
   },
   {
-    "titulo": "La exjefa de recursos humanos de la APV afirma en otro juicio que la presidenta \"redactó las bases\" de las plazas investigadas por enchufismo - elDiario.es",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONzJJRFVmOHhaMzNrQ1A2bmYxODgyVUZEYWxGY2t6dU14QWpza3dSaTVrdUp1N012TlZHdWxNbG1henRYZE5qNFJnRUxvNm4yYURDd0h3dE1rM3NmYXN4VzlTNlVvQ0M1M19vT1haRDRQZk0yOXVNcVFmek9rSHBUQjVMUnF2N3ZZdFRxQkkxODIyQl8ySkFLMkRJMFlBaTVvUkZQeW9Bb01URE0yZExEZHV3NXBSaW05aEgwSWlweVNiMmF3aTlGQ0hQTFVTVVpxU3dfUTM1WnhJamJkeFVLQjd2UlRZZVk5cDhGSWRKeUlWQ1FmUTV2RXhZb9IBgAJBVV95cUxOTUp0ZU5nbmY2eVBSTlYtenpKTGhKYkY4Z3lUTlN6a1JiMVp4ZmRZSUJOQnJSNGpDc2RyTTlTSVZCS1Y3ZzY2LXJrMUJZejhGVTlWXzNZYURRdmxwNm5ITXV4SWZ5aFpDaTV3aFEyVUZ3SkdWbkpRb1FHM04wNFVBY2xsSkx0d2hJdGtOVjNFNzB6TU1yalRqc1VZX0hSb2JBbVRXcHE4RFlPeFlENnJoR0xJTGcwclhKVFFMcHllbmx3M0NDY2JhSm16Wlg2OVFKcTF4TnUzSHByemdJVmZqQzN0YTlrN3h5MkNNR2x6WnNzbE5sejEtUDFKQ1d6ZUc0?oc=5",
+    "titulo": "¿Puede un DRH ser un influencer? - ORH | Observatorio de Recursos Humanos",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNWUZlUWQ4NGVLTmYyZmpjRUdGUkdfUTAwYy03NTRpR0xrRHZySHpqMEZoaTJXTU0xdHFrcXdJVnUyU2hXZkUxN0dCNXJNbUt6MUdxeklJcVo0SkU1X18zNXp6WFM5cU1MeThoMlRXVFRpNVhOOHF1RTFB?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-16T03:00:44Z",
+    "fecha": "2026-09-17T21:27:47Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Dia España, reconocido como Top Employer 2026 por sus buenas prácticas en el área de Recursos Humanos - Tribuna de Andalucía",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGhaU01vbU5oeTRCeE90eGI4cl9kV09KREVjNFl0cE05YlVSSlVybXI4ZU9GcFh3d3pYNTFXTTRTR2c5VGN6WENGcEVpQWFjYzBFTXd1Tk1HaWJsYjR2Y2w0WWEyMzBheDlyRnZ0azVpSnVKdnBmdjJvWnItUEd1WEJmRmMtd0VRU2c4eHhkbm1ERXJNVUx2eHd0RmJNQ0pvU2RSZGJicGVoaUtsMUJWdEhxTGlzZ0ZQNklJaklOTTh5enR5Qy1MTzNVWm5pTTRXRFJIUjlnS19WbDJQOUlseUNSbkxoQzQ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T12:46:09Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Tribuna de Andalucía"
-  },
-  {
-    "titulo": "Un 83% de las empresas reconoce que aún no ha alcanzado un nivel óptimo de digitalización, según un estudio - GaliciaPress",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQnZJeGIzNW5Tdzl3blhrTWNCME1QbDZBSl9qUVlkaGNtYlo2T0dwX2lkVGdsU0FxX19yTE5rbTVuVEV3OXQ0a3pxWW5GYVBnTWVtV0FrZm82dTV3anhrZ1NNOFpSamZkUHhKaGRTRFBRQ19kYkV5Mk12cXIyZ0xELXhMY0lHbV80bHU2dl9xZ3kzYWh1MkdwNXdkLXh4c3JORW42ZnhFNnBTWmEwSmI2QUN2SWxWRHZ6djQzb3cwbzl6cDNKOTU1RDZ2X1Y3TUxZYm1fd3JtSQ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-16T11:53:00Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "digitalización"
-  },
-  {
-    "titulo": "Prohens inaugura el curso escolar en Formentera destacando el refuerzo de recursos humanos, servicios e infraestructuras - Forbes España",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU2xtazdmRWh2VGdCSkowWlY1aXBKNWo3bEFTZW84aWF4M2gtRHRwOGVBcHI3aDEzX2ZOQThXOUpwN1p5bHMyMDJaSDV5cFVKamJUOVgwcGhWX3dFajZFY2ZER3E3VUFHWlA2c3Vwa3dOZFpxQnFQQXlaZmpFelN5TU1lNU9KN0V2MXdlUVNLQ01rSV9wMWVvaDhDTnVhZDNVUzkxWlhYbm9VTGpFZFo0RUs2OVhyZTd0X092Wm9nNDZLRWNxWFM5ZDVMeU1LRERwRm92VEZrYjN2bm5xXzdSTl82YWstMHNOdzBWdlpvM1hvbTVjLTNQSDJraGlqdnZ4UVpXMUpB?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T11:19:28Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Formentera"
-  },
-  {
-    "titulo": "Catella nombra a Lee Baz-Sanchez director de recursos humanos - MarketScreener España",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkkzdE5zYnhpTlhCUkN6SWI4VzNva0tJTEs0dksyYTMzdzFiNVdCa25STENINEtJdEZlZVpzdEc1SjQ5ZnJpOE9iZnRnQ3VKUENmVGJSQ09qUWIxR0loSmwyVW9tZDMwOGpqT0dfdXpmZVJkUDVnZHd3NjJIR2MzTzlwdHE2R2JpMWQwRjNmVlBqejBpQjlPRElobUxMQ2g2LVpkaElDb2tOTUppZGRPcWlpaTNUbGtX?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-15T05:06:17Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Gorka Zubillaga, director de Recursos Humanos de Uvesco, subraya la importancia de transmitir orgullo, ilusión y compromiso. - Noticias de Gipuzkoa",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTURnQjFWc2Qtb1hnSjF1Ujl4WVZ2Yk9HZ3ZSNWVRNmZxNmNSN25NSnhPWElzRG1PY0hIQ3BjdlBrbXZVZ2hONXM4VmNlNjh0RTdpa2ZtVU9URzRTVnlRdmNoQnlWbGl3Z3VHdk44WV9SQjhuVXpZQWtTVkJtYUhJQ2d0ZFNfeU1FTUkzazNqOTBxc2JGcHRUcEdkOTVCNDQ5Tm5xc2VQb1lYaU5t0gGyAUFVX3lxTE1WLWxaX0xMNVBPLWIzT2VESkpGM2VZX3V6WWFVZ2ZRZGlaek9DWmgwM0ZyTmF4VzBNU0RHRTJJWmJQZU5BbkhubUkyQWRPU1hEOTVQVGp3WmdsdWVldmxxWFBvaUtfS3NkdUQzZzU0azlGQmZNM2dtMndZVWdOVjNmM3JjVjdqcDg4UGRLYzN0NVVSVVBWWFdoNlhlajRHajJNdldndGw1cXBITno4V1U0NWc?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-11T10:10:13Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "el-ayuntamiento-de-pozoblanco-activa-un-plan-de-accion-para-seguir-mejorando-la-gestion-de-recursos-humanos-y-ampliar-las-medidas-ya-aplicadas - El Quincenal de Los Pedroches",
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOd2NNZlBTUWxvN0xER0JYQVIyZXgwdFVJa1V4YlZVdTdGbVYxYjFPbWQyRlBrejNycmZ4SmQ4al95b2gwRHNXaDVDTzVaQzN5NXN4bDE1Z3VldXRNdllnaFgwUTZYcjE0UVNvcFVrc2hRZkcyRkhPenFmQ0x2ZnFWZ3BFcmtnS2dyWlh4MDgwNzBiU2dYeWJreXFhX1o3VHJ0NjF6bjYzVTlrSnVpdU9jNTAwLXdwR3V4eUNoYnhTV2dnZXFTNU5IZ005ekhvTHJmeHY3YzhfRkQzN0VhRlVnbUpyN19rMTdqeWFaemVRUElfbC1CYTIwV3JHa3dzWjFQdmJveG1YdTBDaXpLZnhXemlLZUZxYUg4cVpUamFDYWNYTEoxc0tjR1lXQjJ6Ync?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-16T17:36:46Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Quincenal de Los Pedroches"
-  },
-  {
-    "titulo": "La UPNA da comienzo a la primera edición de su Máster en Dirección de Recursos Humanos con un total de 20 estudiantes - Europa Press",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVJXLTlWNEhLQURJOW15Slh0eWlwdTJOazFobTlRYVEzMl9NeDhieXktMzVtaE44SkNCdVZNNzZIWkZGMWZBelR2S0F5aVBYa0x3VGNlamwyU3RBdTE2WC1hcjZTQTE4SWlhdjhRVXBtYUJNbFJ1ZlhEQkQyRnVQN0JpQjlJanctZnd6dGR2Sk5uQ3ZPZG5mNG9ReEg1ek9qS3BaM29IWWN1amREWDBmeXVFOWtqMTdFam52MW5Wb1VyVTJHTktmNHhreW5VeXd4Ulkyc2dHa1RYOFhYbUd3S0xkZ0g?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-15T14:45:39Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "UPNA"
+    "ubicacion": "Observatorio de Recursos Humanos"
   },
   {
     "titulo": "El Senado insta al Gobierno a garantizar la financiación del SNS y los recursos humanos en Ceuta y todo el sistema - Forbes España",
@@ -588,40 +600,28 @@ const window_news_data = [
     "ubicacion": "Gobierno"
   },
   {
-    "titulo": "21-O Sevilla – Personas y marcas reflexionan sobre el futuro del trabajo - Foro Recursos Humanos",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWNVX0xoejhuMEt0WllUSWc1VEQ3YXN6YjlnYm1GZWF6RGVZeEhHZHZKOTQ0RjBsNmZoYUF2eFJnbHhuTHUyY0ZYeGFDOFZ4UXd3dFhnT2xrenFyNG4wWERWM0FUTTZNRktCS3c5VjZrbG1LM0Rtdzk4TU80ckQyb3dRMkwycDA?oc=5",
+    "titulo": "La UPNA da comienzo a la primera edición de su Máster en Dirección de Recursos Humanos con un total de 20 estudiantes - Europa Press",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVJXLTlWNEhLQURJOW15Slh0eWlwdTJOazFobTlRYVEzMl9NeDhieXktMzVtaE44SkNCdVZNNzZIWkZGMWZBelR2S0F5aVBYa0x3VGNlamwyU3RBdTE2WC1hcjZTQTE4SWlhdjhRVXBtYUJNbFJ1ZlhEQkQyRnVQN0JpQjlJanctZnd6dGR2Sk5uQ3ZPZG5mNG9ReEg1ek9qS3BaM29IWWN1amREWDBmeXVFOWtqMTdFam52MW5Wb1VyVTJHTktmNHhreW5VeXd4Ulkyc2dHa1RYOFhYbUd3S0xkZ0g?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-10T15:57:20Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Sevilla – Personas",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Qué es un HRBP y cuáles son sus funciones principales en la estrategia empresarial - cronicaglobal.elespanol.com",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzB0eXlZLTBNYk5XZkRGa2hxY0JDZ3hvRGNBOFhKNF96YkRtTENTOVUtT1JJSHVWOENZN0U1QlBaM25zTEx4UVhWNGowZkJnVE9uc3NCQ2J1R210R1N0eUo2S01HazRoT0RHc0xsVjB4ME9UMHd3dko5Z1FxVVdnWWN5SjEtQXZiR1dDWEprX25hS1VGdkZyWUppZjhXT09GeHF4SElidkNrMGdqTThQUFo4RlliWGZaVlRNUVVsZWFSaWJSeEE40gHMAUFVX3lxTE9Dd213dkxZblN5blJzdFpfcEk4X1FZWHdfLTg0RXNVTkF4bHdIVFF6dmRsVE9QNkJpU3R3Nnk4T0lnWnRIendiYTkyQnktMzRVWkRqaDB1WnVIcElSTkpROWZ3Q09hcFB0dGpXbVZaeXdvZ0QweDhZNlJuaktrZFJDT3A4X2dIdXYwd1NFd2RXRDFSckRyNlFuV09DTGppd3ZWZHY5RFVqT3JQWkd6UHBGU2MxVnNNR1NmUEhHU0E0WHIta2RPQ19CT1RRZg?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-15T08:46:06Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "HRBP",
-    "ubicacion": "Qué"
-  },
-  {
-    "titulo": "Guillermo Rodríguez Iniesta toma posesión como nuevo decano de la Facultad de Relaciones Laborales y Recursos - Murcia.com",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVZlOVZiandFSUxsclBoaEtZaWxicTdLRm1aNjNLdXNmdDQ2Y2hhbUppeGUtUU9NdHV0WTN1Y3RxY2Myd1V1aU1OMVh2Qk9jOWtFU3MyVVdnb3o4dm4zYUdpZWZuVHhIWjllb3dJUUN5T0kyN3R2MHJhM25MVC1oNl9FZnJrNzQwQW5yLVgxMU5KMWk3NjZuYUJYU0hsemhIRkMzVDdMNURXVzgwZjVDYVFyQnBaekpWWGF4Z3huSDgtd1gxVVVwMjdMd1Z0Z1ZpeDJCdHVjX3ZNbTY3TFhUYnJEam05S3JCYTYzeXJTV3VvVV8tdTczTG8teVRrUVXSAf8BQVVfeXFMTnBMNGdHaEppZHRvY0llaEZFQWVtME0zd18tNHBYVWJJQ2VUTi1DbDR5OEJWNVA2YUNLV1FDbWliRExSdlc0MEJsS0pBN1N3UDE3Y0o3bjFQMV9HOEhVQXJLNkMwbjExbS1fQUZER1k0MkI2T1RzM1J2RzZ1LTcwMmFrdWtBem5KVldFZWVwTzhkMDcwSTFIc1o2NGRCZ051c25uSmNpTHI4TDRlcF91SVZKZlAwQkxhSjQxc0l5SkhGM1BOc2hqUkhabG42dFQxQ0JMQlV6SGFURFNJcHFWRkV1Z25uNVJBdlZHUGYyMnlLREt0TnJXZ2FGa18xeTZ3?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T16:40:04Z",
+    "fecha": "2026-09-15T14:45:39Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
-    "ubicacion": "Facultad de Relaciones Laborales y Recursos"
+    "ubicacion": "UPNA"
+  },
+  {
+    "titulo": "El Ayuntamiento convoca 318 nuevas plazas de empleo público para este año - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb01fWlpjNFM5aktPZGdGdlQ1dmlzSTV0cks0ckhJd2hGQlhXOGIxMWMybTBIMjlsOHgzcjBZdVFsOVVFREt1QXF6dWhEck8xdFVabkFvbUxncEpTY2pESnFyREhfNnhoaTYwRG9oZGxuS0JFS3Z4aHFicVBxZEdTTUd0NFlkOGV2V3ZrdG4ycENIYVRTdWtWNGhuYUhvRTJibUwwbU1nUGxIVnZIczBqSnNucWJpNHMyQm1fVG9NSV9RSElUaE1FZFFjU3RSZl9FaG5v0gHYAUFVX3lxTE80MmY0Sk5nU2diSENZNDJVVVJ3akpXenZpR016X3B1N3VJNDB1UFVYT2pCRFhvam5penBPUDVJY1MyQl95OE1pMDRZakkzOEtacUFzenN3TE9tekhrN3NtMTQyWFFYb056RkkzUUF2OVFIM1ktQ1dIWWtfdktwZ1VZSTRKN2VweXpralJENmlHNHgxU1dNMjNudTNyRFg4RFFFbzFfZkdSbnJuZGZmSXpJN0pESnNaaWl3cWVTMHpPNGpmcHR6RXlPZ2NiN0czS04xQlVCMFloWg?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-11T11:34:10Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Ayuntamiento"
   },
   {
     "titulo": "Primeras Jornadas de Recursos Humanos & Energía: un espacio para debatir el futuro del talento en la industria - InfoEnergía",
@@ -629,23 +629,23 @@ const window_news_data = [
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-16T04:36:21Z",
+    "fecha": "2026-09-14T03:02:14Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
     "ubicacion": "Primeras Jornadas de Recursos Humanos & Energía"
   },
   {
-    "titulo": "Recursos Humanos como protagonista de la estrategia en el contexto de la Inteligencia Artificial - Fortuna web",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0FiMVlYaGY4TUdxZE9VdXRwRzZwcExXSGZsVVdDUXItZU9zN0J6dTNrOUloaXJ3N0x3WmtWUkVXUkU5MzFfSndSakdQWVZYV1FiOEM3STRCc0FGMy00Nk9meGJSamR4MkFrcktGQllRRE0waENjd0dCQWQ5VTFaaVE1WmNvZ3E3Y1F1NTN2WTZ1c0JyZXhjVmJ0amJHYUwtRzhfUFpOT09UU0RSTHY3TXZZWFZ1a0xwaG5XNk04amNQWWhyQ3l4dnMxWWRQTkl2TUxLS0hwUHB6dlFIV0xURmNzSF9IRHJPSFNN0gHwAUFVX3lxTE1VeDdwMmlWODVEckxXNWtWckJVdjlZUlYtdkJJOGtleDRIQ0daU05OMjJOeG1NdUZXLXFUSWhnNzJWZGtoemlOa2x1Z1p1aGNvLUlDSXd0cTNGZVhNSnBXOGVZdGFVTXNfb0ZmMWYwUE01U3RsMm4weXlobHRJakQybmFtR1FaT0s1RlQ0a0hlMi1NVVFPbkdyNDJTYk1CX1g4ZnhicUU2RjZqZHVpT0J3N1pyTmFRTmRnbjlXNGdTTUJXR3pYS3BWRGVMM25kUmJMLVh5RVlPbmVWaWstY0ZoQjhnc1hjeWF3Wk53MXZoLQ?oc=5",
+    "titulo": "Se celebra en Khankendi la V Reunión de los Responsables de las instituciones competentes en recursos humanos de los países de la OET - Azərtac",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS0NPdkJyLWNjR2N2V09EaHVDN3BaM2xrTlY1SUN2a29ld2p5bFpxckZHejFXY2N2UGg2N3pkSzM1VE8zNVhIMkVmam00ZDlQUTBxU09ZSjlfQTcyaTFQcHZDRUJObW5IZl9fcFM3eEhZNkdqeXVqb3VIVDBzTGJHamxlWWM5cGI0M2tCZV8wTXVjNXozZUs1ZXdmY3JQbFJjd01UOUtXX3d0Q196OXVCX0xLS1k3ajV6RnFHb1Ntb2dYNWZFLVpCOTNPVnl4Rmp3ektxdEg5cUNuTXFZMDBsbDZ4TmRFVUJrTXJJa1ZzeWZUUHRwd1dmNEJ0Wl8?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-15T21:07:03Z",
+    "fecha": "2026-09-18T08:08:00Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
-    "ubicacion": "Nacional"
+    "ubicacion": "Khankendi"
   },
   {
     "titulo": "Sincronizar la formación y atraer recursos humanos en ciencia y tecnología. - Vietnam.vn",
@@ -654,18 +654,6 @@ const window_news_data = [
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
     "fecha": "2026-09-16T22:52:46Z",
-    "fuente": "Panorama Nacional RRHH",
-    "categoria": "Mercado",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Un gran porcentaje de trabajadores no sabe si su empresa está al día con las normas laborales - Infobae",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnpBQWpNTnNuQ0hKUTZtdGd5a0Y0MGQwT2VHc3R5SzhObUIxbDgtYU1US2RqNE8tMDFFc09LdFRXdDUtV3JfMVFVbzY1ZEhoNnpqRWJxY2FLUFNhLUJyU0N0c3doOENnUUpBcUlPdjhyNE9LQkVCdTdlMmpqTjQ5R2huTk9rTF91QzdMQXhrcUFHNGpxdUZxWTZUZ2g2akRDQVhrZGRMbTJCVWFzczk2V3BqVXZEdDZLSGhwb3V6Z1pUQ1VPUm9JZmJYbDZ3aDTSAeoBQVVfeXFMTmctM2tkdDRHd2NYamczb3ZPaTlnSTZCRUhINWR0dERxSnVtbEd1S2lyZ1NreU9IZVZtcWZ3dUhwYVhiUVI3LXk3VDZCWlpBMHZnRUVjSHZOOWNicG9vXzRuWTJtaU02akluaHNzYVFwTEpvTlZwVmRlTUgwV2I4UWdRbXJEWUJKUHctb09uZkVickxhNWVtaEQzdnc1ZVcyZG5ZS0duZjJJQnF0bjBSdDlyeUstSFpQYXVMeGpkZ2NEMGItM1ZXdnZzMXQtcTFzTk5EYVhoOURFMnR0UVdwNzJiOEJ5dzRJZk5B?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T21:29:00Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
@@ -684,12 +672,24 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Desarrollar recursos humanos para la ciencia, la tecnología y la innovación. - Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0x1WlVqdjB4NjNYYW90LWtid1BhQlkxNE1MdFFmZ1AzckxDY0dxcTlOQWlPU2haNjZHVlFmc0F5RFk0dkpRbnkxV0Fnd3NJN3Y4MmNRRUlJYkZRdm5Dd3FZelZKUG9ySUstenZ1QnhIelNFdHctcnZXLUJYWlhoRFVkS2lKb29XQUQyX3JCY2g2OS1VdEE?oc=5",
+    "titulo": "Oracle amplía ONE AI for Business a profesionales de Marketing, Finanzas y Recursos Humanos - Edomex Al Día",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFBRTnV2ajZweHdMZWdIYUM0Um1SZXRZUnNDWkxGa1pkdnVUUzNyay1aVnhiM1NaZlJEZzRoWXhoMW9lWWZOWk1kLVZGV1U3ZlFVcHZrLVoxMGVJZ3IzaUxBZXBCMElPZlk1UElzdFctWTVzcGdiMU00eV9VemdkWE1MSUtkVmE0UE5jemxUNHpEdkVSQk1SdWJ0TEl6ZmJSNW1xd1lTU3ZTWERyOWJhX2d0SWx5UQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-11T05:40:10Z",
+    "fecha": "2026-09-17T20:18:52Z",
+    "fuente": "Panorama Nacional RRHH",
+    "categoria": "Mercado",
+    "empresa": "Desconocida",
+    "ubicacion": "Marketing"
+  },
+  {
+    "titulo": "Desarrollar los recursos humanos para la nueva fase. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OVjJ0a1ZrbWNUSldzNV9vcjlOLWtncWNWSGpmblc3a0FET1pqMVZySVBtNi1oazRVZlcwX1RmeVFpbmtQZjl5WVpHR04zY2h2b19KX2o3TVhlTlBQMm5IaTZFUHp6X0Z5V1gzQ1FwbURXR1BzZGc?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-14T03:53:41Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
@@ -708,12 +708,12 @@ const window_news_data = [
     "ubicacion": "Vietnam"
   },
   {
-    "titulo": "Promover la cooperación tripartita en materia de innovación y desarrollo de recursos humanos. - Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGNQNjFMN1dsLVBWa1MycWx5R2lCdmJ6QnJUQWdYV2s3RjBKS1drY2tHVmdVUmtKR1dtUVlNbGVCSDAtUFBlTzBORVBlUEFqR0lqQ0xjTUk3WlZXd3cxMGNoLU1IZllodjdnc0Ryc05oZWZFYnhwYkhIRXlzMkM4bFM4SGIxSEplYVNSZmk0cmVIMHBGTk45SmtadDlHZw?oc=5",
+    "titulo": "Estrategia de recursos humanos para una atención sanitaria de alta calidad - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oS3dWS2Yyd3hYdXYyQWF3aFMyTXpuVmgzMkZrT1liZ1RRc0p0Tkg0MlhLTG9NTVBsSTkwejlVLUpjVWdaTFZjdllVT3JZMm9SY3ZweENMb3N6M2NqNFhDZlpXVk55Y1NUTTlRZUZUUkJQbDNwNXBhdg?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-14T12:14:58Z",
+    "fecha": "2026-09-13T23:00:35Z",
     "fuente": "Panorama Nacional RRHH",
     "categoria": "Mercado",
     "empresa": "Desconocida",
@@ -725,7 +725,7 @@ const window_news_data = [
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-14T06:11:15Z",
+    "fecha": "2026-09-14T06:13:57Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "Cadena SER",
@@ -745,18 +745,18 @@ const window_news_data = [
   },
   {
     "titulo": "Sala de prensa - Randstad",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2hpN2ZSSlB2MmhxcGcxUDNOMjlHa0dmZmhCa05BaENjQzhnRjNUTUREam52YkdFcDU0UjI5c1RuejB4eG5ldjRMaFZDRUMzTFdTMlpHcGVzTDJLVlFGSFVZenNLTU8xbnl0STYzeEFGOHYyaFVNcXZPMzE4ZDhuZ0tVYjg5RTRYMk5UM2hSMmZlVzZlSkVwcDJwSFYwR0YyTHZ2LXNqOW5jbVVpVzAxWXFYRHlfZnRUSHlNSllxekRnWmxSeUxv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHJIbzRONnowXzVuSEZPNEJuVHJNcDlTWUFiTWpMM1dYU2hnVmtsU2lGRzBnM3lXQ2dYNjFmbjhUaVdZYUxwR0tsTmxnenUwTHMzOFVEeGFEU3E0WkhETGg5eFNITV9QMlZ0Q2JLbG1BWEx2em1laGxDdEVVX2NpZ19PS0lMQ1ZaNWZGQ3BhZzNFbVNlNnM2X0pvLXV3WTB4cF9IaHYzVkxnbGNOdTFmZ25Xc0M5N0s5cllvdW5HQ0M5UlUwMVFRSS1lNjY1U1FxbGQxaWpmSkNLU3dF?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-15T17:39:06Z",
+    "fecha": "2026-09-18T08:13:32Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "Desconocida",
     "ubicacion": "Randstad"
   },
   {
-    "titulo": "Fundación Adecco impulsa una guía para fortalecer la salud emocional en la búsqueda de empleo - Corresponsables",
+    "titulo": "Fundación Adecco impulsa una guía para fortalecer la salud emocional en la búsqueda de empleo - corresponsables.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcS1CNTlBTmdEVW9FNmVCX1MwaEFlZGE5UmhFQUJhZEphU1FUWlZSR2Z4T1hVZXBNLS1HSU4zYjFKdVRZRnU3Z0dLMUQtVDh3X2piN29RbE5BYS11Wk42NjJWYjZTQnNaeTdQaDEzZ3pTYXNPY2NMbTRYSEVFeTUtT3R1ZzlGcFNsc2k0cHE4c0NGZmpXUE9ndmdCaF9lQQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -769,7 +769,7 @@ const window_news_data = [
   },
   {
     "titulo": "Catalunya lidera el empleo cualificado industrial con 275.779 ocupados, según Randstad - El Periódico",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUU4VzJRQnlwNWRmeDh1Zy05Z3FSWWVTeHFET2NHRWpZcTlMNG95SW1CbzE2ZXM0VmNtcV83X1lWU3hfQjJCZjdtbFNnMGIzek9pTFZrZE9MLTdxcU1yQ29oMkVpV09kYUFTbWdOUXgyS1ctQjFGVmJ3MURxTTFzYnZ3UnBsQ2pLVnJ0bkNQVzJyNW1hRDVTd0hxRU5DeGJ5VGRBUXVOSU0zWlcxWVYyRmk3X2JDSkxmckU4VNIBvAFBVV95cUxQbUU4VzJRQnlwNWRmeDh1Zy05Z3FSWWVTeHFET2NHRWpZcTlMNG95SW1CbzE2ZXM0VmNtcV83X1lWU3hfQjJCZjdtbFNnMGIzek9pTFZrZE9MLTdxcU1yQ29oMkVpV09kYUFTbWdOUXgyS1ctQjFGVmJ3MURxTTFzYnZ3UnBsQ2pLVnJ0bkNQVzJyNW1hRDVTd0hxRU5DeGJ5VGRBUXVOSU0zWlcxWVYyRmk3X2JDSkxmckU4VA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVndObnBqN1VmTVhoNjlsUEJoeWhWbV9NY2ZkS0p1R3hqMmRNa09Ib0d2R2dXczRvc3E2MXl5QWQyTF9xSzBZRmtXZjFiSW9UY1NQMUJLXy1nUFBsUW5yWHNfRTJzWHUwd3FfdERWaWk4a01qM0RXeVZBdmRvYm9qUEMwNVl5eDdlekdfaDRNVVdPQVFWYlREaTVjMktMTHBKeUpJTkhXZm9wc3VnQk1zenZ6RURhcjd0aUR6WdIBvAFBVV95cUxQbUU4VzJRQnlwNWRmeDh1Zy05Z3FSWWVTeHFET2NHRWpZcTlMNG95SW1CbzE2ZXM0VmNtcV83X1lWU3hfQjJCZjdtbFNnMGIzek9pTFZrZE9MLTdxcU1yQ29oMkVpV09kYUFTbWdOUXgyS1ctQjFGVmJ3MURxTTFzYnZ3UnBsQ2pLVnJ0bkNQVzJyNW1hRDVTd0hxRU5DeGJ5VGRBUXVOSU0zWlcxWVYyRmk3X2JDSkxmckU4VA?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
@@ -778,6 +778,18 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "Desconocida",
     "ubicacion": "Randstad"
+  },
+  {
+    "titulo": "La Xunta podrá recurrir a ETT tras anular el TSXG una prohibición vigente desde 2008 - farodevigo.es",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZU5ram8tSjczaElaMS1CeVRBM1RUd1M2dHJTRTZVYWxseDhQaUhJbkRvVHhpeXZlWHR2MlR2YjdySE5NWWk0LVd1MmlDeFpVMS1fRlZyNTZiQk1HWEh6Qmp4cGtYdHBqRHBSYU1EOFlnaF9IZmFPc2U0WWpZY1VrZUhOLUd3UGM5VHZsLVVGck9DVlhsSlHSAZsBQVVfeXFMT1RMei1PNUFMakxNQlZmZ3lraVlraS1GUEVHdHJCeFVjRHdfOWhJTVRyWEZyYVhnVTg2WnhWRlFLSS1lOGRwOFZEM2FfQUVGNVR1NEpkUUxmZlhiNFh5cmJkLVJDUDhvb1diV0hZU3FSNHhkcDBxdjMyRUVZeUdSMzY5SFhQaGw5dVR4Y2ZhM3Uxdk5DUElaYUhucFU?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T08:06:06Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Xunta",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "El nuevo BYD eléctrico que llega a Europa no es barato pero tiene 600 km de autonomía, 651 kWh de batería y carga 400 km en 20 minutos - Híbridos y Eléctricos",
@@ -804,7 +816,19 @@ const window_news_data = [
     "ubicacion": "Tesla"
   },
   {
-    "titulo": "Los salarios reales siguen siendo peores que cuando llegó Sánchez, según Adecco y el INE - eldebate.com",
+    "titulo": "Mercado laboral en oficios de conducción 2026 - Randstad Research",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOVk3cm1JLWZFX3pZSnZGWFRSa1NZTzhZU0JKdE44SmgzSDBfalJjSExWYlRvaU1kdjR2MnZ2M3dTUU8wX0p5R3ZoQUpSdnhFeTlvZjNlTFVhMWhUMDF4WVh5TkJxanFNWHh3X2RzTVZwbi1BQ1NiNkZpclYwSTc0RTZmcFY3aHdDaXdBTEdhRG81LVZNVmx4WnE1TVNiSmxYXzkxd1IwZGpyUHVGYkFIU0ZfSEJyV20yWVk3X1JqZ1pUU3pWRW9OclFaZHpxc09sYVJMQVhIemh4S3k2YmczeUpwRG9XaFJPY2kxWmF3LXhiblNZMzZHeGQtRFlJSEJMS0U4?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-17T14:06:43Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Los salarios reales siguen siendo peores que cuando llegó Sánchez, según Adecco y el INE - El Debate",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFgyY2hJSTRvd1ZoemR4LUhVTUNXMmx0bjVPV3NWbFVCdVUtNkNGS19vMU1WTFBrSEZCdTFVR0hmcG5tSDVfd29JQ3JxVDg3dVJVMHFNMlBvREFLWm53dEdwOWxHYU93MHlaQVhCN0xYYk5XblZMZ29YX0V3LThxejVSZ0xWV2pMdHo0THZfRGVSUHJaVGhFSkFTSkhTZVdJamo2OEl3NE5VbXZ4dlFyVlkzc0FJVjB6ajg4TEJ2Q3J0WDTSAcgBQVVfeXFMUDlBQi1mckhtZ2lTS0FXT2FscVg5UE84eXltUFUyMFZJSGNLWTBZQTB3aWVzWS1rZV9CRXhSVDVkWjhDbC1YTElqclBmM0M3QjdJSTJyWktINElIcEhmSXQ5ank5VGthTUFMbDdTT0I1a2lPQWoyb2JmSW1QSWVmU0tucExHcTdGUlJBWkxka1p5S1FoQkVSTGdIaGZPdGVpTHZWWnFVc19YMWVhTTY5YU9uQ3BPY0s4XzZJbEp2a0s1dUdHWjduUFc?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -812,7 +836,7 @@ const window_news_data = [
     "fecha": "2026-09-16T08:51:42Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
-    "empresa": "INE",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -828,15 +852,15 @@ const window_news_data = [
     "ubicacion": "Teruel"
   },
   {
-    "titulo": "Eurofirms Group refuerza su apuesta por el sector logístico - Logística Profesional",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFlJNEpXcFVzNXJNV3BQZGJfZEFXQ1l3dWYxRENlYUxqNlB5bS1NdHAxeEt2SldUdGZsTlZfOG50V21pN0tNbnBMOWlkYzYyakN2b2VHSVlpVkNQblUwZzZqWWw1UnE4XzZvX3BzWHZlMWMyMm93aW1wbDFWcUdFTXlYVzNrSjFranRsamhIcVpScmtsZlppeEpveF8wWFRGNVBOYzBFRHZLeEh0YjJ0LWxucERtdw?oc=5",
+    "titulo": "Fundación Randstad aboga por alianzas en el ecosistema laboral valenciano para mejorar el empleo de las personas con discapacidad - Servimedia",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFRRNVdtT0dqekIwdmVpOUJWa2U2b1NxZXRSSjJaUnRwV0Z5X0diZi1ZX1k5ekVfV0V5c0h2Z0xCMlF5UUpFUTR2aUczTExmZG1Nck01TFpaaGxFa21fYUl2UHM4RGhMMm5lam1HRE03b1BmMDBLblVsTHpEWVRoNlR0UTNaMHJ3SGJtbmFKb3ZkdzRNdzBXWll5aW5HUmplSUdDX1RESDRLVkNrNE5zSm8wdTRseUxrLXRaWnRUTmxTZVp3MFA2UVZQeWY5RjRjQ3FfRXY3SnRTdWdHSGlQanBnb0dZZw?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-16T19:08:16Z",
+    "fecha": "2026-09-17T11:09:00Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
-    "empresa": "Eurofirms Group",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -850,18 +874,6 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "BYD",
     "ubicacion": "Europa"
-  },
-  {
-    "titulo": "Grupo Kirol renueva su colaboración con Fundación Adecco para impulsar la inclusión - AZARplus",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWU4wb1l1a1dkRlFqd1VEQl9jTVBFQm11emxNbEowYldyMGl6Rm9JLWJWY0FncnhjRFRDNTY1X2E0YjlEOG11QmN2TTJqM1VUZVpPUWN3OTg1TUVXbm13WjlLb3hKamJmczJKdGJ5SlNQc3BQQjNKUTYyZlQ1dW51OEJLU0dRN2FtZnU3N2JKTXhYai1XbXUwMndweDdCVWhuRVZTVEh3aHBYTzhFSHc?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-11T07:30:33Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Grupo Kirol",
-    "ubicacion": "Nacional"
   },
   {
     "titulo": "Adecco Group anuncia el despliegue de Agentforce Coworker de Salesforce en 40 países - Bolsamania",
@@ -912,16 +924,16 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Alianza de ARTE y Eurofirms Foundation impulsa la inclusión laboral de personas con discapacidad en retail textil - Corresponsables",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkhnTDZTaG1DOTdIZ0lPdy0tdUxQNm0wWEN0WjRabVFDUmZ5WlVZZmgwQ0ZYcEtnMlZteXBpclFzSVp1OXlsRzZGamlqWHFKWHduZmJfa0lHTWozY1pzY2stT2NtQ3RGdFZWcFVrODdoSnFtZTJHMFJUcVJFbmNGMWs2ZzBRX1d0VGt1LTBsUEUxWmplalJ5ODlWb0xRRVZ4eTc2X3IzOTV3Um5IbE42SlZn?oc=5",
+    "titulo": "Sala de prensa - Randstad",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2hpN2ZSSlB2MmhxcGcxUDNOMjlHa0dmZmhCa05BaENjQzhnRjNUTUREam52YkdFcDU0UjI5c1RuejB4eG5ldjRMaFZDRUMzTFdTMlpHcGVzTDJLVlFGSFVZenNLTU8xbnl0STYzeEFGOHYyaFVNcXZPMzE4ZDhuZ0tVYjg5RTRYMk5UM2hSMmZlVzZlSkVwcDJwSFYwR0YyTHZ2LXNqOW5jbVVpVzAxWXFYRHlfZnRUSHlNSllxekRnWmxSeUxv?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
-    "fecha": "2026-09-11T07:30:14Z",
+    "fecha": "2026-09-15T17:39:06Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "Desconocida",
-    "ubicacion": "retail"
+    "ubicacion": "Randstad"
   },
   {
     "titulo": "El TSJCyL obliga a VIDA, del grupo Gullón, a reconocer la antigüedad de un trabajador procedente de ETT - Cadena SER",
@@ -930,6 +942,18 @@ const window_news_data = [
     "impacto": "Análisis IA no disponible o texto insuficiente.",
     "riesgos": "N/A",
     "fecha": "2026-09-14T06:25:36Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "ETT",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "El nuevo camión eléctrico BYD ETT 44 logra cinco estrellas en las pruebas de Euro NCAP - cadenadesuministro.es",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3dMVVJZbGpVVE1RWHZnbnhSUF90a1lFZnJXSF9SX2VKU1psX3FjY0pyY1pLb2VVbHlEOWNYaC1iM1JyczRZaEE1VnNSWDExalVMYjczcmFmRkxuaEU3ejZ0UndFNkpyekg5bzRwbWY5N3NEMW5PQkp5dDdNTjdZOUIyNXdMZHlONVFPQXlFamZaU1ZlRXhwMms4RnNXTHBSYlRyTnlVaFl1TGk0cHVEeVdvUl9MTGxQ?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-14T17:49:00Z",
     "fuente": "Actualidad ETTs",
     "categoria": "ETTs",
     "empresa": "ETT",
@@ -948,30 +972,6 @@ const window_news_data = [
     "ubicacion": "BYD"
   },
   {
-    "titulo": "El nuevo camión eléctrico BYD ETT 44 logra cinco estrellas en las pruebas de Euro NCAP - cadenadesuministro.es",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3dMVVJZbGpVVE1RWHZnbnhSUF90a1lFZnJXSF9SX2VKU1psX3FjY0pyY1pLb2VVbHlEOWNYaC1iM1JyczRZaEE1VnNSWDExalVMYjczcmFmRkxuaEU3ejZ0UndFNkpyekg5bzRwbWY5N3NEMW5PQkp5dDdNTjdZOUIyNXdMZHlONVFPQXlFamZaU1ZlRXhwMms4RnNXTHBSYlRyTnlVaFl1TGk0cHVEeVdvUl9MTGxQ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-14T17:49:00Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "ETT",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Ignacio Jasen - ACB",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHl2a3diQm9xZkU5VmM4MFo3ZFlvclNpeXd4ODJLb1o1OHlqZFBwOTByQndmcVBjVHFGTjVjZWZXdEoyRkFMRnpucy1QTkZBTE9aX08tUUo4VnktYmVBeDZFeGFsY0ZMenp2SVNRZVBvUzhQYThTUzRWNUw1YWMzeDZDM01nRG0yVnZGcm4wTWh5VktOdE93Q0xYM1ZHRGktNUR5TGNqREtqYzEwZ00yZXMxUVBSTmpkOUJPOQ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-10T20:12:05Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "BYD desembarca en el transporte pesado europeo con un camión eléctrico de 600 kilómetros de autonomía - cadenadesuministro.es",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamhnWHN1aElzb2hsdF8wZjJ5VHRmeURwcEFYSXZuUmwyYTBYSlNzdXlRamg1ejd6WGpCVjBhak5yaW1sX01PM2Nia0FlVVUtZkw4Q29kdzdwMU5Nb051YllON2pEUU0xOXdqbjlzNHlWVzQ0bm03Q0VCcUZBRDB3dnIyR2hzUnpkbVNtTWZIV0hhSU11ak14Y3JTWEdfdFN4bl93cWx5d2UzcGxtUEJJZFdzNElHZVFrQWtrLTZtR2dxdw?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
@@ -984,7 +984,7 @@ const window_news_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "The Adecco Group anuncia el despliegue de Salesforce Agentforce Coworker en 40 países - MarketScreener España",
+    "titulo": "The Adecco Group anuncia el despliegue de Salesforce Agentforce Coworker en 40 países - es.marketscreener.com",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXMxand4N0pKbUFhYklfQnNpYUEzc3I4aTZzSWdOMTh6dVo2Mzdwd1dPQU5GQWRQUnh2NmVVTGQ5WXFscWdZRWJaSnRjSWNJZ3JJR1FMX19vcnROYnJGTjl0ZDN6VmIyVmpYa09qUW95cDNraXN5YlZ3VWcyc2F0YlJxZWRMX0xsY1UzYWJIbGRPbXRLZjNWVk5NeVgxeHRDemZTQU5vbEpqVWJONno3ZHl6Nm9GWTkzZUtGMDgxU1YxZGk3X3M2Q2FiU1IwZG1weEpBTWhIcWQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -1044,7 +1044,7 @@ const window_news_data = [
     "ubicacion": "Europa"
   },
   {
-    "titulo": "Moody's mantiene la calificación de Randstad por su liderazgo en el mercado y mantiene su perspectiva estable - MarketScreener España",
+    "titulo": "Moody's mantiene la calificación de Randstad por su liderazgo en el mercado y mantiene su perspectiva estable - es.marketscreener.com",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVG0wdEd1MGJucmlBU2F6ZVFZaWY5UXl2QlpZYkw0RTV5a3BUNXg1T0xfbXU5Rmc5Um9ITV9OSXdycm1WNU1NRzdXU0h2SDRNcW40MFNFRW55ZkZTQmdySEdpNlFUb2pVamhXZl96RjlrdUU4RTk1Y0xQckhQTUJyVENHcUk3X0x3cmtLSmk0VmpVZS1NRWZRNzBEbFBPN1lCWEI2dWIwVWx3bU1ORDlWaWUwZGs1WnhOV1lKUUYwU3c0di13OVRGOEs2d3BQWTB2eUp2NnFfRXE4ektvTXl4RDFhSWJIUGFLYXc1ZQ?oc=5",
     "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
     "impacto": "Análisis IA no disponible o texto insuficiente.",
@@ -1054,18 +1054,6 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "Desconocida",
     "ubicacion": "Moody's"
-  },
-  {
-    "titulo": "Estad. Avanzada Sergio Rodríguez - ACB",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZ1NjJINjhaVzJKejJwNE1KTE44bnVKR3BEVGtGUVpaYmVjZzc2VGtyZDJpUmlhdVpITTJUeGdpdjIwbGZYTjRDWV9WNzFrNjNscnRSZ01IQzJjNzM5Vk5RdnYyV1hJcENNVXVfa1dxcS10OGxSWDBfa0lKNjFTdVBCSWROWlgtUFQ1OXhoSkRpRFMxcy1FVTgzYlEtY29Cak00OWdick9vejZ6UDNoc21xUVFadGVaLWhWMUJadjZzYlJsS3NqbQ?oc=5",
-    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
-    "impacto": "Análisis IA no disponible o texto insuficiente.",
-    "riesgos": "N/A",
-    "fecha": "2026-09-14T09:15:59Z",
-    "fuente": "Actualidad ETTs",
-    "categoria": "ETTs",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
   },
   {
     "titulo": "Estad. Avanzada Antonio Bueno - ACB",
@@ -1078,5 +1066,17 @@ const window_news_data = [
     "categoria": "ETTs",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "BYD ETT 44: El camión eléctrico con cifras capaces de eclipsar las del Tesla Semi - Motor16",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmaTZlaTZUUzFKLVRSeXdVTllpS2JDQVhWdnFMaTc4SEFJdW55bGNGeWFjMnZoM1dFQ1lpdEV4ZEFfNXFiQV9kZ3UtZXI4S3ZCU0dzRV9tOFVSc3k3QmFSd3ZFRnhrUjZjYkNGa1hWNWZpbmJsalJnUi1hRUFPWlk?oc=5",
+    "resumen": "Configura la API Key de Gemini en Github Actions para desbloquear la IA.",
+    "impacto": "Análisis IA no disponible o texto insuficiente.",
+    "riesgos": "N/A",
+    "fecha": "2026-09-16T04:00:00Z",
+    "fuente": "Actualidad ETTs",
+    "categoria": "ETTs",
+    "empresa": "ETT",
+    "ubicacion": "Tesla Semi"
   }
 ];
