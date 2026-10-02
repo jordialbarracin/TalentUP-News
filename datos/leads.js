@@ -48,6 +48,18 @@ const window_leads_data = [
     "ubicacion": "UGT Castilla-La Mancha"
   },
   {
+    "titulo": "Jysk ya busca personal para su desembarco en Almenara: estas son las primeras ofertas de empleo - El Periódico Mediterráneo",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjdJalR1dDVpZkdQd1U1Zjl2NUZnN0RkaHZFLVp5NWY4ZVRtVUZyd3gwa3dtUGpmU245Z2lhSk45blkwT25MczV5RmxaaFdiQ1BvbWszY0Zod1BUNGZQeHZkSkNxMXE2RC1mNEoybU9fNzgyV1IwcXVxOFNnblUxR29xcV9WZHNUMjRVNHZDYm5OV2lzVW5JLS1qaHdXZFlsS2hfeWhublZVYWtMLVpxT0hRRzZaTnNCUnl3aWdfcWxJd2RHc1BGVNIBzgFBVV95cUxOYjVwUHJiYm1GTGZCOW1XQVZ5MVZuTEt4Y0sxdTVYQk9ob3VUUTBNTVN2N3B6LW5IRWNVZDBwSXlyb01QUDBsUWpMMUU0YUdsdkJiY2JYRmhKSkF0SmlSZk5rdWxRbDA1T1FXa0JLbWliVVRJSGtrOUdYN2dzdHQ2Z2RmazRBQXhDbjVIWkNlcDgzS3NUbnNiOFo4ZFloUkg3NzRwYWVQSS1zZGZRMDVuUmNVZUFfaktOSzU1YXhHNU1nUlpENkpVYzgyMmhPUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjdJalR1dDVpZkdQd1U1Zjl2NUZnN0RkaHZFLVp5NWY4ZVRtVUZyd3gwa3dtUGpmU245Z2lhSk45blkwT25MczV5RmxaaFdiQ1BvbWszY0Zod1BUNGZQeHZkSkNxMXE2RC1mNEoybU9fNzgyV1IwcXVxOFNnblUxR29xcV9WZHNUMjRVNHZDYm5OV2lzVW5JLS1qaHdXZFlsS2hfeWhublZVYWtMLVpxT0hRRzZaTnNCUnl3aWdfcWxJd2RHc1BGVNIBzgFBVV95cUxOYjVwUHJiYm1GTGZCOW1XQVZ5MVZuTEt4Y0sxdTVYQk9ob3VUUTBNTVN2N3B6LW5IRWNVZDBwSXlyb01QUDBsUWpMMUU0YUdsdkJiY2JYRmhKSkF0SmlSZk5rdWxRbDA1T1FXa0JLbWliVVRJSGtrOUdYN2dzdHQ2Z2RmazRBQXhDbjVIWkNlcDgzS3NUbnNiOFo4ZFloUkg3NzRwYWVQSS1zZGZRMDVuUmNVZUFfaktOSzU1YXhHNU1nUlpENkpVYzgyMmhPUQ?oc=5\" target=\"_blank\">Jysk ya busca personal para su desembarco en Almenara: estas son las primeras ofertas de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico Mediterráneo</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-02T09:25:04Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Almenara"
+  },
+  {
     "titulo": "13 ofertas de empleo en el sector fotovoltaico y BESS en España en la última semana - pv magazine España",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDlleHRTMXZVeWFUajd4Y0pQQWY1RDRwWlVub0ZkWVF3WWc2ZUxKa3N6ZHR3dTdfa1RobmNBVWNZNV9XcnkzWGZRTjJwV0VlaW9IZ2luNWdETm5ITnFpYlQ3QlA1aUZjR1hDc0lVNE9WSVVyTVdicU4xMG5YQ1RZTW5mSlppTTEwSF9PUVFLQWROaFZlZlRFc0FrQWhocmRoVjVhUFdtOWFxU2JrSEtZbTk3cC0yQlRHY3BTcTVlOA?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDlleHRTMXZVeWFUajd4Y0pQQWY1RDRwWlVub0ZkWVF3WWc2ZUxKa3N6ZHR3dTdfa1RobmNBVWNZNV9XcnkzWGZRTjJwV0VlaW9IZ2luNWdETm5ITnFpYlQ3QlA1aUZjR1hDc0lVNE9WSVVyTVdicU4xMG5YQ1RZTW5mSlppTTEwSF9PUVFLQWROaFZlZlRFc0FrQWhocmRoVjVhUFdtOWFxU2JrSEtZbTk3cC0yQlRHY3BTcTVlOA?oc=5\" target=\"_blank\">13 ofertas de empleo en el sector fotovoltaico y BESS en España en la última semana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine España</font>",
@@ -60,15 +72,15 @@ const window_leads_data = [
     "ubicacion": "España"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 28 de septiembre de 2026 - telemadrid.es",
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 28 de septiembre de 2026 - Telemadrid",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2IydHNCVzg2ZVdXaGtOWFFnTXJaQTNDVDF3djVSSW5hZG90blkzLXJ2RGNXa2o5aGJWRUVBbEEyaUVINk90aTJjSkNRc3NvdkVhYXA2aTIwTnYwVW90WDFaOTR4c2c2OW9qRXdzc2VZcWhRVFJDdklnazJIVEtxV0x2Qm1HSTQ0Sm5kb29mY3ZBbHNKTkJIaDFZVmsyUmFsemJWYlduNGdMLWdnWVJWbl9CdGcweFhiWmppZ0xhSEpxb1RyREJTOWpaSHB2MnZ1SDcxS3pwaFlPUU5MUkpGMEJncTQ3ZUdEOW1XNDRR0gHzAUFVX3lxTE5NNUVBcEc2SUxqY3hYRXdmaGd0MlR0ajM0eWhoQjFsaHc5NHgzZUE5aTJTbHdRWXZRNkRBSmxTRXlXOS1CM1hsYVRZajJCZ3ZtTHdRcGZMSkJONkp3c2tnQndwcGVxOVBsMXY0Uk1PcWpuUVpMYXZTSFNTYTNZNmQ5V0pPZUZnaUJYUHhnMUlUZkxvWFpidnJiaWREUGVvdGhtRzRXSkh1a3N0U3lTZUdwMHBhQmwwNXFoRTBQUnZ0QzhwdW9sLTVfUUFTOF81UnJwYl9BaFJkUENFWXhTUmdQNFZ5SWUtdmdqMTl1SFpyUERXMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2IydHNCVzg2ZVdXaGtOWFFnTXJaQTNDVDF3djVSSW5hZG90blkzLXJ2RGNXa2o5aGJWRUVBbEEyaUVINk90aTJjSkNRc3NvdkVhYXA2aTIwTnYwVW90WDFaOTR4c2c2OW9qRXdzc2VZcWhRVFJDdklnazJIVEtxV0x2Qm1HSTQ0Sm5kb29mY3ZBbHNKTkJIaDFZVmsyUmFsemJWYlduNGdMLWdnWVJWbl9CdGcweFhiWmppZ0xhSEpxb1RyREJTOWpaSHB2MnZ1SDcxS3pwaFlPUU5MUkpGMEJncTQ3ZUdEOW1XNDRR0gHzAUFVX3lxTE5NNUVBcEc2SUxqY3hYRXdmaGd0MlR0ajM0eWhoQjFsaHc5NHgzZUE5aTJTbHdRWXZRNkRBSmxTRXlXOS1CM1hsYVRZajJCZ3ZtTHdRcGZMSkJONkp3c2tnQndwcGVxOVBsMXY0Uk1PcWpuUVpMYXZTSFNTYTNZNmQ5V0pPZUZnaUJYUHhnMUlUZkxvWFpidnJiaWREUGVvdGhtRzRXSkh1a3N0U3lTZUdwMHBhQmwwNXFoRTBQUnZ0QzhwdW9sLTVfUUFTOF81UnJwYl9BaFJkUENFWXhTUmdQNFZ5SWUtdmdqMTl1SFpyUERXMA?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 28 de septiembre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">telemadrid.es</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2IydHNCVzg2ZVdXaGtOWFFnTXJaQTNDVDF3djVSSW5hZG90blkzLXJ2RGNXa2o5aGJWRUVBbEEyaUVINk90aTJjSkNRc3NvdkVhYXA2aTIwTnYwVW90WDFaOTR4c2c2OW9qRXdzc2VZcWhRVFJDdklnazJIVEtxV0x2Qm1HSTQ0Sm5kb29mY3ZBbHNKTkJIaDFZVmsyUmFsemJWYlduNGdMLWdnWVJWbl9CdGcweFhiWmppZ0xhSEpxb1RyREJTOWpaSHB2MnZ1SDcxS3pwaFlPUU5MUkpGMEJncTQ3ZUdEOW1XNDRR0gHzAUFVX3lxTE5NNUVBcEc2SUxqY3hYRXdmaGd0MlR0ajM0eWhoQjFsaHc5NHgzZUE5aTJTbHdRWXZRNkRBSmxTRXlXOS1CM1hsYVRZajJCZ3ZtTHdRcGZMSkJONkp3c2tnQndwcGVxOVBsMXY0Uk1PcWpuUVpMYXZTSFNTYTNZNmQ5V0pPZUZnaUJYUHhnMUlUZkxvWFpidnJiaWREUGVvdGhtRzRXSkh1a3N0U3lTZUdwMHBhQmwwNXFoRTBQUnZ0QzhwdW9sLTVfUUFTOF81UnJwYl9BaFJkUENFWXhTUmdQNFZ5SWUtdmdqMTl1SFpyUERXMA?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 28 de septiembre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-28T10:28:59Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Desconocida",
+    "empresa": "Telemadrid",
     "ubicacion": "Comunidad de Madrid"
   },
   {
@@ -96,15 +108,15 @@ const window_leads_data = [
     "ubicacion": "EE.UU."
   },
   {
-    "titulo": "Ofertas de empleo en EEUU caen en agosto; los despidos se mantienen en niveles bajos - TradingView",
+    "titulo": "Ofertas de empleo en EEUU caen en agosto; los despidos se mantienen en niveles bajos - es.tradingview.com",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SNVBTTzZSS1BZSEtCXy1ZMlMya1RFMW1HVzI5R01hMC1WRWdXWF9mOEhJbVlIZ0FzdC1Tb2JwNm54V1BBT3JpSUJOM2N6emI0TF9abkZsVnlxY3RqY1U5VUx3VzlJdFZ4SlB6M2t1Y2xoRGVGRVNz?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1SNVBTTzZSS1BZSEtCXy1ZMlMya1RFMW1HVzI5R01hMC1WRWdXWF9mOEhJbVlIZ0FzdC1Tb2JwNm54V1BBT3JpSUJOM2N6emI0TF9abkZsVnlxY3RqY1U5VUx3VzlJdFZ4SlB6M2t1Y2xoRGVGRVNz?oc=5\" target=\"_blank\">Ofertas de empleo en EEUU caen en agosto; los despidos se mantienen en niveles bajos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1SNVBTTzZSS1BZSEtCXy1ZMlMya1RFMW1HVzI5R01hMC1WRWdXWF9mOEhJbVlIZ0FzdC1Tb2JwNm54V1BBT3JpSUJOM2N6emI0TF9abkZsVnlxY3RqY1U5VUx3VzlJdFZ4SlB6M2t1Y2xoRGVGRVNz?oc=5\" target=\"_blank\">Ofertas de empleo en EEUU caen en agosto; los despidos se mantienen en niveles bajos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-29T14:50:12Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "TradingView",
+    "empresa": "Desconocida",
     "ubicacion": "EEUU"
   },
   {
@@ -120,16 +132,16 @@ const window_leads_data = [
     "ubicacion": "Mallorca"
   },
   {
-    "titulo": "Ofertas de empleo público en Diputación de Cádiz: convocadas un total de 119 plazas de funcionario - lavozdelsur.es",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzlocnA1NnpEZjN6OUY5YU5CcWtrS3RZZXotNFFxNXV1Q1FWMktGVFItUWM0Y25Sa1JSNWMwcGlIZGp3aGI5REFmUWxIOENSRmtGckFzQjdkNU1ZN2VzM3dCWWJadUo2SlhlUE9seXdHYS00TUN3QjFxSGRPT1NLRkV4NHkxWHZwMURFWW8zbmJ5WlFwUDYyOUNCelJxQ1l5YjJDOGoyRktzbWtqbGpaN0dTcVBVRHVQZDAzdVpZVzdzNXBRcFZHTmRlRG9WVnhxd3l6QVJjdGUzZDNpRl9pSlByZFcxZHFlQXhz?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzlocnA1NnpEZjN6OUY5YU5CcWtrS3RZZXotNFFxNXV1Q1FWMktGVFItUWM0Y25Sa1JSNWMwcGlIZGp3aGI5REFmUWxIOENSRmtGckFzQjdkNU1ZN2VzM3dCWWJadUo2SlhlUE9seXdHYS00TUN3QjFxSGRPT1NLRkV4NHkxWHZwMURFWW8zbmJ5WlFwUDYyOUNCelJxQ1l5YjJDOGoyRktzbWtqbGpaN0dTcVBVRHVQZDAzdVpZVzdzNXBRcFZHTmRlRG9WVnhxd3l6QVJjdGUzZDNpRl9pSlByZFcxZHFlQXhz?oc=5\" target=\"_blank\">Ofertas de empleo público en Diputación de Cádiz: convocadas un total de 119 plazas de funcionario</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdelsur.es</font>",
+    "titulo": "Solo el 30,7% de las ofertas de empleo busca periodistas de forma explícita - Asociación de la Prensa de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGN2cjdTQlJsUVJwWmk3WFNSVzQzSzY1TVdURDJ2UTJ4QjFCRkJKQjllbHFDRllwS3NWNzhOa01iTUN1amRIZkJ2azlSYWtmakFBazBHRm1QMWl1ZndoNkJ4cV9MQ2F2Z1VvZmJ6cFRuNklyQ0UxY2JTbTI3WDdHZVN6REFjMHdhWWd0dUp0d2FSTDlZRDlpZmc0dUt4WTcwR24yRUtkRHVySzAtYVJSZWczMkJ6RnZFZXpNbFFYMXI0QTV3b0l3RUxYMUM0UHlEWFloUXozZWg2SHM?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGN2cjdTQlJsUVJwWmk3WFNSVzQzSzY1TVdURDJ2UTJ4QjFCRkJKQjllbHFDRllwS3NWNzhOa01iTUN1amRIZkJ2azlSYWtmakFBazBHRm1QMWl1ZndoNkJ4cV9MQ2F2Z1VvZmJ6cFRuNklyQ0UxY2JTbTI3WDdHZVN6REFjMHdhWWd0dUp0d2FSTDlZRDlpZmc0dUt4WTcwR24yRUtkRHVySzAtYVJSZWczMkJ6RnZFZXpNbFFYMXI0QTV3b0l3RUxYMUM0UHlEWFloUXozZWg2SHM?oc=5\" target=\"_blank\">Solo el 30,7% de las ofertas de empleo busca periodistas de forma explícita</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asociación de la Prensa de Málaga</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-09-29T13:54:25Z",
+    "fecha": "2026-10-01T06:39:19Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "Diputación de Cádiz"
+    "ubicacion": "Málaga"
   },
   {
     "titulo": "Finestrat contratará a 5 personas para prevención de incendios con LABORA - Ahora Marina Baixa",
@@ -144,51 +156,51 @@ const window_leads_data = [
     "ubicacion": "Finestrat"
   },
   {
-    "titulo": "UGT critica \"las trampas\" del alcalde de Cádiz en las ofertas de empleo - Diario de Cádiz",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3pONV9mV3EySFU4VXF3cTNXdVBTVURyZG45REVyalgzeWp4MWFhZEozTzVEeGdqUWpIbWFtNVpxY2phWHpxQ25TMVJjRjdNQm1tNHNLWkpXTnNUYzBVNDgtVVZhcmJ4T0dtLXFxc2dXTXBCYS1rckduTFNwNmgxZWFlbnJqQXpwZGJNcGk4MNIBlAFBVV95cUxPOWhaZWpWWGRPc0RZYVhqNGRnSkhiRWc5MHVPdlEzTXJXYkdLQkp0a3BQdWtGWTB0eDV1T3ViYkU0WU9MbmFHUktwU1VJMnRXcVg0RW9Jem9zVTB6Q29rMHZXd3liTE9Ia3NVVWZyaEIyazAzcl9QYU9QcldCSk9HTGVtZW1ZZGVzSzIySWV1alQ4cWw4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3pONV9mV3EySFU4VXF3cTNXdVBTVURyZG45REVyalgzeWp4MWFhZEozTzVEeGdqUWpIbWFtNVpxY2phWHpxQ25TMVJjRjdNQm1tNHNLWkpXTnNUYzBVNDgtVVZhcmJ4T0dtLXFxc2dXTXBCYS1rckduTFNwNmgxZWFlbnJqQXpwZGJNcGk4MNIBlAFBVV95cUxPOWhaZWpWWGRPc0RZYVhqNGRnSkhiRWc5MHVPdlEzTXJXYkdLQkp0a3BQdWtGWTB0eDV1T3ViYkU0WU9MbmFHUktwU1VJMnRXcVg0RW9Jem9zVTB6Q29rMHZXd3liTE9Ia3NVVWZyaEIyazAzcl9QYU9QcldCSk9HTGVtZW1ZZGVzSzIySWV1alQ4cWw4?oc=5\" target=\"_blank\">UGT critica \"las trampas\" del alcalde de Cádiz en las ofertas de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Cádiz</font>",
+    "titulo": "Ofertas de empleo de Madrid Trabaja 26.09.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczAxNDEtRFQ1bHFfY2JQQkpQTUh4eWFkWTV3aFVfZWZ5SGxRbWxTdGpmdVBuMXlNU2VqakFtMkt5ZFI4dDQ2VlVvOW01dHZwQTg1ODByZDNlMGVXT2JDTDhHdFlfRVRlVXFpUHpxT1NWRTFnNk9OY0tsSEk3Qnp1Yng5bUlrckpHNjhlM2JlYkdlSm15RkpvQ2YtenhjNXpGOXdvMHF0MUw0cG54SVJZSjV4ZFllX0FGeTZCY0lHTUd2My1FajBSYdIBzgFBVV95cUxNNlRidmNDR3FuZkxoQjNxeU5EWFQwUWtjeDNiUUVKa3doRWZzU1ZreFZ6R202TFMxbWJNM0dyMnpwZUxjZ2FIWHdEcmw2TFBRNThFaDJEV3VGdFNxVEpPMkxFanZ4WmQwNkdMdUlZWG82d3lEOUpST0RBaTBOMXhLLUZ1T0Q4cW5tTXRYbkRKbDFEVnctLUxxQjlEWDlmVXdZNlVJamUxRjB2emFxSjBxMW5CNGVfTmlqeG82WEhNdWlYZXVncjUxT2JRVF84UQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczAxNDEtRFQ1bHFfY2JQQkpQTUh4eWFkWTV3aFVfZWZ5SGxRbWxTdGpmdVBuMXlNU2VqakFtMkt5ZFI4dDQ2VlVvOW01dHZwQTg1ODByZDNlMGVXT2JDTDhHdFlfRVRlVXFpUHpxT1NWRTFnNk9OY0tsSEk3Qnp1Yng5bUlrckpHNjhlM2JlYkdlSm15RkpvQ2YtenhjNXpGOXdvMHF0MUw0cG54SVJZSjV4ZFllX0FGeTZCY0lHTUd2My1FajBSYdIBzgFBVV95cUxNNlRidmNDR3FuZkxoQjNxeU5EWFQwUWtjeDNiUUVKa3doRWZzU1ZreFZ6R202TFMxbWJNM0dyMnpwZUxjZ2FIWHdEcmw2TFBRNThFaDJEV3VGdFNxVEpPMkxFanZ4WmQwNkdMdUlZWG82d3lEOUpST0RBaTBOMXhLLUZ1T0Q4cW5tTXRYbkRKbDFEVnctLUxxQjlEWDlmVXdZNlVJamUxRjB2emFxSjBxMW5CNGVfTmlqeG82WEhNdWlYZXVncjUxT2JRVF84UQ?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 26.09.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-09-28T16:18:13Z",
+    "fecha": "2026-09-26T08:20:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "UGT",
-    "ubicacion": "alcalde de Cádiz"
+    "empresa": "Telemadrid",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 30 de septiembre de 2026 - telemadrid.es",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTFY2R3NlSlhGX1VMNnRKZU9nRGJkdXlDbDdpTFFvcEl6NFdKZ1NEVWs5MEswN0d2cHUxc0JSaXNYQm5sQWdwaFNMam9rbU9XYWtYTWFkSEVoMlRLMkktMzdQa2p1dFdqaDlnRS13c1dnRFFncFU0d3lUbmdJT2lqTDh5Mm1FTHctQmtSSVlVOUk3VVR2REVnamVFUDl3LXR1bkZPMFA1dDI2TG1VbjFLcVdfeTBjYkhlYVhPcXhlOXBTMzd3UW11RW1ESGtyYlZpU0ZxTDJLbW5xQkh0NEk0WmRrVWcxVnB1X0JTVVlR0gHzAUFVX3lxTFB3X09xdUtNTGN4OWc4b1NreVdWcVgzaTV6SDZnSW92T3NDS05feno2ZEgtLWZ5VnVnMzB1VDMzd01IMDhUZDRTdXl3NS1GRFZXY19ObnJLN29walhRNGppeDZFN0l4eHdsVDltbDFVRHV3OVNheEk5LXExRkxzYzJMenVGZ2JCc1MtVG82VVlnRFpQd2F2cm1MYklxVEJPMkxiNEEwajhkWWhfZGZBWVo1d2d1RFdpMmRmamltWkdGUG9OMklIMWxEUUZUaFpzandJTFIxZEJxYlZDcllya2M1R1ppbV9fc2NLdGljbTRnaTB0UQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTFY2R3NlSlhGX1VMNnRKZU9nRGJkdXlDbDdpTFFvcEl6NFdKZ1NEVWs5MEswN0d2cHUxc0JSaXNYQm5sQWdwaFNMam9rbU9XYWtYTWFkSEVoMlRLMkktMzdQa2p1dFdqaDlnRS13c1dnRFFncFU0d3lUbmdJT2lqTDh5Mm1FTHctQmtSSVlVOUk3VVR2REVnamVFUDl3LXR1bkZPMFA1dDI2TG1VbjFLcVdfeTBjYkhlYVhPcXhlOXBTMzd3UW11RW1ESGtyYlZpU0ZxTDJLbW5xQkh0NEk0WmRrVWcxVnB1X0JTVVlR0gHzAUFVX3lxTFB3X09xdUtNTGN4OWc4b1NreVdWcVgzaTV6SDZnSW92T3NDS05feno2ZEgtLWZ5VnVnMzB1VDMzd01IMDhUZDRTdXl3NS1GRFZXY19ObnJLN29walhRNGppeDZFN0l4eHdsVDltbDFVRHV3OVNheEk5LXExRkxzYzJMenVGZ2JCc1MtVG82VVlnRFpQd2F2cm1MYklxVEJPMkxiNEEwajhkWWhfZGZBWVo1d2d1RFdpMmRmamltWkdGUG9OMklIMWxEUUZUaFpzandJTFIxZEJxYlZDcllya2M1R1ppbV9fc2NLdGljbTRnaTB0UQ?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 30 de septiembre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">telemadrid.es</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-30T08:56:48Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Comunidad de Madrid"
-  },
-  {
-    "titulo": "Resumen semanal: Inicio del ensayo clínico de AX-0811 y contrataciones de liderazgo en IA de ProQR - TradingView",
+    "titulo": "Resumen semanal: Inicio del ensayo clínico de AX-0811 y contrataciones de liderazgo en IA de ProQR - es.tradingview.com",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZnRUenJlOTBGdjl5V05HTGNlWm1PN1g5NENmNVpiUmNqSlpJYUhiRTUzcWJ2VlpDRktRdHpSb1JpZ2lUYmVrWVBHenVjdTJyRXc4VHhOdW5lNU84UERhTGZqanhWQVhHMEJ3Qw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZnRUenJlOTBGdjl5V05HTGNlWm1PN1g5NENmNVpiUmNqSlpJYUhiRTUzcWJ2VlpDRktRdHpSb1JpZ2lUYmVrWVBHenVjdTJyRXc4VHhOdW5lNU84UERhTGZqanhWQVhHMEJ3Qw?oc=5\" target=\"_blank\">Resumen semanal: Inicio del ensayo clínico de AX-0811 y contrataciones de liderazgo en IA de ProQR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZnRUenJlOTBGdjl5V05HTGNlWm1PN1g5NENmNVpiUmNqSlpJYUhiRTUzcWJ2VlpDRktRdHpSb1JpZ2lUYmVrWVBHenVjdTJyRXc4VHhOdW5lNU84UERhTGZqanhWQVhHMEJ3Qw?oc=5\" target=\"_blank\">Resumen semanal: Inicio del ensayo clínico de AX-0811 y contrataciones de liderazgo en IA de ProQR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-28T11:00:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "TradingView",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Aznalcóllar vuelve a mirar a la mina: empleo, inversión y oportunidades ante la apertura de Los Frailes - cadenaser.com",
+    "titulo": "Ermita de San Antonio de la Florida - Apertura de la ermita - Ayuntamiento de Madrid",
+    "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPWjFwbV9DVHA3bDNxVl9VN2NLMXM2b0hDSTNfSGgtSGh3Q3NGRGhlb1NaQzVVT3B4ZVZPaVJwVFJoV05YakRqTXgzMGlXdVZaNElqMGcyTjJ2Qm92ZENPTEVmMkZHREFkSV9ZbGhWbmUxcDc3b2ozb0NIRjNzdzN2eVRoYzIzZURwR1E3alBjWkQzR3JZaVF2d3F3eC1yMm43MUlMalRxb0RaQmxhSzctUkhQemtkeE1ELWJObGpMUDIxS1l4Nk95OC1RdXRXb1N3UzZwREZiUzNaeXlvcWxkN1hpUm91c1JydmRCS0xaS1UzNHh4VGtpU2hhRWdnOHBvb2lvbWp6MVdvZWVnWlhES1VLTkxvRkVHZDdHWmR4c1R2UjFfaXRBUFNCaHFtMkFURzZzdEdtSEtLT1l6QnRUZk5sN3kxY0lxTWMzZE1leFpKcEk4UGV2WEQtZzI3NGRXSnctb0VCeEtXeW11bzJ1eDFua3B4UHR5bzZSMVBHR2N5Z2Z3cnlCOFJzZk0xdzc2MVZZMQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxPWjFwbV9DVHA3bDNxVl9VN2NLMXM2b0hDSTNfSGgtSGh3Q3NGRGhlb1NaQzVVT3B4ZVZPaVJwVFJoV05YakRqTXgzMGlXdVZaNElqMGcyTjJ2Qm92ZENPTEVmMkZHREFkSV9ZbGhWbmUxcDc3b2ozb0NIRjNzdzN2eVRoYzIzZURwR1E3alBjWkQzR3JZaVF2d3F3eC1yMm43MUlMalRxb0RaQmxhSzctUkhQemtkeE1ELWJObGpMUDIxS1l4Nk95OC1RdXRXb1N3UzZwREZiUzNaeXlvcWxkN1hpUm91c1JydmRCS0xaS1UzNHh4VGtpU2hhRWdnOHBvb2lvbWp6MVdvZWVnWlhES1VLTkxvRkVHZDdHWmR4c1R2UjFfaXRBUFNCaHFtMkFURzZzdEdtSEtLT1l6QnRUZk5sN3kxY0lxTWMzZE1leFpKcEk4UGV2WEQtZzI3NGRXSnctb0VCeEtXeW11bzJ1eDFua3B4UHR5bzZSMVBHR2N5Z2Z3cnlCOFJzZk0xdzc2MVZZMQ?oc=5\" target=\"_blank\">Ermita de San Antonio de la Florida - Apertura de la ermita</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Madrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-19T21:51:28Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Ayuntamiento de Madrid"
+  },
+  {
+    "titulo": "Aznalcóllar vuelve a mirar a la mina: empleo, inversión y oportunidades ante la apertura de Los Frailes - Cadena SER",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGN5dXkxWWRWdmlkUV9JWGVaOFY0Q2E3X1hFVDVyd1Q2ZVl5QXF2VGI0Wk93Wmp6LWpaY25YclRqYUZhdmJnVzg5SVZkN1dsTlZJaVlKMlZ4UzZzaWswNkNHT3NkNnBEdkNDMXBOZk16bDBibDVUbGd2Sklzb3ZrNDA5djFsdU8zVmNPVDVjcl9jdmNwUmNKRzk1b08tcUlTWmFicm1GclJBY09qMWJjYl91UC0xZTFyUW1RS05iMFRhWjNlVnhJLVNXbGJ6SlJMQ052VVlfRlhNdDJYRXBLMEdRdUdMM3hOT2xTYVhB0gGCAkFVX3lxTFBBYURzMGdVOW8xSkxhX3UwY21mWlZNRDJwTk5fRXhQYVl3OFRSS2VmY0RqMXNGMUVicXp3c3EtdHZUZEJ1SDVaOG82d2RfRFV1SUlOUGJYdkNpT1M5b2swNnBrQ3VhZUVWbjM3NldzYzAyUkZFQmNSVGpxV1VPWGNxSjhnY0JZWHpzMnRBV2RkUHJkY3hMQ0tJeFhjUTB4NGQ1MHdOajBfNzlDUjJLeTlCcDZJMGVRTTZVd1F3Ni1STWMxbXQ4UF9rWjZ3TUw3eTNzMHJta2lBOEJMWUdyZG9oOUFMVTNCaHdlR18yLWZtNkQ5Y2NmOUdxOWcxb3ZFaHE1Zw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGN5dXkxWWRWdmlkUV9JWGVaOFY0Q2E3X1hFVDVyd1Q2ZVl5QXF2VGI0Wk93Wmp6LWpaY25YclRqYUZhdmJnVzg5SVZkN1dsTlZJaVlKMlZ4UzZzaWswNkNHT3NkNnBEdkNDMXBOZk16bDBibDVUbGd2Sklzb3ZrNDA5djFsdU8zVmNPVDVjcl9jdmNwUmNKRzk1b08tcUlTWmFicm1GclJBY09qMWJjYl91UC0xZTFyUW1RS05iMFRhWjNlVnhJLVNXbGJ6SlJMQ052VVlfRlhNdDJYRXBLMEdRdUdMM3hOT2xTYVhB0gGCAkFVX3lxTFBBYURzMGdVOW8xSkxhX3UwY21mWlZNRDJwTk5fRXhQYVl3OFRSS2VmY0RqMXNGMUVicXp3c3EtdHZUZEJ1SDVaOG82d2RfRFV1SUlOUGJYdkNpT1M5b2swNnBrQ3VhZUVWbjM3NldzYzAyUkZFQmNSVGpxV1VPWGNxSjhnY0JZWHpzMnRBV2RkUHJkY3hMQ0tJeFhjUTB4NGQ1MHdOajBfNzlDUjJLeTlCcDZJMGVRTTZVd1F3Ni1STWMxbXQ4UF9rWjZ3TUw3eTNzMHJta2lBOEJMWUdyZG9oOUFMVTNCaHdlR18yLWZtNkQ5Y2NmOUdxOWcxb3ZFaHE1Zw?oc=5\" target=\"_blank\">Aznalcóllar vuelve a mirar a la mina: empleo, inversión y oportunidades ante la apertura de Los Frailes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cadenaser.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGN5dXkxWWRWdmlkUV9JWGVaOFY0Q2E3X1hFVDVyd1Q2ZVl5QXF2VGI0Wk93Wmp6LWpaY25YclRqYUZhdmJnVzg5SVZkN1dsTlZJaVlKMlZ4UzZzaWswNkNHT3NkNnBEdkNDMXBOZk16bDBibDVUbGd2Sklzb3ZrNDA5djFsdU8zVmNPVDVjcl9jdmNwUmNKRzk1b08tcUlTWmFicm1GclJBY09qMWJjYl91UC0xZTFyUW1RS05iMFRhWjNlVnhJLVNXbGJ6SlJMQ052VVlfRlhNdDJYRXBLMEdRdUdMM3hOT2xTYVhB0gGCAkFVX3lxTFBBYURzMGdVOW8xSkxhX3UwY21mWlZNRDJwTk5fRXhQYVl3OFRSS2VmY0RqMXNGMUVicXp3c3EtdHZUZEJ1SDVaOG82d2RfRFV1SUlOUGJYdkNpT1M5b2swNnBrQ3VhZUVWbjM3NldzYzAyUkZFQmNSVGpxV1VPWGNxSjhnY0JZWHpzMnRBV2RkUHJkY3hMQ0tJeFhjUTB4NGQ1MHdOajBfNzlDUjJLeTlCcDZJMGVRTTZVd1F3Ni1STWMxbXQ4UF9rWjZ3TUw3eTNzMHJta2lBOEJMWUdyZG9oOUFMVTNCaHdlR18yLWZtNkQ5Y2NmOUdxOWcxb3ZFaHE1Zw?oc=5\" target=\"_blank\">Aznalcóllar vuelve a mirar a la mina: empleo, inversión y oportunidades ante la apertura de Los Frailes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-25T11:30:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Los Frailes",
+    "empresa": "Los Frailes - Cadena SER",
     "ubicacion": "Nacional"
   },
   {
@@ -216,18 +228,6 @@ const window_leads_data = [
     "ubicacion": "Centro Español de Logística"
   },
   {
-    "titulo": "Action abrirá una nueva tienda en Santa Justa y busca trabajadores: puestos, requisitos y condiciones - Diario de Sevilla",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkpYRktoTXdEOUZVUlhDSXFES1dyY0c2TjJOcWRwWE5IXzhTVHNldFhjX2w2dXJIVTZYZWhIblhXRXI2NEx0M0FHZ2dPUGlXTHA0TE5sNFdtTExoVDRhZlIwWVVLQ0RDZWt3R0ZxWjluWGt5anFlaE9mVkxsbzlLeWpDTFRHMTBwcXRhYmhZU1RVMVhkcUlkMlBISFPSAaIBQVVfeXFMTkhUbkpYbzVzbTRSVGJtdl9tNjR4aVVYLWFmZFA3eG5jQjl2Y193U1ZYTjZMaUtlY3pKaW15WEJZUTNERkVSNk10enJ3SHNoSDdUZnQtWlhzcnRjNVFMbTAzZ29Jb19xU21TLWlqb1NOc2kxbl9mQ1hudnB1UE9ndFZBRlZWMlVJLUdJUFk5VVVUX0U0dm9KWnZlS0ZZUEFyTjR3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkpYRktoTXdEOUZVUlhDSXFES1dyY0c2TjJOcWRwWE5IXzhTVHNldFhjX2w2dXJIVTZYZWhIblhXRXI2NEx0M0FHZ2dPUGlXTHA0TE5sNFdtTExoVDRhZlIwWVVLQ0RDZWt3R0ZxWjluWGt5anFlaE9mVkxsbzlLeWpDTFRHMTBwcXRhYmhZU1RVMVhkcUlkMlBISFPSAaIBQVVfeXFMTkhUbkpYbzVzbTRSVGJtdl9tNjR4aVVYLWFmZFA3eG5jQjl2Y193U1ZYTjZMaUtlY3pKaW15WEJZUTNERkVSNk10enJ3SHNoSDdUZnQtWlhzcnRjNVFMbTAzZ29Jb19xU21TLWlqb1NOc2kxbl9mQ1hudnB1UE9ndFZBRlZWMlVJLUdJUFk5VVVUX0U0dm9KWnZlS0ZZUEFyTjR3?oc=5\" target=\"_blank\">Action abrirá una nueva tienda en Santa Justa y busca trabajadores: puestos, requisitos y condiciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Sevilla</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-30T10:53:38Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Action"
-  },
-  {
     "titulo": "Actualidad: Cieza.es - Ayuntamiento de Cieza",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONnlna2h3VF9CZXppQ1doc3p3ZS1CRnBkVWRFeDR6eWZjQjRyVG5RZnI0TmxjZy1uUFJwM3dPa2ozLUwwdGp4WUoydFZTSF8zM1JSVnpOYl80Nks3NmR0eDdUaEJrLTFDUndxVjVSM25WUDVLcjhBYnByZmtXTWJ3MlpGSlR2emJ4M3JBU0tueHNnSnA3dEZmX0k0blVkQlRnZ1RpendWUnd1TklpejhqWXdvYmF0elZrRUg0RThkOTVUdXhYVFlz?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONnlna2h3VF9CZXppQ1doc3p3ZS1CRnBkVWRFeDR6eWZjQjRyVG5RZnI0TmxjZy1uUFJwM3dPa2ozLUwwdGp4WUoydFZTSF8zM1JSVnpOYl80Nks3NmR0eDdUaEJrLTFDUndxVjVSM25WUDVLcjhBYnByZmtXTWJ3MlpGSlR2emJ4M3JBU0tueHNnSnA3dEZmX0k0blVkQlRnZ1RpendWUnd1TklpejhqWXdvYmF0elZrRUg0RThkOTVUdXhYVFlz?oc=5\" target=\"_blank\">Actualidad: Cieza.es</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Cieza</font>",
@@ -240,9 +240,33 @@ const window_leads_data = [
     "ubicacion": "Actualidad"
   },
   {
-    "titulo": "Azcón inaugura en Villanúa las 23 primeras viviendas públicas destinadas a trabajadores del turismo - jacetaniaexpress.com",
+    "titulo": "Trabajadores de grandes almacenes, contra la apertura \"indiscriminada\" con la ZGAT de Jerez suspendida: \"No tenemos fines de semana\" - lavozdelsur.es",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQa3lrQm13Y1c0dEg3LWtQb29OV1FNNFVvYXNhRzU3SnVSZkRkemdWZWdMRDR4T1k3NEVxNTBNay1EVEZEQ2x1T3VhbldiT2UzeHlmZWEtWnd4R3Z0TTVZcXF5RkNZeVA3TGpBeWs3c0NSZzRMbWFZUW1Kc3Y0UGZZQnRYZDZYMFY2cUZNdVhPTzF6OUZCV1VLRExFVkg0TEk0MnVfc0Z1M0JaMXZKY3A1QWEwU2lFX1hnRTRlR0VDc3dsN09YdUFheXNvMFAwNzRlRzJ1Ni1nT1hfa2RzX3RhbWdyMzFVVFVPQnpKYWE3OXN4aG92dk5nVnBla3g4aVo5OFRn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQa3lrQm13Y1c0dEg3LWtQb29OV1FNNFVvYXNhRzU3SnVSZkRkemdWZWdMRDR4T1k3NEVxNTBNay1EVEZEQ2x1T3VhbldiT2UzeHlmZWEtWnd4R3Z0TTVZcXF5RkNZeVA3TGpBeWs3c0NSZzRMbWFZUW1Kc3Y0UGZZQnRYZDZYMFY2cUZNdVhPTzF6OUZCV1VLRExFVkg0TEk0MnVfc0Z1M0JaMXZKY3A1QWEwU2lFX1hnRTRlR0VDc3dsN09YdUFheXNvMFAwNzRlRzJ1Ni1nT1hfa2RzX3RhbWdyMzFVVFVPQnpKYWE3OXN4aG92dk5nVnBla3g4aVo5OFRn?oc=5\" target=\"_blank\">Trabajadores de grandes almacenes, contra la apertura \"indiscriminada\" con la ZGAT de Jerez suspendida: \"No tenemos fines de semana\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdelsur.es</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-02T09:23:04Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Jerez"
+  },
+  {
+    "titulo": "Action abrirá una nueva tienda en Santa Justa y busca trabajadores: puestos, requisitos y condiciones - Diario de Sevilla",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkpYRktoTXdEOUZVUlhDSXFES1dyY0c2TjJOcWRwWE5IXzhTVHNldFhjX2w2dXJIVTZYZWhIblhXRXI2NEx0M0FHZ2dPUGlXTHA0TE5sNFdtTExoVDRhZlIwWVVLQ0RDZWt3R0ZxWjluWGt5anFlaE9mVkxsbzlLeWpDTFRHMTBwcXRhYmhZU1RVMVhkcUlkMlBISFPSAaIBQVVfeXFMTkhUbkpYbzVzbTRSVGJtdl9tNjR4aVVYLWFmZFA3eG5jQjl2Y193U1ZYTjZMaUtlY3pKaW15WEJZUTNERkVSNk10enJ3SHNoSDdUZnQtWlhzcnRjNVFMbTAzZ29Jb19xU21TLWlqb1NOc2kxbl9mQ1hudnB1UE9ndFZBRlZWMlVJLUdJUFk5VVVUX0U0dm9KWnZlS0ZZUEFyTjR3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkpYRktoTXdEOUZVUlhDSXFES1dyY0c2TjJOcWRwWE5IXzhTVHNldFhjX2w2dXJIVTZYZWhIblhXRXI2NEx0M0FHZ2dPUGlXTHA0TE5sNFdtTExoVDRhZlIwWVVLQ0RDZWt3R0ZxWjluWGt5anFlaE9mVkxsbzlLeWpDTFRHMTBwcXRhYmhZU1RVMVhkcUlkMlBISFPSAaIBQVVfeXFMTkhUbkpYbzVzbTRSVGJtdl9tNjR4aVVYLWFmZFA3eG5jQjl2Y193U1ZYTjZMaUtlY3pKaW15WEJZUTNERkVSNk10enJ3SHNoSDdUZnQtWlhzcnRjNVFMbTAzZ29Jb19xU21TLWlqb1NOc2kxbl9mQ1hudnB1UE9ndFZBRlZWMlVJLUdJUFk5VVVUX0U0dm9KWnZlS0ZZUEFyTjR3?oc=5\" target=\"_blank\">Action abrirá una nueva tienda en Santa Justa y busca trabajadores: puestos, requisitos y condiciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Sevilla</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-30T10:53:38Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Action"
+  },
+  {
+    "titulo": "Azcón inaugura en Villanúa las 23 primeras viviendas públicas destinadas a trabajadores del turismo - Jacetania Express",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVW4takg5M0JsUU1nZjV6Y0ZLTVJNNzF1YjJJQkM4NVlUVWhzZ1kzdFluUUdfX1JlaWZYZFFYRXpXUWlEb21QaW12ZTNYMlNkTGRUOFZUZUlSQTh2ZnIyUmxfOVJXVF9ad0ZObXVXN3NCeF9sTTRZNk1TZnNQRzZ0Q2xSaENLZFFNYmY2T0FGN2N4NU0zM0dhcWdCQ1k2RC1uQXNCTmlwbmtTNVBhaENwRVFKYXIwZVBHcFhpVTR6eDY2LV9TZjM4dtIBqgNBVV95cUxOejlrU2dSdk5CTTZHdHV0VC0xQnotbTQtN254eDlYQ2JLUnNOSEpwLXdoMi0wNURWY0JjNlkzclkxQ3laRzFJVk81eVlwRjhJSVo3Yzg1MzdVNWJiS0dWa1h0NVo5aTB6R0xLSDg4NUl4ME00TzZhRXdORFJnT1N3LTJ3TnBSUWFpY3dsbUM0STJFaXo0TFJudXpreUNuZkxIMURHSS1DajNrWWY0TXRUTl85SDIyR3JDVzQtdnFVeHYtRnhoNjhPWlhjU2ZVV1NmaVl4TmdUNE00Y3oycDA3MmVDN29XTFh5eWRXZ2s3U0VFTEljWk1Rbm5WajQ2X1g3WHdBY1B6eGlqeDN0bFQ3a2FzZTBSUC1OVHpQdVJXUFNxdkstN0FvdldjcjNUSkFVWnREc2pXeVBwbS04dTZ5VjhaazVSV0pvaFZfLTd2blhjYjY5X0JMa2dSYlpqaG11VFVGMDNrSXJyOUUyNjJZOVdtcDVsZloteEJOLTFYZGRCQmdlLUFGV0VrbnRVVmtvTVZTVFByS1NteWxvaHN3WGttai1SdmNnUHc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVW4takg5M0JsUU1nZjV6Y0ZLTVJNNzF1YjJJQkM4NVlUVWhzZ1kzdFluUUdfX1JlaWZYZFFYRXpXUWlEb21QaW12ZTNYMlNkTGRUOFZUZUlSQTh2ZnIyUmxfOVJXVF9ad0ZObXVXN3NCeF9sTTRZNk1TZnNQRzZ0Q2xSaENLZFFNYmY2T0FGN2N4NU0zM0dhcWdCQ1k2RC1uQXNCTmlwbmtTNVBhaENwRVFKYXIwZVBHcFhpVTR6eDY2LV9TZjM4dtIBqgNBVV95cUxOejlrU2dSdk5CTTZHdHV0VC0xQnotbTQtN254eDlYQ2JLUnNOSEpwLXdoMi0wNURWY0JjNlkzclkxQ3laRzFJVk81eVlwRjhJSVo3Yzg1MzdVNWJiS0dWa1h0NVo5aTB6R0xLSDg4NUl4ME00TzZhRXdORFJnT1N3LTJ3TnBSUWFpY3dsbUM0STJFaXo0TFJudXpreUNuZkxIMURHSS1DajNrWWY0TXRUTl85SDIyR3JDVzQtdnFVeHYtRnhoNjhPWlhjU2ZVV1NmaVl4TmdUNE00Y3oycDA3MmVDN29XTFh5eWRXZ2s3U0VFTEljWk1Rbm5WajQ2X1g3WHdBY1B6eGlqeDN0bFQ3a2FzZTBSUC1OVHpQdVJXUFNxdkstN0FvdldjcjNUSkFVWnREc2pXeVBwbS04dTZ5VjhaazVSV0pvaFZfLTd2blhjYjY5X0JMa2dSYlpqaG11VFVGMDNrSXJyOUUyNjJZOVdtcDVsZloteEJOLTFYZGRCQmdlLUFGV0VrbnRVVmtvTVZTVFByS1NteWxvaHN3WGttai1SdmNnUHc?oc=5\" target=\"_blank\">Azcón inaugura en Villanúa las 23 primeras viviendas públicas destinadas a trabajadores del turismo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jacetaniaexpress.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVW4takg5M0JsUU1nZjV6Y0ZLTVJNNzF1YjJJQkM4NVlUVWhzZ1kzdFluUUdfX1JlaWZYZFFYRXpXUWlEb21QaW12ZTNYMlNkTGRUOFZUZUlSQTh2ZnIyUmxfOVJXVF9ad0ZObXVXN3NCeF9sTTRZNk1TZnNQRzZ0Q2xSaENLZFFNYmY2T0FGN2N4NU0zM0dhcWdCQ1k2RC1uQXNCTmlwbmtTNVBhaENwRVFKYXIwZVBHcFhpVTR6eDY2LV9TZjM4dtIBqgNBVV95cUxOejlrU2dSdk5CTTZHdHV0VC0xQnotbTQtN254eDlYQ2JLUnNOSEpwLXdoMi0wNURWY0JjNlkzclkxQ3laRzFJVk81eVlwRjhJSVo3Yzg1MzdVNWJiS0dWa1h0NVo5aTB6R0xLSDg4NUl4ME00TzZhRXdORFJnT1N3LTJ3TnBSUWFpY3dsbUM0STJFaXo0TFJudXpreUNuZkxIMURHSS1DajNrWWY0TXRUTl85SDIyR3JDVzQtdnFVeHYtRnhoNjhPWlhjU2ZVV1NmaVl4TmdUNE00Y3oycDA3MmVDN29XTFh5eWRXZ2s3U0VFTEljWk1Rbm5WajQ2X1g3WHdBY1B6eGlqeDN0bFQ3a2FzZTBSUC1OVHpQdVJXUFNxdkstN0FvdldjcjNUSkFVWnREc2pXeVBwbS04dTZ5VjhaazVSV0pvaFZfLTd2blhjYjY5X0JMa2dSYlpqaG11VFVGMDNrSXJyOUUyNjJZOVdtcDVsZloteEJOLTFYZGRCQmdlLUFGV0VrbnRVVmtvTVZTVFByS1NteWxvaHN3WGttai1SdmNnUHc?oc=5\" target=\"_blank\">Azcón inaugura en Villanúa las 23 primeras viviendas públicas destinadas a trabajadores del turismo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacetania Express</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-21T12:00:42Z",
@@ -276,9 +300,9 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Los empresarios de la Safor reclaman desbloquear el nuevo centro de FP en Gandia por su importancia para el empleo - Levante-EMV",
+    "titulo": "Los empresarios de la Safor reclaman desbloquear el nuevo centro de FP en Gandia por su importancia para el empleo - levante-emv.com",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkxiT01xVThyV2d5bWdza25Md2o5U0NtZEdnVm5JMlR4YjdWeTBzWFA1UzlCNmpjRDdPeVFVRmQtZzVMdkMzTTZfVVVNQVh6SWF5a181cWlQbE1rMkx4OG1TcFVMMTluMG80eFBudXBOOXEtc29wUFl1OHJUTU5UVTNtbGRBVWhnNHR4UGhQVEVzQlVWTGNFNnRCVjFod0NDYmQxNVhvWdIBrAFBVV95cUxNQ1JzZEE5cmlMTHpfS3o1MlF1Ym1uSDlkMlhMUEliTVdneWZnZ3ptOHJTanhGOXVmMU1TYllja2N0aVlVRHhQc3hhX2h2ZzFqaDZ5azVqdU1HS2dFdk1BRlZnNnRMMWZUTDJMbEZpUjRFN2otUlp6aXJkcVhMUU5JY19ncDNUNXFIb3dBOGZUSXZVMUhUeG5Fb3FYbElfLXhzOUpDU21fdVdWYUhZ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkxiT01xVThyV2d5bWdza25Md2o5U0NtZEdnVm5JMlR4YjdWeTBzWFA1UzlCNmpjRDdPeVFVRmQtZzVMdkMzTTZfVVVNQVh6SWF5a181cWlQbE1rMkx4OG1TcFVMMTluMG80eFBudXBOOXEtc29wUFl1OHJUTU5UVTNtbGRBVWhnNHR4UGhQVEVzQlVWTGNFNnRCVjFod0NDYmQxNVhvWdIBrAFBVV95cUxNQ1JzZEE5cmlMTHpfS3o1MlF1Ym1uSDlkMlhMUEliTVdneWZnZ3ptOHJTanhGOXVmMU1TYllja2N0aVlVRHhQc3hhX2h2ZzFqaDZ5azVqdU1HS2dFdk1BRlZnNnRMMWZUTDJMbEZpUjRFN2otUlp6aXJkcVhMUU5JY19ncDNUNXFIb3dBOGZUSXZVMUhUeG5Fb3FYbElfLXhzOUpDU21fdVdWYUhZ?oc=5\" target=\"_blank\">Los empresarios de la Safor reclaman desbloquear el nuevo centro de FP en Gandia por su importancia para el empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Levante-EMV</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkxiT01xVThyV2d5bWdza25Md2o5U0NtZEdnVm5JMlR4YjdWeTBzWFA1UzlCNmpjRDdPeVFVRmQtZzVMdkMzTTZfVVVNQVh6SWF5a181cWlQbE1rMkx4OG1TcFVMMTluMG80eFBudXBOOXEtc29wUFl1OHJUTU5UVTNtbGRBVWhnNHR4UGhQVEVzQlVWTGNFNnRCVjFod0NDYmQxNVhvWdIBrAFBVV95cUxNQ1JzZEE5cmlMTHpfS3o1MlF1Ym1uSDlkMlhMUEliTVdneWZnZ3ptOHJTanhGOXVmMU1TYllja2N0aVlVRHhQc3hhX2h2ZzFqaDZ5azVqdU1HS2dFdk1BRlZnNnRMMWZUTDJMbEZpUjRFN2otUlp6aXJkcVhMUU5JY19ncDNUNXFIb3dBOGZUSXZVMUhUeG5Fb3FYbElfLXhzOUpDU21fdVdWYUhZ?oc=5\" target=\"_blank\">Los empresarios de la Safor reclaman desbloquear el nuevo centro de FP en Gandia por su importancia para el empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">levante-emv.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-30T09:52:33Z",
@@ -288,52 +312,16 @@ const window_leads_data = [
     "ubicacion": "Gandia"
   },
   {
-    "titulo": "El Jamón contratará a 25 personas más con la nueva apertura en San Fernando: así puedes hacer llegar tu currículum - lavozdelsur.es",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOHo2MkIxYVZxeGJLUlEwdVd6dTJQSE9DeEZPT0dmbHJ0Q1ExRTB6RXR3ZnBwT3NOdERCcXpySTl4RnVaQzRhN1NNTDhQMERiaW5qbEctYjZ1dTlsVkNTWEgzOUN5TVZzanJTT2F5UnU3Q0swWWF3dUhsMmVaNmMtNmdfb0N2SUpyU0RjVDRhWnhQaXV0T0JNbElOc3JJQVVOWVhjYXBXZzJ2MERmbm1PUTl4dEhTOHBVRnhmRUYzTXpoYUxyck01MklyQjJWdkR2XzdPUTZEeW8tMC1BOXdXUFdJWlZvSW9OQjVrTUl6UTFlZTduLVNRV19RQWd3enVJUmNMcHFGM1Vmei0tMXBYU3BB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNOHo2MkIxYVZxeGJLUlEwdVd6dTJQSE9DeEZPT0dmbHJ0Q1ExRTB6RXR3ZnBwT3NOdERCcXpySTl4RnVaQzRhN1NNTDhQMERiaW5qbEctYjZ1dTlsVkNTWEgzOUN5TVZzanJTT2F5UnU3Q0swWWF3dUhsMmVaNmMtNmdfb0N2SUpyU0RjVDRhWnhQaXV0T0JNbElOc3JJQVVOWVhjYXBXZzJ2MERmbm1PUTl4dEhTOHBVRnhmRUYzTXpoYUxyck01MklyQjJWdkR2XzdPUTZEeW8tMC1BOXdXUFdJWlZvSW9OQjVrTUl6UTFlZTduLVNRV19RQWd3enVJUmNMcHFGM1Vmei0tMXBYU3BB?oc=5\" target=\"_blank\">El Jamón contratará a 25 personas más con la nueva apertura en San Fernando: así puedes hacer llegar tu currículum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdelsur.es</font>",
+    "titulo": "La USAL estrenará en Santa Marta un nuevo Centro de Innovación para atraer empresas tecnológicas y empleo - elespanol.com",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZzBkQjhpUldnQ3hoWktoWlNoanhSdWZMQzJ6X0tJYlhOVkkwenItYUl6SDh3eFhPYzVvY1dpT1k0T2lYN1lwVk5nTENvSzZCQXg5dFEybk5qaTlrYVpFNGhGeUxJWEJLemtINjk1cm1yVWFMMHNEU2NFdk94Yk0xZDVHUFFDOVFGcXNuaHhhX1p0SkhseE5nTW1sQXhVSnNTVGUyaGRWQlBOMHZaZGd5NDZKelVGNjN4VXk0OEJFcVIxcnloaVVhakJlZDNWeWdZZzM3UUN1Tm5HRzNTYThIYnVFd3BOUHVlNTNWd2JZTlRaY2xhbWxUcW5EQXhUMzFTbkhJcTFn0gGLAkFVX3lxTFBIbDhCeW00ZEJibzVfckp5ajFmT2NhMkxnV1h6U0ZvMWxSMUhZODRxU1pfZ0dzZEZoNkJCU2J5VzZlTl9wYjdiZ05JbERxV1IwbjVTNzBsR1ZLa016YWdRMHl1X0Y4WU1rb1hEYzVLZzZkWC00M3BFY1c5Skd6WWxpMzVVVjJ3SWlwelZRblJYR3h5dVRES2U0SVIySUt2NUpBWmRRcHBUQnU4QVMzUTlnVTZlbWR5ckpidkdGYkxFVXA2VEdEQVFoZE82c29MQzN3RzRQU1I3ZllPaDcwamFzSXZodFlyekxtSHJTWk80UF8tcDV4aDRuRlpzcmpKSW5rWGdQd254ckNMTQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQZzBkQjhpUldnQ3hoWktoWlNoanhSdWZMQzJ6X0tJYlhOVkkwenItYUl6SDh3eFhPYzVvY1dpT1k0T2lYN1lwVk5nTENvSzZCQXg5dFEybk5qaTlrYVpFNGhGeUxJWEJLemtINjk1cm1yVWFMMHNEU2NFdk94Yk0xZDVHUFFDOVFGcXNuaHhhX1p0SkhseE5nTW1sQXhVSnNTVGUyaGRWQlBOMHZaZGd5NDZKelVGNjN4VXk0OEJFcVIxcnloaVVhakJlZDNWeWdZZzM3UUN1Tm5HRzNTYThIYnVFd3BOUHVlNTNWd2JZTlRaY2xhbWxUcW5EQXhUMzFTbkhJcTFn0gGLAkFVX3lxTFBIbDhCeW00ZEJibzVfckp5ajFmT2NhMkxnV1h6U0ZvMWxSMUhZODRxU1pfZ0dzZEZoNkJCU2J5VzZlTl9wYjdiZ05JbERxV1IwbjVTNzBsR1ZLa016YWdRMHl1X0Y4WU1rb1hEYzVLZzZkWC00M3BFY1c5Skd6WWxpMzVVVjJ3SWlwelZRblJYR3h5dVRES2U0SVIySUt2NUpBWmRRcHBUQnU4QVMzUTlnVTZlbWR5ckpidkdGYkxFVXA2VEdEQVFoZE82c29MQzN3RzRQU1I3ZllPaDcwamFzSXZodFlyekxtSHJTWk80UF8tcDV4aDRuRlpzcmpKSW5rWGdQd254ckNMTQ?oc=5\" target=\"_blank\">La USAL estrenará en Santa Marta un nuevo Centro de Innovación para atraer empresas tecnológicas y empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elespanol.com</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-09-27T15:15:07Z",
+    "fecha": "2026-09-30T15:35:02Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Jamón"
-  },
-  {
-    "titulo": "MediaMarkt ya está en Ponferrada: Más de 900 metros cuadrados y miles de productos - Info Bierzo",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmtrVGo0YTI1VG9NSENBNVZtZnpZVE5FQk5ocE1iRU9HaXBzMmpaRFJINTFhTC1hRnltTlZscnJLTEVpZ01yQ3hPRzdYc2k5bmJfaTJLTnNfVy05bzJtSzdLdmVxc0J6RTJjS1pfY0dxWjQ0b1gyZVY2a09NQThvR3hqemVOZzl3ZWx3WG9pSlBKeXdtbG83LTYzWHJ0Z2tWMHV4TDJHNHotc3BlQnVvVkxB0gGyAUFVX3lxTE42a2tUajRhMjVUb01IQ0E1Vm1mellUTkVCTmhwTWJFT0dpcHMyalpEUkg1MWFMLWFGeW1OVmxycktMRWlnTXJDeE9HN1hzaTluYl9pMktOc19XLTlvMm1LN0t2ZXFzQnpFMmNLWl9jR3FaNDRvWDJlVjZrT01BOG9HeGp6ZU5nOXdlbHdYb2lKUEp5d21sbzctNjNYcnRna1YwdXhMMkc0ei1zcGVCdW9WTEE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONmtrVGo0YTI1VG9NSENBNVZtZnpZVE5FQk5ocE1iRU9HaXBzMmpaRFJINTFhTC1hRnltTlZscnJLTEVpZ01yQ3hPRzdYc2k5bmJfaTJLTnNfVy05bzJtSzdLdmVxc0J6RTJjS1pfY0dxWjQ0b1gyZVY2a09NQThvR3hqemVOZzl3ZWx3WG9pSlBKeXdtbG83LTYzWHJ0Z2tWMHV4TDJHNHotc3BlQnVvVkxB0gGyAUFVX3lxTE42a2tUajRhMjVUb01IQ0E1Vm1mellUTkVCTmhwTWJFT0dpcHMyalpEUkg1MWFMLWFGeW1OVmxycktMRWlnTXJDeE9HN1hzaTluYl9pMktOc19XLTlvMm1LN0t2ZXFzQnpFMmNLWl9jR3FaNDRvWDJlVjZrT01BOG9HeGp6ZU5nOXdlbHdYb2lKUEp5d21sbzctNjNYcnRna1YwdXhMMkc0ei1zcGVCdW9WTEE?oc=5\" target=\"_blank\">MediaMarkt ya está en Ponferrada: Más de 900 metros cuadrados y miles de productos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Info Bierzo</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-29T10:41:43Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Ponferrada"
-  },
-  {
-    "titulo": "Accenture inaugura su nuevo 'hub' en Barcelona y ampliará un 30% su plantilla - El Economista",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVp5Rm0tVTlmenVsRmdRZWRCbDREWUFJbHZxaFRaSFBRS2Z2dWRyOGk2TDZSMXloOUlaTTBBMngwZExxZXNYTTB1c2NWcGNwazNEWlY5ZkRkR1JTY28zQkhDcU5CSzhRV0Q3am1Od25nRXl6bmk2RmItQVhpMUxnaUlpTGhUelQyQlNUSnNBUVlYZ3RBeEhkT0VpMm1fX1dyNG5Ba0RRVHUzOTNZbUNXZEU5UTc1RnBwalBvVFVYWHQ1bTNsVXBRQVp3LXAzeDRHZmVJTUVlNWFKQQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVp5Rm0tVTlmenVsRmdRZWRCbDREWUFJbHZxaFRaSFBRS2Z2dWRyOGk2TDZSMXloOUlaTTBBMngwZExxZXNYTTB1c2NWcGNwazNEWlY5ZkRkR1JTY28zQkhDcU5CSzhRV0Q3am1Od25nRXl6bmk2RmItQVhpMUxnaUlpTGhUelQyQlNUSnNBUVlYZ3RBeEhkT0VpMm1fX1dyNG5Ba0RRVHUzOTNZbUNXZEU5UTc1RnBwalBvVFVYWHQ1bTNsVXBRQVp3LXAzeDRHZmVJTUVlNWFKQQ?oc=5\" target=\"_blank\">Accenture inaugura su nuevo 'hub' en Barcelona y ampliará un 30% su plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-25T11:47:41Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Accenture"
-  },
-  {
-    "titulo": "MediaMarkt desembarca en Ponferrada con una oferta líder de más de 6.000 referencias - Diario de León",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZFQ4NXNJYVh4MmhNYS1GSThVanFHZjluNzh6aUkySzVObk81SXhBajgyRTFhQUhyUW1neGcxc2dEaDdpREFheWFsa2xaSXFwZDlncGVUeGN0S1ZrMzJOOE12TU4zaXhNWldCdTY4WXRXZTDSAXhBVV95cUxPclplVUlsb3dSSHNmZ25TTjNoblRTWnRVSTRTNWtWMlFjMnRsMU5yeEVYaDMxQi1mVDBwZlZjWjMtWjlVY1dzNHJyZnIyMDZhWEpTYzc3ZjZOcGg0NVZNTjdyLURMdXpabXRyeldCc25wQXhkZ1d6Yk8?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZFQ4NXNJYVh4MmhNYS1GSThVanFHZjluNzh6aUkySzVObk81SXhBajgyRTFhQUhyUW1neGcxc2dEaDdpREFheWFsa2xaSXFwZDlncGVUeGN0S1ZrMzJOOE12TU4zaXhNWldCdTY4WXRXZTDSAXhBVV95cUxPclplVUlsb3dSSHNmZ25TTjNoblRTWnRVSTRTNWtWMlFjMnRsMU5yeEVYaDMxQi1mVDBwZlZjWjMtWjlVY1dzNHJyZnIyMDZhWEpTYzc3ZjZOcGg0NVZNTjdyLURMdXpabXRyeldCc25wQXhkZ1d6Yk8?oc=5\" target=\"_blank\">MediaMarkt desembarca en Ponferrada con una oferta líder de más de 6.000 referencias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de León</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-29T13:13:13Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Ponferrada"
+    "empresa": "USAL",
+    "ubicacion": "Santa Marta"
   },
   {
     "titulo": "Madrid abrirá un nuevo centro residencial para mujeres víctimas de violencia especializado en su desarrollo profesional y el empleo - Gacetín Madrid",
@@ -346,6 +334,18 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Madrid"
+  },
+  {
+    "titulo": "MediaMarkt desembarca en Ponferrada con una oferta líder de más de 6.000 referencias - Diario de León",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZFQ4NXNJYVh4MmhNYS1GSThVanFHZjluNzh6aUkySzVObk81SXhBajgyRTFhQUhyUW1neGcxc2dEaDdpREFheWFsa2xaSXFwZDlncGVUeGN0S1ZrMzJOOE12TU4zaXhNWldCdTY4WXRXZTDSAXhBVV95cUxPclplVUlsb3dSSHNmZ25TTjNoblRTWnRVSTRTNWtWMlFjMnRsMU5yeEVYaDMxQi1mVDBwZlZjWjMtWjlVY1dzNHJyZnIyMDZhWEpTYzc3ZjZOcGg0NVZNTjdyLURMdXpabXRyeldCc25wQXhkZ1d6Yk8?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZFQ4NXNJYVh4MmhNYS1GSThVanFHZjluNzh6aUkySzVObk81SXhBajgyRTFhQUhyUW1neGcxc2dEaDdpREFheWFsa2xaSXFwZDlncGVUeGN0S1ZrMzJOOE12TU4zaXhNWldCdTY4WXRXZTDSAXhBVV95cUxPclplVUlsb3dSSHNmZ25TTjNoblRTWnRVSTRTNWtWMlFjMnRsMU5yeEVYaDMxQi1mVDBwZlZjWjMtWjlVY1dzNHJyZnIyMDZhWEpTYzc3ZjZOcGg0NVZNTjdyLURMdXpabXRyeldCc25wQXhkZ1d6Yk8?oc=5\" target=\"_blank\">MediaMarkt desembarca en Ponferrada con una oferta líder de más de 6.000 referencias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de León</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-29T13:13:13Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Ponferrada"
   },
   {
     "titulo": "Azcón inaugura las 23 primeras viviendas públicas destinadas a trabajadores del sector turístico - Europa Press",
@@ -372,21 +372,9 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Santander prepara un ERE para sus filiales tecnológicas tras concluir el despliegue de plataformas - La Vanguardia",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc21hUVpPeVBmODQteC14UkIzOGFpdUE1ZlJwQ0Y4a1Fqc0t6YlF0UlpiZWFOWkhqVmoxc0tPcVBjYXEtMXc5TWVQQTU2OXg2VWRmSDZVRzFod2c4U05WYVNCNm85Ul9DdGR3MUlicnJ3Z1A4MTQ4RDNUUTJra3l5OGVSOTEtdnFKc2V1QS12TUpnX2o1VngzMzE1WE42a3h2aWxNcTJlYkVfV0ZNV1I0WUVDNWhzamV5TU82Z1VKNC1zUHFXVWY2SWhBSWRHTjFWaVHSAdcBQVVfeXFMUEpzb2pRZ3BHQWdvSnc5UWx3U3BuMVB0aS1oZFZ0ZElZVHQ5OHQwZTl3aG1mVG9IT0c1ZDZxcGJzN2hhbHh6Qm0wLWZuV3BuUUswSWtOakVQR0dDNVNUaGlIbjlraDF3OXJUeWFqLU5WdnlDYkZFQzBsWDVRZm9FMWRkSGoyZzhyRG1NT0lXWFVXeVlqanRSUDBRanUybm5PS3dxSWZDNjdKLUtPRFdIbDZwNUUtMVc1LWE1YnF1cXhGTlluR1BNbXRBWVVuTFZ3VzBTb1dSckU?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc21hUVpPeVBmODQteC14UkIzOGFpdUE1ZlJwQ0Y4a1Fqc0t6YlF0UlpiZWFOWkhqVmoxc0tPcVBjYXEtMXc5TWVQQTU2OXg2VWRmSDZVRzFod2c4U05WYVNCNm85Ul9DdGR3MUlicnJ3Z1A4MTQ4RDNUUTJra3l5OGVSOTEtdnFKc2V1QS12TUpnX2o1VngzMzE1WE42a3h2aWxNcTJlYkVfV0ZNV1I0WUVDNWhzamV5TU82Z1VKNC1zUHFXVWY2SWhBSWRHTjFWaVHSAdcBQVVfeXFMUEpzb2pRZ3BHQWdvSnc5UWx3U3BuMVB0aS1oZFZ0ZElZVHQ5OHQwZTl3aG1mVG9IT0c1ZDZxcGJzN2hhbHh6Qm0wLWZuV3BuUUswSWtOakVQR0dDNVNUaGlIbjlraDF3OXJUeWFqLU5WdnlDYkZFQzBsWDVRZm9FMWRkSGoyZzhyRG1NT0lXWFVXeVlqanRSUDBRanUybm5PS3dxSWZDNjdKLUtPRFdIbDZwNUUtMVc1LWE1YnF1cXhGTlluR1BNbXRBWVVuTFZ3VzBTb1dSckU?oc=5\" target=\"_blank\">Santander prepara un ERE para sus filiales tecnológicas tras concluir el despliegue de plataformas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-18T07:00:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Santander"
-  },
-  {
-    "titulo": "Avatel Telecom anuncia un ERE para adecuar su estructura a la evolución del mercado - elconfidencial.com",
+    "titulo": "Avatel Telecom anuncia un ERE para adecuar su estructura a la evolución del mercado - El Confidencial",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXNGRFVoaFFoVERGbFJPMVVfZkR6VDVsYnA3R1hIcDJTRVIxcnZULXJDam1TWTZWTEpBUDVNcndDQ2hNYjJXdWRGWVp3N3hOSl9ORlp2b0pMWkFEWjl5UjlnNHJxaHZYd2ZIYlN5dXh3MExsa0NEenc1aUN1Ym1nX3BjVlJ2UUNRVWRiajJ1akpERjAtdUxfSDRTS2tqVThqbEItRQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXNGRFVoaFFoVERGbFJPMVVfZkR6VDVsYnA3R1hIcDJTRVIxcnZULXJDam1TWTZWTEpBUDVNcndDQ2hNYjJXdWRGWVp3N3hOSl9ORlp2b0pMWkFEWjl5UjlnNHJxaHZYd2ZIYlN5dXh3MExsa0NEenc1aUN1Ym1nX3BjVlJ2UUNRVWRiajJ1akpERjAtdUxfSDRTS2tqVThqbEItRQ?oc=5\" target=\"_blank\">Avatel Telecom anuncia un ERE para adecuar su estructura a la evolución del mercado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elconfidencial.com</font>",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXNGRFVoaFFoVERGbFJPMVVfZkR6VDVsYnA3R1hIcDJTRVIxcnZULXJDam1TWTZWTEpBUDVNcndDQ2hNYjJXdWRGWVp3N3hOSl9ORlp2b0pMWkFEWjl5UjlnNHJxaHZYd2ZIYlN5dXh3MExsa0NEenc1aUN1Ym1nX3BjVlJ2UUNRVWRiajJ1akpERjAtdUxfSDRTS2tqVThqbEItRQ?oc=5\" target=\"_blank\">Avatel Telecom anuncia un ERE para adecuar su estructura a la evolución del mercado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Confidencial</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-30T14:33:00Z",
@@ -396,12 +384,36 @@ const window_leads_data = [
     "ubicacion": "Avatel Telecom"
   },
   {
+    "titulo": "Nuevo ERE en Avatel Telecom - Redes & Telecom",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRjFpQ2lFdlF4UnFNdVBack9aaWVrRzdSWjBBdU94Zkxmc2lDRVhCT1ZBOWljQVNxSHlYWTA3N1JMaHZJYS1ENjdZdUpfZ3BlU2ROY0lvZ3VaZy1kUEE0NnJSR09VUVF6M21pOWJqNnJHRmVQanc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRjFpQ2lFdlF4UnFNdVBack9aaWVrRzdSWjBBdU94Zkxmc2lDRVhCT1ZBOWljQVNxSHlYWTA3N1JMaHZJYS1ENjdZdUpfZ3BlU2ROY0lvZ3VaZy1kUEE0NnJSR09VUVF6M21pOWJqNnJHRmVQanc?oc=5\" target=\"_blank\">Nuevo ERE en Avatel Telecom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Redes & Telecom</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-30T14:37:48Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Desconocida",
+    "ubicacion": "Nuevo ERE"
+  },
+  {
     "titulo": "Enerside presenta un ERE para toda su plantilla en España - El Economista",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVhFdmIxclVvZ0E0MmlLNzZid0M1TXVvLVBxMFB4RVJmYUxrdHliYnI2VjJXcDdjTzZZNGIzRzJTaEgyX1YyUEFFSjUwdkZUdVRlZXFyaEhoNHJqYVl0Tzh0dFpselpMMjhMd19jREN3VzlUQ2MwSHNzU3lXaDZnVFZWTEdhb2ZYRFpaQlNaQzhxSUM2YmhYcDMzX1FqRVJGQXY0ZTNsTzRLMzJwVGFxOGdqOUI0NmF4cm5iU1BlVdIBqgFBVV95cUxQNzk3SHF0OTYtQmlEdndnUVl4VWpWdUdqNkJNTzA0ZVJtZ19MbC1qRzF3SGw0aU5YdUpPZTJJNk53M3hLRVZNQ0Z6RnlpbFhtbGU2YnhEcEdnT1dhaENLMDVuYVB6WGFlSnpNYUQ1d1BjM0kxdXRHeGtLdlhkX3pvLUhWRnF1NHVDcHJ0blhzNVFoYkxEcGlSQjFOZktEOWdBSV9VQmVwUHhzZw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVhFdmIxclVvZ0E0MmlLNzZid0M1TXVvLVBxMFB4RVJmYUxrdHliYnI2VjJXcDdjTzZZNGIzRzJTaEgyX1YyUEFFSjUwdkZUdVRlZXFyaEhoNHJqYVl0Tzh0dFpselpMMjhMd19jREN3VzlUQ2MwSHNzU3lXaDZnVFZWTEdhb2ZYRFpaQlNaQzhxSUM2YmhYcDMzX1FqRVJGQXY0ZTNsTzRLMzJwVGFxOGdqOUI0NmF4cm5iU1BlVdIBqgFBVV95cUxQNzk3SHF0OTYtQmlEdndnUVl4VWpWdUdqNkJNTzA0ZVJtZ19MbC1qRzF3SGw0aU5YdUpPZTJJNk53M3hLRVZNQ0Z6RnlpbFhtbGU2YnhEcEdnT1dhaENLMDVuYVB6WGFlSnpNYUQ1d1BjM0kxdXRHeGtLdlhkX3pvLUhWRnF1NHVDcHJ0blhzNVFoYkxEcGlSQjFOZktEOWdBSV9VQmVwUHhzZw?oc=5\" target=\"_blank\">Enerside presenta un ERE para toda su plantilla en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
     "fecha": "2026-09-19T07:00:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Avatel anuncia su tercer ERE en dos años para garantizar la sostenibilidad de la empresa - Economía Digital",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1VnWHhKdEhLYk5Sd0hzOWJqcW45M3JSdVR1QTVpSHlqbm80NjBEV182dGFBMGoxdENiamNqdjNpcEVISTE5TXRhSEJDTlk1MnFGQnNhckJBTWpsbnNxZ0tLOGx3V2NMU2hUenZHSkRaWjllYVp3c0hubzdicG5kbXhzWnAwTlZTTXhjdmxGaVJRUkl6TDBnMHVKN0tZblBGVTdIeVZVeUNFcm0tZDV0bmlIMNIBuAFBVV95cUxOYUVkTklaMDdIUlVrVmhxNWF2cnpLNXczOE5mcUkwTDd0QnVyQVNhbDdrVVFhSWN4MjF0dkFpUG9DS1lHQXBTU1JOX1VUSmtmUjZWMU02Z3B3MWxaOFJsb3huWGdQODJYbGJackNjZ3N5RldEU0RuYzM3eHZFM3dIakwzRUozaXItTkppbDk3MnFZeE95TEY0YVhZdXpGaGl1UWRzVlpGZnItSURIRVB4MElNek9uUlRv?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1VnWHhKdEhLYk5Sd0hzOWJqcW45M3JSdVR1QTVpSHlqbm80NjBEV182dGFBMGoxdENiamNqdjNpcEVISTE5TXRhSEJDTlk1MnFGQnNhckJBTWpsbnNxZ0tLOGx3V2NMU2hUenZHSkRaWjllYVp3c0hubzdicG5kbXhzWnAwTlZTTXhjdmxGaVJRUkl6TDBnMHVKN0tZblBGVTdIeVZVeUNFcm0tZDV0bmlIMNIBuAFBVV95cUxOYUVkTklaMDdIUlVrVmhxNWF2cnpLNXczOE5mcUkwTDd0QnVyQVNhbDdrVVFhSWN4MjF0dkFpUG9DS1lHQXBTU1JOX1VUSmtmUjZWMU02Z3B3MWxaOFJsb3huWGdQODJYbGJackNjZ3N5RldEU0RuYzM3eHZFM3dIakwzRUozaXItTkppbDk3MnFZeE95TEY0YVhZdXpGaGl1UWRzVlpGZnItSURIRVB4MElNek9uUlRv?oc=5\" target=\"_blank\">Avatel anuncia su tercer ERE en dos años para garantizar la sostenibilidad de la empresa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economía Digital</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-30T14:05:34Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERE",
@@ -420,18 +432,6 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Las filiales del Santander que se verán afectadas por un ERE ampliaron plantilla y elevaron el beneficio en 2025 - Economía Digital",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEdWMXJDOVdwLXM4NWFlNVZiSy02Z2VQd3NJTDRtdHdQSmN1ZC1FWnFRUnB3SWZWSGp6RGtZbU9ZVWgzVE9mN0kxeU1wRmprS1doelFmTmhVY3lkN2puejl5dlp1NDVSN0dEbTlEX2hMWVdOU2hWSG9FSGt2aE1KZzF4Q21wMkNONVR2LWd5RWlYR3BaaHc4dkxtT2trNmpJajhxWDJPVWxZY01rbXBfRnBWd0J6dXY2V3ppSmNxbjFSaTc3SGfSAcsBQVVfeXFMTXM3cnVHaXlVOUFuUFRvLXRhT2czajRpRzY2dXRIeEFCSFdLUGtaM1Y5TUs5YzhsT0w5UHN2WEpDZmF2VWp4M2dMaHdoMHJ6VUJ5U3c2dkpqYmxQcFlhbWl2RjZzMXU5QWVQZUd1Yk11WldzZDlHTGpnU09XaGJQR3huWC1JZDN1ZEQxdk9OZWNKNGVlaWU5OXFHYXNYSWM2Wm83eVlYOHFFQnpEVU45WDJwQk9oWVJSSHZSOG1NQ3k5SFVtVTRsb25EOU0?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEdWMXJDOVdwLXM4NWFlNVZiSy02Z2VQd3NJTDRtdHdQSmN1ZC1FWnFRUnB3SWZWSGp6RGtZbU9ZVWgzVE9mN0kxeU1wRmprS1doelFmTmhVY3lkN2puejl5dlp1NDVSN0dEbTlEX2hMWVdOU2hWSG9FSGt2aE1KZzF4Q21wMkNONVR2LWd5RWlYR3BaaHc4dkxtT2trNmpJajhxWDJPVWxZY01rbXBfRnBWd0J6dXY2V3ppSmNxbjFSaTc3SGfSAcsBQVVfeXFMTXM3cnVHaXlVOUFuUFRvLXRhT2czajRpRzY2dXRIeEFCSFdLUGtaM1Y5TUs5YzhsT0w5UHN2WEpDZmF2VWp4M2dMaHdoMHJ6VUJ5U3c2dkpqYmxQcFlhbWl2RjZzMXU5QWVQZUd1Yk11WldzZDlHTGpnU09XaGJQR3huWC1JZDN1ZEQxdk9OZWNKNGVlaWU5OXFHYXNYSWM2Wm83eVlYOHFFQnpEVU45WDJwQk9oWVJSSHZSOG1NQ3k5SFVtVTRsb25EOU0?oc=5\" target=\"_blank\">Las filiales del Santander que se verán afectadas por un ERE ampliaron plantilla y elevaron el beneficio en 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economía Digital</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-23T02:55:00Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Santander"
-  },
-  {
     "titulo": "Irakurketa txokoa: \"Gurasoak ere ipuin kontalari\" - Kulturklik",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjhWVHZtdUQ5S3lVdlo5VEtLMEJRRTFIdVNUdGpzVzRDTURMOTZpYlNXc3dlM1M5bEh3TjU4cU1wOGF5Y0FxNDlsVnJPMFIzNTJyVUpsWVhjZmExWlkwOTJwX2pESlFCWERwTG9GMFRsbXRZUFBiSmVyUmdmWEg5THBvTmNfT3RFeDNYbDJUM2VzR3VYZXk5cWJ5ZzB2Z25DSVk4VlFYTlNDaHBzcnpYczl0ekpsVUJSSWVfSXVIVHE?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjhWVHZtdUQ5S3lVdlo5VEtLMEJRRTFIdVNUdGpzVzRDTURMOTZpYlNXc3dlM1M5bEh3TjU4cU1wOGF5Y0FxNDlsVnJPMFIzNTJyVUpsWVhjZmExWlkwOTJwX2pESlFCWERwTG9GMFRsbXRZUFBiSmVyUmdmWEg5THBvTmNfT3RFeDNYbDJUM2VzR3VYZXk5cWJ5ZzB2Z25DSVk4VlFYTlNDaHBzcnpYczl0ekpsVUJSSWVfSXVIVHE?oc=5\" target=\"_blank\">Irakurketa txokoa: \"Gurasoak ere ipuin kontalari\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kulturklik</font>",
@@ -442,6 +442,30 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "Desconocida",
     "ubicacion": "Irakurketa"
+  },
+  {
+    "titulo": "El periodo de consultas del ERE finaliza sin acuerdo - ELA Sindikatua",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTm4xWEh1Z2cwRzZaUVNSUk8xcThMT1ExZWZ3RjZJa0xoNFBNbGhUSlRaQlQ4SnBsMktLa3lod3JGM0ZCdzdTMEwxTW5mcnBwelh4UTNVYWxUaWE1cW5yT3d1cXd2eGtZMW5ONXJ5TmNRMUVQak9uYmtZcmRoM3gzRVd4VG1DWGNRMGNzUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTm4xWEh1Z2cwRzZaUVNSUk8xcThMT1ExZWZ3RjZJa0xoNFBNbGhUSlRaQlQ4SnBsMktLa3lod3JGM0ZCdzdTMEwxTW5mcnBwelh4UTNVYWxUaWE1cW5yT3d1cXd2eGtZMW5ONXJ5TmNRMUVQak9uYmtZcmRoM3gzRVd4VG1DWGNRMGNzUQ?oc=5\" target=\"_blank\">El periodo de consultas del ERE finaliza sin acuerdo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELA Sindikatua</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-24T10:16:51Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Los trabajadores despedidos por un ERE caen un 15% hasta agosto en Catalunya - La Vanguardia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjBSY3pKSEFNcnM5OU1VbzJYbm93MFJIYlNTcnhvTlNHMUVQdzZodzhOY0RQR3VYSEFFeFhSTVZTTlVGam5scmRmYUEyS0VwZjhBZlJ3Rmp0OFMyX0lBdU5xMmVlOUR6T1FFZnluV0FMcUlXME96TmpvdUJ0a1hoRFdQb3pCSTktdnZYM1JmaGZRY0VfMmVsR0VRQzk3RzJkaXFYSGRLRmZid0NEbXo0NkVBNNIBuAFBVV95cUxNdUtzTGloalhrYk40NkJPLVlybnZmVzE5RERJMEZtM1pSVE9mQzA4WUxRNjE4Y1FRNnlnMTJjeGg4cVpFMWZsTDRNOG5PcVJOXzVFYXV6ZjBabXRWTjVOSEZySmUzUlNJal9JR2hzSzBmTjZnMnYwN3FuM1FidDlzSzhIUHM2am1ENksyRU9TU1RnUVZJRnkxaXpOemwwOW5ibkFUMzM4NTJnMlc5ME1PclJBa3g1NjVZ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjBSY3pKSEFNcnM5OU1VbzJYbm93MFJIYlNTcnhvTlNHMUVQdzZodzhOY0RQR3VYSEFFeFhSTVZTTlVGam5scmRmYUEyS0VwZjhBZlJ3Rmp0OFMyX0lBdU5xMmVlOUR6T1FFZnluV0FMcUlXME96TmpvdUJ0a1hoRFdQb3pCSTktdnZYM1JmaGZRY0VfMmVsR0VRQzk3RzJkaXFYSGRLRmZid0NEbXo0NkVBNNIBuAFBVV95cUxNdUtzTGloalhrYk40NkJPLVlybnZmVzE5RERJMEZtM1pSVE9mQzA4WUxRNjE4Y1FRNnlnMTJjeGg4cVpFMWZsTDRNOG5PcVJOXzVFYXV6ZjBabXRWTjVOSEZySmUzUlNJal9JR2hzSzBmTjZnMnYwN3FuM1FidDlzSzhIUHM2am1ENksyRU9TU1RnUVZJRnkxaXpOemwwOW5ibkFUMzM4NTJnMlc5ME1PclJBa3g1NjVZ?oc=5\" target=\"_blank\">Los trabajadores despedidos por un ERE caen un 15% hasta agosto en Catalunya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-09-21T07:00:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Los despedidos por ERE en Catalunya caen a la mitad en agosto, el dato más bajo en cinco años - Diari de Tarragona",
@@ -468,16 +492,16 @@ const window_leads_data = [
     "ubicacion": "Vicinay"
   },
   {
-    "titulo": "Nuevo ERE en Avatel Telecom - Redes & Telecom",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRjFpQ2lFdlF4UnFNdVBack9aaWVrRzdSWjBBdU94Zkxmc2lDRVhCT1ZBOWljQVNxSHlYWTA3N1JMaHZJYS1ENjdZdUpfZ3BlU2ROY0lvZ3VaZy1kUEE0NnJSR09VUVF6M21pOWJqNnJHRmVQanc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRjFpQ2lFdlF4UnFNdVBack9aaWVrRzdSWjBBdU94Zkxmc2lDRVhCT1ZBOWljQVNxSHlYWTA3N1JMaHZJYS1ENjdZdUpfZ3BlU2ROY0lvZ3VaZy1kUEE0NnJSR09VUVF6M21pOWJqNnJHRmVQanc?oc=5\" target=\"_blank\">Nuevo ERE en Avatel Telecom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Redes & Telecom</font>",
+    "titulo": "El Consultivo rechaza indemnizar con 4 millones por el rescate de ayudas de los ERE - ABC",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVlqNHBhT21ZTlR3OENvU1AxVWdwd1FJWTRPWldkVTZ4YXA4bTJsNlZmQ3plUlF6eUNCeURRbC1fNHpsZjR0U3Z2blRVRUF4SUppdnZQeWF0bk9vdGY4ajF5dU9UcVBmZmxhS3FPbW5nb3BDOWNZbFZ6M0wzVWJFWm90Sl9PT0U5U1B0c0kwc3hBZ1BJR1MwV0Q1SFVQU1ltcVExbmI1WkVfbUFUM0dsNkhhOW9kbEta0gG-AUFVX3lxTE1RZFNYMFZsaEFzY2MyZVJ1ZkpPWTFFWUVZWDczT2ZLa0t5X2ZGZl9US1h0amF2c1Q5dzJjZ3NXY1MtR29EaS05OVc5LW84bzk2ckpWY3ViWEdLTWFYN2xNdFA4WDNTc21oRUZpRHo3ajdpZHZwM25xY2hUc1RGejJZOFRyNlotc1Q5VlVzVTlrbml0YzI3aVhUT3N6Z09EZGhVdnNMNFNIUWlCenpfMm80R3ROcTZnQ25nODBiUnc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVlqNHBhT21ZTlR3OENvU1AxVWdwd1FJWTRPWldkVTZ4YXA4bTJsNlZmQ3plUlF6eUNCeURRbC1fNHpsZjR0U3Z2blRVRUF4SUppdnZQeWF0bk9vdGY4ajF5dU9UcVBmZmxhS3FPbW5nb3BDOWNZbFZ6M0wzVWJFWm90Sl9PT0U5U1B0c0kwc3hBZ1BJR1MwV0Q1SFVQU1ltcVExbmI1WkVfbUFUM0dsNkhhOW9kbEta0gG-AUFVX3lxTE1RZFNYMFZsaEFzY2MyZVJ1ZkpPWTFFWUVZWDczT2ZLa0t5X2ZGZl9US1h0amF2c1Q5dzJjZ3NXY1MtR29EaS05OVc5LW84bzk2ckpWY3ViWEdLTWFYN2xNdFA4WDNTc21oRUZpRHo3ajdpZHZwM25xY2hUc1RGejJZOFRyNlotc1Q5VlVzVTlrbml0YzI3aVhUT3N6Z09EZGhVdnNMNFNIUWlCenpfMm80R3ROcTZnQ25nODBiUnc?oc=5\" target=\"_blank\">El Consultivo rechaza indemnizar con 4 millones por el rescate de ayudas de los ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-09-30T14:37:48Z",
+    "fecha": "2026-10-01T05:07:48Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nuevo ERE"
+    "empresa": "ERE",
+    "ubicacion": "Consultivo"
   },
   {
     "titulo": "Soria sienta doctrina en el Supremo: la indemnización \"extra\" de un ERE puede costarte el subsidio de mayores de 52 años - SoriaNoticias",
@@ -504,39 +528,15 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Santander plantea un ERE en sus filiales tecnológicas - Libre Mercado - Libertad Digital",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVJtVTIyR1ptV0VaZTYyVm10amVGOW5HZkZJLTVoNmVCWExTTnZOX21ISjhNT3lmU3gySG9Tb09CQlZFakZzYUtsQV9sMkVNTE5kYkYtSEhBV3FZQlVsOXVhRVl1RUQ1SGVza2s3S1FrSnN4bzJpbjl4ekxPaUVsX3lSb1AwTDRxVC1LcmZMQXlWQU83N0E4YkNLZjIxelIyMmZGWWxYZmJVazhtYkdiaE5YM2h4RHNhMHlUeXVIdV94ODJqX0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVJtVTIyR1ptV0VaZTYyVm10amVGOW5HZkZJLTVoNmVCWExTTnZOX21ISjhNT3lmU3gySG9Tb09CQlZFakZzYUtsQV9sMkVNTE5kYkYtSEhBV3FZQlVsOXVhRVl1RUQ1SGVza2s3S1FrSnN4bzJpbjl4ekxPaUVsX3lSb1AwTDRxVC1LcmZMQXlWQU83N0E4YkNLZjIxelIyMmZGWWxYZmJVazhtYkdiaE5YM2h4RHNhMHlUeXVIdV94ODJqX0E?oc=5\" target=\"_blank\">Santander plantea un ERE en sus filiales tecnológicas - Libre Mercado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libertad Digital</font>",
+    "titulo": "CSIF demanda a Casa 47 por el despido colectivo de 274 empleados de la Sareb - EL PAÍS",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXJqOFd3bUwxQmhjME5KcEVHcFpCdFltemp5WGFuMGxxTmRBaXhHZlNVMERJLVptOEY5bzZ4QlZFSXEzT2VNV1l5RzdHcEM2Yk85TU9PaENyWmppaDZLQ3hjQnpSQkhUVGM0bGxaS0Exdmd3NmZFLXJiV0NvSHgtVDA1OGJnWTdTTm4tMWlIS0JBN1lNVzVCZ01JcWU1X1lSYVdNLXNVN0hJeFRH0gHAAUFVX3lxTE41QldZS0stRTFZR2otRXVGcWhpalBEZmszVFJUNi1NdFFXcHVKTGU1bHI1NkFqcmU5SnJLMHlyUmdaZlh5Q0dlcnhGc2hhYTUtdEF0MndMRk9vM1QwclFUWlgxRFV6OEMwb21CTkFnYldyaWRUM2JlYUlDNVlBRHpSdmFXd2Rlb3NsQkN0aW5BcFJtVElfQ3JrMGNCbVFISWFBV3oxWU16VTNNV1VxMDhJOHhTbjZTTXhHekxNS0VFdg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXJqOFd3bUwxQmhjME5KcEVHcFpCdFltemp5WGFuMGxxTmRBaXhHZlNVMERJLVptOEY5bzZ4QlZFSXEzT2VNV1l5RzdHcEM2Yk85TU9PaENyWmppaDZLQ3hjQnpSQkhUVGM0bGxaS0Exdmd3NmZFLXJiV0NvSHgtVDA1OGJnWTdTTm4tMWlIS0JBN1lNVzVCZ01JcWU1X1lSYVdNLXNVN0hJeFRH0gHAAUFVX3lxTE41QldZS0stRTFZR2otRXVGcWhpalBEZmszVFJUNi1NdFFXcHVKTGU1bHI1NkFqcmU5SnJLMHlyUmdaZlh5Q0dlcnhGc2hhYTUtdEF0MndMRk9vM1QwclFUWlgxRFV6OEMwb21CTkFnYldyaWRUM2JlYUlDNVlBRHpSdmFXd2Rlb3NsQkN0aW5BcFJtVElfQ3JrMGNCbVFISWFBV3oxWU16VTNNV1VxMDhJOHhTbjZTTXhHekxNS0VFdg?oc=5\" target=\"_blank\">CSIF demanda a Casa 47 por el despido colectivo de 274 empleados de la Sareb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-09-18T07:00:00Z",
+    "fecha": "2026-09-29T16:01:43Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Santander"
-  },
-  {
-    "titulo": "El Juzgado de lo Social anula el ERTE de Sutoki y tumba el plan de la matriz RTS en Vitoria - Diario de Noticias de Álava",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc21ZeWZsZjkydGtWMFdhemhUSDRWU05XNHA4RDBrLXNpNWdlT2p6MG9wNVRTcWJVeUY0VUhpNEduMzFoQ0t6ZlE5N2d6ZHk5M2FSaGVUY21LVzBxbFBQbTl0d2FIN25mYy14U2dPV2d6NHF6Q282aVVKVG5IRVoxRFhVc29sRXJQUllmNnpzaFlFSXA1S0dmQ0F2Y9IBoAFBVV95cUxPNGZYaUtMaFZMRExhVHgzWHVGWVBrVEVQSTUtc2l3VkJZMTFmS3FCNlZrNHFVeHFSY0loR3pyWkd2b0N6cF8xOVZCT1RMTTNnYjhEcDBvV2hyWEVWZkRJVVUwZWUwbVM3XzR4VTZtYWJtS2VJcTJDdEdlVlpsblFLdWtpX0xmaEV2UjNvNFE0dV9GUDlubGNUU2xjeko3WmRK?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc21ZeWZsZjkydGtWMFdhemhUSDRWU05XNHA4RDBrLXNpNWdlT2p6MG9wNVRTcWJVeUY0VUhpNEduMzFoQ0t6ZlE5N2d6ZHk5M2FSaGVUY21LVzBxbFBQbTl0d2FIN25mYy14U2dPV2d6NHF6Q282aVVKVG5IRVoxRFhVc29sRXJQUllmNnpzaFlFSXA1S0dmQ0F2Y9IBoAFBVV95cUxPNGZYaUtMaFZMRExhVHgzWHVGWVBrVEVQSTUtc2l3VkJZMTFmS3FCNlZrNHFVeHFSY0loR3pyWkd2b0N6cF8xOVZCT1RMTTNnYjhEcDBvV2hyWEVWZkRJVVUwZWUwbVM3XzR4VTZtYWJtS2VJcTJDdEdlVlpsblFLdWtpX0xmaEV2UjNvNFE0dV9GUDlubGNUU2xjeko3WmRK?oc=5\" target=\"_blank\">El Juzgado de lo Social anula el ERTE de Sutoki y tumba el plan de la matriz RTS en Vitoria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Noticias de Álava</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-30T11:55:48Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERTE",
-    "ubicacion": "Juzgado de lo Social"
-  },
-  {
-    "titulo": "UGT reclama un ERE en Servinform para 400 trabajadores en el \"limbo legal\" y sin trabajo - El Conciso",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXVKeVZGcFZUV3RVMHJJZGtNdGswUy1zbWJMTXVHTjdIYWN0YTFzNWpaN19XWG9vUzZ1Sy1ydzZGZzN4dTUycS1sN1QzVU94bmFkSFJaSEJPbEl5UGNXeWJjOHpGdGJHd1ZaYjB6T2JsWGZkMVhkNmI1QTJBOUF5WERrVU1YaWprMXlkZVFZckY0QkpkMFhTRg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXVKeVZGcFZUV3RVMHJJZGtNdGswUy1zbWJMTXVHTjdIYWN0YTFzNWpaN19XWG9vUzZ1Sy1ydzZGZzN4dTUycS1sN1QzVU94bmFkSFJaSEJPbEl5UGNXeWJjOHpGdGJHd1ZaYjB6T2JsWGZkMVhkNmI1QTJBOUF5WERrVU1YaWprMXlkZVFZckY0QkpkMFhTRg?oc=5\" target=\"_blank\">UGT reclama un ERE en Servinform para 400 trabajadores en el \"limbo legal\" y sin trabajo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Conciso</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-09-29T11:49:24Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "UGT",
-    "ubicacion": "Servinform"
+    "empresa": "PAÍS",
+    "ubicacion": "Casa 47"
   }
 ];
