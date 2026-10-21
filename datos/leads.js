@@ -1,41 +1,5 @@
 const window_leads_data = [
   {
-    "titulo": "València Sostenible ofrece formación gratuita a 23 personas desempleadas y contratará a tres durante seis meses para trabajar en las Oficinas de l’Energia - Ayuntamiento de Valencia",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUlwVlhUSTQxMFRXLXYwdnVsdkVEQ2JnWkxHMVJoVjNVU0dYdHluaU1NMHpVb19vUlJ5R3pSeHlnUDJjeS1RUkRDVWJJUkFwUmJQUEVQc0lJeXFWcF9yc05SajFYRXN5QkhQcVAxcnNnUzlUV2UtUXo2N2NFd2N2WUdDN0E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUlwVlhUSTQxMFRXLXYwdnVsdkVEQ2JnWkxHMVJoVjNVU0dYdHluaU1NMHpVb19vUlJ5R3pSeHlnUDJjeS1RUkRDVWJJUkFwUmJQUEVQc0lJeXFWcF9yc05SajFYRXN5QkhQcVAxcnNnUzlUV2UtUXo2N2NFd2N2WUdDN0E?oc=5\" target=\"_blank\">València Sostenible ofrece formación gratuita a 23 personas desempleadas y contratará a tres durante seis meses para trabajar en las Oficinas de l’Energia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Valencia</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-18T02:45:39Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Oficinas"
-  },
-  {
-    "titulo": "Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 14 al 20 de octubre de 2026) - La Administración al Día",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRGpoM0pOc1lLQlVjUkE5emNRaFItNzZaNHkxUjBERDlkLWpRTUhPRFc3Q1QzRXQyb1RjSWJqNnFuQ3lGNjRxS1ZFT3JReDRXcHR4Zm1BekpubGJLRWdGZDhYSVczMVItbWYtdQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRGpoM0pOc1lLQlVjUkE5emNRaFItNzZaNHkxUjBERDlkLWpRTUhPRFc3Q1QzRXQyb1RjSWJqNnFuQ3lGNjRxS1ZFT3JReDRXcHR4Zm1BekpubGJLRWdGZDhYSVczMVItbWYtdQ?oc=5\" target=\"_blank\">Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 14 al 20 de octubre de 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Administración al Día</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-14T10:45:14Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Función Pública",
-    "ubicacion": "Ministerio para la Transformación Digital"
-  },
-  {
-    "titulo": "La Junta de Gobierno Local aprueba la modificación y ampliación de las ofertas de empleo público de los años 2025 y 2026 - Ayuntamiento de Toledo",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0pTOWFGcDZiZ2NlSU13TEg4OHB5cUdDOTNEdGxXUG5pcXFzRlVndEdyOFRQZUVOZXpqSFF3eXJZT3VhaFNxTmlTSUZJZ0lmTE1zYUdjLXNjQ2N0b18zYUxuREpIM1lmNThqUFA3Q1FRY1ZsdC1WYjlvbW1Wd1FBS2JvUWJwLVhmaVRTMkdlSmptejBsSEN4ei05X3ExeGtUOUUxOEdWNXBybWtQZGt4aVdtb0p0anhKTDhTWjM1WnFITW5OTG9qYlZoNDUwVFdxOG5JRG01NmZOS1E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0pTOWFGcDZiZ2NlSU13TEg4OHB5cUdDOTNEdGxXUG5pcXFzRlVndEdyOFRQZUVOZXpqSFF3eXJZT3VhaFNxTmlTSUZJZ0lmTE1zYUdjLXNjQ2N0b18zYUxuREpIM1lmNThqUFA3Q1FRY1ZsdC1WYjlvbW1Wd1FBS2JvUWJwLVhmaVRTMkdlSmptejBsSEN4ei05X3ExeGtUOUUxOEdWNXBybWtQZGt4aVdtb0p0anhKTDhTWjM1WnFITW5OTG9qYlZoNDUwVFdxOG5JRG01NmZOS1E?oc=5\" target=\"_blank\">La Junta de Gobierno Local aprueba la modificación y ampliación de las ofertas de empleo público de los años 2025 y 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Toledo</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-14T11:49:46Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Ayuntamiento de Toledo"
-  },
-  {
     "titulo": "Ofertas de empleo de Madrid Trabaja 17.10.2026 - Telemadrid",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFBUS1paVEJYN3RKOHB5UkRXZmhDOVVwRDMwcWdhODZud055Z0lCRGVVNzY5V2dTYWM1UXh1RGFCRHBNOFFWRlhlVFE5eXppX2V5YThtRXp0VEJ6TGFleUVlTEpNbWFVTzVTLWdlVmpwUlZiTU12MWZXUk5WWkNOUm1wYmh6TVhZN1d4bk1sZlZTVWxJb0poY2htYU92NDVmUTdpWFdUbmVHZ2F3QktYamhvWHIxYjlNTl9jalFHRXZVUWRobzZiZdIBzgFBVV95cUxQVXNQbl94Zm1SdFc4bjdwN0RBVFJ4c1luY0tpUkdacVU4LThGTDZfWUZsaDVtSlpZSEloTVgyUll0OHcyTHFVblo0R0k0ME80SHREV0c3RlVZY2pvRTdsZ19mS1p4OVJlcWQ0M2VfTUNpblBYRXpIWE5wUnZLMmEtcmhSdDlJY1NjUXVScEk3amVzUzJKS2JqcnFKNHhONVUtTnlMV1pGMzJ1OVVCdGZfSm1iRnpwdVdrb2hXWndXWnZMYUI1YkdJVnF6MkUxdw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFBUS1paVEJYN3RKOHB5UkRXZmhDOVVwRDMwcWdhODZud055Z0lCRGVVNzY5V2dTYWM1UXh1RGFCRHBNOFFWRlhlVFE5eXppX2V5YThtRXp0VEJ6TGFleUVlTEpNbWFVTzVTLWdlVmpwUlZiTU12MWZXUk5WWkNOUm1wYmh6TVhZN1d4bk1sZlZTVWxJb0poY2htYU92NDVmUTdpWFdUbmVHZ2F3QktYamhvWHIxYjlNTl9jalFHRXZVUWRobzZiZdIBzgFBVV95cUxQVXNQbl94Zm1SdFc4bjdwN0RBVFJ4c1luY0tpUkdacVU4LThGTDZfWUZsaDVtSlpZSEloTVgyUll0OHcyTHFVblo0R0k0ME80SHREV0c3RlVZY2pvRTdsZ19mS1p4OVJlcWQ0M2VfTUNpblBYRXpIWE5wUnZLMmEtcmhSdDlJY1NjUXVScEk3amVzUzJKS2JqcnFKNHhONVUtTnlMV1pGMzJ1OVVCdGZfSm1iRnpwdVdrb2hXWndXWnZMYUI1YkdJVnF6MkUxdw?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 17.10.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
@@ -45,6 +9,18 @@ const window_leads_data = [
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "FashionUnited bate récord: más de 40.000 ofertas de empleo activas en su portal de moda - FashionUnited",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUIwZmEwaFktejBIcTVEd1BiTkpsa1FaTDNvd09WNmhBNy1YSlI3SHJvMnRsaGhPaHZLenF0YjNWUlJMLXJzWUJaR2dfR0V5QjM1WUcwZGFfLXdwcDhRbDRkcnFGUVNGLTE5TXVId3NEVjF4OVY0U1BUb3B0QWF0ZHBLbUVZQ1NhdVZwaVVWYS1TdnlCT3BhbWZhbE1hNTJEamI1RjFGcXpCUTU5YVlrdWhGdGx2SjlXd3I2WE5XeGRnc3ozQm9LVWdKN252Y2xtSUtNU2wzOA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUIwZmEwaFktejBIcTVEd1BiTkpsa1FaTDNvd09WNmhBNy1YSlI3SHJvMnRsaGhPaHZLenF0YjNWUlJMLXJzWUJaR2dfR0V5QjM1WUcwZGFfLXdwcDhRbDRkcnFGUVNGLTE5TXVId3NEVjF4OVY0U1BUb3B0QWF0ZHBLbUVZQ1NhdVZwaVVWYS1TdnlCT3BhbWZhbE1hNTJEamI1RjFGcXpCUTU5YVlrdWhGdGx2SjlXd3I2WE5XeGRnc3ozQm9LVWdKN252Y2xtSUtNU2wzOA?oc=5\" target=\"_blank\">FashionUnited bate récord: más de 40.000 ofertas de empleo activas en su portal de moda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FashionUnited</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-20T11:22:02Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -60,16 +36,16 @@ const window_leads_data = [
     "ubicacion": "Soria"
   },
   {
-    "titulo": "Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha - UGT Castilla-La Mancha",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUXpJeWFqNXJaTkRIMlYtcU1zRzZZNDlwa0NsTjlOWVNENm5uOTdTcGdLUEdpNy1acUV0YVI1SHhWQzRTQ1EwNFVYTFYzTDJHanR0RHpnYlF4Q2Q2QUZYNDBLVlFURVNYdDhmU1dqVEZPMkd6dHhVN3lKQmxmOGlfRkNSQzJ3RkJaQVhvSDVqSjQ1WF9CQjA3MWJZaVluOUNCNkpIbUpSR3VuR3dwWlRqZ1pTUHAzNHdrSE10bWREQ0ZNMENfTnc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUXpJeWFqNXJaTkRIMlYtcU1zRzZZNDlwa0NsTjlOWVNENm5uOTdTcGdLUEdpNy1acUV0YVI1SHhWQzRTQ1EwNFVYTFYzTDJHanR0RHpnYlF4Q2Q2QUZYNDBLVlFURVNYdDhmU1dqVEZPMkd6dHhVN3lKQmxmOGlfRkNSQzJ3RkJaQVhvSDVqSjQ1WF9CQjA3MWJZaVluOUNCNkpIbUpSR3VuR3dwWlRqZ1pTUHAzNHdrSE10bWREQ0ZNMENfTnc?oc=5\" target=\"_blank\">Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT Castilla-La Mancha</font>",
+    "titulo": "Hasta cien ofertas de empleo buscan candidatos en Ponferrada - La Nueva Crónica",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFUyOEdWV0tjUGJ6ZkRPbmtoUTBGSU05ZkEzNkFSelJiS3NHb0NhbGpSM2hiclNfbnRjVjBGdkZzTl9zUEpYSnJpQ2Q0LTJvM1g0Nl9nV0g3SEZsMmtFMm9aSkpYS1BQYXh5NEdwaUtELVBQcG81bHc1WEYycmNHNFVpTUlwdFgzc3ZGQS0zSGFFRG8wMElXelR5ejA4clZOWHFkTjZIX3ZqLUlwblhCcWN6SjNjcmJnbml1ZHpXX2dxcWF6djF0VzNFaTg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFUyOEdWV0tjUGJ6ZkRPbmtoUTBGSU05ZkEzNkFSelJiS3NHb0NhbGpSM2hiclNfbnRjVjBGdkZzTl9zUEpYSnJpQ2Q0LTJvM1g0Nl9nV0g3SEZsMmtFMm9aSkpYS1BQYXh5NEdwaUtELVBQcG81bHc1WEYycmNHNFVpTUlwdFgzc3ZGQS0zSGFFRG8wMElXelR5ejA4clZOWHFkTjZIX3ZqLUlwblhCcWN6SjNjcmJnbml1ZHpXX2dxcWF6djF0VzNFaTg?oc=5\" target=\"_blank\">Hasta cien ofertas de empleo buscan candidatos en Ponferrada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Nueva Crónica</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-13T10:41:17Z",
+    "fecha": "2026-10-20T10:08:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "UGT Castilla-La Mancha"
+    "ubicacion": "Ponferrada"
   },
   {
     "titulo": "4 ofertas de empleo en el sector fotovoltaico y BESS en España en la última semana - pv magazine España",
@@ -82,18 +58,6 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "BESS",
     "ubicacion": "España"
-  },
-  {
-    "titulo": "Medina del Campo contratará a seis jóvenes desempleados: puestos y requisitos para optar a ellos - Tribuna de Valladolid.",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajZTaW5GNEtfWkd5cGlMNUlmbFYzYU1jREVZU1JTNXRCS0hCSU83OWF5ZnduZTVlaFRQUWRsX3ZXUVg5NzRVYXdhV1pUXzQwUllfMjdJcVo5aVNMZkhMdGxxaFVVd0o1NHdKRFNNZm5aUUJ1UDJBZWw3aGljRE9iMUJUQTNub0FzZXFlRmlUdndFOGNwZ0tMb3JlTmlCbDBpa3N6ODg3SlhCZjNCOENOX0s0bWk2NXFKSUFMSGY2Q0VmMkFFaFVDSEprcEh2SlN5WncxTWZSWV9aamlpZ1E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajZTaW5GNEtfWkd5cGlMNUlmbFYzYU1jREVZU1JTNXRCS0hCSU83OWF5ZnduZTVlaFRQUWRsX3ZXUVg5NzRVYXdhV1pUXzQwUllfMjdJcVo5aVNMZkhMdGxxaFVVd0o1NHdKRFNNZm5aUUJ1UDJBZWw3aGljRE9iMUJUQTNub0FzZXFlRmlUdndFOGNwZ0tMb3JlTmlCbDBpa3N6ODg3SlhCZjNCOENOX0s0bWk2NXFKSUFMSGY2Q0VmMkFFaFVDSEprcEh2SlN5WncxTWZSWV9aamlpZ1E?oc=5\" target=\"_blank\">Medina del Campo contratará a seis jóvenes desempleados: puestos y requisitos para optar a ellos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna de Valladolid.</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-15T19:36:00Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Medina del Campo"
   },
   {
     "titulo": "Mercadona busca personal para preparar pedidos tres días a la semana por 1.300 euros al mes y complementos - ABC",
@@ -109,38 +73,38 @@ const window_leads_data = [
   },
   {
     "titulo": "Se busca personal para trabajar de albañil, fontanero, cuidador de ancianos o camarero en un pueblo en un m... - OkDiario",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEtVZ3RSWm5Cb1ozbWl5NmRPVlVUNW1sVFNIa01DaFlmUVF5Q2FnY2R4ZDJxTDF6VUVvR0g0N2puVk9HLUtUSnl6OTVXcHVZRnBHZF9TaUNIWFRVRWM1MTdWVFp2YzN5cjB3RW1lNFBJMTRKZUhFZEJpZFBzUkhKZ0tlX3RtUkN5c1hzQVl3cDZrUWRaMUVScm1NQmZBMzRzdmZ2ZjJNNlFISzVodEZwMHExT1lPUW1JcnFhazRqTExialpkcmY1ZXJYRmc0dE04NmtPRDJtRGrSAd4BQVVfeXFMT29oRS0xbndXZ3BUWnViUklTRW1KRDRYSjlDZHZ5T0tmbnp4UXFha05qQnh2b1N5WVIySURmalhOTzRqei1MM3lZME9fMFpCNjNVcDFjTlRKMEloVnhQNDhvT09FRFZUY2ZuU1R4b1hjM0ItOHBweVFGX1FSaVFPU1lCNjVyWWFsQUkweElBTEZ5bWpuX2JwQ3lTS19YT2VCdDk0NUV0bnFPUkRyajJhVGxkWUo3NGFLN3VKaXU1bTkzNDhBM1NWUmdTd0V6bEFZOXZGQjJyQzdpVzZuM2Jn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEtVZ3RSWm5Cb1ozbWl5NmRPVlVUNW1sVFNIa01DaFlmUVF5Q2FnY2R4ZDJxTDF6VUVvR0g0N2puVk9HLUtUSnl6OTVXcHVZRnBHZF9TaUNIWFRVRWM1MTdWVFp2YzN5cjB3RW1lNFBJMTRKZUhFZEJpZFBzUkhKZ0tlX3RtUkN5c1hzQVl3cDZrUWRaMUVScm1NQmZBMzRzdmZ2ZjJNNlFISzVodEZwMHExT1lPUW1JcnFhazRqTExialpkcmY1ZXJYRmc0dE04NmtPRDJtRGrSAd4BQVVfeXFMT29oRS0xbndXZ3BUWnViUklTRW1KRDRYSjlDZHZ5T0tmbnp4UXFha05qQnh2b1N5WVIySURmalhOTzRqei1MM3lZME9fMFpCNjNVcDFjTlRKMEloVnhQNDhvT09FRFZUY2ZuU1R4b1hjM0ItOHBweVFGX1FSaVFPU1lCNjVyWWFsQUkweElBTEZ5bWpuX2JwQ3lTS19YT2VCdDk0NUV0bnFPUkRyajJhVGxkWUo3NGFLN3VKaXU1bTkzNDhBM1NWUmdTd0V6bEFZOXZGQjJyQzdpVzZuM2Jn?oc=5\" target=\"_blank\">Se busca personal para trabajar de albañil, fontanero, cuidador de ancianos o camarero en un pueblo en un m...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OkDiario</font>",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTA4VHZaUWZUalNESEFBV3FuS0ZLLWRWdkpKYWJxeDhuSV9tNFRCN0l1aXBVVXdUNUZrSmp6aDZZMi1sZkVCdjkwendHQWgzZGxLRHZMaVFld2RLWVZPaHo5NWozZ2l0NnByMVhiTUhGNklpMkgzY1dhQWcxdkhNRUhCZnZza2I4dEhfVXZjX1VsU2IzU1gtbzFfTU1VSW56Y0MyVV9UR1FFLXBhSlJ1d2VwYkt5TkhpSGhub0ZjVDBBa25FUHZ1YUI5cS04OUNZakloMFBicDhISHPSAeABQVVfeXFMTzQzYkJfRTc5STE0aEVYY3A4UHhlWE5aSHFaMWxIQ1lFYVY0OGxRMDNlOHN0RlBsNDBiaUFDSTFCSzcyMktDOUl5djJpWE5ndlQ3SjRMVUpjZHhsRlVxR0dTTUtJbGVyMHROWGtGd0o1UWNVZGYtOGFSNExGNV9LZXA5ZlltelRpUlVST2dhNkZXMnBudXdCWVJVbXhzRmdZSmt5UHVXbnMxUE9qbU5mSmQ3T29YUTFJLVJBTmRmTF8zX21xeklMNEtjV0Eta2RVNS1tRHh5WUFZdGhZYnlyM0k?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTA4VHZaUWZUalNESEFBV3FuS0ZLLWRWdkpKYWJxeDhuSV9tNFRCN0l1aXBVVXdUNUZrSmp6aDZZMi1sZkVCdjkwendHQWgzZGxLRHZMaVFld2RLWVZPaHo5NWozZ2l0NnByMVhiTUhGNklpMkgzY1dhQWcxdkhNRUhCZnZza2I4dEhfVXZjX1VsU2IzU1gtbzFfTU1VSW56Y0MyVV9UR1FFLXBhSlJ1d2VwYkt5TkhpSGhub0ZjVDBBa25FUHZ1YUI5cS04OUNZakloMFBicDhISHPSAeABQVVfeXFMTzQzYkJfRTc5STE0aEVYY3A4UHhlWE5aSHFaMWxIQ1lFYVY0OGxRMDNlOHN0RlBsNDBiaUFDSTFCSzcyMktDOUl5djJpWE5ndlQ3SjRMVUpjZHhsRlVxR0dTTUtJbGVyMHROWGtGd0o1UWNVZGYtOGFSNExGNV9LZXA5ZlltelRpUlVST2dhNkZXMnBudXdCWVJVbXhzRmdZSmt5UHVXbnMxUE9qbU5mSmQ3T29YUTFJLVJBTmRmTF8zX21xeklMNEtjV0Eta2RVNS1tRHh5WUFZdGhZYnlyM0k?oc=5\" target=\"_blank\">Se busca personal para trabajar de albañil, fontanero, cuidador de ancianos o camarero en un pueblo en un m...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OkDiario</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-18T09:09:00Z",
+    "fecha": "2026-10-17T22:27:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "El Real Sitio contratará a cinco jóvenes desempleados durante un año - El Día de Segovia",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxuVy14MmxkcmZxejQ0ZEdoZGI5MndaRURLTl9pNThOSXppc25yMGxqLXl4MndzSzhJLUpwNGptLXNCZlRXbzBYSkp4ZEdXZDd1LXBpQ0E0RlpYQlcwV0pXWEYtbC02dFhZdkZTWnFCNFQtV3R4T3d6alJMX3J1aUVjSktsbHhuSTZMNExzS2Rwc0lqcTYwN0RVY21wWXpENXhKeXdTV0F5TU5vTHdnMnotRzlKM0ZRV2wzaWRqalVqUGdLblpyUDFXaDVqUQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxuVy14MmxkcmZxejQ0ZEdoZGI5MndaRURLTl9pNThOSXppc25yMGxqLXl4MndzSzhJLUpwNGptLXNCZlRXbzBYSkp4ZEdXZDd1LXBpQ0E0RlpYQlcwV0pXWEYtbC02dFhZdkZTWnFCNFQtV3R4T3d6alJMX3J1aUVjSktsbHhuSTZMNExzS2Rwc0lqcTYwN0RVY21wWXpENXhKeXdTV0F5TU5vTHdnMnotRzlKM0ZRV2wzaWRqalVqUGdLblpyUDFXaDVqUQ?oc=5\" target=\"_blank\">El Real Sitio contratará a cinco jóvenes desempleados durante un año</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Día de Segovia</font>",
+    "titulo": "Junta contratará por 3,6M€ obras de mejora de seguridad viaria en autovía EX-A1 en Coria - Región Digital",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLVU5ZU1OU2hEZzktOXNYTFdacF9SQUpwQTItcXkxcS10dUxlUXNrTUduZEJtMDlYN00wZm9RSkk0bVVRR2F4TXR3TzRzMjgyWEFZVWRaRm9oZ1BzN3ZrQk1lT3JYTl9saDdLOTZoRVp5OTYtMVM4RzBkRG4wbkJZRVJvdnoycGJRTzlXV1JiVnZSM0ZGWXBKNGd6WVVCTkM4dklITWc0bGpKYUxEbTh6TkdzZ1JuNlNlLS1ZTmVyMm5YQTRWRFJnMUc5bzlWU1g0eEZ3QzVzRUF5YmRrOWVYR3BTSGJjNTNHSlI1M3U1OEx2UdIB9wFBVV95cUxOMmtOQWxKRkRlc0s0d3ZwbElhSWRzSThET3g5bVY3VFBrYzJaNjhIRWN1WHJSZjNMSXp0czFqLXRfdHQ4VWRZWktfVVNVMTgtQzc2OVlFMG4wMGFBRUFad2d0a1RacnVUY1JpVFFBblk3c2FZSE1TdFd6Y3pNcVgyWVExZE9fZGZ1eTNZME9vZWZIS0pZalFkSW1kdlE2NlByQkZRX3pzamhCSF9abnFqVjU2ZmRmQkoyWU9LVXdka0phUVU0cktfaThOSGJiS0tfcHJVZXBvQURhUG13blUwS0phOFhsUUV0Q19wUXk4R2hEWnFodnBr?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLVU5ZU1OU2hEZzktOXNYTFdacF9SQUpwQTItcXkxcS10dUxlUXNrTUduZEJtMDlYN00wZm9RSkk0bVVRR2F4TXR3TzRzMjgyWEFZVWRaRm9oZ1BzN3ZrQk1lT3JYTl9saDdLOTZoRVp5OTYtMVM4RzBkRG4wbkJZRVJvdnoycGJRTzlXV1JiVnZSM0ZGWXBKNGd6WVVCTkM4dklITWc0bGpKYUxEbTh6TkdzZ1JuNlNlLS1ZTmVyMm5YQTRWRFJnMUc5bzlWU1g0eEZ3QzVzRUF5YmRrOWVYR3BTSGJjNTNHSlI1M3U1OEx2UdIB9wFBVV95cUxOMmtOQWxKRkRlc0s0d3ZwbElhSWRzSThET3g5bVY3VFBrYzJaNjhIRWN1WHJSZjNMSXp0czFqLXRfdHQ4VWRZWktfVVNVMTgtQzc2OVlFMG4wMGFBRUFad2d0a1RacnVUY1JpVFFBblk3c2FZSE1TdFd6Y3pNcVgyWVExZE9fZGZ1eTNZME9vZWZIS0pZalFkSW1kdlE2NlByQkZRX3pzamhCSF9abnFqVjU2ZmRmQkoyWU9LVXdka0phUVU0cktfaThOSGJiS0tfcHJVZXBvQURhUG13blUwS0phOFhsUUV0Q19wUXk4R2hEWnFodnBr?oc=5\" target=\"_blank\">Junta contratará por 3,6M€ obras de mejora de seguridad viaria en autovía EX-A1 en Coria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Región Digital</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-20T03:00:00Z",
+    "fecha": "2026-10-20T16:45:40Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Real Sitio",
-    "ubicacion": "Nacional"
+    "empresa": "Desconocida",
+    "ubicacion": "Coria - Región Digital"
   },
   {
-    "titulo": "Más de 20 empresas buscan trabajadores en Ontinyent: 40 ofertas de empleo y entrevistas de trabajo - Levante-EMV",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEh0NmRIUk5DM2x1WXJKNG44MWVJSzA1UEJCYTB3LWh1RWx1clJfM084UkFMQ1ZRblJXbmRGZE8xWldTcVRmb2R3VWwtNWtJYzdLVXY4TFhKLTJyVmxiSzh4Z3NQU0o0M184X2FWTWZ4VzdXVy11NHNmakpBbm5tTS1iRFd5enFPWlhiSGt0WUZuTmRfdnlSUkRYNVNpQ1hJbGpfY0xR0gGrAUFVX3lxTE56MDNIbU5nQWMzZUoyMXNXVGY1UW5xZzEtcEFfN3NZc3B2bDVYY3RwWjJzUE9aa0VjSXFEYUlFYWJ2VE44ZVlIaW1uSkRCTHlJbndqNEFKUmEzY0RsOThLNW5rMjByTzVxWjFLZmR6MEJiNFB0SU9RRk14ZktBV2hlc1pPbGJZUk4yalk1ejRYZEZwNGpUYUc1MmlvNVpoNDhES3FoRmlncjhGQQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEh0NmRIUk5DM2x1WXJKNG44MWVJSzA1UEJCYTB3LWh1RWx1clJfM084UkFMQ1ZRblJXbmRGZE8xWldTcVRmb2R3VWwtNWtJYzdLVXY4TFhKLTJyVmxiSzh4Z3NQU0o0M184X2FWTWZ4VzdXVy11NHNmakpBbm5tTS1iRFd5enFPWlhiSGt0WUZuTmRfdnlSUkRYNVNpQ1hJbGpfY0xR0gGrAUFVX3lxTE56MDNIbU5nQWMzZUoyMXNXVGY1UW5xZzEtcEFfN3NZc3B2bDVYY3RwWjJzUE9aa0VjSXFEYUlFYWJ2VE44ZVlIaW1uSkRCTHlJbndqNEFKUmEzY0RsOThLNW5rMjByTzVxWjFLZmR6MEJiNFB0SU9RRk14ZktBV2hlc1pPbGJZUk4yalk1ejRYZEZwNGpUYUc1MmlvNVpoNDhES3FoRmlncjhGQQ?oc=5\" target=\"_blank\">Más de 20 empresas buscan trabajadores en Ontinyent: 40 ofertas de empleo y entrevistas de trabajo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Levante-EMV</font>",
+    "titulo": "Ofertas de empleo en la Región de Murcia - LasNoticiasRM",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWI5MG1oTnRXSWkwLXhEYjE2cTJ4ZnZWNWNSdFRRZDRBaWNjOUpDNHFXY1Ztc2E4aklXaDNxeDZxaVdMWFFLdU1VLUx2WWRDQ194RkVRNThhQkhPN2Z1VFo2MGpQWWVNd09DSlhSZEc1MnBZS201OUZWUllKT25LeHRidkU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWI5MG1oTnRXSWkwLXhEYjE2cTJ4ZnZWNWNSdFRRZDRBaWNjOUpDNHFXY1Ztc2E4aklXaDNxeDZxaVdMWFFLdU1VLUx2WWRDQ194RkVRNThhQkhPN2Z1VFo2MGpQWWVNd09DSlhSZEc1MnBZS201OUZWUllKT25LeHRidkU?oc=5\" target=\"_blank\">Ofertas de empleo en la Región de Murcia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LasNoticiasRM</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-15T14:39:40Z",
+    "fecha": "2026-10-19T09:00:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Levante-EMV",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -156,24 +120,60 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo para trabajar en Guijuelo - Radio Guijuelo",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY29ORFlGMjZtMHZ2dDFSNzRyTEFkc041SElrNHlraGQ5ejRxM3NGNmNFUExNd1VTQUR5TUxwR1JLMDFSRG43bE5Hdmg4NllfVnNTVHJyZHcxcWRaT2Q3N3NHUGR3Mkh6MXNkZ2NmeXlObGlxbzRkWVVNVUp6M3hWVHkwZFJEWEh2V0NR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY29ORFlGMjZtMHZ2dDFSNzRyTEFkc041SElrNHlraGQ5ejRxM3NGNmNFUExNd1VTQUR5TUxwR1JLMDFSRG43bE5Hdmg4NllfVnNTVHJyZHcxcWRaT2Q3N3NHUGR3Mkh6MXNkZ2NmeXlObGlxbzRkWVVNVUp6M3hWVHkwZFJEWEh2V0NR?oc=5\" target=\"_blank\">Ofertas de empleo para trabajar en Guijuelo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Guijuelo</font>",
+    "titulo": "El Real Sitio contratará a cinco jóvenes desempleados durante un año - El Día de Segovia",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxuVy14MmxkcmZxejQ0ZEdoZGI5MndaRURLTl9pNThOSXppc25yMGxqLXl4MndzSzhJLUpwNGptLXNCZlRXbzBYSkp4ZEdXZDd1LXBpQ0E0RlpYQlcwV0pXWEYtbC02dFhZdkZTWnFCNFQtV3R4T3d6alJMX3J1aUVjSktsbHhuSTZMNExzS2Rwc0lqcTYwN0RVY21wWXpENXhKeXdTV0F5TU5vTHdnMnotRzlKM0ZRV2wzaWRqalVqUGdLblpyUDFXaDVqUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOekxuVy14MmxkcmZxejQ0ZEdoZGI5MndaRURLTl9pNThOSXppc25yMGxqLXl4MndzSzhJLUpwNGptLXNCZlRXbzBYSkp4ZEdXZDd1LXBpQ0E0RlpYQlcwV0pXWEYtbC02dFhZdkZTWnFCNFQtV3R4T3d6alJMX3J1aUVjSktsbHhuSTZMNExzS2Rwc0lqcTYwN0RVY21wWXpENXhKeXdTV0F5TU5vTHdnMnotRzlKM0ZRV2wzaWRqalVqUGdLblpyUDFXaDVqUQ?oc=5\" target=\"_blank\">El Real Sitio contratará a cinco jóvenes desempleados durante un año</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Día de Segovia</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-16T13:42:45Z",
+    "fecha": "2026-10-20T03:00:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Guijuelo"
+    "empresa": "Real Sitio",
+    "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 14 de octubre de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2Q4VE9xZmFGX1RVVEI0aHp6Nk4ycmFBOVQxN3o3VmxubW5nbDJVRTJuWHc4eFRXN09UeVVLaEJrdElpdmtvaDZUS3dlX1hfYXF5MkRnMkJFMHA5bk1qYWlGWi1uQ3NQWDFDaTFiZDVTOUFyaHF4MEp6VFU0N0hocXJkZGZaMHM5S0w3ZjBEZXhMYTU1Vi1jYld1a3FmTW16LUZLVVZNRFd1cG5EZm4xNktjNE5VdjZieU1feUJPLUFDaE9xWFlOcnFnb0hoMk10bGpsbnpHb1F1SXQ4dHZUX2c4WVNCQWI1UkHSAe8BQVVfeXFMTUVuZ2FyZUJ6bm5LZjBRbXlOemZGdzFtSDdxYVlRaENPaVhzTmlSTlpmMHBnd3g1amVBa2RFZVBlQW9sQzlNei1FSE0tUGtUeWRRV0tsQlBsNlVmVl9ZcHRyUzctTUN0aDdWX1VZT1VuZm1YcFUzXy1hai15YUdXVEpKV0N5WFNVdmI3My13a0E0c001dExwYXFIOWllMGlKVFVObDhhZDdSdFIwdmRkOFBwal9YYkozaUxvc1o4WEI5aWhwTGdwMkhBUEc0ZWg0Y1RzVEo3MHBPQXpvdmRrSmd0MGxzWi13WFlyM0pJNEk?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2Q4VE9xZmFGX1RVVEI0aHp6Nk4ycmFBOVQxN3o3VmxubW5nbDJVRTJuWHc4eFRXN09UeVVLaEJrdElpdmtvaDZUS3dlX1hfYXF5MkRnMkJFMHA5bk1qYWlGWi1uQ3NQWDFDaTFiZDVTOUFyaHF4MEp6VFU0N0hocXJkZGZaMHM5S0w3ZjBEZXhMYTU1Vi1jYld1a3FmTW16LUZLVVZNRFd1cG5EZm4xNktjNE5VdjZieU1feUJPLUFDaE9xWFlOcnFnb0hoMk10bGpsbnpHb1F1SXQ4dHZUX2c4WVNCQWI1UkHSAe8BQVVfeXFMTUVuZ2FyZUJ6bm5LZjBRbXlOemZGdzFtSDdxYVlRaENPaVhzTmlSTlpmMHBnd3g1amVBa2RFZVBlQW9sQzlNei1FSE0tUGtUeWRRV0tsQlBsNlVmVl9ZcHRyUzctTUN0aDdWX1VZT1VuZm1YcFUzXy1hai15YUdXVEpKV0N5WFNVdmI3My13a0E0c001dExwYXFIOWllMGlKVFVObDhhZDdSdFIwdmRkOFBwal9YYkozaUxvc1o4WEI5aWhwTGdwMkhBUEc0ZWg0Y1RzVEo3MHBPQXpvdmRrSmd0MGxzWi13WFlyM0pJNEk?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 14 de octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "titulo": "El Corte Inglés prevé más de 6.300 contrataciones para afrontar el Black Friday y Navidad - Murciadiario",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYm4wRlBKWk53clJfblptMzJZb2d0anFBTXFiYVhDeDFYaVpLdmp6NXhRNGxKMVYyWnZHempGZDUwYTRMQ0NfSzFGZ1pLQklTV3Vaa3NobGdwWGFEV1NQTkJYRDFtSjNpWlFjV2wyR0k5MHZYaGFsRXdaUENNRGpyOWFnLVZNVWlod2c4VGp0N1ZSR2w2Sno5dlcxWURnSUlnc1Q4N0t4THdMdzNzd3RGME40S2pHdlRCcHlZTlVvb1IwVVRfcEdOOWtvODZfU0xFTkMtT3ZBTFlZbVl4OWl4d0xtbGNtaVc3RFlxZFk4a9IB9AFBVV95cUxQNktxakN3MkVwOWMwdWVNNmp1di14STd4THAzUDRJYy1BdTk1Mm1DUHFoNTVUVnRVakE0b1VoclVGRkRIT0lkSG5OcmV5WGFBNEVicnhiQzE2WUNqcWVKT29nT2x4VVM3WlpiOHAxd0FsdWFlVWZkUjBwWUpTSjJKQWxieHVNQ1JCd0h5ejhFbGhrbG02M3VPbWU0SzUwdUVmLTR2QWlsR2J1OG9HeXU2emtnYkFRZWFhVXZXWGpnRFhVbjFiRUtXeV9mM2h2WFl4LTJ3UXZNZEJNMUZTSjBDNmlJYWdPRDRCWnVHQlplYUVuQTE1?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYm4wRlBKWk53clJfblptMzJZb2d0anFBTXFiYVhDeDFYaVpLdmp6NXhRNGxKMVYyWnZHempGZDUwYTRMQ0NfSzFGZ1pLQklTV3Vaa3NobGdwWGFEV1NQTkJYRDFtSjNpWlFjV2wyR0k5MHZYaGFsRXdaUENNRGpyOWFnLVZNVWlod2c4VGp0N1ZSR2w2Sno5dlcxWURnSUlnc1Q4N0t4THdMdzNzd3RGME40S2pHdlRCcHlZTlVvb1IwVVRfcEdOOWtvODZfU0xFTkMtT3ZBTFlZbVl4OWl4d0xtbGNtaVc3RFlxZFk4a9IB9AFBVV95cUxQNktxakN3MkVwOWMwdWVNNmp1di14STd4THAzUDRJYy1BdTk1Mm1DUHFoNTVUVnRVakE0b1VoclVGRkRIT0lkSG5OcmV5WGFBNEVicnhiQzE2WUNqcWVKT29nT2x4VVM3WlpiOHAxd0FsdWFlVWZkUjBwWUpTSjJKQWxieHVNQ1JCd0h5ejhFbGhrbG02M3VPbWU0SzUwdUVmLTR2QWlsR2J1OG9HeXU2emtnYkFRZWFhVXZXWGpnRFhVbjFiRUtXeV9mM2h2WFl4LTJ3UXZNZEJNMUZTSjBDNmlJYWdPRDRCWnVHQlplYUVuQTE1?oc=5\" target=\"_blank\">El Corte Inglés prevé más de 6.300 contrataciones para afrontar el Black Friday y Navidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Murciadiario</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-14T09:06:16Z",
+    "fecha": "2026-10-16T09:58:46Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Black Friday",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 20 de octubre de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjhKeXU5UURrTV9vZ0JQaFkzWWFnckUxbkFhT1dWZmZ1MGRoNmotcEQ1Y0xBMDdNWFptRGd6REsxd0JuNUV3dmhGQjNKSEZzYkZYaW9EOU1RQ0RneENWYmRhcGRVVC1LZ2xpYmdJUmQ5bEpQbkQzXy12RjJNQXFnc2NqSExNbVBxLTg5dlBQQzBuWlBsQVg4Tm9FaVlfcG15ZXBmTDdCQmJqZUpSTW40WnNMdXlrTjFLT05nSXpuUE9sR1ZBQzg0WTU4UGRROVpOeDd1R3M5X2xMNDEzeWdUdjJseVhrWlhfNUHSAe8BQVVfeXFMTTlSdTJJdUJtLTIxaGtGYy1HQmxpMmRrZkNmV1FteFJkSFM5R1RfMG5GUG0zSDJmSWx2MjZkYjhoLTluQS1tVE84bXY4WXdRaE9JRWlwTlBDTzZwbTJsZVg1UVF1SEY0ZzlLRTVaUnJtTXN5bW5fSG5YWU5sSWJlYTNtalk1VGFONDlMT3k2S1RIbVlGMFF4bmU3WkNHcTc1U3phUW5mOWhrMXMtY1NYR1JsdWZHR181a2QwdXpteldzOExOanR2aW0xR29ER3g1SHZiTjFKamQ2TmFrSGsxc2tVSjdMU1YwVmJKSUdMTVk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjhKeXU5UURrTV9vZ0JQaFkzWWFnckUxbkFhT1dWZmZ1MGRoNmotcEQ1Y0xBMDdNWFptRGd6REsxd0JuNUV3dmhGQjNKSEZzYkZYaW9EOU1RQ0RneENWYmRhcGRVVC1LZ2xpYmdJUmQ5bEpQbkQzXy12RjJNQXFnc2NqSExNbVBxLTg5dlBQQzBuWlBsQVg4Tm9FaVlfcG15ZXBmTDdCQmJqZUpSTW40WnNMdXlrTjFLT05nSXpuUE9sR1ZBQzg0WTU4UGRROVpOeDd1R3M5X2xMNDEzeWdUdjJseVhrWlhfNUHSAe8BQVVfeXFMTTlSdTJJdUJtLTIxaGtGYy1HQmxpMmRrZkNmV1FteFJkSFM5R1RfMG5GUG0zSDJmSWx2MjZkYjhoLTluQS1tVE84bXY4WXdRaE9JRWlwTlBDTzZwbTJsZVg1UVF1SEY0ZzlLRTVaUnJtTXN5bW5fSG5YWU5sSWJlYTNtalk1VGFONDlMT3k2S1RIbVlGMFF4bmU3WkNHcTc1U3phUW5mOWhrMXMtY1NYR1JsdWZHR181a2QwdXpteldzOExOanR2aW0xR29ER3g1SHZiTjFKamQ2TmFrSGsxc2tVSjdMU1YwVmJKSUdMTVk?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 20 de octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-20T09:37:47Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Comunidad de Madrid"
+  },
+  {
+    "titulo": "Mercadona busca personal sin experiencia para supermercados con sueldos de 2.346 euros - ABC",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaTJJZ1A1Q2tmRUlfWjJ2LXVNT1AteUdrZUg4QmRBQUt2RGtVLVJwN044ZVkzQjVpSjB1cDBEaXJFX3RaWXBFUHlCSXZyRm1wTng2V245SGN4eDY1aklLenA1NTR2WXNya2I0LU1XdVJlbWgyeHN3QmZkcmVzX3R6cVROVkF6azB3Q2hVNTNET18zOVNWVG16bm9hN2lFN19qY1hIamx6Z2J0RjQwaEEzMF9YekEyVkFmOUc4dUdCMWQzbWJhaHJvbUVnN0hQd9IB0wFBVV95cUxQbUdtMEtFSFd3QjdUYmxaN3kxUDhJZ2tPa3BxSG1pTkpVc1E2UDlaMHNqOU1fM0gtd1pZaVAxektkNG1KMGtLQlRaUl9qdVlpakVGX3BucmFXM3d4LUs1YmtBVk4tQmQ1YThQVTU4QXRBY3ZaY1dsb0dvcXZRa0tKaHBuaW9acjV5ejJZVXNBQzNUOHlHclJqWUdRcUV2U2NtcEFPSFNxYy1kTkR2QWpmbFYydVdsbHd1NmUzLTFIOVlzcm4zcVdyTzlFLTJkV0x2U3RB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaTJJZ1A1Q2tmRUlfWjJ2LXVNT1AteUdrZUg4QmRBQUt2RGtVLVJwN044ZVkzQjVpSjB1cDBEaXJFX3RaWXBFUHlCSXZyRm1wTng2V245SGN4eDY1aklLenA1NTR2WXNya2I0LU1XdVJlbWgyeHN3QmZkcmVzX3R6cVROVkF6azB3Q2hVNTNET18zOVNWVG16bm9hN2lFN19qY1hIamx6Z2J0RjQwaEEzMF9YekEyVkFmOUc4dUdCMWQzbWJhaHJvbUVnN0hQd9IB0wFBVV95cUxQbUdtMEtFSFd3QjdUYmxaN3kxUDhJZ2tPa3BxSG1pTkpVc1E2UDlaMHNqOU1fM0gtd1pZaVAxektkNG1KMGtLQlRaUl9qdVlpakVGX3BucmFXM3d4LUs1YmtBVk4tQmQ1YThQVTU4QXRBY3ZaY1dsb0dvcXZRa0tKaHBuaW9acjV5ejJZVXNBQzNUOHlHclJqWUdRcUV2U2NtcEFPSFNxYy1kTkR2QWpmbFYydVdsbHd1NmUzLTFIOVlzcm4zcVdyTzlFLTJkV0x2U3RB?oc=5\" target=\"_blank\">Mercadona busca personal sin experiencia para supermercados con sueldos de 2.346 euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-16T07:00:19Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "ABC",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 16 de octubre de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNFhxUkVyT3hDZDRqT2pxQlBPVDJyazNlOGI2VWVVeDB1alZBcWxFOE43U2dtNGl0alZqaTJHbVRmMjhSN1dKeDNaSUwyS044d2RQNlNmU1JKaUF6cVJjVjdPWV9GZmlUTERZbVktdFJpZUhKMzJWOEhGTE5ScDlwQ01zbXJua1NNMmU4bjd1NU45dWxiT2F0ZnNKM3BZSWdyMmozMG9zWTFGbVllMUVMWFBGUFp4R1EzOWlGZFRFRmxNQzhqOFJpdGZ5QWI0RlRaOUg1WG1Vb2FyYnJLMVRsTmUwVllUelVpaXfSAe8BQVVfeXFMTmdHYkdpSGYyN1VnWFljeHJlUm9MR0tJa3hKdnBvOXVoVG40OGRNMW5rUXNYX084RkRQZ011Zi1hbTJwa2x0QjFPRTliZl9EN2ZtN2hiR21VbUcxQXJ3bXdqUjc5dm1XSmJUcWprM211SHRpYUdPbUV0OHJSV2FVZ0gySUJXYU5VdGRyNFBhb0RTbl9vTnRtZXRGRExocG96dVpDM1F6bzJfcUxtVGc5OGhPTGhHb1JaemRPeEc4S1J5bG1BQWgteS1SWkEwTGs4UFBPYlhRaElaY3hmbTVGZjJTblE2U3EwWHlwanpnbEk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNFhxUkVyT3hDZDRqT2pxQlBPVDJyazNlOGI2VWVVeDB1alZBcWxFOE43U2dtNGl0alZqaTJHbVRmMjhSN1dKeDNaSUwyS044d2RQNlNmU1JKaUF6cVJjVjdPWV9GZmlUTERZbVktdFJpZUhKMzJWOEhGTE5ScDlwQ01zbXJua1NNMmU4bjd1NU45dWxiT2F0ZnNKM3BZSWdyMmozMG9zWTFGbVllMUVMWFBGUFp4R1EzOWlGZFRFRmxNQzhqOFJpdGZ5QWI0RlRaOUg1WG1Vb2FyYnJLMVRsTmUwVllUelVpaXfSAe8BQVVfeXFMTmdHYkdpSGYyN1VnWFljeHJlUm9MR0tJa3hKdnBvOXVoVG40OGRNMW5rUXNYX084RkRQZ011Zi1hbTJwa2x0QjFPRTliZl9EN2ZtN2hiR21VbUcxQXJ3bXdqUjc5dm1XSmJUcWprM211SHRpYUdPbUV0OHJSV2FVZ0gySUJXYU5VdGRyNFBhb0RTbl9vTnRtZXRGRExocG96dVpDM1F6bzJfcUxtVGc5OGhPTGhHb1JaemRPeEc4S1J5bG1BQWgteS1SWkEwTGs4UFBPYlhRaElaY3hmbTVGZjJTblE2U3EwWHlwanpnbEk?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 16 de octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-16T10:07:36Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Telemadrid",
@@ -228,18 +228,6 @@ const window_leads_data = [
     "ubicacion": "Dolores"
   },
   {
-    "titulo": "Vegalsa-Eroski busca 60 trabajadores para su nueva tienda en el parque empresarial de O Vao - Enfoques.gal",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2lWbXpjZkx3Y0ZzNVlmSzZubnFTVjZ6LW9OT3YzblcwRnlrSldvVmVJcjZIWVRRZGtrLU5HaXdwNDFhOFU3bEFyS0VDRVJtZWF1ZEIwUTB5RXR6UkVJMnNQQnMzeURfM053TDVibVN0dHhQb2VzV2VJd0hsd1UxSi1PN1ZIRDUtM2NFQ050NzJSTC1YQ2pJdnR2QXN5dG1Md3dSeUdTUWlheFRKVjJzZHF6akhOQlVDazVsS1lR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2lWbXpjZkx3Y0ZzNVlmSzZubnFTVjZ6LW9OT3YzblcwRnlrSldvVmVJcjZIWVRRZGtrLU5HaXdwNDFhOFU3bEFyS0VDRVJtZWF1ZEIwUTB5RXR6UkVJMnNQQnMzeURfM053TDVibVN0dHhQb2VzV2VJd0hsd1UxSi1PN1ZIRDUtM2NFQ050NzJSTC1YQ2pJdnR2QXN5dG1Md3dSeUdTUWlheFRKVjJzZHF6akhOQlVDazVsS1lR?oc=5\" target=\"_blank\">Vegalsa-Eroski busca 60 trabajadores para su nueva tienda en el parque empresarial de O Vao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enfoques.gal</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-07T07:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "O Vao"
-  },
-  {
     "titulo": "Ontinyent recupera los talleres de empleo tras más de una década con 26 contrataciones gracias al nuevo centro de formación del Museu del Tèxtil - Levante-EMV",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGVpa3VsWllMeEwxWm1rX0hIVnJxQlpDTHAyNEhBejBnZ1Q1V2xReHdVVXlVZWdBcUE4TlF5VEhVZi1vdzIwdUNrazU0VE1JdzQ4djNVaU1PWjJWeVpDRzVTa3Z6VzNlS1NHYk1aWWg3UmZpY05kRC14Q1FRbE1xMUhkVTRab09kZjJNZWRucVZ2Y0hJSmxKdDB0QTUweVVCcDN1UllR0gGrAUFVX3lxTE54YlNSVUp5aktSOXVNVjk3ZnNpeHB3SDhzcGt5MGRWelpQdVRIY0tRX0dDTXMzbUtpTERLdjlTVVYwU3JBN1JTZW5yRjMxUVlDcWJndGJDenA3WkNLdVlNOHQtV2owZVRzSGpvUl82QWlQWlF2emc1Qk1QTjUwaXZmc1VpWFRUdk1sd1JuZnZIbHo2cWlBMkZ0MzdfdEx0Zy1SajY1VUFFUXFrdw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGVpa3VsWllMeEwxWm1rX0hIVnJxQlpDTHAyNEhBejBnZ1Q1V2xReHdVVXlVZWdBcUE4TlF5VEhVZi1vdzIwdUNrazU0VE1JdzQ4djNVaU1PWjJWeVpDRzVTa3Z6VzNlS1NHYk1aWWg3UmZpY05kRC14Q1FRbE1xMUhkVTRab09kZjJNZWRucVZ2Y0hJSmxKdDB0QTUweVVCcDN1UllR0gGrAUFVX3lxTE54YlNSVUp5aktSOXVNVjk3ZnNpeHB3SDhzcGt5MGRWelpQdVRIY0tRX0dDTXMzbUtpTERLdjlTVVYwU3JBN1JTZW5yRjMxUVlDcWJndGJDenA3WkNLdVlNOHQtV2owZVRzSGpvUl82QWlQWlF2emc1Qk1QTjUwaXZmc1VpWFRUdk1sd1JuZnZIbHo2cWlBMkZ0MzdfdEx0Zy1SajY1VUFFUXFrdw?oc=5\" target=\"_blank\">Ontinyent recupera los talleres de empleo tras más de una década con 26 contrataciones gracias al nuevo centro de formación del Museu del Tèxtil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Levante-EMV</font>",
@@ -252,28 +240,16 @@ const window_leads_data = [
     "ubicacion": "Museu del Tèxtil - Levante-EMV"
   },
   {
-    "titulo": "Nabrawind inaugura su nueva sede y consolida una plantilla de 125 empleados gracias a su crecimiento internacional junto a Fortescue - Diario de Navarra",
-    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdWZaLTA0ejg4eVRDdjRoTDA1WUVxSmZEOFhERHlpZkhsX0QwR001Y2xmbG0ydUY1MVBoUlJlend0LVN3b3ZydU1GaUdOajFFeFFoWGpsbFd0XzFNcUpqUlRFdHM3a0h4TkpiR3o3Qzd5NEstcTd2dFotVE1ETERsVG1TV1Y2TExFS2pjUXlwaThxXy15RGQyNlNJWGswYUpSbTZ6Um94SEZ0NDVXZVNFeUVGZ2xWWnNJS2RZb3I0QUZJeEFSQnViS3Q3Q19fZnVmVEJiRUVfNm11RzRJS0s3SmllU0t5RG96Njc0UkF1MURRT20wVHVSSXJ2RVU5OHJnMnpVMjQ4OGRBR1FYbUFrd2pwaXpGZTNValVYcEY0U05HSjBId1FERDNpZlJFWmIzdnozQmVzSkdsUGhTOXR0ag?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdWZaLTA0ejg4eVRDdjRoTDA1WUVxSmZEOFhERHlpZkhsX0QwR001Y2xmbG0ydUY1MVBoUlJlend0LVN3b3ZydU1GaUdOajFFeFFoWGpsbFd0XzFNcUpqUlRFdHM3a0h4TkpiR3o3Qzd5NEstcTd2dFotVE1ETERsVG1TV1Y2TExFS2pjUXlwaThxXy15RGQyNlNJWGswYUpSbTZ6Um94SEZ0NDVXZVNFeUVGZ2xWWnNJS2RZb3I0QUZJeEFSQnViS3Q3Q19fZnVmVEJiRUVfNm11RzRJS0s3SmllU0t5RG96Njc0UkF1MURRT20wVHVSSXJ2RVU5OHJnMnpVMjQ4OGRBR1FYbUFrd2pwaXpGZTNValVYcEY0U05HSjBId1FERDNpZlJFWmIzdnozQmVzSkdsUGhTOXR0ag?oc=5\" target=\"_blank\">Nabrawind inaugura su nueva sede y consolida una plantilla de 125 empleados gracias a su crecimiento internacional junto a Fortescue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Navarra</font>",
+    "titulo": "Apertura de listas de empleo del SCE para contratar personal docente y de dirección en los proyectos PFAE - NorteGranCanaria",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYndXZ2psYWlLdHRtYnVLXzhtWEJsT25ndmxPRHh4N1Jjc0lfdkotaVI2NjFpS2xGdWE5czl6Mk9yMXRWdVhhLW92dEFnM2RLMU9McmVkVjVsNl9KR1lmREQ4M2NEZmU4UHMwYzhQNjRTWHNhRTdDQi1UakNUM0hGWFV6cXJZQUxUNXpqVFZLZmhlZWFGRHU2U1dORFVRNHBieHNjS2RncmtaRVI4OU54MVpHOC0zXzVmUUFWa0ZPSlR3akJ3cHA1X3VweVk3NTFNVXVGQWxLak9TZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYndXZ2psYWlLdHRtYnVLXzhtWEJsT25ndmxPRHh4N1Jjc0lfdkotaVI2NjFpS2xGdWE5czl6Mk9yMXRWdVhhLW92dEFnM2RLMU9McmVkVjVsNl9KR1lmREQ4M2NEZmU4UHMwYzhQNjRTWHNhRTdDQi1UakNUM0hGWFV6cXJZQUxUNXpqVFZLZmhlZWFGRHU2U1dORFVRNHBieHNjS2RncmtaRVI4OU54MVpHOC0zXzVmUUFWa0ZPSlR3akJ3cHA1X3VweVk3NTFNVXVGQWxLak9TZw?oc=5\" target=\"_blank\">Apertura de listas de empleo del SCE para contratar personal docente y de dirección en los proyectos PFAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorteGranCanaria</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-20T10:33:18Z",
+    "fecha": "2026-10-20T21:23:53Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Diario de Navarra"
-  },
-  {
-    "titulo": "Lidl inaugura un nuevo supermercado en la Comunitat Valenciana con 1.450 metros cuadrados de superficie de ventas y cien plazas de aparcamiento - Las Provincias",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpnUmxUN2JIZ2NfcGw5R1RuZm1oUzFCaml6VC03amx5bElxYnJxaV9EcVNNOG5uaEo3eHJEMEtzZE1ERmg2VGo0TGJ6a3FObnVZa2xyTGczdk95OHlpV1FxZGxSSmV4ZkJmSFZGa3ZuLVpQNmE2MTdKVHUyT0tDb0FBNkN1dEgxOG9lRzNYUk5jeDRFTDVFYm1YT1lYT2pNTmtNdlBwV2tWcUtoSFllVFk3XzFrNUVBU0hZ0gHAAUFVX3lxTE5mRzlhZ1N6NDB3U0RURDJqNEp2cC1jeVpPc05jVWtRVFJET1NuQW5PaDZaSi1tZllERHhsdGsyU2d1TG1YdklpUXIxOWpaVlRqWndGbzdKb1daQ2NGVkc1MjVqS3dqSGdXaHpIZWh5d0ZrSDhIUHZ6dVpiQjR6aFNpaHFFTG9xLUpwdjZEanFXbnZBYTNDRnBKdW11dl9WekVLQkFUYllhclFfaEU0MmF4a2FfU1hTWXBNVW9QYjR3MQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpnUmxUN2JIZ2NfcGw5R1RuZm1oUzFCaml6VC03amx5bElxYnJxaV9EcVNNOG5uaEo3eHJEMEtzZE1ERmg2VGo0TGJ6a3FObnVZa2xyTGczdk95OHlpV1FxZGxSSmV4ZkJmSFZGa3ZuLVpQNmE2MTdKVHUyT0tDb0FBNkN1dEgxOG9lRzNYUk5jeDRFTDVFYm1YT1lYT2pNTmtNdlBwV2tWcUtoSFllVFk3XzFrNUVBU0hZ0gHAAUFVX3lxTE5mRzlhZ1N6NDB3U0RURDJqNEp2cC1jeVpPc05jVWtRVFJET1NuQW5PaDZaSi1tZllERHhsdGsyU2d1TG1YdklpUXIxOWpaVlRqWndGbzdKb1daQ2NGVkc1MjVqS3dqSGdXaHpIZWh5d0ZrSDhIUHZ6dVpiQjR6aFNpaHFFTG9xLUpwdjZEanFXbnZBYTNDRnBKdW11dl9WekVLQkFUYllhclFfaEU0MmF4a2FfU1hTWXBNVW9QYjR3MQ?oc=5\" target=\"_blank\">Lidl inaugura un nuevo supermercado en la Comunitat Valenciana con 1.450 metros cuadrados de superficie de ventas y cien plazas de aparcamiento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Provincias</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-16T20:49:27Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Comunitat Valenciana"
+    "empresa": "SCE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "La nueva fábrica de válvulas cardíacas de Valencia necesita 600 trabajadores: la Generalitat activa 4 millones para formarlos - elperiodic.com",
@@ -288,6 +264,18 @@ const window_leads_data = [
     "ubicacion": "Valencia"
   },
   {
+    "titulo": "Lidl inaugura un nuevo supermercado en la Comunitat Valenciana con 1.450 metros cuadrados de superficie de ventas y cien plazas de aparcamiento - Las Provincias",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpnUmxUN2JIZ2NfcGw5R1RuZm1oUzFCaml6VC03amx5bElxYnJxaV9EcVNNOG5uaEo3eHJEMEtzZE1ERmg2VGo0TGJ6a3FObnVZa2xyTGczdk95OHlpV1FxZGxSSmV4ZkJmSFZGa3ZuLVpQNmE2MTdKVHUyT0tDb0FBNkN1dEgxOG9lRzNYUk5jeDRFTDVFYm1YT1lYT2pNTmtNdlBwV2tWcUtoSFllVFk3XzFrNUVBU0hZ0gHAAUFVX3lxTE5mRzlhZ1N6NDB3U0RURDJqNEp2cC1jeVpPc05jVWtRVFJET1NuQW5PaDZaSi1tZllERHhsdGsyU2d1TG1YdklpUXIxOWpaVlRqWndGbzdKb1daQ2NGVkc1MjVqS3dqSGdXaHpIZWh5d0ZrSDhIUHZ6dVpiQjR6aFNpaHFFTG9xLUpwdjZEanFXbnZBYTNDRnBKdW11dl9WekVLQkFUYllhclFfaEU0MmF4a2FfU1hTWXBNVW9QYjR3MQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpnUmxUN2JIZ2NfcGw5R1RuZm1oUzFCaml6VC03amx5bElxYnJxaV9EcVNNOG5uaEo3eHJEMEtzZE1ERmg2VGo0TGJ6a3FObnVZa2xyTGczdk95OHlpV1FxZGxSSmV4ZkJmSFZGa3ZuLVpQNmE2MTdKVHUyT0tDb0FBNkN1dEgxOG9lRzNYUk5jeDRFTDVFYm1YT1lYT2pNTmtNdlBwV2tWcUtoSFllVFk3XzFrNUVBU0hZ0gHAAUFVX3lxTE5mRzlhZ1N6NDB3U0RURDJqNEp2cC1jeVpPc05jVWtRVFJET1NuQW5PaDZaSi1tZllERHhsdGsyU2d1TG1YdklpUXIxOWpaVlRqWndGbzdKb1daQ2NGVkc1MjVqS3dqSGdXaHpIZWh5d0ZrSDhIUHZ6dVpiQjR6aFNpaHFFTG9xLUpwdjZEanFXbnZBYTNDRnBKdW11dl9WekVLQkFUYllhclFfaEU0MmF4a2FfU1hTWXBNVW9QYjR3MQ?oc=5\" target=\"_blank\">Lidl inaugura un nuevo supermercado en la Comunitat Valenciana con 1.450 metros cuadrados de superficie de ventas y cien plazas de aparcamiento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Provincias</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-16T20:49:27Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Comunitat Valenciana"
+  },
+  {
     "titulo": "Mak Food duplicará plantilla y producción con una nueva fábrica en Molina y aspira a los 180 millones en ventas - Murcia Plaza",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaFRfU2xHZ0V6NXVKV08xMmZoOG8wSnQ1QzUzNU1kZVlaY3pVbWd4aDRLcGJjUnhXSFd4aUhHbVJBM2FISC1MN3p2djdaTDBKUGZJLWpKUFlkb1Y2YUU0SWk1U0J5Nkx5WS1lWUJGcW96aTYzYXByeDBoWjNiVTRyMjBMQ0pjR1dTYnBSMUdJQTVVeGdkM0VNY2lCNTJhVThLT1IwN1N3emprNW1TT05tSWU3WDQ1ZU5nUE9ndlo2enlrWHl0aWNCbFpvWnFwS3VqNko1WlpaNVZrWkxSQklWOEZzdHZvVFpEbUM2NzQ5b01tQ2lwSmc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaFRfU2xHZ0V6NXVKV08xMmZoOG8wSnQ1QzUzNU1kZVlaY3pVbWd4aDRLcGJjUnhXSFd4aUhHbVJBM2FISC1MN3p2djdaTDBKUGZJLWpKUFlkb1Y2YUU0SWk1U0J5Nkx5WS1lWUJGcW96aTYzYXByeDBoWjNiVTRyMjBMQ0pjR1dTYnBSMUdJQTVVeGdkM0VNY2lCNTJhVThLT1IwN1N3emprNW1TT05tSWU3WDQ1ZU5nUE9ndlo2enlrWHl0aWNCbFpvWnFwS3VqNko1WlpaNVZrWkxSQklWOEZzdHZvVFpEbUM2NzQ5b01tQ2lwSmc?oc=5\" target=\"_blank\">Mak Food duplicará plantilla y producción con una nueva fábrica en Molina y aspira a los 180 millones en ventas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Murcia Plaza</font>",
@@ -298,18 +286,6 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Molina"
-  },
-  {
-    "titulo": "Una nueva fábrica creará 100 empleos en Álava con una inversión de 100 millones - Gasteiz Hoy",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10MzA5SS1WQnIwZl9SVGptMUVLaGIwUExraElWU1VTcjBwYWFQNXV0bUszVXA5Z2pjZk9hQTlXVXZxRk50NExUcnlHM0FnMjh0YmNwUFh4eE1zaGw4SFVrZnNHU2l0UQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE10MzA5SS1WQnIwZl9SVGptMUVLaGIwUExraElWU1VTcjBwYWFQNXV0bUszVXA5Z2pjZk9hQTlXVXZxRk50NExUcnlHM0FnMjh0YmNwUFh4eE1zaGw4SFVrZnNHU2l0UQ?oc=5\" target=\"_blank\">Una nueva fábrica creará 100 empleos en Álava con una inversión de 100 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gasteiz Hoy</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-16T15:27:39Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Álava"
   },
   {
     "titulo": "Lidl amplía su red en Alicante con la apertura de un supermercado en Pilar de la Horadada - Revista ARAL",
@@ -324,30 +300,6 @@ const window_leads_data = [
     "ubicacion": "Alicante"
   },
   {
-    "titulo": "Un proveedor de Mercadona busca 200 trabajadores para una nueva fábrica de productos de higiene - Confidencial Digital",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT25pNm9BR2l0X0oyTUpJdWp2LXlrUU44R2lSZ0ROZFhRZW9MSWZXUzBaV1ltaTVqcXppZDl6S2dJUEhRSDRtUzhGaktjSjV2aldYSmlMaVVDc25maGx3WElJajdxVlFEbGpvRS1TWkN5TDItY3ZsUjJsWEVFZnl2bHBEczBKaEh4SGNRZFJ4cnpPZlU1OU04cWV1RWg4d25Pd3N0RzJwWDh6TTZyY2hHcHpqN2lMZ0JNM1hTc0JYLXBYUDY4SVEwdFdUREhfRW1zRFdvSjUzNWFQWV9RQkFpTU52UURyaDNfcjladXNBMNIB9AFBVV95cUxNN1lPcEdPdnFVN2o2Z2ZRc3pXcGt3dEctdzBtMnNxdXdiSnJHYXQwSmJtaFNDYzBPMXN5NW5XamhMcVVObXBBVWl6VExkQUVLMVpwbFhMVXF1cmNBS2FXenRPN3lIeHZ3ZkZWUy1idlU4TkFQR1JkVVVoMjFzTU0wcDB6dlBhb0VtQWRfVWhNUm5jRzVOSlVWUUU2WW1aV2lHTkMyejlQN2FCWkotd21JTWpBQmNoSWFFRTFGUXJ4V0JkVzJBVHl0cEcxbzNPcmdNd1FyNEtjTU5nT3JOWjZDVS1oVnFNY0E1UGx1WDFyVExSMlBI?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT25pNm9BR2l0X0oyTUpJdWp2LXlrUU44R2lSZ0ROZFhRZW9MSWZXUzBaV1ltaTVqcXppZDl6S2dJUEhRSDRtUzhGaktjSjV2aldYSmlMaVVDc25maGx3WElJajdxVlFEbGpvRS1TWkN5TDItY3ZsUjJsWEVFZnl2bHBEczBKaEh4SGNRZFJ4cnpPZlU1OU04cWV1RWg4d25Pd3N0RzJwWDh6TTZyY2hHcHpqN2lMZ0JNM1hTc0JYLXBYUDY4SVEwdFdUREhfRW1zRFdvSjUzNWFQWV9RQkFpTU52UURyaDNfcjladXNBMNIB9AFBVV95cUxNN1lPcEdPdnFVN2o2Z2ZRc3pXcGt3dEctdzBtMnNxdXdiSnJHYXQwSmJtaFNDYzBPMXN5NW5XamhMcVVObXBBVWl6VExkQUVLMVpwbFhMVXF1cmNBS2FXenRPN3lIeHZ3ZkZWUy1idlU4TkFQR1JkVVVoMjFzTU0wcDB6dlBhb0VtQWRfVWhNUm5jRzVOSlVWUUU2WW1aV2lHTkMyejlQN2FCWkotd21JTWpBQmNoSWFFRTFGUXJ4V0JkVzJBVHl0cEcxbzNPcmdNd1FyNEtjTU5nT3JOWjZDVS1oVnFNY0E1UGx1WDFyVExSMlBI?oc=5\" target=\"_blank\">Un proveedor de Mercadona busca 200 trabajadores para una nueva fábrica de productos de higiene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Confidencial Digital</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-16T10:28:05Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Mercadona"
-  },
-  {
-    "titulo": "La Biblioteca 5.0 ya abre al público en sábado con la plantilla reajustada - castellonaldia.elmundo.es",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlBJaHZnN1pFZkVhd1hDVFBURHdQTW9YbGlteUxpMGRhbXhWODJDRVBzODRJLTAxTjBOVGoxTGR1cU1wN2cxc1hzbFNrOV9UcGhzTGt4dlNVMmV3Ty1RdXprY2Q4RnJwOXdJc1YwbUZCMC1CQ0k3dTBQSHFLU3RmWS1RSnMxczB0OXh4Rld4Z2RHcjRGd0NKdEk4amlyN2lITzVDVFJzN1FoS2ExQnVlYUtyanhyVEQ0TGNobEI0bVluN0UySm1PQ3g4SmdITjY4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlBJaHZnN1pFZkVhd1hDVFBURHdQTW9YbGlteUxpMGRhbXhWODJDRVBzODRJLTAxTjBOVGoxTGR1cU1wN2cxc1hzbFNrOV9UcGhzTGt4dlNVMmV3Ty1RdXprY2Q4RnJwOXdJc1YwbUZCMC1CQ0k3dTBQSHFLU3RmWS1RSnMxczB0OXh4Rld4Z2RHcjRGd0NKdEk4amlyN2lITzVDVFJzN1FoS2ExQnVlYUtyanhyVEQ0TGNobEI0bVluN0UySm1PQ3g4SmdITjY4?oc=5\" target=\"_blank\">La Biblioteca 5.0 ya abre al público en sábado con la plantilla reajustada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">castellonaldia.elmundo.es</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-17T06:40:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Biblioteca"
-  },
-  {
     "titulo": "Ilunion inaugura en Linares una escuela de formación industrial para impulsar el empleo inclusivo - Cadena SER",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV3pqVDI5UnJxX25IcGszM0FFNGRlaEhreVI3QnBtTGFBUk9aR0pfME1Fc3YycDljQ0RXQXhjYkRZd3FMOVpqZlVsNzBucWkyLVJjSXB1dTJlUzhkVXc1MnRVeVBsYnpQYnVoVjk5Rl9RbllXZzJMT05oWUVqUERkc2VvRXg1MUlmMWdyQXVxRVhlT0lBWWRSLUk2TjJXSHpoNC1FRFhwLVpseHFZRG1QRXZzMlZRRUhpUDl0QWlfRHM4RGZmSUUwaUNQZng3TmNPYUxJZ0xmSENuX1pjZkNzYkNuclpkMzRmblg00gH_AUFVX3lxTE5iZ0JZdUhKYVBKeDVhQno4YnRvWEhQT29mczh0bVBwaTJKUWFEUklNdzRhU1hRVFVNYlpuXy1VSUJ1ZFZ5SnYzenFSNFdpR2JEcHpONUtsaTBncjdDM2ZIM3VlaFhqVmZpUlJHSEdvNGRjMEhqYzM4eW12UFY1czRRRUxtQnRnUWZNQUMxNVRhaGlRaVAtSk8zdWtjUEc2WVMwV3BzOEFxekJXTzdJVkxxVmM0eDcxdnkzcE9CWVA0VnRPMWRCSXVQWDIwUnlPdS02dkt2NDNuYl9UTHlBNWN2MHlkVkMwX2ZZZGdKTk5vZEJWd2FWekh1V2hBVWNOUQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV3pqVDI5UnJxX25IcGszM0FFNGRlaEhreVI3QnBtTGFBUk9aR0pfME1Fc3YycDljQ0RXQXhjYkRZd3FMOVpqZlVsNzBucWkyLVJjSXB1dTJlUzhkVXc1MnRVeVBsYnpQYnVoVjk5Rl9RbllXZzJMT05oWUVqUERkc2VvRXg1MUlmMWdyQXVxRVhlT0lBWWRSLUk2TjJXSHpoNC1FRFhwLVpseHFZRG1QRXZzMlZRRUhpUDl0QWlfRHM4RGZmSUUwaUNQZng3TmNPYUxJZ0xmSENuX1pjZkNzYkNuclpkMzRmblg00gH_AUFVX3lxTE5iZ0JZdUhKYVBKeDVhQno4YnRvWEhQT29mczh0bVBwaTJKUWFEUklNdzRhU1hRVFVNYlpuXy1VSUJ1ZFZ5SnYzenFSNFdpR2JEcHpONUtsaTBncjdDM2ZIM3VlaFhqVmZpUlJHSEdvNGRjMEhqYzM4eW12UFY1czRRRUxtQnRnUWZNQUMxNVRhaGlRaVAtSk8zdWtjUEc2WVMwV3BzOEFxekJXTzdJVkxxVmM0eDcxdnkzcE9CWVA0VnRPMWRCSXVQWDIwUnlPdS02dkt2NDNuYl9UTHlBNWN2MHlkVkMwX2ZZZGdKTk5vZEJWd2FWekh1V2hBVWNOUQ?oc=5\" target=\"_blank\">Ilunion inaugura en Linares una escuela de formación industrial para impulsar el empleo inclusivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
@@ -358,6 +310,54 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Cadena SER",
     "ubicacion": "Linares"
+  },
+  {
+    "titulo": "Una empresa busca hasta 70 trabajadores para su nuevo centro logístico en Tarragona - diarimes.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOblR5bFNyMHRFX2gzWndXTGtxdGRaREt6S3hRMExQQUp1aVA2SmVlU0o0TWhuZnpkSjEwZkFiRlg0YXBYVlhjZE1BQUU2MUprVkdnOVpHaFh6dE5jQjRKTUtnYzNTS044d2IyZmNuRXlUN0lRbnZsTkJEYXFqS3BxeTc3dG1IZU1SNGtoUXpFcXN3MENwdU96S0RLZlpHNEtEUWhSRHFmY2daRjBFdWF6QjdiNVlLYXludGV0ZXJ0SFJLUlRlRUh6Vzln?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOblR5bFNyMHRFX2gzWndXTGtxdGRaREt6S3hRMExQQUp1aVA2SmVlU0o0TWhuZnpkSjEwZkFiRlg0YXBYVlhjZE1BQUU2MUprVkdnOVpHaFh6dE5jQjRKTUtnYzNTS044d2IyZmNuRXlUN0lRbnZsTkJEYXFqS3BxeTc3dG1IZU1SNGtoUXpFcXN3MENwdU96S0RLZlpHNEtEUWhSRHFmY2daRjBFdWF6QjdiNVlLYXludGV0ZXJ0SFJLUlRlRUh6Vzln?oc=5\" target=\"_blank\">Una empresa busca hasta 70 trabajadores para su nuevo centro logístico en Tarragona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diarimes.com</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-09T07:00:00Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Tarragona"
+  },
+  {
+    "titulo": "Apertura confirmada: Burger King prepara su estreno en La Gomera y ya busca trabajadores - Atlántico Hoy",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdQaFVnalhTa3RqT3dfblV3Z3NuaUtheVd6TWtBbHZGb205VDFjaUVnNHVxeFhEZ3U2S2IyMTFVYlZXd0JBVjFBdXRGRnBKeDBQNnVkZHh1dzVVVVdZY1VmdXh3RkRMY0hUZHg3ZVptQjBTcUZFbzhESVVoQmctV2M5YlVSRHAtQ2x4YThzZjZIVWRrQUJNbGJDeTBSc0hhbHo0NVhIUW1LYzRsSXhQc0dwNkJFRHVaSFdHVzhoUXphOW8?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdQaFVnalhTa3RqT3dfblV3Z3NuaUtheVd6TWtBbHZGb205VDFjaUVnNHVxeFhEZ3U2S2IyMTFVYlZXd0JBVjFBdXRGRnBKeDBQNnVkZHh1dzVVVVdZY1VmdXh3RkRMY0hUZHg3ZVptQjBTcUZFbzhESVVoQmctV2M5YlVSRHAtQ2x4YThzZjZIVWRrQUJNbGJDeTBSc0hhbHo0NVhIUW1LYzRsSXhQc0dwNkJFRHVaSFdHVzhoUXphOW8?oc=5\" target=\"_blank\">Apertura confirmada: Burger King prepara su estreno en La Gomera y ya busca trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlántico Hoy</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-21T08:52:00Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Burger King",
+    "ubicacion": "La Gomera"
+  },
+  {
+    "titulo": "TELUS Digital inaugura sede en Miraflores y amplía oportunidades de empleo - republica.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSU1PcW1EeHN4ejI4LWZ0UVhLRG9mZk1oVHlIT3BqTUNQak9yUjlwam5QTV82TEJ1YnZuM0xuMkNoUVlrbHFmMmJlWExSazZPdkZrZTZ0cnNFWXNBLTluUHN5SG5NdkVqNkhWMFFtUzQydjlUOGZxQzhpTEtnbktBbUphUm0xTS16eDRUcmlUQ0lkcFEwSEl5YVhwNTQzWnZqUHllNHkyLUNUVF9tYjdTNzZ2TXNoXy1FLXNQRXgyaXZTb0ZEYUQtcQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSU1PcW1EeHN4ejI4LWZ0UVhLRG9mZk1oVHlIT3BqTUNQak9yUjlwam5QTV82TEJ1YnZuM0xuMkNoUVlrbHFmMmJlWExSazZPdkZrZTZ0cnNFWXNBLTluUHN5SG5NdkVqNkhWMFFtUzQydjlUOGZxQzhpTEtnbktBbUphUm0xTS16eDRUcmlUQ0lkcFEwSEl5YVhwNTQzWnZqUHllNHkyLUNUVF9tYjdTNzZ2TXNoXy1FLXNQRXgyaXZTb0ZEYUQtcQ?oc=5\" target=\"_blank\">TELUS Digital inaugura sede en Miraflores y amplía oportunidades de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">republica.com</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-19T21:48:10Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Miraflores"
+  },
+  {
+    "titulo": "La Fundación Mencer y ASPAIS inauguran en A Coruña un nuevo servicio de apoyo al empleo para personas con discapacidad - GaliciaPress",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNnhSYmRtYjNXeV9GOEdGZVJkbk83TG9wYndkT2dQVVFtYVJla24zYkZaM21UZkpldXlhV19WLXBCMUxjaUJTVTk1QTFTajVNMW9WaDVONWlfNV95aHRjZWR2bGI5ZW1nY0dQbXFPb3JncWtQeC1CdTc0Tk14bnhzSnJ5QW1rcjBUa25mTHdzU20yOVFpaG5fTjhPenRzWTlzRFBCQ0ZWRjNSVDI1U0VwX2o1OFYtQUV6aXFNUC1TSGgxLU5xZlhQeU9qNkdxLU5sajA0TTdJLUtELTR2T3gyalhCR1BSUXdEM1lCVHhJYw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNnhSYmRtYjNXeV9GOEdGZVJkbk83TG9wYndkT2dQVVFtYVJla24zYkZaM21UZkpldXlhV19WLXBCMUxjaUJTVTk1QTFTajVNMW9WaDVONWlfNV95aHRjZWR2bGI5ZW1nY0dQbXFPb3JncWtQeC1CdTc0Tk14bnhzSnJ5QW1rcjBUa25mTHdzU20yOVFpaG5fTjhPenRzWTlzRFBCQ0ZWRjNSVDI1U0VwX2o1OFYtQUV6aXFNUC1TSGgxLU5xZlhQeU9qNkdxLU5sajA0TTdJLUtELTR2T3gyalhCR1BSUXdEM1lCVHhJYw?oc=5\" target=\"_blank\">La Fundación Mencer y ASPAIS inauguran en A Coruña un nuevo servicio de apoyo al empleo para personas con discapacidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GaliciaPress</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-15T16:54:00Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Fundación Mencer",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "La multinacional Mahle plantea un nuevo ERE para 170 trabajadores en su fábrica de Cuenca - Cinco Días",
@@ -384,18 +384,6 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Davante MasterD plantea un ERE para despedir a 231 trabajadores, casi el 20% de su plantilla - El Periódico de Aragón",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1BKM3NoYVN6QlRKc0lzclR3NWg5TnhXTVBGaGFGRmVTYTY4YlVMR2lKQ0o5d21Rd3dGcW9EblNlTmQ5dmlkZzB1elRXdGs2V0lNRjZCX3duVGdXZzhjeHdHdTZOTk5KOEN3b1k1d0FBaWp6Rm40TWdsamllc2lyeFZId0Q4amw3WS02ZWdpaVJCX3NiekJPOHZGR3RvYUZLYzlR0gGoAUFVX3lxTFBzVEpYcEo2NUFUX2NLdW4yc2dacE9lOXNLd0FMYV9rNVZmbXplM0xsb1BKUWtCbWxkR1A3X042c180VW1zZV9FaEVzT1poR2IyMGNucGNFQmV0cWxyTTluN1FvZ0QxV1pRWGxuODd2XzBYQU1CbTEwT2hhbmYwN2NHZnd6WjAyandJWnVldzJ6Q2VCR01oRkhURGF0MU5oNG5JODIxb05Xaw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1BKM3NoYVN6QlRKc0lzclR3NWg5TnhXTVBGaGFGRmVTYTY4YlVMR2lKQ0o5d21Rd3dGcW9EblNlTmQ5dmlkZzB1elRXdGs2V0lNRjZCX3duVGdXZzhjeHdHdTZOTk5KOEN3b1k1d0FBaWp6Rm40TWdsamllc2lyeFZId0Q4amw3WS02ZWdpaVJCX3NiekJPOHZGR3RvYUZLYzlR0gGoAUFVX3lxTFBzVEpYcEo2NUFUX2NLdW4yc2dacE9lOXNLd0FMYV9rNVZmbXplM0xsb1BKUWtCbWxkR1A3X042c180VW1zZV9FaEVzT1poR2IyMGNucGNFQmV0cWxyTTluN1FvZ0QxV1pRWGxuODd2XzBYQU1CbTEwT2hhbmYwN2NHZnd6WjAyandJWnVldzJ6Q2VCR01oRkhURGF0MU5oNG5JODIxb05Xaw?oc=5\" target=\"_blank\">Davante MasterD plantea un ERE para despedir a 231 trabajadores, casi el 20% de su plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de Aragón</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-19T12:55:06Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país - heraldo.es",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5\" target=\"_blank\">La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
@@ -418,6 +406,18 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "ERE",
     "ubicacion": "Santander"
+  },
+  {
+    "titulo": "Davante MasterD plantea un ERE para despedir a 231 trabajadores, casi el 20% de su plantilla - El Periódico de Aragón",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1BKM3NoYVN6QlRKc0lzclR3NWg5TnhXTVBGaGFGRmVTYTY4YlVMR2lKQ0o5d21Rd3dGcW9EblNlTmQ5dmlkZzB1elRXdGs2V0lNRjZCX3duVGdXZzhjeHdHdTZOTk5KOEN3b1k1d0FBaWp6Rm40TWdsamllc2lyeFZId0Q4amw3WS02ZWdpaVJCX3NiekJPOHZGR3RvYUZLYzlR0gGoAUFVX3lxTFBzVEpYcEo2NUFUX2NLdW4yc2dacE9lOXNLd0FMYV9rNVZmbXplM0xsb1BKUWtCbWxkR1A3X042c180VW1zZV9FaEVzT1poR2IyMGNucGNFQmV0cWxyTTluN1FvZ0QxV1pRWGxuODd2XzBYQU1CbTEwT2hhbmYwN2NHZnd6WjAyandJWnVldzJ6Q2VCR01oRkhURGF0MU5oNG5JODIxb05Xaw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1BKM3NoYVN6QlRKc0lzclR3NWg5TnhXTVBGaGFGRmVTYTY4YlVMR2lKQ0o5d21Rd3dGcW9EblNlTmQ5dmlkZzB1elRXdGs2V0lNRjZCX3duVGdXZzhjeHdHdTZOTk5KOEN3b1k1d0FBaWp6Rm40TWdsamllc2lyeFZId0Q4amw3WS02ZWdpaVJCX3NiekJPOHZGR3RvYUZLYzlR0gGoAUFVX3lxTFBzVEpYcEo2NUFUX2NLdW4yc2dacE9lOXNLd0FMYV9rNVZmbXplM0xsb1BKUWtCbWxkR1A3X042c180VW1zZV9FaEVzT1poR2IyMGNucGNFQmV0cWxyTTluN1FvZ0QxV1pRWGxuODd2XzBYQU1CbTEwT2hhbmYwN2NHZnd6WjAyandJWnVldzJ6Q2VCR01oRkhURGF0MU5oNG5JODIxb05Xaw?oc=5\" target=\"_blank\">Davante MasterD plantea un ERE para despedir a 231 trabajadores, casi el 20% de su plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de Aragón</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-19T12:55:06Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Servinform inicia un ERE para el 10% de su plantilla en Sevilla, Madrid, Barcelona, Bilbao, Málaga y Valencia - El Español",
@@ -492,15 +492,15 @@ const window_leads_data = [
     "ubicacion": "España"
   },
   {
-    "titulo": "Avatel propone un nuevo ERE para el 33% de la plantilla - Expansión",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmhOb0lqVHFrcnNNTm5RTnhxVHpYbmhMS1owSzBTY2N3SG1TWjlhNWhleDBUSjJMN3NyTm90ek5QYTRSWWd1RFZQWko5d2l0R19wQ1cwU0VXcjNJTlkxaE5MMU0tX1huOFIyQ3VVTzhBcE9KdGNTcEliRjVrLVVtVV94UTc4bGNTSlM3bG41Nm45cEY5UG1Ic2hB0gGaAUFVX3lxTE9Qa2haNEQ1OTJSaWllQWU2QWFyZTYzbzJSSzhFX1I5WmNlRXhZYXpxbmhjSFBrUUVRVGFZa3BNRGpUVVVpZk9sdHo3NkJtOXZfU1dMT2JZTGxta2dQMGhSOG5SV0Q2LUp3Tm5iV254ckdETTJyN2Y4bTQ3M21rUFVvcVA3Vl84NzNLVmhRZFcteTN1UTNsblZnamc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmhOb0lqVHFrcnNNTm5RTnhxVHpYbmhMS1owSzBTY2N3SG1TWjlhNWhleDBUSjJMN3NyTm90ek5QYTRSWWd1RFZQWko5d2l0R19wQ1cwU0VXcjNJTlkxaE5MMU0tX1huOFIyQ3VVTzhBcE9KdGNTcEliRjVrLVVtVV94UTc4bGNTSlM3bG41Nm45cEY5UG1Ic2hB0gGaAUFVX3lxTE9Qa2haNEQ1OTJSaWllQWU2QWFyZTYzbzJSSzhFX1I5WmNlRXhZYXpxbmhjSFBrUUVRVGFZa3BNRGpUVVVpZk9sdHo3NkJtOXZfU1dMT2JZTGxta2dQMGhSOG5SV0Q2LUp3Tm5iV254ckdETTJyN2Y4bTQ3M21rUFVvcVA3Vl84NzNLVmhRZFcteTN1UTNsblZnamc?oc=5\" target=\"_blank\">Avatel propone un nuevo ERE para el 33% de la plantilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expansión</font>",
+    "titulo": "Netflix despide al 6% de sus empleados, el mayor recorte de plantilla desde 2022 - Expansión",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZ2aE5BZnExaFdBSTc0d205RHFiY0ZaalFIc1FxV0lWOF9JdzRVOFd2Yjl4bXRkaFQ5UmVEWjMxYk1MSUNJX3hQMzdxVnBsWmk4ck1Kai1OLWVLcUhPSWVCWTN3dm0xS3VZN3ZzMEFLaXgwaEFBNXp4OGV5b2o3emEwN2ltVzRtRGVjdUM1ekxmSm1kbXN4Ykd1eWxIUmF00gGgAUFVX3lxTE1ENFRySFJITzJoajBOSGszQW82TVBSMUV2eFFBN3F1V1ZGcjhSaDZab0V0ZmZHSndHeTNPTW85QWNLV2M1MGROeDNVT2w2bkN1dnJoMEwwbFR6eVgzV2RmX3ZDc3p4R05rWG4wX0NLejVyWkpXeHlSNC1VeWc0aDFwczRKOGNobkt3NzNfU3BCN3FqeUUzYm5FbUdQR2lhcW4?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDZ2aE5BZnExaFdBSTc0d205RHFiY0ZaalFIc1FxV0lWOF9JdzRVOFd2Yjl4bXRkaFQ5UmVEWjMxYk1MSUNJX3hQMzdxVnBsWmk4ck1Kai1OLWVLcUhPSWVCWTN3dm0xS3VZN3ZzMEFLaXgwaEFBNXp4OGV5b2o3emEwN2ltVzRtRGVjdUM1ekxmSm1kbXN4Ykd1eWxIUmF00gGgAUFVX3lxTE1ENFRySFJITzJoajBOSGszQW82TVBSMUV2eFFBN3F1V1ZGcjhSaDZab0V0ZmZHSndHeTNPTW85QWNLV2M1MGROeDNVT2w2bkN1dnJoMEwwbFR6eVgzV2RmX3ZDc3p4R05rWG4wX0NLejVyWkpXeHlSNC1VeWc0aDFwczRKOGNobkt3NzNfU3BCN3FqeUUzYm5FbUdQR2lhcW4?oc=5\" target=\"_blank\">Netflix despide al 6% de sus empleados, el mayor recorte de plantilla desde 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expansión</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-14T12:17:55Z",
+    "fecha": "2026-10-14T14:16:14Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
