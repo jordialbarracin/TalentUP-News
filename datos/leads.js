@@ -48,6 +48,18 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
+    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 30 de octubre de 2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSC1Ed1g0eEhTSVhJbS1ONEhwOWRDa1lBVnRUbUgxRHFqeWczUUhmakFYZ2lVY3M2czhYUzRmTFdWNmp3ZUNFdGFzX0IzamdlNkRYSndxTlBqbTN5ZEt1TjFralVHZGlueG9ab2x3TFljcGR5ZDR1SW1Oc21mSzRYdDQyQ0FoeXNfRF80NzhzdDVjTXVoY1VKQzFqdUdfUmdITEtURkhESnR0VnNWZ1hGQTRlcWxmbExSZVHSAb8BQVVfeXFMUDR5M1piX2F1cUFodXRQbW90RVpmWFpseGFCNksxc0dIODY5U3dsVDI5RkZjUHlDQlpNeDFBRUdpZGRZRE5aZlNSM0VjN211TklzUXRLcEJZbjBWZXNGQUV2RG9YQ1JOWUxhTmNVMU5ncHBab1ZNVVc0S1dLcnF1UzdFdTZpb09mdm81bjRjUURwdW1lTERJNWhQdTNqLTFNMjNCTU4welNrNHc2blpQcm1hT3FOMjBCc3NUN1BZSlk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSC1Ed1g0eEhTSVhJbS1ONEhwOWRDa1lBVnRUbUgxRHFqeWczUUhmakFYZ2lVY3M2czhYUzRmTFdWNmp3ZUNFdGFzX0IzamdlNkRYSndxTlBqbTN5ZEt1TjFralVHZGlueG9ab2x3TFljcGR5ZDR1SW1Oc21mSzRYdDQyQ0FoeXNfRF80NzhzdDVjTXVoY1VKQzFqdUdfUmdITEtURkhESnR0VnNWZ1hGQTRlcWxmbExSZVHSAb8BQVVfeXFMUDR5M1piX2F1cUFodXRQbW90RVpmWFpseGFCNksxc0dIODY5U3dsVDI5RkZjUHlDQlpNeDFBRUdpZGRZRE5aZlNSM0VjN211TklzUXRLcEJZbjBWZXNGQUV2RG9YQ1JOWUxhTmNVMU5ncHBab1ZNVVc0S1dLcnF1UzdFdTZpb09mdm81bjRjUURwdW1lTERJNWhQdTNqLTFNMjNCTU4welNrNHc2blpQcm1hT3FOMjBCc3NUN1BZSlk?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 30 de octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-30T11:01:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Comunidad de Madrid"
+  },
+  {
     "titulo": "Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha - UGT Castilla-La Mancha",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGZNaXo4Sm1jSzlRNDJqdjBLSlBrc19FUHJzYWRaMG5hWWFBTmJWUE1fcngxRFBjVjRuYkZnTzdaY21KWUp5ZGYtZ2MwUHREbE9XUXNTdWQ4a0VlT08zeW42N25UQlREcGhzZFRHbzQ4N1JOXzBZY1NlQkpUM1hQS0czazVEYUFud1pwY1VKZnBUSldPWFEzYlRCQVNoeDR0N1pMTEtpRlFXMHZzcGY4ajV3MTZPQmltQkg1R05rWFN3bE5vRVE?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGZNaXo4Sm1jSzlRNDJqdjBLSlBrc19FUHJzYWRaMG5hWWFBTmJWUE1fcngxRFBjVjRuYkZnTzdaY21KWUp5ZGYtZ2MwUHREbE9XUXNTdWQ4a0VlT08zeW42N25UQlREcGhzZFRHbzQ4N1JOXzBZY1NlQkpUM1hQS0czazVEYUFud1pwY1VKZnBUSldPWFEzYlRCQVNoeDR0N1pMTEtpRlFXMHZzcGY4ajV3MTZPQmltQkg1R05rWFN3bE5vRVE?oc=5\" target=\"_blank\">Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT Castilla-La Mancha</font>",
@@ -72,18 +84,6 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo en la Comunidad de Madrid del 28 de octubre de 2026 - Telemadrid",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFp0ZDc4ZzY2ZEFuYmZmeDl1VVFHODhWOExkZmR1d0xUN1dXVDBzbDUydm5UUjhKdTJvX08ybHE0Z3FDVDdlUWJNUXc4WFpDUnQ4cU4wVkE2VXVMQlJfZmp2N3d0Q2dBOWY0TjZxUHNrdk5LUk5XNjdVcHVhOXNuRzBVRnJ0Y2xOTGRzOGJkMDdjQVZrZDhMVklYTjZRQzZTM2fSAacBQVVfeXFMUDNhWVJ4N2tjM0VtZmtfX0VsekdHd0ZrYmJ0ZUxHTmlFa2hFcUVQVFdJcjhueWNza2xGSWNSSy1ueHByeXdrV3QtSGN3THFFSTZ1S0wtUk5ENFpneDhtX20ybU9acGI0aXNjZ1JoN0ZYNnE1a2w1SGdPVndTMWprc3VQY0VWY1dpN3EyUXFhZGNtZ0ZpVlZHR200Vkh2WVpkVzlWSGF6eEk?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFp0ZDc4ZzY2ZEFuYmZmeDl1VVFHODhWOExkZmR1d0xUN1dXVDBzbDUydm5UUjhKdTJvX08ybHE0Z3FDVDdlUWJNUXc4WFpDUnQ4cU4wVkE2VXVMQlJfZmp2N3d0Q2dBOWY0TjZxUHNrdk5LUk5XNjdVcHVhOXNuRzBVRnJ0Y2xOTGRzOGJkMDdjQVZrZDhMVklYTjZRQzZTM2fSAacBQVVfeXFMUDNhWVJ4N2tjM0VtZmtfX0VsekdHd0ZrYmJ0ZUxHTmlFa2hFcUVQVFdJcjhueWNza2xGSWNSSy1ueHByeXdrV3QtSGN3THFFSTZ1S0wtUk5ENFpneDhtX20ybU9acGI0aXNjZ1JoN0ZYNnE1a2w1SGdPVndTMWprc3VQY0VWY1dpN3EyUXFhZGNtZ0ZpVlZHR200Vkh2WVpkVzlWSGF6eEk?oc=5\" target=\"_blank\">Ofertas de empleo en la Comunidad de Madrid del 28 de octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-28T14:43:13Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Telemadrid",
-    "ubicacion": "Comunidad de Madrid"
-  },
-  {
     "titulo": "8 ofertas de empleo en el sector fotovoltaico y BESS en España - pv magazine España",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTJOMzFEQlRlSXkxMFZjRl9tdS03MVpYRWVCRzJ5b2RIS0dxblh2Rm40MWZBX1U1Vlg1T0plR09FNERsSVhXU3J4SjR2V3cySVVPMk43ZVBuSThWYUdKV2tpMjBuUS1yY3BoUmpnMUVQUVIzVFlWVDg3TGNsS0o0Qm0tbjJvZzVTOEJTMVI0MVJia2FoMVZPY2JlY1FqMjRqUi1j?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTJOMzFEQlRlSXkxMFZjRl9tdS03MVpYRWVCRzJ5b2RIS0dxblh2Rm40MWZBX1U1Vlg1T0plR09FNERsSVhXU3J4SjR2V3cySVVPMk43ZVBuSThWYUdKV2tpMjBuUS1yY3BoUmpnMUVQUVIzVFlWVDg3TGNsS0o0Qm0tbjJvZzVTOEJTMVI0MVJia2FoMVZPY2JlY1FqMjRqUi1j?oc=5\" target=\"_blank\">8 ofertas de empleo en el sector fotovoltaico y BESS en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine España</font>",
@@ -94,30 +94,6 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "BESS",
     "ubicacion": "España"
-  },
-  {
-    "titulo": "Más de 700 ofertas de empleo para personas con discapacidad: la feria gratuita de Madrid comienza el 27 de octubre - Estrella Digital",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzg1Z0FkSEVZbGk0NGJXQzhmZnExa0hSb2NhMnhQcmRMMWp5QUJXY1JjMXRKZTRUX1lOaWVXeFhnQTBBYTlQV3NTcThYMlpUcHVCRzZXSWRJZUk0WUhFd0ZrZjQ5d0UxeFNoSVFncy05YnZzUVFEakxiYjlOZ0pTWUVoUUZDdmRGMmRrNWFUU3lQVkFibnVGc3FvQjByaHJTMkotUG9OSktob3hxSF9JQi1hUmNBRGxiMnhvZHA1cWNOMlo4NEcxS2loUk5ic3F3cDNqS3MtcVg0YXVaZm9GbGpGSDI1WkRzX2xULWpDZ2rSAfYBQVVfeXFMT0dLOHFPYWd2b3c4QTR3SUJKTTZSRXotcG1rLVpqZHY3MF92X0E0R05yMUdrMWJoNFVCOHBjWFdqWXU3TWVmdkxCZ2Qxd2NXV3RmRkFFZEcwSE5HeEtQRFRUeHBOd3c5NFZVem1mOHFaYzVzQmFaYkd5SUFNU0t2OEJGM2FYMjEtd3ZaZjQweno0ejNEdUZvaXhLUVZOT3dmZ0VZNnI3UXFFRXMtOXRfOWRtelFyNEpXUUo1ejIyMHFDVWJhUGxHVVE2VWdxRjRjNElBaEZGajF2QUsyMnZ3TXEzeVg2X1NmanpiaFdmRk5lMzFWTU9n?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzg1Z0FkSEVZbGk0NGJXQzhmZnExa0hSb2NhMnhQcmRMMWp5QUJXY1JjMXRKZTRUX1lOaWVXeFhnQTBBYTlQV3NTcThYMlpUcHVCRzZXSWRJZUk0WUhFd0ZrZjQ5d0UxeFNoSVFncy05YnZzUVFEakxiYjlOZ0pTWUVoUUZDdmRGMmRrNWFUU3lQVkFibnVGc3FvQjByaHJTMkotUG9OSktob3hxSF9JQi1hUmNBRGxiMnhvZHA1cWNOMlo4NEcxS2loUk5ic3F3cDNqS3MtcVg0YXVaZm9GbGpGSDI1WkRzX2xULWpDZ2rSAfYBQVVfeXFMT0dLOHFPYWd2b3c4QTR3SUJKTTZSRXotcG1rLVpqZHY3MF92X0E0R05yMUdrMWJoNFVCOHBjWFdqWXU3TWVmdkxCZ2Qxd2NXV3RmRkFFZEcwSE5HeEtQRFRUeHBOd3c5NFZVem1mOHFaYzVzQmFaYkd5SUFNU0t2OEJGM2FYMjEtd3ZaZjQweno0ejNEdUZvaXhLUVZOT3dmZ0VZNnI3UXFFRXMtOXRfOWRtelFyNEpXUUo1ejIyMHFDVWJhUGxHVVE2VWdxRjRjNElBaEZGajF2QUsyMnZ3TXEzeVg2X1NmanpiaFdmRk5lMzFWTU9n?oc=5\" target=\"_blank\">Más de 700 ofertas de empleo para personas con discapacidad: la feria gratuita de Madrid comienza el 27 de octubre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Estrella Digital</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-26T12:49:54Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Madrid"
-  },
-  {
-    "titulo": "Zamora prevé 230 contrataciones para la campaña del Black Friday, un 4,5% más que en 2025 - La Opinión de Zamora",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEpobGl1UEprelFRaVhSd25vYXdFZ0tDZmQ1Xzg5UW1rTEJDbGs2ZXhPUWZyS3VGbFYzbl90ejVjUm5DN2ZuVXhNMFdUeGFYZW9RQzIwcml5ZmcwVWRmOHFpZkl5UHZCbER1VzN0YUtwczIxTzF5M005T1JCbzJVRzZPc20wRTlQZWFnNE1fSU8tanRSLU45aVJycDNURTg0MFo4RllDekPSAa4BQVVfeXFMTW5RYVJhTEJyTjlnSkhFWlNscXVBeXAzT19tblZneG5ZTFdSZmlCczRCdUlRczZEZ0hoZVYyUWF5T3VDMjFPX1JZWjZYaWVPcHRiU0Zqd215bXoybkdqaTllODRaVkp2SUw5cDR1aEhrWUxtUjc5VkdMbWFpSWdHbDlFN2lpMjRQUHRTMlRyYWxyZU85MmRTOTEtS085ajZMUkZkRkhidnJHYlBqMU9R?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEpobGl1UEprelFRaVhSd25vYXdFZ0tDZmQ1Xzg5UW1rTEJDbGs2ZXhPUWZyS3VGbFYzbl90ejVjUm5DN2ZuVXhNMFdUeGFYZW9RQzIwcml5ZmcwVWRmOHFpZkl5UHZCbER1VzN0YUtwczIxTzF5M005T1JCbzJVRzZPc20wRTlQZWFnNE1fSU8tanRSLU45aVJycDNURTg0MFo4RllDekPSAa4BQVVfeXFMTW5RYVJhTEJyTjlnSkhFWlNscXVBeXAzT19tblZneG5ZTFdSZmlCczRCdUlRczZEZ0hoZVYyUWF5T3VDMjFPX1JZWjZYaWVPcHRiU0Zqd215bXoybkdqaTllODRaVkp2SUw5cDR1aEhrWUxtUjc5VkdMbWFpSWdHbDlFN2lpMjRQUHRTMlRyYWxyZU85MmRTOTEtS085ajZMUkZkRkhidnJHYlBqMU9R?oc=5\" target=\"_blank\">Zamora prevé 230 contrataciones para la campaña del Black Friday, un 4,5% más que en 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Opinión de Zamora</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-25T17:49:29Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Black Friday",
-    "ubicacion": "Zamora"
   },
   {
     "titulo": "El SEPE publica ofertas de empleo para la campaña de Navidad: qué puestos se ofrecen y cómo conseguirlos - El Independiente",
@@ -132,16 +108,16 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "España ya es líder en Europa con el mayor número de ofertas de empleo para mecánicos - Infotaller TV",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlpJRzZCMU9DWHVXWUFSdGZUY3ZJLWI3LUxtSTdkcHRiSWlEaExuaFV6UzM3QlBCOUhHTWdoeWVhWHNSaVRyZG1ReFJldVBfTFllWnBGQUdnSTExaFpRcTlqSUlBR2NsNmdGYl9TbHlaaXFpenFmaHpFQzctaV8xaHU4NU9QX3oxelFGd3NGVExkU2VpS1RYMk85d0RRYTdoa1ZQUzJXV2Q1cTBMdkl5TVpBblpBTkxxd2dmdTNlbVVvRjhr?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlpJRzZCMU9DWHVXWUFSdGZUY3ZJLWI3LUxtSTdkcHRiSWlEaExuaFV6UzM3QlBCOUhHTWdoeWVhWHNSaVRyZG1ReFJldVBfTFllWnBGQUdnSTExaFpRcTlqSUlBR2NsNmdGYl9TbHlaaXFpenFmaHpFQzctaV8xaHU4NU9QX3oxelFGd3NGVExkU2VpS1RYMk85d0RRYTdoa1ZQUzJXV2Q1cTBMdkl5TVpBblpBTkxxd2dmdTNlbVVvRjhr?oc=5\" target=\"_blank\">España ya es líder en Europa con el mayor número de ofertas de empleo para mecánicos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infotaller TV</font>",
+    "titulo": "Más de 700 ofertas de empleo para personas con discapacidad: la feria gratuita de Madrid comienza el 27 de octubre - Estrella Digital",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzg1Z0FkSEVZbGk0NGJXQzhmZnExa0hSb2NhMnhQcmRMMWp5QUJXY1JjMXRKZTRUX1lOaWVXeFhnQTBBYTlQV3NTcThYMlpUcHVCRzZXSWRJZUk0WUhFd0ZrZjQ5d0UxeFNoSVFncy05YnZzUVFEakxiYjlOZ0pTWUVoUUZDdmRGMmRrNWFUU3lQVkFibnVGc3FvQjByaHJTMkotUG9OSktob3hxSF9JQi1hUmNBRGxiMnhvZHA1cWNOMlo4NEcxS2loUk5ic3F3cDNqS3MtcVg0YXVaZm9GbGpGSDI1WkRzX2xULWpDZ2rSAfYBQVVfeXFMT0dLOHFPYWd2b3c4QTR3SUJKTTZSRXotcG1rLVpqZHY3MF92X0E0R05yMUdrMWJoNFVCOHBjWFdqWXU3TWVmdkxCZ2Qxd2NXV3RmRkFFZEcwSE5HeEtQRFRUeHBOd3c5NFZVem1mOHFaYzVzQmFaYkd5SUFNU0t2OEJGM2FYMjEtd3ZaZjQweno0ejNEdUZvaXhLUVZOT3dmZ0VZNnI3UXFFRXMtOXRfOWRtelFyNEpXUUo1ejIyMHFDVWJhUGxHVVE2VWdxRjRjNElBaEZGajF2QUsyMnZ3TXEzeVg2X1NmanpiaFdmRk5lMzFWTU9n?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzg1Z0FkSEVZbGk0NGJXQzhmZnExa0hSb2NhMnhQcmRMMWp5QUJXY1JjMXRKZTRUX1lOaWVXeFhnQTBBYTlQV3NTcThYMlpUcHVCRzZXSWRJZUk0WUhFd0ZrZjQ5d0UxeFNoSVFncy05YnZzUVFEakxiYjlOZ0pTWUVoUUZDdmRGMmRrNWFUU3lQVkFibnVGc3FvQjByaHJTMkotUG9OSktob3hxSF9JQi1hUmNBRGxiMnhvZHA1cWNOMlo4NEcxS2loUk5ic3F3cDNqS3MtcVg0YXVaZm9GbGpGSDI1WkRzX2xULWpDZ2rSAfYBQVVfeXFMT0dLOHFPYWd2b3c4QTR3SUJKTTZSRXotcG1rLVpqZHY3MF92X0E0R05yMUdrMWJoNFVCOHBjWFdqWXU3TWVmdkxCZ2Qxd2NXV3RmRkFFZEcwSE5HeEtQRFRUeHBOd3c5NFZVem1mOHFaYzVzQmFaYkd5SUFNU0t2OEJGM2FYMjEtd3ZaZjQweno0ejNEdUZvaXhLUVZOT3dmZ0VZNnI3UXFFRXMtOXRfOWRtelFyNEpXUUo1ejIyMHFDVWJhUGxHVVE2VWdxRjRjNElBaEZGajF2QUsyMnZ3TXEzeVg2X1NmanpiaFdmRk5lMzFWTU9n?oc=5\" target=\"_blank\">Más de 700 ofertas de empleo para personas con discapacidad: la feria gratuita de Madrid comienza el 27 de octubre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Estrella Digital</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-26T15:51:51Z",
+    "fecha": "2026-10-26T12:49:54Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "Europa"
+    "ubicacion": "Madrid"
   },
   {
     "titulo": "Castelló contratará servicios de comunicación y campañas de promoción turística por 75.000 euros anuales - Castellón Plaza",
@@ -156,6 +132,18 @@ const window_leads_data = [
     "ubicacion": "comunicación"
   },
   {
+    "titulo": "España ya es líder en Europa con el mayor número de ofertas de empleo para mecánicos - Infotaller TV",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlpJRzZCMU9DWHVXWUFSdGZUY3ZJLWI3LUxtSTdkcHRiSWlEaExuaFV6UzM3QlBCOUhHTWdoeWVhWHNSaVRyZG1ReFJldVBfTFllWnBGQUdnSTExaFpRcTlqSUlBR2NsNmdGYl9TbHlaaXFpenFmaHpFQzctaV8xaHU4NU9QX3oxelFGd3NGVExkU2VpS1RYMk85d0RRYTdoa1ZQUzJXV2Q1cTBMdkl5TVpBblpBTkxxd2dmdTNlbVVvRjhr?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlpJRzZCMU9DWHVXWUFSdGZUY3ZJLWI3LUxtSTdkcHRiSWlEaExuaFV6UzM3QlBCOUhHTWdoeWVhWHNSaVRyZG1ReFJldVBfTFllWnBGQUdnSTExaFpRcTlqSUlBR2NsNmdGYl9TbHlaaXFpenFmaHpFQzctaV8xaHU4NU9QX3oxelFGd3NGVExkU2VpS1RYMk85d0RRYTdoa1ZQUzJXV2Q1cTBMdkl5TVpBblpBTkxxd2dmdTNlbVVvRjhr?oc=5\" target=\"_blank\">España ya es líder en Europa con el mayor número de ofertas de empleo para mecánicos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infotaller TV</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-26T15:51:51Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Europa"
+  },
+  {
     "titulo": "El Ayuntamiento de Santiago contratará el depósito y custodia de su archivo fuera de Raxoi - La Voz de Galicia",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQazNmd2oyenM3eGFfWHlYRWxmQW5jUjJyNGdDUHZrX0tIX3d0U21YTU95aTZvOC1SNUtNZ1BHbFlNdVZ0eU9JU0NvejhzVGh1cWZ3VTA3dGFESmJ5R21IYW4yVXRmT3Q3SXJ1X2txTHNQSjV3NE1wWVNJTjVlZmFFNjQ4WWxhZGVnU0VjT2NMNTlibzg2STJQcElmTHNVaWViU0pPV1dBVW0tclJWbDhOYzI2dkkyUEFqQkNuT0hsLWZkdUc2c0FTaFRVbFhWTUQtQm9KdWdZNUYyZGhNVmJ0aW1JdFJXX3dVVFV4VWpiSm5YT3pqS0liZNIBlAJBVV95cUxON1FUVzFjcGNhVnVWbklZOGQxUmxGSHlqcFU1NkZ5OU01VXA3REhjZ2RWd3UwMlU0Y0s2UkZGalNBaHI1R1dmdzFKSlZDbHJQS0tGMlZQOU5TNU1QWmJjQ0Nvc0k3eDdtNnVGaTJyY0FPdGY5SEk4cTVIZzZSdzREYmxlVlQ2c3NWZnIwVG5zTW9XRlZuZ1d4OWlEZ3NFR3FVdWNmUmxHOEtrQm1YcjVGRkRnd1NNSHBWZWg5REU2UW1fMU13VFBtbjVZZEtHMEs3MmI4UVhoUi11VnJhTUtUMzVSS0lHZEJHVkloVzVHcDZ0ZXp6ZVVSalF2NllpREFIRVFNVGstclcxcklidmlicWFweU4?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQazNmd2oyenM3eGFfWHlYRWxmQW5jUjJyNGdDUHZrX0tIX3d0U21YTU95aTZvOC1SNUtNZ1BHbFlNdVZ0eU9JU0NvejhzVGh1cWZ3VTA3dGFESmJ5R21IYW4yVXRmT3Q3SXJ1X2txTHNQSjV3NE1wWVNJTjVlZmFFNjQ4WWxhZGVnU0VjT2NMNTlibzg2STJQcElmTHNVaWViU0pPV1dBVW0tclJWbDhOYzI2dkkyUEFqQkNuT0hsLWZkdUc2c0FTaFRVbFhWTUQtQm9KdWdZNUYyZGhNVmJ0aW1JdFJXX3dVVFV4VWpiSm5YT3pqS0liZNIBlAJBVV95cUxON1FUVzFjcGNhVnVWbklZOGQxUmxGSHlqcFU1NkZ5OU01VXA3REhjZ2RWd3UwMlU0Y0s2UkZGalNBaHI1R1dmdzFKSlZDbHJQS0tGMlZQOU5TNU1QWmJjQ0Nvc0k3eDdtNnVGaTJyY0FPdGY5SEk4cTVIZzZSdzREYmxlVlQ2c3NWZnIwVG5zTW9XRlZuZ1d4OWlEZ3NFR3FVdWNmUmxHOEtrQm1YcjVGRkRnd1NNSHBWZWg5REU2UW1fMU13VFBtbjVZZEtHMEs3MmI4UVhoUi11VnJhTUtUMzVSS0lHZEJHVkloVzVHcDZ0ZXp6ZVVSalF2NllpREFIRVFNVGstclcxcklidmlicWFweU4?oc=5\" target=\"_blank\">El Ayuntamiento de Santiago contratará el depósito y custodia de su archivo fuera de Raxoi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
@@ -166,6 +154,18 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Voz de Galicia",
     "ubicacion": "Ayuntamiento de Santiago"
+  },
+  {
+    "titulo": "Seis ofertas de empleo en Soria para administración, informática, comercio y transporte - El Mirón de Soria",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVU1KM2hURWI4cWVUalgtM3pkVzhHUFBtdUF5U25vYU94cmdpWmVyVTd5U3BGajdtcG80WmJxTFZRcWRwUWRMTWNiU1ZGUUxfQlNTR0loODY1Mk9rMEQwWUFDbzFwSHo1eElRUGk5MHpUbDEzZ3IzX2JoOW9MTUFQQXRScDZfaXB6ZE5mejN4c0l2YmNWdU5ZMGtZUEwwVEZqcFc0MGlnSGhZUDVFUWl3UEcxWEpjNGVE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVU1KM2hURWI4cWVUalgtM3pkVzhHUFBtdUF5U25vYU94cmdpWmVyVTd5U3BGajdtcG80WmJxTFZRcWRwUWRMTWNiU1ZGUUxfQlNTR0loODY1Mk9rMEQwWUFDbzFwSHo1eElRUGk5MHpUbDEzZ3IzX2JoOW9MTUFQQXRScDZfaXB6ZE5mejN4c0l2YmNWdU5ZMGtZUEwwVEZqcFc0MGlnSGhZUDVFUWl3UEcxWEpjNGVE?oc=5\" target=\"_blank\">Seis ofertas de empleo en Soria para administración, informática, comercio y transporte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mirón de Soria</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-27T10:09:08Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Desconocida",
+    "ubicacion": "Soria"
   },
   {
     "titulo": "Vall Companys, Grupo UVESA, Bell España e Incarlopsa buscan personal: nueva selección de ofertas de empleo en el sector cárnico - CdeComunicacion.es",
@@ -181,11 +181,11 @@ const window_leads_data = [
   },
   {
     "titulo": "La Universitat de València inaugura los Foros de Empleo 2026-2027 con el encuentro de Filosofía y Ciencias de la Educación - Universitat de València",
-    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPei0weEMyUkRmMzlCU0NNSlZQUWM0dGF2N1Flb1FzTjB5amk1V3RnWlVQdXhtY3BPYVZTaUZiWmtzMXVQclN2bWtsckJQTDNkZ2ZYQkhpOXk1VkhXTTI2V2UxNm5IYjlXQnJRQ3N6akI5MUVnX0w0THJFLXoxTjkxQ0gycklwemF3eGtCSDJvWkJjTng5bXFMZmM1OHdMMjBheE9KVVVna3VkWkdTdTk1SHJxN0l5NXYwTVdLX0J3b1pOWEp2MDlWMU81N2JMMzVQWXhJT09XdGFiTVh2OEsxX3VDMFEzMmcyQzMyQ0x0dURkR3A3NzNKaHl1TEo4RmVfZV95TENVb2k1VjQ5X3BtSENzVzY4MVhxTkk5dy1wUlZVTXJNTXdiOFhRWHl0SFFUYl9LWWoyWGlRQnpvb0JfanlqN001azVC?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPei0weEMyUkRmMzlCU0NNSlZQUWM0dGF2N1Flb1FzTjB5amk1V3RnWlVQdXhtY3BPYVZTaUZiWmtzMXVQclN2bWtsckJQTDNkZ2ZYQkhpOXk1VkhXTTI2V2UxNm5IYjlXQnJRQ3N6akI5MUVnX0w0THJFLXoxTjkxQ0gycklwemF3eGtCSDJvWkJjTng5bXFMZmM1OHdMMjBheE9KVVVna3VkWkdTdTk1SHJxN0l5NXYwTVdLX0J3b1pOWEp2MDlWMU81N2JMMzVQWXhJT09XdGFiTVh2OEsxX3VDMFEzMmcyQzMyQ0x0dURkR3A3NzNKaHl1TEo4RmVfZV95TENVb2k1VjQ5X3BtSENzVzY4MVhxTkk5dy1wUlZVTXJNTXdiOFhRWHl0SFFUYl9LWWoyWGlRQnpvb0JfanlqN001azVC?oc=5\" target=\"_blank\">La Universitat de València inaugura los Foros de Empleo 2026-2027 con el encuentro de Filosofía y Ciencias de la Educación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universitat de València</font>",
+    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQOWtnWmdESUVZb3VfTTdLNUsxS0k0ZVhCYVhsUy14Q0l0X19FVHZYMWVLRVB2OE5tR01mNGgzVEN0X3pVczRMU1pnM0gzVTREaFhzdHlMTWVvd1h4eVlBMWxzb1BDZG1mVm9vYU5MbWtBQVdtQ3ZrVUVJbmFKaTVLRWhFSEpZdU1TYVV4Y2kwY0tNSG9FLVdUcEZZc2E2ZWp6X1BCZ2wxUEk4QW9yS2tFMUZSVlhyb2VtM3hjZkFMQ0tOaU5KRjd1RzNNT1g3cllZNFl2SFo2TVBkOVp1MTJuRzZRUDYxR2R2UmQ1V3lSUmRuNTZ6NFFBVnM4TUcwOEMyaEJZOGFoMFFJaXhJTzdZb1dNSnpmaUU1VEphWlRmM0RBNGZLY0Z5WVZuQW43NDJIMURzQ21NaUc0Q2ViS1ZBTkhKLVFPNU1Ia2V5eg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQOWtnWmdESUVZb3VfTTdLNUsxS0k0ZVhCYVhsUy14Q0l0X19FVHZYMWVLRVB2OE5tR01mNGgzVEN0X3pVczRMU1pnM0gzVTREaFhzdHlMTWVvd1h4eVlBMWxzb1BDZG1mVm9vYU5MbWtBQVdtQ3ZrVUVJbmFKaTVLRWhFSEpZdU1TYVV4Y2kwY0tNSG9FLVdUcEZZc2E2ZWp6X1BCZ2wxUEk4QW9yS2tFMUZSVlhyb2VtM3hjZkFMQ0tOaU5KRjd1RzNNT1g3cllZNFl2SFo2TVBkOVp1MTJuRzZRUDYxR2R2UmQ1V3lSUmRuNTZ6NFFBVnM4TUcwOEMyaEJZOGFoMFFJaXhJTzdZb1dNSnpmaUU1VEphWlRmM0RBNGZLY0Z5WVZuQW43NDJIMURzQ21NaUc0Q2ViS1ZBTkhKLVFPNU1Ia2V5eg?oc=5\" target=\"_blank\">La Universitat de València inaugura los Foros de Empleo 2026-2027 con el encuentro de Filosofía y Ciencias de la Educación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universitat de València</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-28T15:41:25Z",
+    "fecha": "2026-10-28T11:38:19Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Foros de Empleo",
@@ -233,23 +233,11 @@ const window_leads_data = [
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYndXZ2psYWlLdHRtYnVLXzhtWEJsT25ndmxPRHh4N1Jjc0lfdkotaVI2NjFpS2xGdWE5czl6Mk9yMXRWdVhhLW92dEFnM2RLMU9McmVkVjVsNl9KR1lmREQ4M2NEZmU4UHMwYzhQNjRTWHNhRTdDQi1UakNUM0hGWFV6cXJZQUxUNXpqVFZLZmhlZWFGRHU2U1dORFVRNHBieHNjS2RncmtaRVI4OU54MVpHOC0zXzVmUUFWa0ZPSlR3akJ3cHA1X3VweVk3NTFNVXVGQWxLak9TZw?oc=5\" target=\"_blank\">Apertura de listas de empleo del SCE para contratar personal docente y de dirección en los proyectos PFAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorteGranCanaria</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-20T21:23:53Z",
+    "fecha": "2026-10-20T07:00:00Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "SCE",
     "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Un proveedor de Mercadona busca 200 trabajadores para una nueva fábrica de productos de higiene - Confidencial Digital",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT25pNm9BR2l0X0oyTUpJdWp2LXlrUU44R2lSZ0ROZFhRZW9MSWZXUzBaV1ltaTVqcXppZDl6S2dJUEhRSDRtUzhGaktjSjV2aldYSmlMaVVDc25maGx3WElJajdxVlFEbGpvRS1TWkN5TDItY3ZsUjJsWEVFZnl2bHBEczBKaEh4SGNRZFJ4cnpPZlU1OU04cWV1RWg4d25Pd3N0RzJwWDh6TTZyY2hHcHpqN2lMZ0JNM1hTc0JYLXBYUDY4SVEwdFdUREhfRW1zRFdvSjUzNWFQWV9RQkFpTU52UURyaDNfcjladXNBMNIB9AFBVV95cUxNN1lPcEdPdnFVN2o2Z2ZRc3pXcGt3dEctdzBtMnNxdXdiSnJHYXQwSmJtaFNDYzBPMXN5NW5XamhMcVVObXBBVWl6VExkQUVLMVpwbFhMVXF1cmNBS2FXenRPN3lIeHZ3ZkZWUy1idlU4TkFQR1JkVVVoMjFzTU0wcDB6dlBhb0VtQWRfVWhNUm5jRzVOSlVWUUU2WW1aV2lHTkMyejlQN2FCWkotd21JTWpBQmNoSWFFRTFGUXJ4V0JkVzJBVHl0cEcxbzNPcmdNd1FyNEtjTU5nT3JOWjZDVS1oVnFNY0E1UGx1WDFyVExSMlBI?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT25pNm9BR2l0X0oyTUpJdWp2LXlrUU44R2lSZ0ROZFhRZW9MSWZXUzBaV1ltaTVqcXppZDl6S2dJUEhRSDRtUzhGaktjSjV2aldYSmlMaVVDc25maGx3WElJajdxVlFEbGpvRS1TWkN5TDItY3ZsUjJsWEVFZnl2bHBEczBKaEh4SGNRZFJ4cnpPZlU1OU04cWV1RWg4d25Pd3N0RzJwWDh6TTZyY2hHcHpqN2lMZ0JNM1hTc0JYLXBYUDY4SVEwdFdUREhfRW1zRFdvSjUzNWFQWV9RQkFpTU52UURyaDNfcjladXNBMNIB9AFBVV95cUxNN1lPcEdPdnFVN2o2Z2ZRc3pXcGt3dEctdzBtMnNxdXdiSnJHYXQwSmJtaFNDYzBPMXN5NW5XamhMcVVObXBBVWl6VExkQUVLMVpwbFhMVXF1cmNBS2FXenRPN3lIeHZ3ZkZWUy1idlU4TkFQR1JkVVVoMjFzTU0wcDB6dlBhb0VtQWRfVWhNUm5jRzVOSlVWUUU2WW1aV2lHTkMyejlQN2FCWkotd21JTWpBQmNoSWFFRTFGUXJ4V0JkVzJBVHl0cEcxbzNPcmdNd1FyNEtjTU5nT3JOWjZDVS1oVnFNY0E1UGx1WDFyVExSMlBI?oc=5\" target=\"_blank\">Un proveedor de Mercadona busca 200 trabajadores para una nueva fábrica de productos de higiene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Confidencial Digital</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-16T07:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Mercadona"
   },
   {
     "titulo": "El PSOE inaugura los encuentros 'Hablamos de Santander' para debatir sobre vivienda, empleo y servicios públicos - Ifomo Noticias 24h",
@@ -262,18 +250,6 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "PSOE",
     "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Ontinyent recupera los talleres de empleo tras más de una década con 26 contrataciones gracias al nuevo centro de formación del Museu del Tèxtil - Levante-EMV",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGVpa3VsWllMeEwxWm1rX0hIVnJxQlpDTHAyNEhBejBnZ1Q1V2xReHdVVXlVZWdBcUE4TlF5VEhVZi1vdzIwdUNrazU0VE1JdzQ4djNVaU1PWjJWeVpDRzVTa3Z6VzNlS1NHYk1aWWg3UmZpY05kRC14Q1FRbE1xMUhkVTRab09kZjJNZWRucVZ2Y0hJSmxKdDB0QTUweVVCcDN1UllR0gGrAUFVX3lxTE54YlNSVUp5aktSOXVNVjk3ZnNpeHB3SDhzcGt5MGRWelpQdVRIY0tRX0dDTXMzbUtpTERLdjlTVVYwU3JBN1JTZW5yRjMxUVlDcWJndGJDenA3WkNLdVlNOHQtV2owZVRzSGpvUl82QWlQWlF2emc1Qk1QTjUwaXZmc1VpWFRUdk1sd1JuZnZIbHo2cWlBMkZ0MzdfdEx0Zy1SajY1VUFFUXFrdw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGVpa3VsWllMeEwxWm1rX0hIVnJxQlpDTHAyNEhBejBnZ1Q1V2xReHdVVXlVZWdBcUE4TlF5VEhVZi1vdzIwdUNrazU0VE1JdzQ4djNVaU1PWjJWeVpDRzVTa3Z6VzNlS1NHYk1aWWg3UmZpY05kRC14Q1FRbE1xMUhkVTRab09kZjJNZWRucVZ2Y0hJSmxKdDB0QTUweVVCcDN1UllR0gGrAUFVX3lxTE54YlNSVUp5aktSOXVNVjk3ZnNpeHB3SDhzcGt5MGRWelpQdVRIY0tRX0dDTXMzbUtpTERLdjlTVVYwU3JBN1JTZW5yRjMxUVlDcWJndGJDenA3WkNLdVlNOHQtV2owZVRzSGpvUl82QWlQWlF2emc1Qk1QTjUwaXZmc1VpWFRUdk1sd1JuZnZIbHo2cWlBMkZ0MzdfdEx0Zy1SajY1VUFFUXFrdw?oc=5\" target=\"_blank\">Ontinyent recupera los talleres de empleo tras más de una década con 26 contrataciones gracias al nuevo centro de formación del Museu del Tèxtil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Levante-EMV</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-16T07:00:00Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Museu del Tèxtil - Levante-EMV"
   },
   {
     "titulo": "El nuevo gran centro logístico de León busca 21 trabajadores con contrato indefinido - Digital de León",
@@ -360,28 +336,40 @@ const window_leads_data = [
     "ubicacion": "Campana"
   },
   {
-    "titulo": "Vicens Vives presenta un ERE para hasta 122 personas y se plantea cerrar Gráficas Instar - EL PAÍS",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXVpSkZWc3pKSWhrZ2tld2JSOExqanZQeWRPVEhjTE5JejZKOXd6SnUzbS1WLTVGNjFFS0dlQ3gyX0J4Nm5kLWR6a09rS3VYZWVpWUtaTU14T011SFNaR21xaGYwbm5DWU1OME5mV0t0cnhEamNjM2lCX3FJRWxna2k0ejRXSlZiVGpfY1liZVY0T3k4UmgtQ1BIbkZQX0tnU1RCRWctbVkwRmstUVAwa21MbWdhVTBRZWloQkdmVVdwQWZEa3pFeTFFOWhadVo2YWRtSlNwTdIB6wFBVV95cUxOS09ONS1VeUpUbGhsN1d0NU5VcjlCd1RxemZqQS1zTmJFckxPVXRYUWxad01SbTBYTF8wQjY2WkxQRzJvSzBIUHNLcGlaOThTalJYdTdBUVNNU09STVlHWmF5cWVfd2tQWW4tZFZuampfaWdjelU4SlA3QXAtODFRUkM4XzJLSXhoMy00eHRKeHVvRXJnRi0tbTg4dGFFSUg1T3dyOGFTek9NNGNkZ2ZUZlB3ZnlQUmwtSEtmSjYxQnNPeVEwd1JiZHVubHhDXzB2UENlalhHN3BLbTFJUWw2T0t1SEsxMjJ4M29J?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXVpSkZWc3pKSWhrZ2tld2JSOExqanZQeWRPVEhjTE5JejZKOXd6SnUzbS1WLTVGNjFFS0dlQ3gyX0J4Nm5kLWR6a09rS3VYZWVpWUtaTU14T011SFNaR21xaGYwbm5DWU1OME5mV0t0cnhEamNjM2lCX3FJRWxna2k0ejRXSlZiVGpfY1liZVY0T3k4UmgtQ1BIbkZQX0tnU1RCRWctbVkwRmstUVAwa21MbWdhVTBRZWloQkdmVVdwQWZEa3pFeTFFOWhadVo2YWRtSlNwTdIB6wFBVV95cUxOS09ONS1VeUpUbGhsN1d0NU5VcjlCd1RxemZqQS1zTmJFckxPVXRYUWxad01SbTBYTF8wQjY2WkxQRzJvSzBIUHNLcGlaOThTalJYdTdBUVNNU09STVlHWmF5cWVfd2tQWW4tZFZuampfaWdjelU4SlA3QXAtODFRUkM4XzJLSXhoMy00eHRKeHVvRXJnRi0tbTg4dGFFSUg1T3dyOGFTek9NNGNkZ2ZUZlB3ZnlQUmwtSEtmSjYxQnNPeVEwd1JiZHVubHhDXzB2UENlalhHN3BLbTFJUWw2T0t1SEsxMjJ4M29J?oc=5\" target=\"_blank\">Vicens Vives presenta un ERE para hasta 122 personas y se plantea cerrar Gráficas Instar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
+    "titulo": "Oportunidad de empleo en Mendoza: Mercado Libre inauguró un nuevo centro logístico ¿cuántos puestos de trabajo habrá? - Canal 9 Televida",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTzU3WmZJUGJ6cVBqVm12bGM4MWFxbHRoZkkzZXRFYWs1OFM2VHBDWHRCLVFaTWtuaFVYajFpQzhWMWZGMHB1WHBxSXJQYXVRYUUwRTY1bUVEa3lNeHJ5VHlKbDRZTndtRGJfdXFRREdXTVFPcDVXa1lqa21hM09WcTVnV0VqOFZrTDctdnF6ZzdQTkNfUWRIYml3SkhBckEwVm4taEhUemRfV1Ywdk51NHBtQThQcmdxVWRFSmxSQ0RvYlFSTWMzS0w0c2gwRkNwZUpXUmdQcEd3SEg1bkVSc1hPeDNVZlk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTzU3WmZJUGJ6cVBqVm12bGM4MWFxbHRoZkkzZXRFYWs1OFM2VHBDWHRCLVFaTWtuaFVYajFpQzhWMWZGMHB1WHBxSXJQYXVRYUUwRTY1bUVEa3lNeHJ5VHlKbDRZTndtRGJfdXFRREdXTVFPcDVXa1lqa21hM09WcTVnV0VqOFZrTDctdnF6ZzdQTkNfUWRIYml3SkhBckEwVm4taEhUemRfV1Ywdk51NHBtQThQcmdxVWRFSmxSQ0RvYlFSTWMzS0w0c2gwRkNwZUpXUmdQcEd3SEg1bkVSc1hPeDNVZlk?oc=5\" target=\"_blank\">Oportunidad de empleo en Mendoza: Mercado Libre inauguró un nuevo centro logístico ¿cuántos puestos de trabajo habrá?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canal 9 Televida</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-27T17:44:47Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Nacional"
+    "fecha": "2026-10-25T17:53:46Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Mendoza"
   },
   {
-    "titulo": "La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país - heraldo.es",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5\" target=\"_blank\">La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
+    "titulo": "Inaugura gobernadora encuentro regional para impulsar el empleo formal en seis estados - La Jornada de Oriente – Puebla",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlFGSUtzSFVLRDZqUWpmY1lMMTNtVjZRR1FRUnhqb2ctcWNvU3lLbm5XdmU2bHFkQWNtZUVwbzFnMC1LaHBPcExwN1FyZGZaLS03bnVLLXZNT1VDYVhFRHVjSkd5M3EzN2xYZmR3Y2VwYm1wUlB5UHhwSEJlbHNWY0p0RGl2SkxiSmgyX0dxNlNpM2VFbmJOaEpvc3VrdHRWRHpZTGRUcDZBa1I2QktrNDNsdUdXZ21ZaWdGcHhGQUlDUmVXOHlZeFoxdU5WLUE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlFGSUtzSFVLRDZqUWpmY1lMMTNtVjZRR1FRUnhqb2ctcWNvU3lLbm5XdmU2bHFkQWNtZUVwbzFnMC1LaHBPcExwN1FyZGZaLS03bnVLLXZNT1VDYVhFRHVjSkd5M3EzN2xYZmR3Y2VwYm1wUlB5UHhwSEJlbHNWY0p0RGl2SkxiSmgyX0dxNlNpM2VFbmJOaEpvc3VrdHRWRHpZTGRUcDZBa1I2QktrNDNsdUdXZ21ZaWdGcHhGQUlDUmVXOHlZeFoxdU5WLUE?oc=5\" target=\"_blank\">Inaugura gobernadora encuentro regional para impulsar el empleo formal en seis estados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Jornada de Oriente – Puebla</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-19T07:00:00Z",
+    "fecha": "2026-10-28T21:19:45Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Puebla"
+  },
+  {
+    "titulo": "El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias - EL PAÍS",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVThqNGFQSVFaeE1rUUlId1dmeWNKQThRdUlCeGM3OWQ1aTBUY1lRRmN3NlJWMGk2MDh0QkZIci1OMzZ0REpsNzBDcTc4bDBuNGZWN0dicFNuNlZrS3BXM1paZDctaldpaldhNUlKQTg1Ni1kU2R2elNQWGU5Zjhqb3N1WG1CX25maXVEZ3ZWR19DVFZmWWoxeERYMmNpcEF5NVFuNUtONHVSRWVULTl1al9wS1pIcUNtbnYwX0FiZU85UkU2SzN3VnVtNjdpOWEwY3YwNG0wa0xKeFlJUHRr0gHzAUFVX3lxTE5MY21nc0ZuZFVfc1VXSXlIcVBNRkNiRUlNM08xWVdDeDVCVE1SdUdmTVk0ZmZ0RUVnRmgzRUNEclg3STRKaHJ6cl81M1VaNTVjY0dGSkJfVUNsZExlYkExYnZIWmVNWjhIaVJ6MWkzS1luR3BOcnZQbDBxdmhxUnV4dFNvejEwdnRndFhVUjVnM2VjYl9QSUl0eDctVUxrbjRXbmhPRlY2VmU3NE85MjVWOEw5TlloQ05yOUk0RFdsajIwcnpCbmpmQWpHZjFFeWR6amQ1WHA4cEkzYmlFS1JpS3pRZXpaMUdWSTBiV1gxSFFQVQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVThqNGFQSVFaeE1rUUlId1dmeWNKQThRdUlCeGM3OWQ1aTBUY1lRRmN3NlJWMGk2MDh0QkZIci1OMzZ0REpsNzBDcTc4bDBuNGZWN0dicFNuNlZrS3BXM1paZDctaldpaldhNUlKQTg1Ni1kU2R2elNQWGU5Zjhqb3N1WG1CX25maXVEZ3ZWR19DVFZmWWoxeERYMmNpcEF5NVFuNUtONHVSRWVULTl1al9wS1pIcUNtbnYwX0FiZU85UkU2SzN3VnVtNjdpOWEwY3YwNG0wa0xKeFlJUHRr0gHzAUFVX3lxTE5MY21nc0ZuZFVfc1VXSXlIcVBNRkNiRUlNM08xWVdDeDVCVE1SdUdmTVk0ZmZ0RUVnRmgzRUNEclg3STRKaHJ6cl81M1VaNTVjY0dGSkJfVUNsZExlYkExYnZIWmVNWjhIaVJ6MWkzS1luR3BOcnZQbDBxdmhxUnV4dFNvejEwdnRndFhVUjVnM2VjYl9QSUl0eDctVUxrbjRXbmhPRlY2VmU3NE85MjVWOEw5TlloQ05yOUk0RFdsajIwcnpCbmpmQWpHZjFFeWR6amQ1WHA4cEkzYmlFS1JpS3pRZXpaMUdWSTBiV1gxSFFQVQ?oc=5\" target=\"_blank\">El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-28T09:02:46Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Nacional"
+    "empresa": "PAÍS",
+    "ubicacion": "Supremo"
   },
   {
     "titulo": "Sale la primera sentencia en España que justifica un ERE por la mejor productividad de la inteligencia artificial - El Confidencial",
@@ -396,6 +384,18 @@ const window_leads_data = [
     "ubicacion": "España"
   },
   {
+    "titulo": "La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país - heraldo.es",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUN1UG9iMlhwSTFEWmVxemJrZXBiTHlPcWxvVjJzd2xKay1YeFpOdldnSlBNMERDbXVfS3Riamx3ZVZST2lNelRRSW5WMFBDckhUdF83ZUhjX2d5YWk0S2l2WmI2ZHJ6Tmp6a2hCbVNFemhmT3Jyb0VYTzQwV052NUQ5VWtXMkdHSDBjU0sxTnNYRm5VYkdCWlc4RDc?oc=5\" target=\"_blank\">La aragonesa Davante-Master D impulsa un ERE de hasta 231 despidos en todo el país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-19T07:00:00Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "Vicens Vives anuncia un ERE para despedir la mitad de la plantilla y cerrará Gráficas Instar - La Vanguardia",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWlKd25tR2ozSXdZNGdBd29EeTlUU2p6dExuMkZWSm12WlFOVWw2bG02bkREQzE5NjM0Y3ZxZUdtSzV3TG9LVXNtVXk0YW1yU2RGS0ZTZEJzSk42QzJOMHhzcm5tbkdNQjl6S3p4cHIyaHRHWUpkOEZhZHVSOWc5bGJWV1FlTFVyZVppQlN4Z2ZUbG1IeXAyOUVYQkRWWkNMbG1PajBfbGZaamh6SjJQeWdjWnnSAboBQVVfeXFMT0tXUWo5VnJNcnViaUg1YTlBTFdoS010NjVreVphUDQ2ZkRrNDJUaGlYTlFZekVWNWd3akNVa1ctZWZSbnF5UndaMlZEWTBFNjZTSFVHMGxjbFZSZE8tcHRPMXpqQ1NwY1JXT1BEcHIzaEtvLVgtVFFLMEN3ay1aMlFmTzZzLXVGal9HZ2pMV05iYXBva1pOVmNoZUM3Ql9KY1JXVXQ2RWxJM0UyZEZGQ01iamt3WlMtcjNR?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWlKd25tR2ozSXdZNGdBd29EeTlUU2p6dExuMkZWSm12WlFOVWw2bG02bkREQzE5NjM0Y3ZxZUdtSzV3TG9LVXNtVXk0YW1yU2RGS0ZTZEJzSk42QzJOMHhzcm5tbkdNQjl6S3p4cHIyaHRHWUpkOEZhZHVSOWc5bGJWV1FlTFVyZVppQlN4Z2ZUbG1IeXAyOUVYQkRWWkNMbG1PajBfbGZaamh6SjJQeWdjWnnSAboBQVVfeXFMT0tXUWo5VnJNcnViaUg1YTlBTFdoS010NjVreVphUDQ2ZkRrNDJUaGlYTlFZekVWNWd3akNVa1ctZWZSbnF5UndaMlZEWTBFNjZTSFVHMGxjbFZSZE8tcHRPMXpqQ1NwY1JXT1BEcHIzaEtvLVgtVFFLMEN3ay1aMlFmTzZzLXVGal9HZ2pMV05iYXBva1pOVmNoZUM3Ql9KY1JXVXQ2RWxJM0UyZEZGQ01iamt3WlMtcjNR?oc=5\" target=\"_blank\">Vicens Vives anuncia un ERE para despedir la mitad de la plantilla y cerrará Gráficas Instar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>",
@@ -408,16 +408,28 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Mahle anuncia otro ERE en Motilla del Palancar que afecta a 170 trabajadores - elDiario.es",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHQwMUhfVFIyYWQ4ZDFJeG9iSnB6bkR2a0ZMcW1JTHBDMnhSbVA4Sl9SdEo2NmRfd3V2cGUtODFwTFktZTFzNXI2bXlKMlQ2OHFySVNMSjNEdy1ENTBvRy1JWlVMT0Zuay0xVDdTS2U3RWFDaXhXc1YxVDFMUTFIcjhPazRvUVlCRXpEWXFUQlBHendRTVVLdUlFcW42QnhpV250dkZMaWtOWXfSAbABQVVfeXFMTVRFYWVZQTRFcERVS1FxMWN1Y1IyakVLTGRQN3o5VHd3TE00UG9YeGhUVmVEZjlMcVVBOXUtYlJ0dW5wZnhocjgxZ0pGQ0F4TFk2QUtiY3hHWDNpSW45MVFTeC1BSHc4NkF4aGhFa0hkZHZPNGxiNU5TMmNlaHFQdFREclIydGNLeEhPc2tmcks0Z3JPRWs0Xy1ULTRuRkYzdzQwM2g4OHppaEJCcmd0dm4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHQwMUhfVFIyYWQ4ZDFJeG9iSnB6bkR2a0ZMcW1JTHBDMnhSbVA4Sl9SdEo2NmRfd3V2cGUtODFwTFktZTFzNXI2bXlKMlQ2OHFySVNMSjNEdy1ENTBvRy1JWlVMT0Zuay0xVDdTS2U3RWFDaXhXc1YxVDFMUTFIcjhPazRvUVlCRXpEWXFUQlBHendRTVVLdUlFcW42QnhpV250dkZMaWtOWXfSAbABQVVfeXFMTVRFYWVZQTRFcERVS1FxMWN1Y1IyakVLTGRQN3o5VHd3TE00UG9YeGhUVmVEZjlMcVVBOXUtYlJ0dW5wZnhocjgxZ0pGQ0F4TFk2QUtiY3hHWDNpSW45MVFTeC1BSHc4NkF4aGhFa0hkZHZPNGxiNU5TMmNlaHFQdFREclIydGNLeEhPc2tmcks0Z3JPRWs0Xy1ULTRuRkYzdzQwM2g4OHppaEJCcmd0dm4?oc=5\" target=\"_blank\">Mahle anuncia otro ERE en Motilla del Palancar que afecta a 170 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elDiario.es</font>",
+    "titulo": "Si la pregunta es si es legal un ERE que sustituya a trabajadores por IA, una sentencia del TSJ de Madrid la responde: depende - Xataka",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWJxX2k2TGJ5TWhGM1dMQlRQZWMtZmJCcXVaUHJLR2JpeVdSZVF4MUNiX2ZPNXZaOFRXOFhPSmRnSTVndXBCb3lESHNVTjB2WjFsYnFTTHhIWndjX0Rjakh2SHl2VmhueUxyUGsyT2pvSGtuRjlCbjZuNm9wLXRLWUpxU2pZYWhWWWV5Sk1aZDRCeFpadkxQS09Zem5IcEpYT2R3NnY2bWd1Q1htcE1JdmthT2JSM2FRLXc5ck1nOVoxYXR3U3pkUXRvTUhFa03SAdQBQVVfeXFMTVZ3cEJtVGFlX0gxd2V3UlRieEpldGdFRlpWY0FqSTRxSWZacGhMMkdCaHVDQmxBMXFCY0dJOVlQdlJ1WG9xTVhpamMtVDRvRTBRUWNmUnRaUG9sRG1meGtYZHlHeW91akh2Ym1QLVdvSXg5S0lUd1ZuZ2lTUDItLXRmd1BXN0haUTdWOXRRX1FlRVl5eGJtOFVFdDJNNmhKc18wcC1oVTNQSDV4dnp0S3JFNlVjY0R0TGxWbEFtTHhyWmo3SWpwQXMySlhpYmJPRTVpeS0?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObWJxX2k2TGJ5TWhGM1dMQlRQZWMtZmJCcXVaUHJLR2JpeVdSZVF4MUNiX2ZPNXZaOFRXOFhPSmRnSTVndXBCb3lESHNVTjB2WjFsYnFTTHhIWndjX0Rjakh2SHl2VmhueUxyUGsyT2pvSGtuRjlCbjZuNm9wLXRLWUpxU2pZYWhWWWV5Sk1aZDRCeFpadkxQS09Zem5IcEpYT2R3NnY2bWd1Q1htcE1JdmthT2JSM2FRLXc5ck1nOVoxYXR3U3pkUXRvTUhFa03SAdQBQVVfeXFMTVZ3cEJtVGFlX0gxd2V3UlRieEpldGdFRlpWY0FqSTRxSWZacGhMMkdCaHVDQmxBMXFCY0dJOVlQdlJ1WG9xTVhpamMtVDRvRTBRUWNmUnRaUG9sRG1meGtYZHlHeW91akh2Ym1QLVdvSXg5S0lUd1ZuZ2lTUDItLXRmd1BXN0haUTdWOXRRX1FlRVl5eGJtOFVFdDJNNmhKc18wcC1oVTNQSDV4dnp0S3JFNlVjY0R0TGxWbEFtTHhyWmo3SWpwQXMySlhpYmJPRTVpeS0?oc=5\" target=\"_blank\">Si la pregunta es si es legal un ERE que sustituya a trabajadores por IA, una sentencia del TSJ de Madrid la responde: depende</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xataka</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-16T07:00:00Z",
+    "fecha": "2026-10-29T17:01:32Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Mahle"
+    "empresa": "TSJ",
+    "ubicacion": "Madrid"
+  },
+  {
+    "titulo": "El gigante español de la formación del fondo KKR inicia un ERE tras ser sancionado por tener falsos autónomos - elDiario.es",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1BxUlFnTXJacGlyTURqZlZia1ZqX2JNbXpKT2YxTXpKUzNodUo0N2NTU3VJR0FNVVBaZ0NqUkRXMEM4RjE3SXJoVENBZjRxejhEcHJ5d1MxY3RsRGZoWDRnbklwQXdtMW5uczJpem4xdDFzRjU0M1N4OUhtY3JqU3pFSGFtR2pEUnF1VXZhTklENXJxVjNaNEFQY2liN29EZWdwVDRDU2ZtR1doR2tQck1KWFMwRXJYMkdTLUE5dFPSAcYBQVVfeXFMTUNIS1RNd0N1cDFwRGFjekhlcWVkSlY2WENBUU1ZbTFCNTFEYXNGNjdRdlh5ZUoweHlPZ1N6dEhGTldhY0VsVWlwSEhPXzFyMzBjSWt1RjNPb2dmYkpQNi1VclhxTldNWkNSM0pOYVc2Ry0ySGxFSWhPeFRhV2Z1d2xqQVNvLUx0VDhTNDVXNU41MzFDQlIwNVVnWXpNZFB5S3FYZGhYNndRQTRGSmJhWXJZMUJXNkJFYmZnS1l3VU5NUnY5YVhR?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1BxUlFnTXJacGlyTURqZlZia1ZqX2JNbXpKT2YxTXpKUzNodUo0N2NTU3VJR0FNVVBaZ0NqUkRXMEM4RjE3SXJoVENBZjRxejhEcHJ5d1MxY3RsRGZoWDRnbklwQXdtMW5uczJpem4xdDFzRjU0M1N4OUhtY3JqU3pFSGFtR2pEUnF1VXZhTklENXJxVjNaNEFQY2liN29EZWdwVDRDU2ZtR1doR2tQck1KWFMwRXJYMkdTLUE5dFPSAcYBQVVfeXFMTUNIS1RNd0N1cDFwRGFjekhlcWVkSlY2WENBUU1ZbTFCNTFEYXNGNjdRdlh5ZUoweHlPZ1N6dEhGTldhY0VsVWlwSEhPXzFyMzBjSWt1RjNPb2dmYkpQNi1VclhxTldNWkNSM0pOYVc2Ry0ySGxFSWhPeFRhV2Z1d2xqQVNvLUx0VDhTNDVXNU41MzFDQlIwNVVnWXpNZFB5S3FYZGhYNndRQTRGSmJhWXJZMUJXNkJFYmZnS1l3VU5NUnY5YVhR?oc=5\" target=\"_blank\">El gigante español de la formación del fondo KKR inicia un ERE tras ser sancionado por tener falsos autónomos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elDiario.es</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-21T18:24:18Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Aranda Coated Solutions abre la negociación de un ERTE en plena crisis financiera de su grupo empresarial - Cadena SER",
@@ -492,16 +504,16 @@ const window_leads_data = [
     "ubicacion": "El Periódico"
   },
   {
-    "titulo": "Vicinay plantea 60 despidos y un ERTE para el resto de trabajadores en su planta de Sestao - naiz:",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXZNQXFHTnhwMHY5TUxSTHlsU3U4bGFqTkxIVTItNHFJdXlLMVFHY1pPMFZWbWtPQlVhd1lwQmNUUU1KQ1hzU2l3cmJQV1k4NkpDVm5MeEl5dW5YcHR3aXJzMlNVMXV6SEVXeVpnM21vSmQyd0RCWVlia3hCWXRCS0tvcFNKd1NZcnNnRVdqTEphekpmS0JNUG12YUtocnllOXBsYWtvM05URUJra1ZHNnROLXpJakZ2cElwNEFaRmI4SjhuZ0hTMkNhSnVYMnFVWVHSAdMBQVVfeXFMTzliMDJJM01uNWdGeVdfYTRVaUdNTVhIX3ZoNmhlQ0pXTnlUcWdmLVE2TjBBRm1YVmNWMi1acldkVk5rSENJX3JEVmpyeHNvOVVCM3FKUk0tc1VfU20xbU9GVThSUlNCc3JEQUZaY3B3aXREOVFKTERfOWxPVjJXbUNLTlF1X3FGbENBUFdZamRlVUxoTUU0ZjI3ZURYWXhiZFhTdjV3dmFCWVBYRV9LOEJJcnF6SE5qNkY0a3pZbDJfVEdWNjlENFpsTlJmZUJ0V0NwRQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXZNQXFHTnhwMHY5TUxSTHlsU3U4bGFqTkxIVTItNHFJdXlLMVFHY1pPMFZWbWtPQlVhd1lwQmNUUU1KQ1hzU2l3cmJQV1k4NkpDVm5MeEl5dW5YcHR3aXJzMlNVMXV6SEVXeVpnM21vSmQyd0RCWVlia3hCWXRCS0tvcFNKd1NZcnNnRVdqTEphekpmS0JNUG12YUtocnllOXBsYWtvM05URUJra1ZHNnROLXpJakZ2cElwNEFaRmI4SjhuZ0hTMkNhSnVYMnFVWVHSAdMBQVVfeXFMTzliMDJJM01uNWdGeVdfYTRVaUdNTVhIX3ZoNmhlQ0pXTnlUcWdmLVE2TjBBRm1YVmNWMi1acldkVk5rSENJX3JEVmpyeHNvOVVCM3FKUk0tc1VfU20xbU9GVThSUlNCc3JEQUZaY3B3aXREOVFKTERfOWxPVjJXbUNLTlF1X3FGbENBUFdZamRlVUxoTUU0ZjI3ZURYWXhiZFhTdjV3dmFCWVBYRV9LOEJJcnF6SE5qNkY0a3pZbDJfVEdWNjlENFpsTlJmZUJ0V0NwRQ?oc=5\" target=\"_blank\">Vicinay plantea 60 despidos y un ERTE para el resto de trabajadores en su planta de Sestao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">naiz:</font>",
+    "titulo": "Frutas Sol cierra todas sus tiendas en Vigo y ultima un despido colectivo - Atlántico",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEJQUldOSkZHT200cjFSanNVZ21oaW9uaW95bGNHU3BfMFZVMmpxT1VsLWhCZ1lHWDMwNS1lX1AyNVl3UzhMcHBFWUlGMDE4b0dvN2RFYWZfaVJFVV9DOWZGODcyZl9vYTVya3N4Z1B3LXZpdllPM0dZRVc4NEszVVkwZjVyTmlKbW9lSXJoZU8yREU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEJQUldOSkZHT200cjFSanNVZ21oaW9uaW95bGNHU3BfMFZVMmpxT1VsLWhCZ1lHWDMwNS1lX1AyNVl3UzhMcHBFWUlGMDE4b0dvN2RFYWZfaVJFVV9DOWZGODcyZl9vYTVya3N4Z1B3LXZpdllPM0dZRVc4NEszVVkwZjVyTmlKbW9lSXJoZU8yREU?oc=5\" target=\"_blank\">Frutas Sol cierra todas sus tiendas en Vigo y ultima un despido colectivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlántico</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-22T11:57:00Z",
+    "fecha": "2026-10-24T04:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERTE",
-    "ubicacion": "Vicinay"
+    "empresa": "Desconocida",
+    "ubicacion": "Vigo"
   },
   {
     "titulo": "Huf prorroga su ERTE en Soria hasta el 31 de diciembre y cierra ya seis días más de aplicación - Heraldo-Diario de Soria",
@@ -526,17 +538,5 @@ const window_leads_data = [
     "categoria": "Reestructuracion",
     "empresa": "Voz de Galicia",
     "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias - EL PAÍS",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVThqNGFQSVFaeE1rUUlId1dmeWNKQThRdUlCeGM3OWQ1aTBUY1lRRmN3NlJWMGk2MDh0QkZIci1OMzZ0REpsNzBDcTc4bDBuNGZWN0dicFNuNlZrS3BXM1paZDctaldpaldhNUlKQTg1Ni1kU2R2elNQWGU5Zjhqb3N1WG1CX25maXVEZ3ZWR19DVFZmWWoxeERYMmNpcEF5NVFuNUtONHVSRWVULTl1al9wS1pIcUNtbnYwX0FiZU85UkU2SzN3VnVtNjdpOWEwY3YwNG0wa0xKeFlJUHRr0gHzAUFVX3lxTE5MY21nc0ZuZFVfc1VXSXlIcVBNRkNiRUlNM08xWVdDeDVCVE1SdUdmTVk0ZmZ0RUVnRmgzRUNEclg3STRKaHJ6cl81M1VaNTVjY0dGSkJfVUNsZExlYkExYnZIWmVNWjhIaVJ6MWkzS1luR3BOcnZQbDBxdmhxUnV4dFNvejEwdnRndFhVUjVnM2VjYl9QSUl0eDctVUxrbjRXbmhPRlY2VmU3NE85MjVWOEw5TlloQ05yOUk0RFdsajIwcnpCbmpmQWpHZjFFeWR6amQ1WHA4cEkzYmlFS1JpS3pRZXpaMUdWSTBiV1gxSFFQVQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVThqNGFQSVFaeE1rUUlId1dmeWNKQThRdUlCeGM3OWQ1aTBUY1lRRmN3NlJWMGk2MDh0QkZIci1OMzZ0REpsNzBDcTc4bDBuNGZWN0dicFNuNlZrS3BXM1paZDctaldpaldhNUlKQTg1Ni1kU2R2elNQWGU5Zjhqb3N1WG1CX25maXVEZ3ZWR19DVFZmWWoxeERYMmNpcEF5NVFuNUtONHVSRWVULTl1al9wS1pIcUNtbnYwX0FiZU85UkU2SzN3VnVtNjdpOWEwY3YwNG0wa0xKeFlJUHRr0gHzAUFVX3lxTE5MY21nc0ZuZFVfc1VXSXlIcVBNRkNiRUlNM08xWVdDeDVCVE1SdUdmTVk0ZmZ0RUVnRmgzRUNEclg3STRKaHJ6cl81M1VaNTVjY0dGSkJfVUNsZExlYkExYnZIWmVNWjhIaVJ6MWkzS1luR3BOcnZQbDBxdmhxUnV4dFNvejEwdnRndFhVUjVnM2VjYl9QSUl0eDctVUxrbjRXbmhPRlY2VmU3NE85MjVWOEw5TlloQ05yOUk0RFdsajIwcnpCbmpmQWpHZjFFeWR6amQ1WHA4cEkzYmlFS1JpS3pRZXpaMUdWSTBiV1gxSFFQVQ?oc=5\" target=\"_blank\">El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-28T09:02:46Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "PAÍS",
-    "ubicacion": "Supremo"
   }
 ];
