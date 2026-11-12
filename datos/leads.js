@@ -12,18 +12,6 @@ const window_leads_data = [
     "ubicacion": "Sopela"
   },
   {
-    "titulo": "Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 4 al 10 de noviembre de 2026) - La Administración al Día",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VM0V0TUgxTlVmeFdRV2MyWkN0TXJQR0dOOXhnaFExVG1qQ2ZUUWRLUlYybHR1NnFBdnFLX0JBVHZkc0hiUHFxQVd6R19lamNpREJtVUpKNFlUUVV5clFwS2lhbEZuZFJQMkJoVA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9VM0V0TUgxTlVmeFdRV2MyWkN0TXJQR0dOOXhnaFExVG1qQ2ZUUWRLUlYybHR1NnFBdnFLX0JBVHZkc0hiUHFxQVd6R19lamNpREJtVUpKNFlUUVV5clFwS2lhbEZuZFJQMkJoVA?oc=5\" target=\"_blank\">Todas las ofertas de empleo público, en el boletín semanal del Ministerio para la Transformación Digital y de la Función Pública (del 4 al 10 de noviembre de 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Administración al Día</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-06T09:50:58Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Función Pública",
-    "ubicacion": "Ministerio para la Transformación Digital"
-  },
-  {
     "titulo": "Ávil@jobs reúne a 62 empresas con 194 ofertas de empleo en su quinta edición - Tribuna de Ávila.",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYV9ITVhVQXpYeVpCdnlFRnZXcktlcVNRYmlRbXpDa0pXWS1zZVFQazJ4djNSQ0pKbnN2UzJCRzJ5NldZWUlhNUpQVUlKYnE0aVBicXlUTGxKUzUtMWFzbzdoOU55UGoxRlVPV1hQOHlwTHVUSV9ESnVORjFteXByWlVUcmpkdjZzbndRWlQzM1NJTFhiSFFkaENrNHBEQWxaazlzYmhQTE9yRkU3MU8wTjdBOGJDWXF6ZUtEdzd3?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYV9ITVhVQXpYeVpCdnlFRnZXcktlcVNRYmlRbXpDa0pXWS1zZVFQazJ4djNSQ0pKbnN2UzJCRzJ5NldZWUlhNUpQVUlKYnE0aVBicXlUTGxKUzUtMWFzbzdoOU55UGoxRlVPV1hQOHlwTHVUSV9ESnVORjFteXByWlVUcmpkdjZzbndRWlQzM1NJTFhiSFFkaENrNHBEQWxaazlzYmhQTE9yRkU3MU8wTjdBOGJDWXF6ZUtEdzd3?oc=5\" target=\"_blank\">Ávil@jobs reúne a 62 empresas con 194 ofertas de empleo en su quinta edición</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna de Ávila.</font>",
@@ -46,18 +34,6 @@ const window_leads_data = [
     "categoria": "Contratacion",
     "empresa": "Desconocida",
     "ubicacion": "Mieres"
-  },
-  {
-    "titulo": "Medicina de familia: “Hay muchas contrataciones de profesionales que no tienen la especialidad” - iSanidad",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjZOTDlUOG9wWjZjN0xNUVFhS3pBM3c5bFI2bHJ3ZEtFSkhPVHFEZ04yMHA4RHhpbk5INUczNTg5cm5mLURMY0hIZk9iSUF3eHY4bllFTlNydi1KY1hZNWdRbS1tZWpyZzZkYkpoTGljR0hGOVlJX3g3dzVLR0pwMjJmaEFSb3ltVnhKdXlWdWtLVkNmenZPWmMwMEJDSkJvSFNHN0hMODBoNENl?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjZOTDlUOG9wWjZjN0xNUVFhS3pBM3c5bFI2bHJ3ZEtFSkhPVHFEZ04yMHA4RHhpbk5INUczNTg5cm5mLURMY0hIZk9iSUF3eHY4bllFTlNydi1KY1hZNWdRbS1tZWpyZzZkYkpoTGljR0hGOVlJX3g3dzVLR0pwMjJmaEFSb3ltVnhKdXlWdWtLVkNmenZPWmMwMEJDSkJvSFNHN0hMODBoNENl?oc=5\" target=\"_blank\">Medicina de familia: “Hay muchas contrataciones de profesionales que no tienen la especialidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iSanidad</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-06T18:59:24Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
   },
   {
     "titulo": "Ofertas de empleo en la Comunidad de Madrid del 30 de octubre de 2026 - Telemadrid",
@@ -84,15 +60,15 @@ const window_leads_data = [
     "ubicacion": "Instituto Aragonés de Fomento"
   },
   {
-    "titulo": "La campaña navideña impulsará el empleo con 200.000 contrataciones, según ASEMPLEO - El Independiente",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRE54bFBQS0NTMzMwbVJ1c3YxSXJ0YVNHcU9qcG5janhBQXdmQXlHZ1U2UW9iMnlYM0ZaVnROVnRlakoySmhiV3o0V2RCb0hxeHN6MGU5M2ctTnZqc05kTHlSVTY0LVlBeHdCTWVMWG9hTWJWQXh1RDlNYkRIZlZkZ0pLQm9QR3dxYmhUYUNPUGtsZ1BVN0N3SVpoTEFrMGZhVmNsREZlenFWS20xdUR2TlNzN2hvaEhT0gG-AUFVX3lxTE43SWpuSzhubHBINXVCRmx2MEJGVHY0Q0c5b1Y3bjVybE96OEpFdVlyMU0wUnpQXzZ1akhTNDZRa1NpeHpMRjVmMFMzVkp3ZTV2T2VJTGtZVVVGcjNYMkRHQXNFMnc3SlFGNWUzSGFTcUFtREVnUG1sUm5tcDNpVjdvckF4WC02ODFyMmlSVWV1Q3pwbUZfRERhVTFTTWJESUZRcDdGR25NaVhtcl9yZVdTUkdpcmNZdTdzR3pMcEE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRE54bFBQS0NTMzMwbVJ1c3YxSXJ0YVNHcU9qcG5janhBQXdmQXlHZ1U2UW9iMnlYM0ZaVnROVnRlakoySmhiV3o0V2RCb0hxeHN6MGU5M2ctTnZqc05kTHlSVTY0LVlBeHdCTWVMWG9hTWJWQXh1RDlNYkRIZlZkZ0pLQm9QR3dxYmhUYUNPUGtsZ1BVN0N3SVpoTEFrMGZhVmNsREZlenFWS20xdUR2TlNzN2hvaEhT0gG-AUFVX3lxTE43SWpuSzhubHBINXVCRmx2MEJGVHY0Q0c5b1Y3bjVybE96OEpFdVlyMU0wUnpQXzZ1akhTNDZRa1NpeHpMRjVmMFMzVkp3ZTV2T2VJTGtZVVVGcjNYMkRHQXNFMnc3SlFGNWUzSGFTcUFtREVnUG1sUm5tcDNpVjdvckF4WC02ODFyMmlSVWV1Q3pwbUZfRERhVTFTTWJESUZRcDdGR25NaVhtcl9yZVdTUkdpcmNZdTdzR3pMcEE?oc=5\" target=\"_blank\">La campaña navideña impulsará el empleo con 200.000 contrataciones, según ASEMPLEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Independiente</font>",
+    "titulo": "Medicina de familia: “Hay muchas contrataciones de profesionales que no tienen la especialidad” - iSanidad",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjZOTDlUOG9wWjZjN0xNUVFhS3pBM3c5bFI2bHJ3ZEtFSkhPVHFEZ04yMHA4RHhpbk5INUczNTg5cm5mLURMY0hIZk9iSUF3eHY4bllFTlNydi1KY1hZNWdRbS1tZWpyZzZkYkpoTGljR0hGOVlJX3g3dzVLR0pwMjJmaEFSb3ltVnhKdXlWdWtLVkNmenZPWmMwMEJDSkJvSFNHN0hMODBoNENl?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjZOTDlUOG9wWjZjN0xNUVFhS3pBM3c5bFI2bHJ3ZEtFSkhPVHFEZ04yMHA4RHhpbk5INUczNTg5cm5mLURMY0hIZk9iSUF3eHY4bllFTlNydi1KY1hZNWdRbS1tZWpyZzZkYkpoTGljR0hGOVlJX3g3dzVLR0pwMjJmaEFSb3ltVnhKdXlWdWtLVkNmenZPWmMwMEJDSkJvSFNHN0hMODBoNENl?oc=5\" target=\"_blank\">Medicina de familia: “Hay muchas contrataciones de profesionales que no tienen la especialidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iSanidad</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-05T13:59:07Z",
+    "fecha": "2026-11-06T18:59:24Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "ASEMPLEO",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -108,30 +84,6 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ermua contratará a 14 personas desempleadas - Deia",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmFhWmdVM2FTak5KXy1GcDBJSUNHcVpCN0NEbGhZMGdWNGlOa0pGV2Vic2hjNGhlZFZwQkwtNjl2RFhZbUptLXEyYzg1R293WXlDMUFldVNIVUZwblFYM3RBZXBTSXdqTHY2SHhiNWJqWmdoeUNyQVRWeWh2Uy15OXhrQzlsNzVBSE1XdUFaYVFJTGNhaW9hc3k1NNIBoAFBVV95cUxPOXZHRF9QUVdTa2pVdVBOb0hqbVhDeUl4N3dWWTI0RVQ1Y3VlbHVwcEl6Ynk4R3B0czRuRTB0N2pFTXZlODlfQzlTbDhianh3TjR4aG5FdkxmNUtQXzdZdktuUWRzb2F1Vl9kclY5XzFpYndrWDZtWUktbTFWWEZzaURISFhBUkQzRkZBYUlXVzRCOXRmUVdpVEZlLTd6eThJ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmFhWmdVM2FTak5KXy1GcDBJSUNHcVpCN0NEbGhZMGdWNGlOa0pGV2Vic2hjNGhlZFZwQkwtNjl2RFhZbUptLXEyYzg1R293WXlDMUFldVNIVUZwblFYM3RBZXBTSXdqTHY2SHhiNWJqWmdoeUNyQVRWeWh2Uy15OXhrQzlsNzVBSE1XdUFaYVFJTGNhaW9hc3k1NNIBoAFBVV95cUxPOXZHRF9QUVdTa2pVdVBOb0hqbVhDeUl4N3dWWTI0RVQ1Y3VlbHVwcEl6Ynk4R3B0czRuRTB0N2pFTXZlODlfQzlTbDhianh3TjR4aG5FdkxmNUtQXzdZdktuUWRzb2F1Vl9kclY5XzFpYndrWDZtWUktbTFWWEZzaURISFhBUkQzRkZBYUlXVzRCOXRmUVdpVEZlLTd6eThJ?oc=5\" target=\"_blank\">Ermua contratará a 14 personas desempleadas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deia</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-07T15:00:24Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Ermua"
-  },
-  {
-    "titulo": "La 'SEPI digital' contratará un batallón de abogados para controlar inversiones de 520 millones en medio centenar de empresas tecnológicas - El Periódico",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNmZFpiM2hWSy1TTDRKU3dIZTZCOGZUR0ItZ3VyRzhlRlZFd0htS3RFaDByZ2dTb1gtclZ5RVpBWFlQOXNJcHpEYWNjWWw1SnlISzE2NzdnMGZOblNYLUw2V21pOWdrSWlRcWdjbjlyNzUxRm15R2JabTRzTW9Fb0g3elRwamdRa2hLcTI3Z1JSUXNpSXhfM2dIOFVfZ9IBngFBVV95cUxNVEZydThBNmNxdDlMQUNTN0VuSnRPT0RkcW80aTg1V192cDhGUWZneEszRENVLUota1hSZExPOFVJOEx3bTlYa2g5OUdEcktKNl95eW1mRzVxazBwSEw5VVZ0d0VjeEtjSFY3SnlLam5LNWxmOUpjUXlMdC1xZnRWdzFVZjRMQXhpUW5ydmpUWVRMN1NRTHZpb1pHOHRSUQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNmZFpiM2hWSy1TTDRKU3dIZTZCOGZUR0ItZ3VyRzhlRlZFd0htS3RFaDByZ2dTb1gtclZ5RVpBWFlQOXNJcHpEYWNjWWw1SnlISzE2NzdnMGZOblNYLUw2V21pOWdrSWlRcWdjbjlyNzUxRm15R2JabTRzTW9Fb0g3elRwamdRa2hLcTI3Z1JSUXNpSXhfM2dIOFVfZ9IBngFBVV95cUxNVEZydThBNmNxdDlMQUNTN0VuSnRPT0RkcW80aTg1V192cDhGUWZneEszRENVLUota1hSZExPOFVJOEx3bTlYa2g5OUdEcktKNl95eW1mRzVxazBwSEw5VVZ0d0VjeEtjSFY3SnlLam5LNWxmOUpjUXlMdC1xZnRWdzFVZjRMQXhpUW5ydmpUWVRMN1NRTHZpb1pHOHRSUQ?oc=5\" target=\"_blank\">La 'SEPI digital' contratará un batallón de abogados para controlar inversiones de 520 millones en medio centenar de empresas tecnológicas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-09T05:00:29Z",
-    "fuente": "Contratación Directa",
-    "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "El Periódico"
-  },
-  {
     "titulo": "Andoain contratará a cuatro jóvenes desempleados durante un año - Noticias de Gipuzkoa",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUhkdkVLRjVIcFN3UDE1T1oyYVN5T1RkX08yS0FXZ1Z2cFdwYTZUb0tRVzltclNocmUxa2RjYUNqUzN0dGkwX2toR2FKVEt4SjJSSlRuUk1pUjZkbklvNVhvYnhJeTZOeWg2NlY3bGZjUzFFcU9RbWp4U3M2Wi15dEZqeHo0Y0tneWR2VHBNMWNUZUxMRmwxUmQ1cEM4Zy1fTWZSejdKYUk2S1RnOVpYMlNhSnVjbW0yakp5Z3JXQdIBxAFBVV95cUxOQno0UFkzZ2RCRkdnMjJnb2J1emdsZ3hmVEVVNTI4Y3NtZzM5QkhzN1NJS2hpekNlNkhJMnRmLTRMa3BWUDUxQTJBbGJXd2dsdmNaOVZuY1pKV0VxaFAySmpyN2NBZ3FjUnc2LWhObm9WdWtqV05hcVlvV01nUjVsNGdQaHh3UnZSbEtoVE9zVEtteXRpVmgtYm1SQzFBWVM1VlVQc0V3ZXJMUXVPOU1za3EtYVp3cmhPOFZfdkJwOU9YMzdl?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUhkdkVLRjVIcFN3UDE1T1oyYVN5T1RkX08yS0FXZ1Z2cFdwYTZUb0tRVzltclNocmUxa2RjYUNqUzN0dGkwX2toR2FKVEt4SjJSSlRuUk1pUjZkbklvNVhvYnhJeTZOeWg2NlY3bGZjUzFFcU9RbWp4U3M2Wi15dEZqeHo0Y0tneWR2VHBNMWNUZUxMRmwxUmQ1cEM4Zy1fTWZSejdKYUk2S1RnOVpYMlNhSnVjbW0yakp5Z3JXQdIBxAFBVV95cUxOQno0UFkzZ2RCRkdnMjJnb2J1emdsZ3hmVEVVNTI4Y3NtZzM5QkhzN1NJS2hpekNlNkhJMnRmLTRMa3BWUDUxQTJBbGJXd2dsdmNaOVZuY1pKV0VxaFAySmpyN2NBZ3FjUnc2LWhObm9WdWtqV05hcVlvV01nUjVsNGdQaHh3UnZSbEtoVE9zVEtteXRpVmgtYm1SQzFBWVM1VlVQc0V3ZXJMUXVPOU1za3EtYVp3cmhPOFZfdkJwOU9YMzdl?oc=5\" target=\"_blank\">Andoain contratará a cuatro jóvenes desempleados durante un año</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias de Gipuzkoa</font>",
@@ -144,16 +96,16 @@ const window_leads_data = [
     "ubicacion": "Andoain"
   },
   {
-    "titulo": "Nuevas ofertas de empleo de Segovia Empleo - Segoviadirecto.com",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjd6dnRpcDJSUktNLUJSeTMxeVdpZlNxeFhOVmZhQnpLNzRnQ1l4bmdYMzRqV0ZueG5YQ3F4YzdOSWw2a1k2c0E1VXVIdFJKQlV2cDEzaWg2Vm13R2lHOFpzVXpFbExoTDFKYjFvX2o2ODFmeERiMnFlRWc4MHUzcmJ5SERUUQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjd6dnRpcDJSUktNLUJSeTMxeVdpZlNxeFhOVmZhQnpLNzRnQ1l4bmdYMzRqV0ZueG5YQ3F4YzdOSWw2a1k2c0E1VXVIdFJKQlV2cDEzaWg2Vm13R2lHOFpzVXpFbExoTDFKYjFvX2o2ODFmeERiMnFlRWc4MHUzcmJ5SERUUQ?oc=5\" target=\"_blank\">Nuevas ofertas de empleo de Segovia Empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Segoviadirecto.com</font>",
+    "titulo": "1 comentario en «Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha» - UGT Castilla-La Mancha",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDNIUk5xOTRPdzV5TWV0VVo2LVNUTWVNQjJlMEVkRVFLSTVCeUZwT2hydnFhTE40Z2h4a0QzbktodFN0dWJqaXdxUkIyb0lfOW9rUlo4TFlWTVhRRENZZm9FZjd2cEF0aVh0WHFNd3gwcEV6cUdsMTFBRm84RXRSMDlXVDFQTFl0Q3ZCajRzOG12WV9pdXAzTFhqZ29SdU1oQzRIMlBuZVdvMFhFM1F1N19MdHlOQi1MTDBpM3M3b3FBUmp1cFE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDNIUk5xOTRPdzV5TWV0VVo2LVNUTWVNQjJlMEVkRVFLSTVCeUZwT2hydnFhTE40Z2h4a0QzbktodFN0dWJqaXdxUkIyb0lfOW9rUlo4TFlWTVhRRENZZm9FZjd2cEF0aVh0WHFNd3gwcEV6cUdsMTFBRm84RXRSMDlXVDFQTFl0Q3ZCajRzOG12WV9pdXAzTFhqZ29SdU1oQzRIMlBuZVdvMFhFM1F1N19MdHlOQi1MTDBpM3M3b3FBUmp1cFE?oc=5\" target=\"_blank\">1 comentario en «Accede a ofertas de empleo y a un asesoramiento laboral a través de UGT Castilla-La Mancha»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT Castilla-La Mancha</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-10T08:25:30Z",
+    "fecha": "2026-11-10T10:50:29Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
+    "empresa": "UGT Castilla-La Mancha",
+    "ubicacion": "UGT Castilla-La Mancha"
   },
   {
     "titulo": "Más ofertas de empleo para el Black Friday en Castellón: Gi Group busca 100 trabajadores para la campaña - El Periódico Mediterráneo",
@@ -168,16 +120,64 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Ofertas de empleo en El Puerto de Santa María - El Puerto al minuto",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzZPUWRaNHY3RzNPS2czclJPUEFHY3VIeW9vOUpXT0tZRnJYY1NTU1NJRFQ4aTFBSWhFRURDOXJ3R01KbTRReVJoMWpQLU1MYWdQZFIzSXZySGVYNEZUTVhlVmxnVTg4TmxvOFgySWd1LXZ2Ry1HT3hla2E5YmJ4TUk5UXpqdVJzNUFJ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzZPUWRaNHY3RzNPS2czclJPUEFHY3VIeW9vOUpXT0tZRnJYY1NTU1NJRFQ4aTFBSWhFRURDOXJ3R01KbTRReVJoMWpQLU1MYWdQZFIzSXZySGVYNEZUTVhlVmxnVTg4TmxvOFgySWd1LXZ2Ry1HT3hla2E5YmJ4TUk5UXpqdVJzNUFJ?oc=5\" target=\"_blank\">Ofertas de empleo en El Puerto de Santa María</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Puerto al minuto</font>",
+    "titulo": "El 36 % de las ofertas de empleo del último trimestre del año se las lleva la campaña de Navidad - La Voz de Galicia",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFRobDdUR0wtWHlqOFpzS1lKa3FDV1Q5Q1dDOHFHRWh4QWFXMlhSbnpFal9heF8wX0xiUWtPWjZnY2RUOTNjN0FLam1abm9UWGs4OGFTU0pyMjdYbEVneU1idXdHc1JNUVR5R3l5eC1NRXZBSXVzTVVpQ1gwUXgwQlZZX3YzQlE5eFBkdnJzT3dpY1lsVVczQm4zYkRncGxYUzBkWGVScDNzeEFzVHJVeFluV2hSaTNsZlVqTFNWU3ZaQkZWMkZJeHhFdDBKeHNSendWN0plZ0RCVmfSAfcBQVVfeXFMTUFHeW9TdFJWUmNiWVMxd3JRd3FDN0JtUlpyMzFIWW5TMDRCZUFoSHdYNlU2VjFNY3ViaXdCTVVwZXlYdmkwdEFwajVoTUtUZGU1MmxFempzaGdyaFBFZE5pU0xJc3hWWTA4SVlpOTFVNVgtbldmQjkxR3d1c2NFTzU5SHFRalpOQXRuQnRyNzhjNmIzME5xdHliSHBlLXJlZ0ZrSUZUTFJrU01kUHk1ZlRuQklhc2IxNmMydmoyU1F1MVdWb2c4M0ZXV0ZEZTFZRHFVRUt4bW16azlZdHBEbWV5d1VNZ05aVnNWRzFJM0FodHRFU0hNNA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFRobDdUR0wtWHlqOFpzS1lKa3FDV1Q5Q1dDOHFHRWh4QWFXMlhSbnpFal9heF8wX0xiUWtPWjZnY2RUOTNjN0FLam1abm9UWGs4OGFTU0pyMjdYbEVneU1idXdHc1JNUVR5R3l5eC1NRXZBSXVzTVVpQ1gwUXgwQlZZX3YzQlE5eFBkdnJzT3dpY1lsVVczQm4zYkRncGxYUzBkWGVScDNzeEFzVHJVeFluV2hSaTNsZlVqTFNWU3ZaQkZWMkZJeHhFdDBKeHNSendWN0plZ0RCVmfSAfcBQVVfeXFMTUFHeW9TdFJWUmNiWVMxd3JRd3FDN0JtUlpyMzFIWW5TMDRCZUFoSHdYNlU2VjFNY3ViaXdCTVVwZXlYdmkwdEFwajVoTUtUZGU1MmxFempzaGdyaFBFZE5pU0xJc3hWWTA4SVlpOTFVNVgtbldmQjkxR3d1c2NFTzU5SHFRalpOQXRuQnRyNzhjNmIzME5xdHliSHBlLXJlZ0ZrSUZUTFJrU01kUHk1ZlRuQklhc2IxNmMydmoyU1F1MVdWb2c4M0ZXV0ZEZTFZRHFVRUt4bW16azlZdHBEbWV5d1VNZ05aVnNWRzFJM0FodHRFU0hNNA?oc=5\" target=\"_blank\">El 36 % de las ofertas de empleo del último trimestre del año se las lleva la campaña de Navidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voz de Galicia</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-10T11:40:27Z",
+    "fecha": "2026-11-12T04:01:41Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Voz de Galicia",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Ofertas de empleo de Madrid Trabaja 09.11.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmxCdWo2TUptS2lBU3d1b0sySks0SFNYUlNNU2xlSGZLRGlZRS1WZUxYWXFlWUV1bWlzSEdMOTBFcXR6UjcweHIxck4xMWttYlB3ZUdOeHVqbWlYNUFUOTdCRnBTU3ZOVUl3RnF2d0otOFhlT3VyYV9aUkdFVzNDM3RvMlNweWxVQ3Q0blNrUU5hc2ZmMjNOYnE4cHFvb2vSAaQBQVVfeXFMTVVzNm9LVzRqYVNLMWZMSWRESGYxZHFkQzhNTjVmMGprVFVVaFpHdDZTUFk1Q3N0NDZqclFKdFBaZ1ZQb2h2N29Na1pjcVFBT1ktbGtuWXRJZC05ZUZyV0N3Ym1DYjNqNDhKclpfM0E1OVFQYlhTNVVvSWxfMDNKR2JjWVhRQUtkaE41YzV5OGJHdzJNUDN0clVLWHZ3cnJXMldadkI?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmxCdWo2TUptS2lBU3d1b0sySks0SFNYUlNNU2xlSGZLRGlZRS1WZUxYWXFlWUV1bWlzSEdMOTBFcXR6UjcweHIxck4xMWttYlB3ZUdOeHVqbWlYNUFUOTdCRnBTU3ZOVUl3RnF2d0otOFhlT3VyYV9aUkdFVzNDM3RvMlNweWxVQ3Q0blNrUU5hc2ZmMjNOYnE4cHFvb2vSAaQBQVVfeXFMTVVzNm9LVzRqYVNLMWZMSWRESGYxZHFkQzhNTjVmMGprVFVVaFpHdDZTUFk1Q3N0NDZqclFKdFBaZ1ZQb2h2N29Na1pjcVFBT1ktbGtuWXRJZC05ZUZyV0N3Ym1DYjNqNDhKclpfM0E1OVFQYlhTNVVvSWxfMDNKR2JjWVhRQUtkaE41YzV5OGJHdzJNUDN0clVLWHZ3cnJXMldadkI?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 09.11.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-09T10:05:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Ofertas de empleo de Madrid Trabaja 12.11.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUxQdV9CQjZ0Und1aHhaWHlMWm5xUG16VlNWRnJ1UG80Q0o3MkpnTWNBUmpZUDNJRFFpMEU5UkJvd1lIR1pGcFZyTENsTmg3ZDNheGZwc3dwM05RNi1oT0tsX3A4LXpiOC1kNlAtZ2dwTEsxSmhUMDFXaF9IbG9VUGtFLUtLLWJHbW9rbFBiSXkyaDZLS1dzRjZNS1VodGfSAaQBQVVfeXFMTnlvSUs5UHVFWTVaNjFUWGI3cmVXR2ZHT1IwMUxmeFFoVC1CeDFSYmpOZmxpbEpqbk5lMTFKS19KMzdjUXRZRE5qVjU3ZzByZkNNTjBva20yVnkxWTU1RlBCbmpKaVAxRUZwVmhCbVpCNWhndElMeFlmY2pCT2NzY0ZpMjJEdFoyZDlNQXBZWU80Um5feHdmdVJ4eS11T0lqSm9zUmU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUxQdV9CQjZ0Und1aHhaWHlMWm5xUG16VlNWRnJ1UG80Q0o3MkpnTWNBUmpZUDNJRFFpMEU5UkJvd1lIR1pGcFZyTENsTmg3ZDNheGZwc3dwM05RNi1oT0tsX3A4LXpiOC1kNlAtZ2dwTEsxSmhUMDFXaF9IbG9VUGtFLUtLLWJHbW9rbFBiSXkyaDZLS1dzRjZNS1VodGfSAaQBQVVfeXFMTnlvSUs5UHVFWTVaNjFUWGI3cmVXR2ZHT1IwMUxmeFFoVC1CeDFSYmpOZmxpbEpqbk5lMTFKS19KMzdjUXRZRE5qVjU3ZzByZkNNTjBva20yVnkxWTU1RlBCbmpKaVAxRUZwVmhCbVpCNWhndElMeFlmY2pCT2NzY0ZpMjJEdFoyZDlNQXBZWU80Um5feHdmdVJ4eS11T0lqSm9zUmU?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 12.11.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-12T10:20:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Telemadrid",
+    "ubicacion": "Madrid Trabaja"
+  },
+  {
+    "titulo": "Ofertas de empleo de Madrid Trabaja 07.11.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVER4R3lzcDl0SC1VWmxudHNCMS1lU1BpUUN1YTdCY2pXdEFIeDVydVFoWEd3bGdSTlFwSVhmNngtVHVxT1cxUzlIc2xqcHVvcGZvcmdaYkNSMHdZelc0S3cyZTVCZkR3V0w1d0ZhTlBUSnRHbFVfOTA5WHpVa0ZLWm5fdzRXNzDSAYwBQVVfeXFMTm9wc1JOc2dWcXZNRV9xV3VTYUx6NkEyRkVGVDlqNkgtUDVJT1ZoSVQ0akFEbWtuclYtX3FFQ0dybzBRcmp2Qm9WcmI0Si1xNGZuVjY5SEtSVmlOLUdOUVJmeVRWbVJwbmMwZjBrTmNwb2ZQazlnVWgxNjlsZmtlU0N1d1dPMGJ1bU1NZng?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVER4R3lzcDl0SC1VWmxudHNCMS1lU1BpUUN1YTdCY2pXdEFIeDVydVFoWEd3bGdSTlFwSVhmNngtVHVxT1cxUzlIc2xqcHVvcGZvcmdaYkNSMHdZelc0S3cyZTVCZkR3V0w1d0ZhTlBUSnRHbFVfOTA5WHpVa0ZLWm5fdzRXNzDSAYwBQVVfeXFMTm9wc1JOc2dWcXZNRV9xV3VTYUx6NkEyRkVGVDlqNkgtUDVJT1ZoSVQ0akFEbWtuclYtX3FFQ0dybzBRcmp2Qm9WcmI0Si1xNGZuVjY5SEtSVmlOLUdOUVJmeVRWbVJwbmMwZjBrTmNwb2ZQazlnVWgxNjlsZmtlU0N1d1dPMGJ1bU1NZng?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 07.11.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-07T09:26:00Z",
+    "fuente": "Contratación Directa",
+    "categoria": "Contratacion",
+    "empresa": "Madrid Trabaja",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Ofertas de empleo de Madrid Trabaja 31.10.2026 - Telemadrid",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUJ0Q1R4T2d2T0RMNGNEQS1GQWh6bElLZFBGMkdmUjlNN0stNmFQNWRIRnRpN0U5WXdLbXJnSGtZZktBd0FTVGdTZ0dPVDcxLUYtcGdFLUhGLUdta3hLOG5uZm1oMDR5ZVpudUwxMUV2elhKM1A4SUdZTG5RMGNmMG9MUzM2NWfSAYwBQVVfeXFMTXplem4tZzdhUURFSmZBckZJWEZGYzMyc2pjNFNCQWJWdmFlM0ZfLXRwUVRNZThnbFFRYzczamJELWF0WXYtT0xjVjVlTzZ4c3VLTkhUQWVnWmNDczRJMEJrbExjbkdtTkZYeFRnUFdKWjVxbnZRaThwWkNUTy1ob0MwV0RUcHAyUVVnTUc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUJ0Q1R4T2d2T0RMNGNEQS1GQWh6bElLZFBGMkdmUjlNN0stNmFQNWRIRnRpN0U5WXdLbXJnSGtZZktBd0FTVGdTZ0dPVDcxLUYtcGdFLUhGLUdta3hLOG5uZm1oMDR5ZVpudUwxMUV2elhKM1A4SUdZTG5RMGNmMG9MUzM2NWfSAYwBQVVfeXFMTXplem4tZzdhUURFSmZBckZJWEZGYzMyc2pjNFNCQWJWdmFlM0ZfLXRwUVRNZThnbFFRYzczamJELWF0WXYtT0xjVjVlTzZ4c3VLTkhUQWVnWmNDczRJMEJrbExjbkdtTkZYeFRnUFdKWjVxbnZRaThwWkNUTy1ob0MwV0RUcHAyUVVnTUc?oc=5\" target=\"_blank\">Ofertas de empleo de Madrid Trabaja 31.10.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telemadrid</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-10-31T07:00:00Z",
     "fuente": "Contratación Directa",
     "categoria": "Contratacion",
     "empresa": "Desconocida",
-    "ubicacion": "El Puerto de Santa María"
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Video de la apertura de plicas del segundo ejercicio - Ayuntamiento de Madrid",
@@ -192,16 +192,16 @@ const window_leads_data = [
     "ubicacion": "Ayuntamiento de Madrid"
   },
   {
-    "titulo": "La Junta invertirá otros 3,7 millones de euros en reformar una planta del Hospital Provincial como centro de empleo - Hoy",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmNqYS01MjJ6bUJsQUU3aUJfaFVGMW5PY3hTb1B0bE8temVKX25wcTZjb0NPWEJPY01IVHI4N1pEQWlKOW5ISEo1S1VGc0tFOFQtZjNhVHZQakoxSmxfaUV1MXlPaGFsbmpOS1pwd3FWMVlMd21xcEVSYXNoazd1b1JBMnE0QmtNVG05QU5feWxwREFVMlBnZHVlVjZQNENWX3g1ZU52QzbSAa4BQVVfeXFMTlJtQTZhNGE2Umxya2VpYjFUUnMzQkhqNFJzY1lZcjU0anBLemVidWlseHpjd1dKOWFydGxBUGJ5clRfT2I3b0VEaXEyYVZCN0hoOFJVemVGTkRsbHJna0lRSjYxa0Z5NjRVRkIxeUZZXzFDVjRVT294RlZ4SVVrT3VFcjRMdW9lYktULTc5OHNldmJEcE9QVXpkYVF4by0wVFNrUW9seDk4QlRQSmtB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmNqYS01MjJ6bUJsQUU3aUJfaFVGMW5PY3hTb1B0bE8temVKX25wcTZjb0NPWEJPY01IVHI4N1pEQWlKOW5ISEo1S1VGc0tFOFQtZjNhVHZQakoxSmxfaUV1MXlPaGFsbmpOS1pwd3FWMVlMd21xcEVSYXNoazd1b1JBMnE0QmtNVG05QU5feWxwREFVMlBnZHVlVjZQNENWX3g1ZU52QzbSAa4BQVVfeXFMTlJtQTZhNGE2Umxya2VpYjFUUnMzQkhqNFJzY1lZcjU0anBLemVidWlseHpjd1dKOWFydGxBUGJ5clRfT2I3b0VEaXEyYVZCN0hoOFJVemVGTkRsbHJna0lRSjYxa0Z5NjRVRkIxeUZZXzFDVjRVT294RlZ4SVVrT3VFcjRMdW9lYktULTc5OHNldmJEcE9QVXpkYVF4by0wVFNrUW9seDk4QlRQSmtB?oc=5\" target=\"_blank\">La Junta invertirá otros 3,7 millones de euros en reformar una planta del Hospital Provincial como centro de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoy</font>",
+    "titulo": "Una huelga de los trabajadores del teatro impide la apertura de temporada en La Fenice de Venecia con 'Fedora' - Platea Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUkFBdWVyakN0ZUN4bDhtdzN2MFN3am5yYjJpcW5uQmx3VFBicllhaUJNRVZIemVUcU5kWE1hTVFsUFczTlpRZ2lfN3g0QmZwMndYRzFFWmZmRC1VcXVscGxiLWxCdmUtN3lpRXFQX3BBRWxzSElyTGVMcm85YlNCaHBXbHl5S213T2V4cFp0Q25NZjVJY294VjhMelg1MkVRU19BNk1PbE10WVc3emZ3X2psaWZXMDRRNWhHOWtTQjRfMVM5cmVrOWNzanlUMnRqWTd1Zk9FV0ZSY2ZDTFdFdnUyUzBUVzNldmc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUkFBdWVyakN0ZUN4bDhtdzN2MFN3am5yYjJpcW5uQmx3VFBicllhaUJNRVZIemVUcU5kWE1hTVFsUFczTlpRZ2lfN3g0QmZwMndYRzFFWmZmRC1VcXVscGxiLWxCdmUtN3lpRXFQX3BBRWxzSElyTGVMcm85YlNCaHBXbHl5S213T2V4cFp0Q25NZjVJY294VjhMelg1MkVRU19BNk1PbE10WVc3emZ3X2psaWZXMDRRNWhHOWtTQjRfMVM5cmVrOWNzanlUMnRqWTd1Zk9FV0ZSY2ZDTFdFdnUyUzBUVzNldmc?oc=5\" target=\"_blank\">Una huelga de los trabajadores del teatro impide la apertura de temporada en La Fenice de Venecia con 'Fedora'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Platea Magazine</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-03T07:37:49Z",
+    "fecha": "2026-11-12T10:00:48Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
-    "empresa": "Junta",
-    "ubicacion": "Hospital Provincial"
+    "empresa": "Desconocida",
+    "ubicacion": "La Fenice"
   },
   {
     "titulo": "Apertura de mercado: Todo depende del dato de empleo - XTB.com",
@@ -214,6 +214,18 @@ const window_leads_data = [
     "categoria": "Aperturas",
     "empresa": "Desconocida",
     "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "La Junta invertirá otros 3,7 millones de euros en reformar una planta del Hospital Provincial como centro de empleo - Hoy",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmNqYS01MjJ6bUJsQUU3aUJfaFVGMW5PY3hTb1B0bE8temVKX25wcTZjb0NPWEJPY01IVHI4N1pEQWlKOW5ISEo1S1VGc0tFOFQtZjNhVHZQakoxSmxfaUV1MXlPaGFsbmpOS1pwd3FWMVlMd21xcEVSYXNoazd1b1JBMnE0QmtNVG05QU5feWxwREFVMlBnZHVlVjZQNENWX3g1ZU52QzbSAa4BQVVfeXFMTlJtQTZhNGE2Umxya2VpYjFUUnMzQkhqNFJzY1lZcjU0anBLemVidWlseHpjd1dKOWFydGxBUGJ5clRfT2I3b0VEaXEyYVZCN0hoOFJVemVGTkRsbHJna0lRSjYxa0Z5NjRVRkIxeUZZXzFDVjRVT294RlZ4SVVrT3VFcjRMdW9lYktULTc5OHNldmJEcE9QVXpkYVF4by0wVFNrUW9seDk4QlRQSmtB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmNqYS01MjJ6bUJsQUU3aUJfaFVGMW5PY3hTb1B0bE8temVKX25wcTZjb0NPWEJPY01IVHI4N1pEQWlKOW5ISEo1S1VGc0tFOFQtZjNhVHZQakoxSmxfaUV1MXlPaGFsbmpOS1pwd3FWMVlMd21xcEVSYXNoazd1b1JBMnE0QmtNVG05QU5feWxwREFVMlBnZHVlVjZQNENWX3g1ZU52QzbSAa4BQVVfeXFMTlJtQTZhNGE2Umxya2VpYjFUUnMzQkhqNFJzY1lZcjU0anBLemVidWlseHpjd1dKOWFydGxBUGJ5clRfT2I3b0VEaXEyYVZCN0hoOFJVemVGTkRsbHJna0lRSjYxa0Z5NjRVRkIxeUZZXzFDVjRVT294RlZ4SVVrT3VFcjRMdW9lYktULTc5OHNldmJEcE9QVXpkYVF4by0wVFNrUW9seDk4QlRQSmtB?oc=5\" target=\"_blank\">La Junta invertirá otros 3,7 millones de euros en reformar una planta del Hospital Provincial como centro de empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoy</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-03T07:37:49Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Junta",
+    "ubicacion": "Hospital Provincial"
   },
   {
     "titulo": "BAUHAUS necesita incorporar a 155 trabajadores para su nueva tienda en Torrevieja: más del 90% de la plantilla tiene contrato fijo - Noticias Trabajo",
@@ -240,6 +252,18 @@ const window_leads_data = [
     "ubicacion": "Masymas"
   },
   {
+    "titulo": "El Gremi d’Empreses Instal·ladores de Tarragona inaugura un centro de formación para impulsar el empleo cualificado - CdeComunicacion.es",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNV01OQ3dEMi05SFZDcVN2dTR6cEFra1NRekJpRUpYTHVZUVctTWRnQ05BYzZIYUhzUlpjSE5LellFVVJqRUpVVVRBSkM0RE9tRkJIVEhKUTRtd2ZsMzQ2UmFYcmV2YnFPbFRXa0NwVG03RDVOTnlIT1FZLVQ0UXJiYWtxdktaSFlFamhSdjZWRVFtWFJQTm5ET3FvcV9xNkVSYUh3VnJpa3duVUw4TWhDVkxhTHRKX05qYjMxS2xneGVWRTNzSGVsZ1gzRExETWxlSDJ1XzBTaFpIVkY1SUtDMHRGUmYxbHFXYzdSM1NHOHE4Qng1cVhCLVNWUTVHcnpTa2w1VGFDZEVUdDNHVHdVa3RZTVd5VjFuazNBRWtwZnMza3NQUElsdV9yVdIBqwJBVV95cUxNV01OQ3dEMi05SFZDcVN2dTR6cEFra1NRekJpRUpYTHVZUVctTWRnQ05BYzZIYUhzUlpjSE5LellFVVJqRUpVVVRBSkM0RE9tRkJIVEhKUTRtd2ZsMzQ2UmFYcmV2YnFPbFRXa0NwVG03RDVOTnlIT1FZLVQ0UXJiYWtxdktaSFlFamhSdjZWRVFtWFJQTm5ET3FvcV9xNkVSYUh3VnJpa3duVUw4TWhDVkxhTHRKX05qYjMxS2xneGVWRTNzSGVsZ1gzRExETWxlSDJ1XzBTaFpIVkY1SUtDMHRGUmYxbHFXYzdSM1NHOHE4Qng1cVhCLVNWUTVHcnpTa2w1VGFDZEVUdDNHVHdVa3RZTVd5VjFuazNBRWtwZnMza3NQUElsdV9yVQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxNV01OQ3dEMi05SFZDcVN2dTR6cEFra1NRekJpRUpYTHVZUVctTWRnQ05BYzZIYUhzUlpjSE5LellFVVJqRUpVVVRBSkM0RE9tRkJIVEhKUTRtd2ZsMzQ2UmFYcmV2YnFPbFRXa0NwVG03RDVOTnlIT1FZLVQ0UXJiYWtxdktaSFlFamhSdjZWRVFtWFJQTm5ET3FvcV9xNkVSYUh3VnJpa3duVUw4TWhDVkxhTHRKX05qYjMxS2xneGVWRTNzSGVsZ1gzRExETWxlSDJ1XzBTaFpIVkY1SUtDMHRGUmYxbHFXYzdSM1NHOHE4Qng1cVhCLVNWUTVHcnpTa2w1VGFDZEVUdDNHVHdVa3RZTVd5VjFuazNBRWtwZnMza3NQUElsdV9yVdIBqwJBVV95cUxNV01OQ3dEMi05SFZDcVN2dTR6cEFra1NRekJpRUpYTHVZUVctTWRnQ05BYzZIYUhzUlpjSE5LellFVVJqRUpVVVRBSkM0RE9tRkJIVEhKUTRtd2ZsMzQ2UmFYcmV2YnFPbFRXa0NwVG03RDVOTnlIT1FZLVQ0UXJiYWtxdktaSFlFamhSdjZWRVFtWFJQTm5ET3FvcV9xNkVSYUh3VnJpa3duVUw4TWhDVkxhTHRKX05qYjMxS2xneGVWRTNzSGVsZ1gzRExETWxlSDJ1XzBTaFpIVkY1SUtDMHRGUmYxbHFXYzdSM1NHOHE4Qng1cVhCLVNWUTVHcnpTa2w1VGFDZEVUdDNHVHdVa3RZTVd5VjFuazNBRWtwZnMza3NQUElsdV9yVQ?oc=5\" target=\"_blank\">El Gremi d’Empreses Instal·ladores de Tarragona inaugura un centro de formación para impulsar el empleo cualificado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CdeComunicacion.es</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-12T08:54:44Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "Desconocida",
+    "ubicacion": "Nacional"
+  },
+  {
     "titulo": "Gabriel Amat inaugura en Roquetas la jornada ‘Motivación y estrategias para el acceso al empleo’ - Diario de Almería",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDZJVl95NHZpQ0x5STk1d2ZpRFh4YncyZFk3N21hZTZBbXFXXzI3Ml9JUTZLaEdXM2g1UGt3UThtU0VOZDJ6czgxelhHbXFDR09yVEhnMEdMcUxIZlBzY29ZdXJhSXdCQzBhdUt6eG1kRmdCWVR2WExQcU1TNzBsZmg5OG95TjJTVi01UzFWMGRuZWJqWDJNSmRtNUVfazd6Mm5XQWhFc0J3UnNVdTd3aEx0b9IBuAFBVV95cUxOOFJ6bTRlU3hxcE9XOU9mQ2dnNUdZeTdDSUdtS2tIV2VVSDBPckNqN3k0Tl9mV09fLV9pcXplajltMi1KeXBXbnVMYkNhTjdvV3VRa05nWVJQR2lmNW9uUTl6Q1hQbGYyaGN1UWhqckdsQ0g5YTUzRERRaGpSSFNqOHFmRWNCWXltS00ybmtmaGl3WTdMTXFOcUZkOTUyODZhZ3hDa1FDSjBjbGl5dXE5YXI0b2cwZzRk?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDZJVl95NHZpQ0x5STk1d2ZpRFh4YncyZFk3N21hZTZBbXFXXzI3Ml9JUTZLaEdXM2g1UGt3UThtU0VOZDJ6czgxelhHbXFDR09yVEhnMEdMcUxIZlBzY29ZdXJhSXdCQzBhdUt6eG1kRmdCWVR2WExQcU1TNzBsZmg5OG95TjJTVi01UzFWMGRuZWJqWDJNSmRtNUVfazd6Mm5XQWhFc0J3UnNVdTd3aEx0b9IBuAFBVV95cUxOOFJ6bTRlU3hxcE9XOU9mQ2dnNUdZeTdDSUdtS2tIV2VVSDBPckNqN3k0Tl9mV09fLV9pcXplajltMi1KeXBXbnVMYkNhTjdvV3VRa05nWVJQR2lmNW9uUTl6Q1hQbGYyaGN1UWhqckdsQ0g5YTUzRERRaGpSSFNqOHFmRWNCWXltS00ybmtmaGl3WTdMTXFOcUZkOTUyODZhZ3hDa1FDSjBjbGl5dXE5YXI0b2cwZzRk?oc=5\" target=\"_blank\">Gabriel Amat inaugura en Roquetas la jornada ‘Motivación y estrategias para el acceso al empleo’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Almería</font>",
@@ -264,16 +288,28 @@ const window_leads_data = [
     "ubicacion": "Comunitat"
   },
   {
-    "titulo": "El nuevo gran centro logístico de León busca 21 trabajadores con contrato indefinido - Digital de León",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUQ2cGpjblVhMkN4Q05NenQyRkRjUmNUbTBtYkZjRWFXb1ZySi1Sc0hhd1RWeV9XTkVkMkxZd1RuZDRHTTRZLVpYODVoVW1sQXRlT0xpcjkzcW9lcFZWdUhzZU5qRWRRd1BENHBZV2dRbjVmWlpneEtRN2FJUDB4WmlDWXVISWZhbU14a1dfOGs3LXpyMU55YThraERNYWJ2bzdDNk1VdFJkMlhHMlRiY01aTkxlZzdSbGRQU01fODhpYUtxUkl0OGpoVndHU0pjaW8zd0RfQjRNcFdBSTJfME5HNHJnaTNP0gHuAUFVX3lxTFBENVloQmVqd1dDWkxRR1BSdjUxUl9xNWYzUkhpdnA5ekx6di1nMHpMLUFjRnFpOXpFQnhldEdFRTVVeHNnLTZXNUZKSXN5ODF2ZW1oVG1KZzJVUzJvX3kwYkE3SWJabno4TmlQZVVTYVVZSlV0QzlUUDJ1N1N1Vkl0b0t2Q3NlWkVXQjdTVENKVkhFaDlqZ2s1MktzS2pvd0ptbnM5dWVWSlJ5VTBDTjl3QWR3MVdCVVRhUzdKRkozQ0FDTkhhaEQ5QjIwM2RYT3pIVERDMnZFT3RHdG5oLVAtdFJsdEpKczc5dHowdEE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUQ2cGpjblVhMkN4Q05NenQyRkRjUmNUbTBtYkZjRWFXb1ZySi1Sc0hhd1RWeV9XTkVkMkxZd1RuZDRHTTRZLVpYODVoVW1sQXRlT0xpcjkzcW9lcFZWdUhzZU5qRWRRd1BENHBZV2dRbjVmWlpneEtRN2FJUDB4WmlDWXVISWZhbU14a1dfOGs3LXpyMU55YThraERNYWJ2bzdDNk1VdFJkMlhHMlRiY01aTkxlZzdSbGRQU01fODhpYUtxUkl0OGpoVndHU0pjaW8zd0RfQjRNcFdBSTJfME5HNHJnaTNP0gHuAUFVX3lxTFBENVloQmVqd1dDWkxRR1BSdjUxUl9xNWYzUkhpdnA5ekx6di1nMHpMLUFjRnFpOXpFQnhldEdFRTVVeHNnLTZXNUZKSXN5ODF2ZW1oVG1KZzJVUzJvX3kwYkE3SWJabno4TmlQZVVTYVVZSlV0QzlUUDJ1N1N1Vkl0b0t2Q3NlWkVXQjdTVENKVkhFaDlqZ2s1MktzS2pvd0ptbnM5dWVWSlJ5VTBDTjl3QWR3MVdCVVRhUzdKRkozQ0FDTkhhaEQ5QjIwM2RYT3pIVERDMnZFT3RHdG5oLVAtdFJsdEpKczc5dHowdEE?oc=5\" target=\"_blank\">El nuevo gran centro logístico de León busca 21 trabajadores con contrato indefinido</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital de León</font>",
+    "titulo": "La UMU inaugura la décima edición de Todos Somos Campus, la formación para el empleo de jóvenes con discapacidad intelectual - La Verdad",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZFV3VEVGh2VXE2SnZRRmk0SUJLWlo3OXFILURqTFpyd2VLMDdQdUt3bVBVWkdaWlgtNDFNNVN5RTdDNWRTQ0c1bWdlX0V6U2RITHFKSmlqTm1WMVhGQVZ6Nmo3QVR1VFhiekJ2cGlVTHpEa1hhQ1BLVS1NUWswTmJHYXVUQkRCYkwwZXNDZ0tJRF9fcjg4ZVRTVWZTc0QwNURPZHJTSDTSAa4BQVVfeXFMTjR5QVV6RFB4ZmNNVUlZc3EtckJUZUdHN2dHSXdGRE9URDRYYUVhWjBzLWM1THI0SUVxdlhBSkpUTFJnbG54MGVHakMzNnZYSFI2anBDTTJlT0RKUkdVWDloeUZ6cFBoczdnOUVvVFY2RzJvTUZMWjVIZHJvVDhHRmloZmhqdHVuMk9rTE1KTW1sSENvQWN3LTIzTTB4b0ItZVpmMnBLS1BUczJLc3dn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZFV3VEVGh2VXE2SnZRRmk0SUJLWlo3OXFILURqTFpyd2VLMDdQdUt3bVBVWkdaWlgtNDFNNVN5RTdDNWRTQ0c1bWdlX0V6U2RITHFKSmlqTm1WMVhGQVZ6Nmo3QVR1VFhiekJ2cGlVTHpEa1hhQ1BLVS1NUWswTmJHYXVUQkRCYkwwZXNDZ0tJRF9fcjg4ZVRTVWZTc0QwNURPZHJTSDTSAa4BQVVfeXFMTjR5QVV6RFB4ZmNNVUlZc3EtckJUZUdHN2dHSXdGRE9URDRYYUVhWjBzLWM1THI0SUVxdlhBSkpUTFJnbG54MGVHakMzNnZYSFI2anBDTTJlT0RKUkdVWDloeUZ6cFBoczdnOUVvVFY2RzJvTUZMWjVIZHJvVDhHRmloZmhqdHVuMk9rTE1KTW1sSENvQWN3LTIzTTB4b0ItZVpmMnBLS1BUczJLc3dn?oc=5\" target=\"_blank\">La UMU inaugura la décima edición de Todos Somos Campus, la formación para el empleo de jóvenes con discapacidad intelectual</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Verdad</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-29T07:00:00Z",
+    "fecha": "2026-11-02T18:12:36Z",
+    "fuente": "Nuevas Aperturas",
+    "categoria": "Aperturas",
+    "empresa": "UMU",
+    "ubicacion": "Nacional"
+  },
+  {
+    "titulo": "Empleo en BAUHAUS Torrevieja: 155 puestos y cómo inscribirse - todo torrevieja",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zeDFQRjhnNF9TUE9GQ0tSSDJBSnZnZDVWRXhmSTRCcXJsWWtSV3dmN2NaSDN3Uk56R3BEN3RrZk1CZUhWTHpTQUtLZFNmcm5wUmxvWnVBZ1FueHJ0NGFKdnBGbk41OFNpVUlydWtxeXFTdVZTaHIw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1zeDFQRjhnNF9TUE9GQ0tSSDJBSnZnZDVWRXhmSTRCcXJsWWtSV3dmN2NaSDN3Uk56R3BEN3RrZk1CZUhWTHpTQUtLZFNmcm5wUmxvWnVBZ1FueHJ0NGFKdnBGbk41OFNpVUlydWtxeXFTdVZTaHIw?oc=5\" target=\"_blank\">Empleo en BAUHAUS Torrevieja: 155 puestos y cómo inscribirse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">todo torrevieja</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-10T20:21:18Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Desconocida",
-    "ubicacion": "León"
+    "ubicacion": "Torrevieja"
   },
   {
     "titulo": "La multinacional china Desay se estrena en Linares con una apuesta por la innovación y el empleo sostenibles - Jaén Hoy",
@@ -288,18 +324,6 @@ const window_leads_data = [
     "ubicacion": "Linares"
   },
   {
-    "titulo": "La UMU inaugura la décima edición de Todos Somos Campus, la formación para el empleo de jóvenes con discapacidad intelectual - La Verdad",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZFV3VEVGh2VXE2SnZRRmk0SUJLWlo3OXFILURqTFpyd2VLMDdQdUt3bVBVWkdaWlgtNDFNNVN5RTdDNWRTQ0c1bWdlX0V6U2RITHFKSmlqTm1WMVhGQVZ6Nmo3QVR1VFhiekJ2cGlVTHpEa1hhQ1BLVS1NUWswTmJHYXVUQkRCYkwwZXNDZ0tJRF9fcjg4ZVRTVWZTc0QwNURPZHJTSDTSAa4BQVVfeXFMTjR5QVV6RFB4ZmNNVUlZc3EtckJUZUdHN2dHSXdGRE9URDRYYUVhWjBzLWM1THI0SUVxdlhBSkpUTFJnbG54MGVHakMzNnZYSFI2anBDTTJlT0RKUkdVWDloeUZ6cFBoczdnOUVvVFY2RzJvTUZMWjVIZHJvVDhHRmloZmhqdHVuMk9rTE1KTW1sSENvQWN3LTIzTTB4b0ItZVpmMnBLS1BUczJLc3dn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZFV3VEVGh2VXE2SnZRRmk0SUJLWlo3OXFILURqTFpyd2VLMDdQdUt3bVBVWkdaWlgtNDFNNVN5RTdDNWRTQ0c1bWdlX0V6U2RITHFKSmlqTm1WMVhGQVZ6Nmo3QVR1VFhiekJ2cGlVTHpEa1hhQ1BLVS1NUWswTmJHYXVUQkRCYkwwZXNDZ0tJRF9fcjg4ZVRTVWZTc0QwNURPZHJTSDTSAa4BQVVfeXFMTjR5QVV6RFB4ZmNNVUlZc3EtckJUZUdHN2dHSXdGRE9URDRYYUVhWjBzLWM1THI0SUVxdlhBSkpUTFJnbG54MGVHakMzNnZYSFI2anBDTTJlT0RKUkdVWDloeUZ6cFBoczdnOUVvVFY2RzJvTUZMWjVIZHJvVDhHRmloZmhqdHVuMk9rTE1KTW1sSENvQWN3LTIzTTB4b0ItZVpmMnBLS1BUczJLc3dn?oc=5\" target=\"_blank\">La UMU inaugura la décima edición de Todos Somos Campus, la formación para el empleo de jóvenes con discapacidad intelectual</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Verdad</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-02T18:12:36Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "UMU",
-    "ubicacion": "Nacional"
-  },
-  {
     "titulo": "La Autoridad Portuaria de Almería expone en Francia sus proyectos de apertura a la ciudad y sus planes para crear empleo - Europa Press",
     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSGx1SmRlWGNXbXZEV2V1c2JVMVZEbXhhSXVqbGZ6Mjh3dWFfejJ4eUMwY0djQVFfTzlOamFfd2x0Tk0yYkd4Ri1QeVBWRlVLYTdRVEFnRGN4ZjNjSDBqM0VTX2Ywemx5WGtVQ3dkTVJIbkFBd3F4Wkw3S0llWkhycTMxNTBNVTQwNm5wZnItUmx4M2czMUZMVFkzVk40Y1BwTUVmZ2hQNWkxZ3JEQ0FFSFhHVzRIS0w4U05mbDBWV3I2SGVNc1BhQmhjR2tnT1YxeWY1SnVsWFNMTTR5QlQ0Xy1Namk1NHR0R2xUX3dHM3RoYUJzWmNFMVUzVVZWd0t6aTY0ZHE5d1d3UQ?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQSGx1SmRlWGNXbXZEV2V1c2JVMVZEbXhhSXVqbGZ6Mjh3dWFfejJ4eUMwY0djQVFfTzlOamFfd2x0Tk0yYkd4Ri1QeVBWRlVLYTdRVEFnRGN4ZjNjSDBqM0VTX2Ywemx5WGtVQ3dkTVJIbkFBd3F4Wkw3S0llWkhycTMxNTBNVTQwNm5wZnItUmx4M2czMUZMVFkzVk40Y1BwTUVmZ2hQNWkxZ3JEQ0FFSFhHVzRIS0w4U05mbDBWV3I2SGVNc1BhQmhjR2tnT1YxeWY1SnVsWFNMTTR5QlQ0Xy1Namk1NHR0R2xUX3dHM3RoYUJzWmNFMVUzVVZWd0t6aTY0ZHE5d1d3UQ?oc=5\" target=\"_blank\">La Autoridad Portuaria de Almería expone en Francia sus proyectos de apertura a la ciudad y sus planes para crear empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Europa Press</font>",
@@ -312,52 +336,28 @@ const window_leads_data = [
     "ubicacion": "Autoridad Portuaria de Almería"
   },
   {
-    "titulo": "La película ‘Pastoris’, de Pablo Moreno, inaugura la Semana de Sostenibilidad y Empleo - El Diario de Salamanca",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOEl5dGVRWHFqa2lTNS1oMEgtVXlGSGMzRjJPVE5VeDBpQnloclhudld6X0JVN2VoYzlvbHhTdmlEaWdVZGZLUmYzT1VRNjVyTHNsU1l0b25GQVNLMTVTb3pTS3dzZHJKRlUzZnh6M3Z2cFJyUEpPcGpSMkR3bWRzaUF1YXV3bVRwOTBudk9xREZPQnoxZzZfUk9YQWZxNzdvQWFLR3p3Mm1LZ21yYmlTZXp5Q1FmRG92c3lZTy16Um02TlNmOEhvdzB5RGVETS0xeERfTmNjeDE5RndoWXVjWVVR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOEl5dGVRWHFqa2lTNS1oMEgtVXlGSGMzRjJPVE5VeDBpQnloclhudld6X0JVN2VoYzlvbHhTdmlEaWdVZGZLUmYzT1VRNjVyTHNsU1l0b25GQVNLMTVTb3pTS3dzZHJKRlUzZnh6M3Z2cFJyUEpPcGpSMkR3bWRzaUF1YXV3bVRwOTBudk9xREZPQnoxZzZfUk9YQWZxNzdvQWFLR3p3Mm1LZ21yYmlTZXp5Q1FmRG92c3lZTy16Um02TlNmOEhvdzB5RGVETS0xeERfTmNjeDE5RndoWXVjWVVR?oc=5\" target=\"_blank\">La película ‘Pastoris’, de Pablo Moreno, inaugura la Semana de Sostenibilidad y Empleo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario de Salamanca</font>",
+    "titulo": "Apertura de mercados hoy: Russell 2000, Nasdaq y oro - XTB",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWUJPZnM5bXlpbU84OWpOeV9vYkpSUzYwTEw2VHJQd2xPR1otZUNoNWlBUFJrQ2RvLWtNcWpqaHhmYnZxN1NDM204R1NfSlB4UHVWcFh6ODVOZkRUcGY0WGJxaWRPM2NRZXRlVWhxUGVEMHhacHdzNmRFY1F6TUhLeEpQRkZjMzVEb3lTZnVtUW83ZXZHdi1sRVYxQzl0YXM4REcwUmpUTmJXUDhrYlNaSkFYRFlqS3lsNUJVZW5IamhQN1J0YmRub1MzZWVzVUliRGpvMnkxNWxJR3JXUDE2SVNrRjRXNFkzWkFKN0otMHo2U3VDR1JIejJCWFlvZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWUJPZnM5bXlpbU84OWpOeV9vYkpSUzYwTEw2VHJQd2xPR1otZUNoNWlBUFJrQ2RvLWtNcWpqaHhmYnZxN1NDM204R1NfSlB4UHVWcFh6ODVOZkRUcGY0WGJxaWRPM2NRZXRlVWhxUGVEMHhacHdzNmRFY1F6TUhLeEpQRkZjMzVEb3lTZnVtUW83ZXZHdi1sRVYxQzl0YXM4REcwUmpUTmJXUDhrYlNaSkFYRFlqS3lsNUJVZW5IamhQN1J0YmRub1MzZWVzVUliRGpvMnkxNWxJR3JXUDE2SVNrRjRXNFkzWkFKN0otMHo2U3VDR1JIejJCWFlvZw?oc=5\" target=\"_blank\">Apertura de mercados hoy: Russell 2000, Nasdaq y oro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XTB</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-09T17:06:03Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "Desconocida",
-    "ubicacion": "Diario de Salamanca"
-  },
-  {
-    "titulo": "Apertura de mercados hoy: Russell 2000, Nasdaq y oro - XTB.com",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOM0ptUUV4c0lfZldUNzBVSWlmY05VZElHZGQ0WGd2U2FKaTVZTmNsdHBidUU5T0ItUTltR2ZUdlZ2UlVRUHREUlVKRkRQb0J0d0VBSlgwVTU4VERZYTZJOGlqTE9WODV5cTRnS0gwZjBEZDVnS3NmV0pTNnF0N0NhbDEtejdKWGdOMUtwOG8wc0xHcS13aFBFTDVuZ3NZOG16QURabXpuemMxYVRXQXMweFd5cUtvNzRINjF6akNoS1EyOExFbHdDS2JKTEQ1NjVmdEw0c3JzQkhfQVBDRUFlQkhwdVgxLVRDa0J6aFVwT2pZYWdibFI2d24xMk82OGs?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOM0ptUUV4c0lfZldUNzBVSWlmY05VZElHZGQ0WGd2U2FKaTVZTmNsdHBidUU5T0ItUTltR2ZUdlZ2UlVRUHREUlVKRkRQb0J0d0VBSlgwVTU4VERZYTZJOGlqTE9WODV5cTRnS0gwZjBEZDVnS3NmV0pTNnF0N0NhbDEtejdKWGdOMUtwOG8wc0xHcS13aFBFTDVuZ3NZOG16QURabXpuemMxYVRXQXMweFd5cUtvNzRINjF6akNoS1EyOExFbHdDS2JKTEQ1NjVmdEw0c3JzQkhfQVBDRUFlQkhwdVgxLVRDa0J6aFVwT2pZYWdibFI2d24xMk82OGs?oc=5\" target=\"_blank\">Apertura de mercados hoy: Russell 2000, Nasdaq y oro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XTB.com</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-09T12:07:56Z",
+    "fecha": "2026-11-09T12:08:57Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Nasdaq",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Mientras KFC cierra todos sus restaurantes y deja trabajadores sin empleo en Puerto Rico, Little Caesars inaugura sucursal con pizzas 2×1 - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR1BZY3dPbVFBckplZ2gyUGZ3TkFsUl9RYWh5eTgwb2dSUG9mdU4tMFlDTWdiRmZxa0xtWlFUNDZmRFI4em1rYmxVcW5ROHJrTjhxTndLeW9GbTRRTmVkMm5CRllWRURYTXFrMTRpUlBHOW51cVljWFJTVkM2c3ctWk53VmJsLWlPaTA5N1lNODhsaV9FSmhoWGhQSnNwMWZjT05LWTh2ckcxYllxTWhGZHpsUXhvQTlORGh3WU1DWUttbGd0M0w4ZVVJc2t5YXV4aDdYV3ZWQ1NIUUlTZk82WUVIUFNac1NnYUF5WllzLThxUDQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR1BZY3dPbVFBckplZ2gyUGZ3TkFsUl9RYWh5eTgwb2dSUG9mdU4tMFlDTWdiRmZxa0xtWlFUNDZmRFI4em1rYmxVcW5ROHJrTjhxTndLeW9GbTRRTmVkMm5CRllWRURYTXFrMTRpUlBHOW51cVljWFJTVkM2c3ctWk53VmJsLWlPaTA5N1lNODhsaV9FSmhoWGhQSnNwMWZjT05LWTh2ckcxYllxTWhGZHpsUXhvQTlORGh3WU1DWUttbGd0M0w4ZVVJc2t5YXV4aDdYV3ZWQ1NIUUlTZk82WUVIUFNac1NnYUF5WllzLThxUDQ?oc=5\" target=\"_blank\">Mientras KFC cierra todos sus restaurantes y deja trabajadores sin empleo en Puerto Rico, Little Caesars inaugura sucursal con pizzas 2×1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revista Merca2.0</font>",
+    "titulo": "Video apertura de plicas y sorteo de desempate - Ayuntamiento de Madrid",
+    "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUVpVZmpvU0MzUTN0ckhuY1F2NjRPaEhKSDlMMUlualFZbHBMVXRVMnNIMkUwX0Z3WE9uaFdrbWpLYzBBNklCbGk0N24yUkhUR25BSDM3d01LcDFfMkU4RHNFOXI2bHVMamNsY0wzbDNCWkgwVkJyUnE3S1RnVGh3UGNYUTFfQlZhaWFrTGE2ZF85eGhLdE1YLWZKYUNUbEt0SHBqbmQxR2tLUDFTaWV2UUVZaDB3Tnd2U0dRUG5hb1pLZjV2ck44bFlCd0lnUjg0RnRVMm1aMUo5Ynl1M05naXlEa1ZOeVdsX1o4R3R6VVZnSWV1VGVHT0RuaTZpaGJDX3ZPNDlkcHZ4cTVjVnJhZlRGamJXbGRZdmx2aWFzTGg4TkI4a0J1a2U0VHNoZEpHU2FzOC0ydVJsZFdnUk96YkZOUWRZVjRQck9zX2llUGx5Q1ZhSmQ2TUstdmhIRUx6VG1YNDdQakp2OVgwaGVOLXc4UW1SMDdXWHhyZG1YN3F0WnlvUDhXY3pnanIxZGlpeFNQQzVRaDk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxOUVpVZmpvU0MzUTN0ckhuY1F2NjRPaEhKSDlMMUlualFZbHBMVXRVMnNIMkUwX0Z3WE9uaFdrbWpLYzBBNklCbGk0N24yUkhUR25BSDM3d01LcDFfMkU4RHNFOXI2bHVMamNsY0wzbDNCWkgwVkJyUnE3S1RnVGh3UGNYUTFfQlZhaWFrTGE2ZF85eGhLdE1YLWZKYUNUbEt0SHBqbmQxR2tLUDFTaWV2UUVZaDB3Tnd2U0dRUG5hb1pLZjV2ck44bFlCd0lnUjg0RnRVMm1aMUo5Ynl1M05naXlEa1ZOeVdsX1o4R3R6VVZnSWV1VGVHT0RuaTZpaGJDX3ZPNDlkcHZ4cTVjVnJhZlRGamJXbGRZdmx2aWFzTGg4TkI4a0J1a2U0VHNoZEpHU2FzOC0ydVJsZFdnUk96YkZOUWRZVjRQck9zX2llUGx5Q1ZhSmQ2TUstdmhIRUx6VG1YNDdQakp2OVgwaGVOLXc4UW1SMDdXWHhyZG1YN3F0WnlvUDhXY3pnanIxZGlpeFNQQzVRaDk?oc=5\" target=\"_blank\">Video apertura de plicas y sorteo de desempate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ayuntamiento de Madrid</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-04T19:59:43Z",
-    "fuente": "Nuevas Aperturas",
-    "categoria": "Aperturas",
-    "empresa": "KFC",
-    "ubicacion": "Puerto Rico"
-  },
-  {
-    "titulo": "Así se vivió la apertura de Home Depot La Luz en Querétaro - Líder Empresarial",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tajk3bllWWF80MG1LYzdDQWZxaHZVNlZuUnFsUDlHNEI3T1ZHVE9kNnRIbzFONDVKZklOUVhVOWZlV2M0ZHpQaXZWZHJBNnJsTlRTWUM1cUVhb2hiTWRmWTNmandveTNfWDFZdENVQ01fNVFxRmIxUjNn0gF_QVVfeXFMTkE3aVJYX0ZyUzQxVktTZ3loVWpUVXNyRmphd0xHaUZWU1Fqb1ZXdU1lSzNnXzd4VFNoMkEyZTZpQ0FHOVZad0VNYnBFS0lQa1lkeW1IOE5aM3Nyamtmc0RnV3d1X2hJOE1SSU5NTTN5WHk2QWlYbmxkXzlRalkxRQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5tajk3bllWWF80MG1LYzdDQWZxaHZVNlZuUnFsUDlHNEI3T1ZHVE9kNnRIbzFONDVKZklOUVhVOWZlV2M0ZHpQaXZWZHJBNnJsTlRTWUM1cUVhb2hiTWRmWTNmandveTNfWDFZdENVQ01fNVFxRmIxUjNn0gF_QVVfeXFMTkE3aVJYX0ZyUzQxVktTZ3loVWpUVXNyRmphd0xHaUZWU1Fqb1ZXdU1lSzNnXzd4VFNoMkEyZTZpQ0FHOVZad0VNYnBFS0lQa1lkeW1IOE5aM3Nyamtmc0RnV3d1X2hJOE1SSU5NTTN5WHk2QWlYbmxkXzlRalkxRQ?oc=5\" target=\"_blank\">Así se vivió la apertura de Home Depot La Luz en Querétaro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Líder Empresarial</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-10-30T07:00:00Z",
+    "fecha": "2026-11-07T23:03:52Z",
     "fuente": "Nuevas Aperturas",
     "categoria": "Aperturas",
     "empresa": "Desconocida",
-    "ubicacion": "Querétaro"
+    "ubicacion": "Ayuntamiento de Madrid"
   },
   {
     "titulo": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo - EL PAÍS",
@@ -377,35 +377,23 @@ const window_leads_data = [
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0ZqWll4b2ZfNUhHQUw2QzQ3U1pOS3JHaHFORVhvZHlabjgyM2ZLeFp6cEN6d1hSc0FBdl83ZzBodFJ4SWJ0RmRCV2t3TTl4anRYaEk1dF9jcEN0ZVFjaGNOMGl3TEdKZ1A1RFhKWEtaVzRfSXRLb29ZOHBCS2V4RVJGVWhaa1R4MlFiWDctZGZpT1dUb1NWS1VMUmhXOTVva1VCbVdNcmNLOVlKc2lWcTFhU1d5X1dhYnlzU0FzR1NBbnotR0lMdF8yVTlWZ9IB0wFBVV95cUxNeVA2aUlJYm5ydnk4MlpjazlIN1VHM2tiWXJTZ0pyX3pVV0VGTEVvVjJmWjIxWjhFSlVQR29KOG84aFZWMS1aRnhLOHlhemd4aVkxYng1R1l1TmJuTE1JM2RZMTRha1dQNTlMY0FBbDdkWVJZYllsZ29zc2NWUnNZT0pmOXRoYmxsUUZ6YktZTHhfNUphSzFOcGVFTWRpbmpiY1lZVk9KWE9wd1lxREdFS2lhU085MTVGZlVpQWRvall6Y2ZBVWJJZ0VuN1BTdklFR3g0?oc=5\" target=\"_blank\">Bellota Agrisolutions amplía el ERTE al 100% de la plantilla, más de 200 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario Vasco</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-03T17:33:41Z",
+    "fecha": "2026-11-03T08:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERTE",
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Sale la primera sentencia en España que justifica un ERE por la mejor productividad de la inteligencia artificial - El Confidencial",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkdxSFFfY1p4SGhYTzloSUNEck5JZGVQV0YyY3ZaZTlya3BLRmdZU0FsVkFVOXJxZnBtTXhIcWk5TFF2TWtJMENJRXVtVTZWNU9CWmE0MnFaeS1lUVFMdDVuUkFweTRtRzEyWDZXbFdYQ3NlS0dITjZzRENqMjB6c1o5QUVPZHpYRndpVHNNTVdlVjN5U24xTTFFVFd6dnU2YnlsVXduODI3OG9i?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkdxSFFfY1p4SGhYTzloSUNEck5JZGVQV0YyY3ZaZTlya3BLRmdZU0FsVkFVOXJxZnBtTXhIcWk5TFF2TWtJMENJRXVtVTZWNU9CWmE0MnFaeS1lUVFMdDVuUkFweTRtRzEyWDZXbFdYQ3NlS0dITjZzRENqMjB6c1o5QUVPZHpYRndpVHNNTVdlVjN5U24xTTFFVFd6dnU2YnlsVXduODI3OG9i?oc=5\" target=\"_blank\">Sale la primera sentencia en España que justifica un ERE por la mejor productividad de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Confidencial</font>",
+    "titulo": "AstraZeneca acuerda con los sindicatos recortar 170 empleos en el despido colectivo de España - El Confidencial",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGg4X1E3NzBNTkFCUVU3REpNQkZ4eEZMbGxsSXpRaDRPanV4Y1NsamxFSEgwbXA0ZDFPSTBOUDNlakxvX1FJOEs3cDFsNTFZcG9UMXBGMUx6WlpycmEwYkc1cW51XzdoVFVrOXNZV21LY2VreTRzZU1MUkIteGdrVHVLOXJaRmxFSGR3NF9tT1h6VTVjajljSC1Jb1I4TjhzTmpTUy0weEU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGg4X1E3NzBNTkFCUVU3REpNQkZ4eEZMbGxsSXpRaDRPanV4Y1NsamxFSEgwbXA0ZDFPSTBOUDNlakxvX1FJOEs3cDFsNTFZcG9UMXBGMUx6WlpycmEwYkc1cW51XzdoVFVrOXNZV21LY2VreTRzZU1MUkIteGdrVHVLOXJaRmxFSGR3NF9tT1h6VTVjajljSC1Jb1I4TjhzTmpTUy0weEU?oc=5\" target=\"_blank\">AstraZeneca acuerda con los sindicatos recortar 170 empleos en el despido colectivo de España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Confidencial</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-29T07:00:00Z",
+    "fecha": "2026-11-06T04:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "España"
-  },
-  {
-    "titulo": "El ERE de Davante-Master D afectará a 99 trabajadores en Zaragoza y 132 en el resto del país - heraldo.es",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUtfQWNuVUhZb3R3M2hnTHNYU2pYcjFBbWxqeTU5NFNQRkd4bFR4RjdWUWVEWnBMSHhGcWs5NmN0cWpYeFJQajI4QktxSVl3VnNDVC1YWk8xV1BWT1RCWGhXazkyaUtfVEZBbHp1Wm9sRmNoVHJrU3dZaEwwbGRGWjNnWHk2VWtJOWx2T1FKTkFjYlFfRU9zN1hzcGZEWTNKQ0JzcWpZcDFnSGg3V0w0a1pZVTZVSWs?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUtfQWNuVUhZb3R3M2hnTHNYU2pYcjFBbWxqeTU5NFNQRkd4bFR4RjdWUWVEWnBMSHhGcWs5NmN0cWpYeFJQajI4QktxSVl3VnNDVC1YWk8xV1BWT1RCWGhXazkyaUtfVEZBbHp1Wm9sRmNoVHJrU3dZaEwwbGRGWjNnWHk2VWtJOWx2T1FKTkFjYlFfRU9zN1hzcGZEWTNKQ0JzcWpZcDFnSGg3V0w0a1pZVTZVSWs?oc=5\" target=\"_blank\">El ERE de Davante-Master D afectará a 99 trabajadores en Zaragoza y 132 en el resto del país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-04T16:55:48Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Zaragoza"
+    "empresa": "AstraZeneca",
+    "ubicacion": "Nacional"
   },
   {
     "titulo": "Davante MasterD pone cifras al impacto del ERE en Zaragoza y el comité atribuye los despidos a la IA - El Periódico de Aragón",
@@ -420,16 +408,16 @@ const window_leads_data = [
     "ubicacion": "Zaragoza"
   },
   {
-    "titulo": "España ya tiene el primer ERE de una empresa justificado por la IA como sustituta de los trabajadores - Xataka",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWJxX2k2TGJ5TWhGM1dMQlRQZWMtZmJCcXVaUHJLR2JpeVdSZVF4MUNiX2ZPNXZaOFRXOFhPSmRnSTVndXBCb3lESHNVTjB2WjFsYnFTTHhIWndjX0Rjakh2SHl2VmhueUxyUGsyT2pvSGtuRjlCbjZuNm9wLXRLWUpxU2pZYWhWWWV5Sk1aZDRCeFpadkxQS09Zem5IcEpYT2R3NnY2bWd1Q1htcE1JdmthT2JSM2FRLXc5ck1nOVoxYXR3U3pkUXRvTUhFa03SAdQBQVVfeXFMTVZ3cEJtVGFlX0gxd2V3UlRieEpldGdFRlpWY0FqSTRxSWZacGhMMkdCaHVDQmxBMXFCY0dJOVlQdlJ1WG9xTVhpamMtVDRvRTBRUWNmUnRaUG9sRG1meGtYZHlHeW91akh2Ym1QLVdvSXg5S0lUd1ZuZ2lTUDItLXRmd1BXN0haUTdWOXRRX1FlRVl5eGJtOFVFdDJNNmhKc18wcC1oVTNQSDV4dnp0S3JFNlVjY0R0TGxWbEFtTHhyWmo3SWpwQXMySlhpYmJPRTVpeS0?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObWJxX2k2TGJ5TWhGM1dMQlRQZWMtZmJCcXVaUHJLR2JpeVdSZVF4MUNiX2ZPNXZaOFRXOFhPSmRnSTVndXBCb3lESHNVTjB2WjFsYnFTTHhIWndjX0Rjakh2SHl2VmhueUxyUGsyT2pvSGtuRjlCbjZuNm9wLXRLWUpxU2pZYWhWWWV5Sk1aZDRCeFpadkxQS09Zem5IcEpYT2R3NnY2bWd1Q1htcE1JdmthT2JSM2FRLXc5ck1nOVoxYXR3U3pkUXRvTUhFa03SAdQBQVVfeXFMTVZ3cEJtVGFlX0gxd2V3UlRieEpldGdFRlpWY0FqSTRxSWZacGhMMkdCaHVDQmxBMXFCY0dJOVlQdlJ1WG9xTVhpamMtVDRvRTBRUWNmUnRaUG9sRG1meGtYZHlHeW91akh2Ym1QLVdvSXg5S0lUd1ZuZ2lTUDItLXRmd1BXN0haUTdWOXRRX1FlRVl5eGJtOFVFdDJNNmhKc18wcC1oVTNQSDV4dnp0S3JFNlVjY0R0TGxWbEFtTHhyWmo3SWpwQXMySlhpYmJPRTVpeS0?oc=5\" target=\"_blank\">España ya tiene el primer ERE de una empresa justificado por la IA como sustituta de los trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xataka</font>",
+    "titulo": "El ERE de Davante-Master D afectará a 99 trabajadores en Zaragoza y 132 en el resto del país - heraldo.es",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUtfQWNuVUhZb3R3M2hnTHNYU2pYcjFBbWxqeTU5NFNQRkd4bFR4RjdWUWVEWnBMSHhGcWs5NmN0cWpYeFJQajI4QktxSVl3VnNDVC1YWk8xV1BWT1RCWGhXazkyaUtfVEZBbHp1Wm9sRmNoVHJrU3dZaEwwbGRGWjNnWHk2VWtJOWx2T1FKTkFjYlFfRU9zN1hzcGZEWTNKQ0JzcWpZcDFnSGg3V0w0a1pZVTZVSWs?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUtfQWNuVUhZb3R3M2hnTHNYU2pYcjFBbWxqeTU5NFNQRkd4bFR4RjdWUWVEWnBMSHhGcWs5NmN0cWpYeFJQajI4QktxSVl3VnNDVC1YWk8xV1BWT1RCWGhXazkyaUtfVEZBbHp1Wm9sRmNoVHJrU3dZaEwwbGRGWjNnWHk2VWtJOWx2T1FKTkFjYlFfRU9zN1hzcGZEWTNKQ0JzcWpZcDFnSGg3V0w0a1pZVTZVSWs?oc=5\" target=\"_blank\">El ERE de Davante-Master D afectará a 99 trabajadores en Zaragoza y 132 en el resto del país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-10-29T07:00:00Z",
+    "fecha": "2026-11-04T08:00:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERE",
-    "ubicacion": "Nacional"
+    "ubicacion": "Zaragoza"
   },
   {
     "titulo": "Moeve negocia un ERE 'exprés' para los 100 trabajadores de Argelia tras vender todos sus pozos en el país - El Mundo",
@@ -444,15 +432,15 @@ const window_leads_data = [
     "ubicacion": "Argelia"
   },
   {
-    "titulo": "CaixaBank, condenada por vulnerar el derecho a la igualdad y no discriminación por razón de edad de los trabajadores en un ERE - Economist & Jurist",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjRpeHFPQ3dyT1luRnlaMzhJUlJmT0FNVmZQaXhqbXRxUDRlOHBnSHlYakt0azI3dmtYQ1ZnejI3bHl2UHh1cU9VX24telJhdlZlZHNhc0tfeGk4bldBbWNDMnY2bmdVYVNELXdLZEdwTG1TZ0VZRW5rV2hPUHVkcXNuTHRRbFF3eC1LWVZJTGtVQ1l1dTM5YjVOMHVRTEttbklNTHJ2NmZJNHhLUDlvWjYwZlZPZW5Vc3VZbFp5cDhjdU9TczltLVhvOG9VWVRncWtTcEtiTWZYdEFkVy02THkyVEpCQlhQWXdwbmhtY2UwNEQwWlQzUjVqdUhUWW9wd29CN3VnTXc0cjhjM2k4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjRpeHFPQ3dyT1luRnlaMzhJUlJmT0FNVmZQaXhqbXRxUDRlOHBnSHlYakt0azI3dmtYQ1ZnejI3bHl2UHh1cU9VX24telJhdlZlZHNhc0tfeGk4bldBbWNDMnY2bmdVYVNELXdLZEdwTG1TZ0VZRW5rV2hPUHVkcXNuTHRRbFF3eC1LWVZJTGtVQ1l1dTM5YjVOMHVRTEttbklNTHJ2NmZJNHhLUDlvWjYwZlZPZW5Vc3VZbFp5cDhjdU9TczltLVhvOG9VWVRncWtTcEtiTWZYdEFkVy02THkyVEpCQlhQWXdwbmhtY2UwNEQwWlQzUjVqdUhUWW9wd29CN3VnTXc0cjhjM2k4?oc=5\" target=\"_blank\">CaixaBank, condenada por vulnerar el derecho a la igualdad y no discriminación por razón de edad de los trabajadores en un ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economist & Jurist</font>",
+    "titulo": "Despido colectivo de hecho: no solo cuentan los despidos - Cuatrecasas",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEtRaVlkVFdlUTJPRXVGcWluNERqcVBxWHpkVUdTdl9MMkdjYXd2ZmJaN3I1bVVpZzI3cGlYR0xXZlQtMURDMVFmYm5qaDVkY3F2cEtpbkpxY01FNmUxcmVFclAzY01SMGY4NG85eVV5TkEwMjF1WUZsNkFVaEhjRg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEtRaVlkVFdlUTJPRXVGcWluNERqcVBxWHpkVUdTdl9MMkdjYXd2ZmJaN3I1bVVpZzI3cGlYR0xXZlQtMURDMVFmYm5qaDVkY3F2cEtpbkpxY01FNmUxcmVFclAzY01SMGY4NG85eVV5TkEwMjF1WUZsNkFVaEhjRg?oc=5\" target=\"_blank\">Despido colectivo de hecho: no solo cuentan los despidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cuatrecasas</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-08T08:00:00Z",
+    "fecha": "2026-11-05T08:54:00Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "ERE",
+    "empresa": "Desconocida",
     "ubicacion": "Nacional"
   },
   {
@@ -480,28 +468,16 @@ const window_leads_data = [
     "ubicacion": "Nacional"
   },
   {
-    "titulo": "Despido colectivo de hecho: no solo cuentan los despidos - Cuatrecasas",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEtRaVlkVFdlUTJPRXVGcWluNERqcVBxWHpkVUdTdl9MMkdjYXd2ZmJaN3I1bVVpZzI3cGlYR0xXZlQtMURDMVFmYm5qaDVkY3F2cEtpbkpxY01FNmUxcmVFclAzY01SMGY4NG85eVV5TkEwMjF1WUZsNkFVaEhjRg?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEtRaVlkVFdlUTJPRXVGcWluNERqcVBxWHpkVUdTdl9MMkdjYXd2ZmJaN3I1bVVpZzI3cGlYR0xXZlQtMURDMVFmYm5qaDVkY3F2cEtpbkpxY01FNmUxcmVFclAzY01SMGY4NG85eVV5TkEwMjF1WUZsNkFVaEhjRg?oc=5\" target=\"_blank\">Despido colectivo de hecho: no solo cuentan los despidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cuatrecasas</font>",
+    "titulo": "Una de las fábricas más grandes de León plantea un ERTE a 215 trabajadores - Digital de León",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1VzM3BDc2lhRThNT05NT0FZZ201UG5wTC1SQ2F1U1Z3RmQyc2YxVTUxYlotREFmeUFuUkpCSWNMTDBQNFB2T1MxWHJyR21pMkNkQ3h5TnlYZGw4TW1JSWEtUXoxbG03Mk5SbHJKNDlOWG9ZNXZ2Sm9WQnpmU2Fxb2JNbXhSSUd0OTM0Smc1cmtLajlXUjF4aTRxRXBCeDkzNVBCaGE1QnJjTWRRSzVjTXp1elo5c2kzdXE3QkM4Tkg5ejNkZ2d1b3J6bVNnYWfSAdQBQVVfeXFMUGxtWDQ5MDFlVi1KRE81NkJFV3JxdUw4blI3TVdya1RjSTFvdVZReFFiMzVFa0F2TzFIUE56Q0x0Z0ZJTG1xOS00VDE5VUJRLWxoM0J5WTlUMVQtTlhxeHRZSUtXbWMwTlBBQTM2eGd4QmpsRkFxMzlhRXh3bHRYQndGd0RkVGpKUFZ6c1lvaW4tRnVCRnFoN3ZEQU5VM3o3M3I2SEF2Y0gxYXA5alhlOEliRU5vWmFSZzVBRDdybTVSc2R6TkJiZ0JLZklHckpkT1J4RzM?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1VzM3BDc2lhRThNT05NT0FZZ201UG5wTC1SQ2F1U1Z3RmQyc2YxVTUxYlotREFmeUFuUkpCSWNMTDBQNFB2T1MxWHJyR21pMkNkQ3h5TnlYZGw4TW1JSWEtUXoxbG03Mk5SbHJKNDlOWG9ZNXZ2Sm9WQnpmU2Fxb2JNbXhSSUd0OTM0Smc1cmtLajlXUjF4aTRxRXBCeDkzNVBCaGE1QnJjTWRRSzVjTXp1elo5c2kzdXE3QkM4Tkg5ejNkZ2d1b3J6bVNnYWfSAdQBQVVfeXFMUGxtWDQ5MDFlVi1KRE81NkJFV3JxdUw4blI3TVdya1RjSTFvdVZReFFiMzVFa0F2TzFIUE56Q0x0Z0ZJTG1xOS00VDE5VUJRLWxoM0J5WTlUMVQtTlhxeHRZSUtXbWMwTlBBQTM2eGd4QmpsRkFxMzlhRXh3bHRYQndGd0RkVGpKUFZ6c1lvaW4tRnVCRnFoN3ZEQU5VM3o3M3I2SEF2Y0gxYXA5alhlOEliRU5vWmFSZzVBRDdybTVSc2R6TkJiZ0JLZklHckpkT1J4RzM?oc=5\" target=\"_blank\">Una de las fábricas más grandes de León plantea un ERTE a 215 trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital de León</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-05T08:54:00Z",
+    "fecha": "2026-11-06T06:23:24Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
-    "empresa": "Desconocida",
-    "ubicacion": "Nacional"
-  },
-  {
-    "titulo": "Los despidos en Dow se reducen «sustancialmente» tras alcanzar un preacuerdo en el ERE - Diari de Tarragona",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTh2NmIzcnk5OGtfZUxjUG9icHBaeVNQcnN0OXJEbnU1WUxWM3ZhaXNwREtIeTJaR0xFRmUwWDZpWTBNWGVtNEJvSXFqMFRhdGM2aVZ3SzJRQXJaWlBfNHFLSDJPeTRhVUE2Zml6X0R0Q1NVOWlmUEpwaGxHc04wbkpWbjJ1bjZNRXpCRloxRHppemtzZ2FOczFYQWUyQl9aYTBXeUxlVjVNRTI3U2wzTEVpOUbSAboBQVVfeXFMUEZkMmMxR3VSNmN6eU5RNVB3YUZhQUR0N0YzUFA1R3lPT1BfUDZhMUE2MElwMVQ1Rk5TLWZIV05zSUdsUHNjNDh5Mkw4ZDRBOFNxOWhaeTJWaXZfcFpsSXFxQnVPNDZHQ2Z3eV8xcTYxV2t5clV6OGQ5TUlUUllsbWloWlhYSmJPYjNyQ0NFT0EzZHJXMmkyNG9qdDJGVF9DNXlCOVh6dHViSmgxUTVZZFlJc24yc0RVYkxn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTh2NmIzcnk5OGtfZUxjUG9icHBaeVNQcnN0OXJEbnU1WUxWM3ZhaXNwREtIeTJaR0xFRmUwWDZpWTBNWGVtNEJvSXFqMFRhdGM2aVZ3SzJRQXJaWlBfNHFLSDJPeTRhVUE2Zml6X0R0Q1NVOWlmUEpwaGxHc04wbkpWbjJ1bjZNRXpCRloxRHppemtzZ2FOczFYQWUyQl9aYTBXeUxlVjVNRTI3U2wzTEVpOUbSAboBQVVfeXFMUEZkMmMxR3VSNmN6eU5RNVB3YUZhQUR0N0YzUFA1R3lPT1BfUDZhMUE2MElwMVQ1Rk5TLWZIV05zSUdsUHNjNDh5Mkw4ZDRBOFNxOWhaeTJWaXZfcFpsSXFxQnVPNDZHQ2Z3eV8xcTYxV2t5clV6OGQ5TUlUUllsbWloWlhYSmJPYjNyQ0NFT0EzZHJXMmkyNG9qdDJGVF9DNXlCOVh6dHViSmgxUTVZZFlJc24yc0RVYkxn?oc=5\" target=\"_blank\">Los despidos en Dow se reducen «sustancialmente» tras alcanzar un preacuerdo en el ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
-    "impacto": "N/A",
-    "riesgos": "N/A",
-    "fecha": "2026-11-09T16:41:59Z",
-    "fuente": "Alertas de Reestructuración",
-    "categoria": "Reestructuracion",
-    "empresa": "ERE",
-    "ubicacion": "Diari de Tarragona"
+    "empresa": "ERTE",
+    "ubicacion": "León"
   },
   {
     "titulo": "Administrador concursal de Construdeco y plantilla negocian un ERE que supondría unos 20 despidos - La Voz de Galicia",
@@ -528,12 +504,36 @@ const window_leads_data = [
     "ubicacion": "Gobierno"
   },
   {
-    "titulo": "Freixenet entró en pérdidas en 2025 por la sequía y el ERE - Expansión",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmtDbE9uY2JGcU5BQXpOT2JGZHE2MDNWREY3T0pjVFUxaGZMd3VCcUVBWHZ1ZHRrOEJ0cGx4bnMxZkxJX245OWowWE8xUG1PWjRNSG1URWZnendJcFgxR3lmUjZ6eHhpazJXQzJ6bEhxN2VjNnR1Zy16ZXdxRXJNWmtRNU5IUHJLS21lZ3dPZTNCNUZfLXBv0gGXAUFVX3lxTE0yMnQ5Zjl0LTU2YXJRWjJfeEU3cFlaTmtXZ1IzNDg3MDdaakNWMGVnVXFkejd5bnVFemR3cEFzaTVBVDhEYmZwdmVlZGNEOFF0ZGpNTVEzdHRkYTFkTUZZb1poN2V6ODVDQjBTbm8yanpwNUxXVFUzSTJpY01WalNLQjBneVh2aWpGOG1kS01Zemh0SjB4YmM?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmtDbE9uY2JGcU5BQXpOT2JGZHE2MDNWREY3T0pjVFUxaGZMd3VCcUVBWHZ1ZHRrOEJ0cGx4bnMxZkxJX245OWowWE8xUG1PWjRNSG1URWZnendJcFgxR3lmUjZ6eHhpazJXQzJ6bEhxN2VjNnR1Zy16ZXdxRXJNWmtRNU5IUHJLS21lZ3dPZTNCNUZfLXBv0gGXAUFVX3lxTE0yMnQ5Zjl0LTU2YXJRWjJfeEU3cFlaTmtXZ1IzNDg3MDdaakNWMGVnVXFkejd5bnVFemR3cEFzaTVBVDhEYmZwdmVlZGNEOFF0ZGpNTVEzdHRkYTFkTUZZb1poN2V6ODVDQjBTbm8yanpwNUxXVFUzSTJpY01WalNLQjBneVh2aWpGOG1kS01Zemh0SjB4YmM?oc=5\" target=\"_blank\">Freixenet entró en pérdidas en 2025 por la sequía y el ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Expansión</font>",
+    "titulo": "Los despidos en Dow se reducen «sustancialmente» tras alcanzar un preacuerdo en el ERE - Diari de Tarragona",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTh2NmIzcnk5OGtfZUxjUG9icHBaeVNQcnN0OXJEbnU1WUxWM3ZhaXNwREtIeTJaR0xFRmUwWDZpWTBNWGVtNEJvSXFqMFRhdGM2aVZ3SzJRQXJaWlBfNHFLSDJPeTRhVUE2Zml6X0R0Q1NVOWlmUEpwaGxHc04wbkpWbjJ1bjZNRXpCRloxRHppemtzZ2FOczFYQWUyQl9aYTBXeUxlVjVNRTI3U2wzTEVpOUbSAboBQVVfeXFMUEZkMmMxR3VSNmN6eU5RNVB3YUZhQUR0N0YzUFA1R3lPT1BfUDZhMUE2MElwMVQ1Rk5TLWZIV05zSUdsUHNjNDh5Mkw4ZDRBOFNxOWhaeTJWaXZfcFpsSXFxQnVPNDZHQ2Z3eV8xcTYxV2t5clV6OGQ5TUlUUllsbWloWlhYSmJPYjNyQ0NFT0EzZHJXMmkyNG9qdDJGVF9DNXlCOVh6dHViSmgxUTVZZFlJc24yc0RVYkxn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTh2NmIzcnk5OGtfZUxjUG9icHBaeVNQcnN0OXJEbnU1WUxWM3ZhaXNwREtIeTJaR0xFRmUwWDZpWTBNWGVtNEJvSXFqMFRhdGM2aVZ3SzJRQXJaWlBfNHFLSDJPeTRhVUE2Zml6X0R0Q1NVOWlmUEpwaGxHc04wbkpWbjJ1bjZNRXpCRloxRHppemtzZ2FOczFYQWUyQl9aYTBXeUxlVjVNRTI3U2wzTEVpOUbSAboBQVVfeXFMUEZkMmMxR3VSNmN6eU5RNVB3YUZhQUR0N0YzUFA1R3lPT1BfUDZhMUE2MElwMVQ1Rk5TLWZIV05zSUdsUHNjNDh5Mkw4ZDRBOFNxOWhaeTJWaXZfcFpsSXFxQnVPNDZHQ2Z3eV8xcTYxV2t5clV6OGQ5TUlUUllsbWloWlhYSmJPYjNyQ0NFT0EzZHJXMmkyNG9qdDJGVF9DNXlCOVh6dHViSmgxUTVZZFlJc24yc0RVYkxn?oc=5\" target=\"_blank\">Los despidos en Dow se reducen «sustancialmente» tras alcanzar un preacuerdo en el ERE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
     "impacto": "N/A",
     "riesgos": "N/A",
-    "fecha": "2026-11-02T09:34:29Z",
+    "fecha": "2026-11-09T16:41:59Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "ERE",
+    "ubicacion": "Diari de Tarragona"
+  },
+  {
+    "titulo": "Presentación de libro: \"Joateko ere aske\" (Koldo Anasagasti, Xabier Euzkitze) - Kulturklik",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHhmUXBGVEdBV3VHdlZaRVJkb0xpR2hPMTZHLUxIY2NqNjM4Q0tnTmZDUDV0WWFlSmpHc2FQZ184OVdLV3BHNTJGeWhfdmtSWGpZUmlleG9fLVlMQ0xMcFlyWnlYSzN6Vk5mWEZkSFV5TU9mbl9ySjBCMjZEM0stYk1GZ2k3LXh4czNhSUdNTVlkRG4yTzRvZjFZYXZETkExMzh4MkVHal9veDBOLXc4TXVWRk5FTzh5RU1XVFNZS2J2Y1lBbWgzeDY4UjlkcExKM0NmREpINEp6VHhZVEJaTG93?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHhmUXBGVEdBV3VHdlZaRVJkb0xpR2hPMTZHLUxIY2NqNjM4Q0tnTmZDUDV0WWFlSmpHc2FQZ184OVdLV3BHNTJGeWhfdmtSWGpZUmlleG9fLVlMQ0xMcFlyWnlYSzN6Vk5mWEZkSFV5TU9mbl9ySjBCMjZEM0stYk1GZ2k3LXh4czNhSUdNTVlkRG4yTzRvZjFZYXZETkExMzh4MkVHal9veDBOLXc4TXVWRk5FTzh5RU1XVFNZS2J2Y1lBbWgzeDY4UjlkcExKM0NmREpINEp6VHhZVEJaTG93?oc=5\" target=\"_blank\">Presentación de libro: \"Joateko ere aske\" (Koldo Anasagasti, Xabier Euzkitze)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kulturklik</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-11T22:20:25Z",
+    "fuente": "Alertas de Reestructuración",
+    "categoria": "Reestructuracion",
+    "empresa": "Desconocida",
+    "ubicacion": "Kulturklik"
+  },
+  {
+    "titulo": "Uno de cada tres trabajadores afectados por un ERE en A Coruña lo fue por un despido colectivo - La Opinión A Coruña",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX3pmQm9QLVRkbnpUX0poVjR4Rkhyd0JSc0ZMRnFVTlh5SFM0bzRJVTNFLU5kZTluS2R5c0V1MlRld3l4aGJ1RW1aRzNHNjJveGpyNVJXTzBWcXNzeTdfOF9PWHlkbmstUWNlckl4RGtMNXFpR0dBOGxzSkx2WGtqaUZVXzNxTThLZGk2czZublpKVUVsWDRFMzJVaFV2QnlMV00teFl5U3BoNnFm?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQX3pmQm9QLVRkbnpUX0poVjR4Rkhyd0JSc0ZMRnFVTlh5SFM0bzRJVTNFLU5kZTluS2R5c0V1MlRld3l4aGJ1RW1aRzNHNjJveGpyNVJXTzBWcXNzeTdfOF9PWHlkbmstUWNlckl4RGtMNXFpR0dBOGxzSkx2WGtqaUZVXzNxTThLZGk2czZublpKVUVsWDRFMzJVaFV2QnlMV00teFl5U3BoNnFm?oc=5\" target=\"_blank\">Uno de cada tres trabajadores afectados por un ERE en A Coruña lo fue por un despido colectivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Opinión A Coruña</font>",
+    "impacto": "N/A",
+    "riesgos": "N/A",
+    "fecha": "2026-11-07T04:59:54Z",
     "fuente": "Alertas de Reestructuración",
     "categoria": "Reestructuracion",
     "empresa": "ERE",
